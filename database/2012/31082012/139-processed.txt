@@ -1,0 +1,22 @@
+Application number  =>  3005/CHENP/2011 A 
+
+Date of filing of application number  =>  03/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD AND DEVICE FOR REDUCING ELECTROMAGNETIC EMISSIONS DURING SWITCHING-ON OF POWER SEMICONDUCTOR 
+
+Name of applicant  =>  1)ROBERT BOSCH GMBH 
+
+Name of inventor  =>  1)HEIMBURGER, STEFAN 
+
+International Classification  =>  H03K17/16, H03K 17/567 
+
+Priority Doc No  =>  10 2008 042 895.7 
+
+International Application Number  =>  PCT/EP2009/060709 
+
+International Publication Number  =>  WO 2010/043437 A1 
+
+Abstract  =>  The present subject matter relates to a method for reducing electromagnetic emissions during a switching-on operation of a power semiconductor (16) by means of a current pilot controller (25). The power semiconductor (16) controls a load (12) in such a way that after the switching-on operation, a load current (IL, ID,3, ID,4) flows through the load (12) and the power semiconductor (16). Further, a saturation value (ID.SAT.3, ID SA I I) of the load current (II, ID,3, ID,4) defines an operating point of the power semiconductor (16). Different operating points of the power semiconductor (16) result for different saturation values (ID,SAT,3, ID,SAT,4 ) of the load current (IL, ID,3, ID,4)- According to the present subject matter a control current (Is , IG,3, IG,4) predetermined by the current pilot controller (25) is divided in substantially at least two consecutive half-waves (44, 46). Further, for an operating point of the power semiconductor (16), which corresponds to a highest saturation value (ID,sat,3) of the load current (ID,3), A further half-wave (46) follows a first half-wave (44) when the load current (II, ID,3) has approximately reached a maximum value (ID,max,3) thereof. 
+

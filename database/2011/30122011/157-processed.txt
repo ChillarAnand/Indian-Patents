@@ -1,0 +1,22 @@
+Application number  =>  1062/MUMNP/2011 A 
+
+Date of filing of application number  =>  25/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  RADIO COMMUNICATION BASE STATION APPARATUS AND COMMUNICATIO METHOD 
+
+Name of applicant  =>  1)PANASONIC CORPORATION 
+
+Name of inventor  =>  1)Kenichi MIYOSHI 2)Akihiko NISHIO 3)Daichi IMAMURA 4)Hidetoshi SUZUKI 
+
+International Classification  =>  H04J 11/00,H04B 7/26 
+
+Priority Doc No  =>  2006-012436 
+
+International Application Number  =>  PCT/JP2007/050830 
+
+International Publication Number  =>  WO/2007/083762 
+
+Abstract  =>  Provided is a base station capable of performing cell search of all mobile stations having different communicable frequency band widths in a scalable band width communication system to which a multi-carrier communication method such as the OFDM method is applied. The base station includes: a modulation unit (102) for modulating SCH data after being encoded; a sub carrier setting unit (105) for setting one of the sub carriers to a sub carrier (SCH sub carrier) constituting the OFDM symbol for SCH data transmission; and an IFFT unit (106) for mapping the SCH data to the sub carrier set by the sub carrier setting unit (105) among the sub carriers and performing IFFT to generate an OFDM symbol. The sub carrier setting unit (105) sets one of the sub carriers which has a frequency of a common multiple between the sub carrier interval and the cell search interval as an SCH sub carrier. 
+

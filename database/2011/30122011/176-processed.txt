@@ -1,0 +1,22 @@
+Application number  =>  1095/MUMNP/2011 A 
+
+Date of filing of application number  =>  27/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  MULTIPLE-JUNCTION PHOTOELECTRIC DEVICE AND ITS PRODUCTION PROCESS 
+
+Name of applicant  =>  1)UNIVERSIT‰ DE NEUCH‚TEL 
+
+Name of inventor  =>  1)S–DERSTR–M Thomas 2)HAUG Franz-Joseph 3)NIQUILLE Xavier 
+
+International Classification  =>  H01L 31/0236 
+
+Priority Doc No  =>  08169423.4 
+
+International Application Number  =>  PCT/EP2009/065357 
+
+International Publication Number  =>  WO/2010/057901 
+
+Abstract  =>  The present invention relates to a multiple-junction photoelectric device (1) comprising a substrate (2) on which a first conducting layer (3) is deposited, at least two elementary photoelectric devices (4, 6) of n-i-p or n-p configuration, on which a second conducting layer (7) is deposited, and at least one intermediate layer (5) provided between two adjacent elementary photoelectric devices (4, 6). According to the invention the intermediate layer (5) has, on the incoming light side, an top face (10) and, on the other side, a bottom face (11), said bottom face (11) having a peak to valley roughness greater than 150 nm, and said top (10) and bottom (11) faces having respectively a surface morphology comprising inclined elementary surfaces such that α90bottom is smaller than α90top by at least 3°, preferably 6°, more preferably 10°, and even more preferably 15°; where α90top is the angle for which 90% of the elementary surfaces of the top face (10) of the intermediate layer (5) have an inclination equal to or less than this angle, and α90bottom is the angle for which 90% of the elementary surfaces of the surface of the bottom face (11) of the intermediate layer (5) have an inclination equal to or less than this angle. 
+

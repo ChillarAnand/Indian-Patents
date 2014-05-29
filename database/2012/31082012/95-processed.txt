@@ -1,0 +1,22 @@
+Application number  =>  2940/CHENP/2011 A 
+
+Date of filing of application number  =>  29/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  RELAY TECHNIQUES SUITABLE FOR USER EQUIPMENT IN DOWNLINK 
+
+Name of applicant  =>  1)NORTEL NETWORKS LIMITED 
+
+Name of inventor  =>  1)HUA XU 2)JIANGLEI MA 3)HANG ZHANG 4)MING JIA 5)PEIYING ZHU 6)LAI KING TEE 7)JUN LI 
+
+International Classification  =>  H04H20/71 
+
+Priority Doc No  =>  61/109,679 
+
+International Application Number  =>  PCT/US2009/005914 
+
+International Publication Number  =>  WO 2010/051033 A1 
+
+Abstract  =>  A wireless radio communication system for communicating packet transmissions from a base station to a mobile unit, comprising: a relay station positioned between the base station and the mobile unit, said relay station having a relaying function in a multihop packet transmission from the base station to the mobile unit and the relay station configured to perform communication based on a wireless packet transmission protocol, wherein said relay station receives an information packet transmission from the base station, said information packet transmission received by the relay station has a control region, a data region, and a common reference signal for use in decoding the information packet transmission, said relay station transmitting the control signal and the common reference signal in the control region of a multihop packet transmission from the relay station to the mobile unit so the mobile unit can conduct channel measurement and estimation analysis of packet transmissions received from the relay station. 
+

@@ -1,0 +1,49 @@
+ 
+The Patent Office Journal 31/08/2012 
+13457
+(12) PATENT APPLICATION PUBLICATION (21) Application No.5357/DELNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :12/07/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : SPLICING SYSTEM  
+  
+(51) International classification  :H04N 7/24  
+(31) Priority Document No  :61/216,071  
+(32) Priority Date  :13/05/2009 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/IB2010/051528
+:08/04/2008 
+(87) International Publication No  :WO 2010/131128  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)NDS LIMITED 
+      Address of Applicant :ONE LONDON ROAD, STAINES 
+MIDDLESEX TW18 4EX UNITED KINGDOM. U.K. 
+(72)Name of Inventor : 
+   1)SUNDY LEN 
+   2)MIRSKY YAIR 
+   3)ZENTNER ARIEL 
+   4)WEINBACH YAEL  
+(57) Abstract : 
+A system for switching from a first (14) to a second (16) audio/video sequence, the second sequence (16) including a splice point time 
+stamp (12), the system including a disk (18) to store the first sequence (14), a receiver to receive the second sequence as live 
+audio/video, a demultiplexer arrangement (24) to demultiplex at least some of the first sequence (14) from the disk (18) and the 
+second sequence (16) from the receiver, demultiplex the first sequence fast enough so that the demultiplexing of the second sequence 
+(16) can commence a number of frames prior to the splice point time stamp (12), a buffer (28,30)to receive for storage from the 
+demultiplexer arrangement (24), the demultiplexed audio/video of the first sequence (14) and at least part of the second sequence (16), 
+and a decoder (34,36) to decode the demultiplexed audio/video stored in the buffer (28,30) including decoding the first sequence (14) 
+and then the second sequence (16) from the splice point time stamp (12). Related apparatus and methods are also described. 
+  
+  
+No. of Pages : 52 No. of Claims : 12 

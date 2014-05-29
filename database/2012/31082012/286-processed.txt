@@ -1,0 +1,22 @@
+Application number  =>  4428/CHENP/2011 A 
+
+Date of filing of application number  =>  22/06/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  ULTRASONIC TRANSDUCER FOR USE IN A FLUID MEDIUM 
+
+Name of applicant  =>  1)ROBERT BOSCH GMBH 
+
+Name of inventor  =>  1)MUELLER, ROLAND 2)HUEFTLE, GERHARD 3)HORSTBRINK, MICHAEL 4)LANG, TOBIAS 5)RADWAN, SAMI 6)KUENZL, BERND 7)WANJA, ROLAND 
+
+International Classification  =>  G10K9/22 
+
+Priority Doc No  =>  10 2008 055 126.0 
+
+International Application Number  =>  PCT/EP2009/065290 
+
+International Publication Number  =>  WO 2010/072470 A2 
+
+Abstract  =>  The invention relates to an ultrasonic transducer (110) for use in a fluid medium. The ultrasonic transducer (110) comprises at least one piezoelectric transducer element (138) and at least one adapting body (140) for facilitating oscillation injection between the piezoelectric transducer element (138) and the fluid medium. The ultrasonic transducer (110) also comprises a housing (112), wherein the piezoelectric transducer element (138) is inserted into the housing (112). The housing (112) has at least one opening (122) which faces the fluid medium, wherein the adapting body (140) is at least partially inserted into the opening (122). The ultrasonic transducer (110) also has at least one sealing element (146) which seals at least one intermediate space (158) between the adapting body (140) and the housing (112) in such a manner that an internal space (128) of the housing (112) is at least largely sealed with respect to the fluid medium. 
+

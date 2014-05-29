@@ -1,0 +1,48 @@
+ 
+The Patent Office Journal 31/08/2012 
+13636
+(12) PATENT APPLICATION PUBLICATION (21) Application No.546/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :05/03/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : PHARMACEUTICAL COMPOSITION COMPRISING TRANSIENTLY SURVIVING CTL  
+  
+(51) International classification  :A61K 35/28  
+(31) Priority Document No  :2009-188251  
+(32) Priority Date  :17/08/2009 
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date 
+:PCT/JP2010/063181
+:04/08/2010 
+(87) International Publication No  :WO/2011/021503  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)THE UNIVERSITY OF TOKYO 
+      Address of Applicant :3-1, HONGO 7-CHOME, BUNKYO-
+KU, TOKYO 1138654, JAPAN. 
+(72)Name of Inventor : 
+   1)YAMASHITA, NAOHIDE 
+   2)NAGAYAMA, HITOMI 
+   3)FUJITA, SHIGEHARU  
+(57) Abstract : 
+Disclosed are transplantation cells for an immunotherapy, which are applicable to a wider variety of patients compared to 
+conventional transplantation cells for immunotherapies, and which can survive transiently so that severe GVH disease cannot be 
+induced. Specifically disclosed is a pharmaceutical composition containing cells derived from human hematopoietic stem cells. In the 
+pharmaceutical composition, the genetic locus of at least one human HLA class I molecule in the cells contains at least one antigen for 
+which the type of matching of the cell is identical to that of a patient. The genetic locus of each of the human HLA class I and II 
+molecules in the cells contains at least one antigen for which the type of matching of the cell is not identical to that of a patient, and 
+the cells derived from the hematopoietic stem cells do not cause acute GVH disease having a severity of level III or IV in the body of 
+a patient even when the cells survive in the patient permanently. 
+  
+  
+No. of Pages : 41 No. of Claims : 12 

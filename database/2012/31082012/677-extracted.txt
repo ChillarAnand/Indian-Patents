@@ -1,0 +1,46 @@
+ 
+The Patent Office Journal 31/08/2012 
+13736
+(12) PATENT APPLICATION PUBLICATION (21) Application No.759/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :26/03/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : A SUPERCHARGER WITH TWO INTERMESHING ROTORS AND DISC CLUTCH  
+  
+(51) International classification  :F02B 39/12  
+(31) Priority Document No  :0950723.7  
+(32) Priority Date  :02/10/2009 
+(33) Name of priority country  :Sweden 
+(86) International Application No 
+        Filing Date 
+:PCT/SE2010/051037
+:28/09/2010 
+(87) International Publication No  :WO/2011/040869  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)SVENSKA ROTOR MASKINER AB 
+      Address of Applicant :BOX 15085, S-104 65 STOCKHOLM 
+SWEDEN.  
+(72)Name of Inventor : 
+   1)PETTERSSON, ROBERT 
+   2)HAGGLUND, HENRIK  
+(57) Abstract : 
+The invention concerns a supercharger that has two rotors engaging into each other and is provided with a disc clutch. The disc clutch 
+has driving (9) and driven (12) clutches connected with a drive shaft (7) and with one of the rotors, respectively. Furthermore, there is 
+an axially displaceable pressing body (15) as well as actuation device (13) for the same and a deactuation spring (17). According to 
+the invention, the disc clutch comprises a stop device (18, 19) that limits the axial movement of the pressing body (15) in the 
+deactuation direction. The stop device (18, 19) consists of an impact means (18) on the pressing body (15) or on the driven clutch 
+holder (11) and a stop means (19) on the other component. The impact means (18) is axially fixed while the stop means (19) is 
+attached by a friction joint. 
+  
+  
+No. of Pages : 27 No. of Claims : 11 

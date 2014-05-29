@@ -1,0 +1,46 @@
+The Patent Office Journal 31/12/2010 
+ 
+5322
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1490/MUM/2009 A 
+(19) INDIA  
+(22) Date of filing of Application :23/06/2009 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : SYSTEM FOR APPLICATION UPGRADE  
+  
+(51) International classification  :G06F15/00; G06F17/30 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)TATA CONSULTANCY SERVICES LIMITED 
+      Address of Applicant :NIRMAL BUILDING, 9TH FLOOR, 
+NARIMAN POINT, MUMBAI-400021, MAHARASHTRA, 
+INDIA.   
+(72)Name of Inventor : 
+   1)MANSHARAMANI RAJESH 
+   2)RAVAL MEHUL 
+   3)NAMBIAR MANOJ  
+(57) Abstract : 
+A system and method for handling failures, occurring at any stage in the process of operating a plurality of stages in the process of 
+automatically upgrading at least one pre-installed application is disclosed. The system includes log generating means, error 
+recognizing means, error stage detection means, deletion means and re-initiation means. The log generating means generates a log of 
+operation of stages and error is recognized using error recognizing means. After the kind of error is identified, the stage where error 
+occurred is determined using error stage detection means and partial upgrades are deleted using deletion means and the stage is 
+initiated again using re-initiation means after removal of error. 
+  
+ 
+No. of Pages : 37 No. of Claims : 10 

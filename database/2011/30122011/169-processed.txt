@@ -1,0 +1,22 @@
+Application number  =>  1076/MUMNP/2011 A 
+
+Date of filing of application number  =>  26/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  FINANCIAL GADGETS 
+
+Name of applicant  =>  1)YODLEE INC. 
+
+Name of inventor  =>  1)CONNORS Eric 2)REED Jordan 3)HAZLEHURST Peter 4)SARKAR Suman 
+
+International Classification  =>  G06Q 20/00 
+
+Priority Doc No  =>  61/117,868 
+
+International Application Number  =>  PCT/US2009/065738 
+
+International Publication Number  =>  WO/2010/068447 
+
+Abstract  =>  Methods, computer program products, and systems, related to providing financial gadgets to users. In one implementation, a method includes receiving gadgets and receiving a notification that one or more gadgets has been certified. A web page with an interface through which users can select gadgets is generated and provided to a user computer. A user selects a gadget, and the selected gadget is run, including providing the user-specific financial information to the gadget. Content based on the output of the gadget is provided to the user. User-specific financial information can be collected, and modified by the gadget. A notification can be received that a financial institution has authorized one or more of the certified gadgets and the web page can only allow users to select authorized gadgets. 
+

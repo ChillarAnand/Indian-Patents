@@ -1,0 +1,22 @@
+Application number  =>  2898/CHENP/2011 A 
+
+Date of filing of application number  =>  28/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  DATA RECEPTION WITH INTERFERENCE CANCELLATION IN A RELAY COMMUNICATION NETWORK 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)RAVI PALANKI 2)AVNEESH AGRAWAL 
+
+International Classification  =>  H04L25/06, H04L25/06, H04L5/16 
+
+Priority Doc No  =>  12/257,258 
+
+International Application Number  =>  PCT/US2008/088331 
+
+International Publication Number  =>  WO 2010/047727 A3 
+
+Abstract  =>  Techniques for transmitting and receiving data in a relay communication network are described. Stations in the relay network may be grouped into multiple depths. Packets may be transmitted in a pipelined manner, with stations at progressively higher depth sending transmissions of a packet in successive frames. In an aspect, a station may receive data with interference cancellation. The station may obtain a received signal containing transmissions of a first packet from stations at a first depth and transmissions of a second packet from stations at a second depth. The first and second stations may be downstream and upstream stations, respectively, or may be upstream stations at different depths. The station may estimate and cancel interference due to the transmissions of the first packet from the received signal to obtain an interference canceled signal. The station may then process the interference canceled signal for the second packet. 
+

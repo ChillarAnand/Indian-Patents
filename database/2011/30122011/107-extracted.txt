@@ -1,0 +1,49 @@
+The Patent Office Journal 30/12/2011 
+ 
+25444
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2188/DELNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :24/03/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : DEVICE FOR TESTING THE MATERIAL OF TEST OBJECTS BY MEANS OF X-RAY RADIATION 
+  
+(51) International classification  :G01N 23/04  
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date 
+:PCT/EP08/008072
+:24/09/2008 
+(87) International Publication No  :WO 2010/034323 
+(61) Patent of Addition to Application Number 
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)GE SENSING & INSPECTION TECHNOLOGIES 
+GMBH 
+      Address of Applicant :ROBERT-BOSCH-STR. 3, 50354 
+HUERTH, GERMANY   
+(72)Name of Inventor : 
+   1)JAN KRAEMER 
+   2)INGO STUKE 
+   3)NICOLAS BRETZKE 
+   4)HOLGER LUX 
+   5)MICHAEL WUESTENBECKER  
+(57) Abstract : 
+A device (10) for x-ray material testing of test objects (15) includes a translational conveyor device (14) for automatically serially 
+feeding and discharging test objects (15) to or from a testing position and an x-ray device (20) comprising an x-ray source (12) for 
+irradiating a test object (15) held in the testing position on a carrier (33) and an x-ray detector (13), wherein the test object (15) and the 
+x-ray device (20) can be rotated relative to each other around an essentially vertical rotational axis R, only, during x-ray testing. 
+According to one aspect of the invention, the carrier (33) together with the test object (15) held thereon can be rotated as a whole 
+around the rotational axis R for the x-ray testing. According to a further aspect of the invention, the x-ray device (20) can be rotated as 
+a whole around the rotational axis R for the x-ray testing. The carrier (33) is a translational conveyor device for the test object.  
+  
+ 
+No. of Pages : 25 No. of Claims : 19 

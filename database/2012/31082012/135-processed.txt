@@ -1,0 +1,22 @@
+Application number  =>  3000/CHENP/2011 A 
+
+Date of filing of application number  =>  03/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  UNEQUAL MULTIPATH PROTECTION OF DIFFERENT FRAMES WITHIN A SUPERFRAME USING DIFFERENT CYCLIC PREFIX LENGTHS 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)MIGUEL GRIOT 2)PRANAV DAYAL 
+
+International Classification  =>  H04L27/26 
+
+Priority Doc No  =>  61/114,402 
+
+International Application Number  =>  PCT/US09/063807 
+
+International Publication Number  =>  WO 2010/056639 A2 
+
+Abstract  =>  Techniques for providing multipath protection of a portion of a frame classified as having a first importance level (e.g., critical) are provided. Different cyclic prefix lengths may be used, depending on whether a frame contains information deemed critical. 
+

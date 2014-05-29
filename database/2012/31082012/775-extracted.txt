@@ -1,0 +1,47 @@
+ 
+The Patent Office Journal 31/08/2012 
+13834
+(12) PATENT APPLICATION PUBLICATION (21) Application No.975/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :18/04/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : CAUGHT OBJECT DETECTION METHOD, SETTING METHOD FOR CAUGHT OBJECT 
+DETECTION DEVICE, CAUGHT OBJECT DETCETION DEVICE, AND OPEN/CLOSE CONTROL DEVICE  
+  
+(51) International classification  :E05F 15/16  
+(31) Priority Document No  :2009-248754  
+(32) Priority Date  :29/10/2009 
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date 
+:PCT/JP2010/006151
+:15/10/2010 
+(87) International Publication No  :WO/2011/052152  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)MABUCHI MOTOR CO., LTD 
+      Address of Applicant :430 MATSUHIDAI, MATSUDO 
+CITY, CHIBA 2702280, JAPAN. 
+(72)Name of Inventor : 
+   1)FUJI, SHUNPEI 
+   2)TATEGAMI, TOORU  
+(57) Abstract : 
+Disclosed is a method for detecting foreign objects caught in an opening and closing device that moves an opening and closing body 
+by driving a motor. In detection mode, foreign objects caught in the opening and closing device are detected by comparing the signal 
+changes and threshold value that are correlated with the rotating speed of the motor. In setting mode, the respective amounts of motor 
+rotation used for the opening and closing body to reach a first position and a second position, which differs from the first position, 
+from a prescribed reference position by means of driving the motor are detected; and a settings value, which was calculated on the 
+basis of the displacement between the first position and the second position of the opening and closing body and the difference 
+between the amounts of motor rotation respectively detected at the first position and the second position, is set as the threshold value. 
+  
+  
+No. of Pages : 42 No. of Claims : 9 

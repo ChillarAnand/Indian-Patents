@@ -1,0 +1,22 @@
+Application number  =>  1099/MUMNP/2011 A 
+
+Date of filing of application number  =>  30/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  MANAGING TRANSMISSION PROTOCOLS FOR GROUP COMMUNICATIONS WITHIN A WIRELESS COMMUNICATIONS NETWORK 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)SONG Bongyong 
+
+International Classification  =>  H04W 4/06,H04W 76/04 
+
+Priority Doc No  =>  12/338,720 
+
+International Application Number  =>  PCT/US2009/068809 
+
+International Publication Number  =>  WO/2010/080633 
+
+Abstract  =>  Apparatuses and methods for managing transmission protocols for group communications are disclosed. In an example, an access network receives a forward link packet having a first transmission protocol, the forward link packet associated with a given group communication session. The access network determines whether the first transmission protocol is acceptable. The access network selects a second transmission protocol, if the determining step determines the first transmission protocol is not acceptable. The access network transmits the forward link packet in accordance with the second transmission protocol (e.g., by mapping the packet between transmission protocols at the access network). 
+

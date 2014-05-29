@@ -1,0 +1,43 @@
+The Patent Office Journal 31/05/2013 12019
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1770/CHENP/2012 A
+(19) INDIA
+(22) Date of filing of Application :27/02/2012 (43) Publication Date : 31/05/2013
+(54) Title of the invention : MOBILE COMMUNICATION METHOD
+(51) International classification :H04W36/04
+(31) Priority Document No :2009-189598
+(32) Priority Date :18/08/2009
+(33) Name of priority country :Japan
+(86) International Application No
+Filing Date
+:PCT/JP2010/063603
+:11/08/2010
+(87) International Publication No :WO 2011/021547A1
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)NTT DOCOMO, INC.
+Address of Applicant :11-1, NAGATACHO 2-CHOME,
+CHIYODA-KU, TOKYO 100-6150 Japan
+(72)Name of Inventor :
+1)HAPSARI, WURI ANDARMAWANTI
+2)TAKAHASHI, HIDEAKI
+3)UMESH, ANIL
+4)IWAMURA, MIKIO
+5)ISHII, MINAMI
+6)OKAMOTO, TAKESHI
+(57) Abstract :
+(Disclosed is a mobile communication method including: a step in which an exchange station (MME) manages access information
+specifying a CSG-ID which allows access by a mobile station (UE); a step in which the ex¬change station (MME) acquires a
+combination of the CSG-ID and eNB-ID of a wireless base station (HeNB2) from a gateway device (HeNB-GW); and a step in
+which the exchange station (MME) determines whether or not access to the wireless base station (HeNB2) by the mobile station
+(UE) is possible, by referring to the access information and said combination, using the identification information of the mobile
+station (UE) and the eNB-ID of the wireless base station (HeNB2) contained in OHO required received from the wireless base
+station (eNB).
+No. of Pages : 46 No. of Claims : 2

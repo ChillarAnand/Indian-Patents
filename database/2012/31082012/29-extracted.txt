@@ -1,0 +1,48 @@
+ 
+The Patent Office Journal 31/08/2012 
+13871
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2163/CHE/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :27/06/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : COLOR IMAGE FORMING APPARATUS  
+  
+(51) International classification  :G03G15/01 
+(31) Priority Document No  :2010-149479  
+(32) Priority Date  :30/06/2010
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)CANON KABUSHIKI KAISHA 
+      Address of Applicant :30-2, SHIMOMARUKO 3-CHOME, 
+OHTA-KU, TOKYO Japan 
+(72)Name of Inventor : 
+   1)TAKEHIRO UCHIYAMA 
+   2)TAKATERU OHKUBO 
+   3)KENJI WATANABE 
+   4)KENICHI IIDA 
+   5)TOSHIAKI SAKO 
+   6)HIROSHI HAGIWARA 
+   7)HIROMITSU KUMADA  
+(57) Abstract : 
+The image forming apparatus includes process units that are closely arranged around respective photosensitive members and act on the 
+photosensitive members, a light emission section that forms an electrostatic latent image for detection on the photosensitive member 
+and a detection section that detects the electrostatic latent image passes through a position facing to the process unit and a control 
+section that performs misregistration correction control based on the detection result. It achieves to resolve a problem that is caused in 
+detection of a conventional toner image for detection by an optical sensor and to enhance usability of an image forming apparatus. 
+  
+  
+No. of Pages : 128 No. of Claims : 24 

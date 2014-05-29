@@ -1,0 +1,48 @@
+The Patent Office Journal 30/12/2011 
+ 
+25665
+(12) PATENT APPLICATION PUBLICATION (21) Application No.908/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :08/02/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : Distributed Downlink Coordinated Multi-Point (CoMP) Framework  
+  
+(51) International classification  :H04W16/10  
+(31) Priority Document No  :61/092,490  
+(32) Priority Date  :28/08/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/055238 
+:27/08/2009 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)QUALCOMM Incorporated 
+      Address of Applicant :Attn: International IP Administration  
+5775 Morehouse Drive  San Diego  California 92121-1714 USA.  
+(72)Name of Inventor : 
+   1)GOROKHOV Alexei Y. 
+   2)MALLIK Siddhartha 
+   3)BHUSHAN Naga 
+   4)BARBIERI Alan  
+(57) Abstract : 
+Systems and methodologies are described that facilitate dynamically forming clusters in a wireless communication environment. A set 
+of non-overlapping clusters can be formed dynamically over time and in a distributed manner. Each of the clusters can include a set of 
+base stations and a set of mobile devices. The clusters can be yielded based upon a set of local strategies selected by base stations 
+across the network converged upon through message passing. For example, each base station can select a particular local strategy as a 
+function of time based upon network-wide utility estimates respectively conditioned upon implementation of the particular local 
+strategy and disparate possible local strategies that can cover the corresponding base station. Moreover, operation within each of the 
+clusters can be coordinated. 
+  
+  
+No. of Pages : 83 No. of Claims : 47 

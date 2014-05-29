@@ -1,0 +1,22 @@
+Application number  =>  1293/KOL/2010 A 
+
+Date of filing of application number  =>  15/11/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  CALIBRATION SYSTEM FOR A PRESSURE-SENSITIVE CATHETER 
+
+Name of applicant  =>  1)BIOSENSE WEBSTER (ISRAEL), LTD. 
+
+Name of inventor  =>  1)ASSAF GOVARI 2)YARON EPHRATH 3)ANDRES CLAUDIO ALTMANN 
+
+International Classification  =>  G05D17/02 
+
+Priority Doc No  =>  12/646242 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A calibration apparatus includes a fixture, which is coupled to accept a probe so that a distal tip of the probe presses against a point in the fixture and produces first measurements indicative of a deformation of the distal tip relative to a distal end of the probe, in response to pressure exerted on the distal tip. A sensing device is coupled to the fixture and is configured to produce second measurements of a mechanical force exerted by the distal tip against the point. A calibration processor is configured to receive the first measurements from the probe, to receive the second measurements from the sensing device and to compute, based on the first and second measurements, one or more calibration coefficients for assessing the pressure as a function of the first measurements. 
+

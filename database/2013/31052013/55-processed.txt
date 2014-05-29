@@ -1,0 +1,22 @@
+Application number  =>  2379/CHENP/2012 A 
+
+Date of filing of application number  =>  15/03/2012 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  MULTI-FACTOR PROMOTIONAL OFFER SUGGESTION 
+
+Name of applicant  =>  1)INTUIT INC. 
+
+Name of inventor  =>  1)NELDURG, VENKATESH, BASAPPA 2)NABI, AYAZ 3)ROSS, BEN 4)BOSE, ABHIJIT, S. 5)K, MANOJ 6)KUMAR, MANISH 7)GUPTA, HIMANSHU 8)SHAH, MANISH, R. 9)DUTT, BALA 10)NAVADA, HARSHA, K. 
+
+International Classification  =>  G06Q30/00 
+
+Priority Doc No  =>  12/750,633 
+
+International Application Number  =>  PCT/US2010/029440 
+
+International Publication Number  =>  WO 2011/123118 A1 
+
+Abstract  =>  The invention relates to a method to send a promotional offer from a business entity. The method steps include obtaining a profile of the business entity from a financial management application (FMA) executing on a central processing unit (CPU) and configured to manage operations of the business entity, analyzing a plurality of mes¬sages from a message source based on a predetermined criterion to identify a keyword, qualifying the keyword to generate a qualified key¬word with a keyword rating, wherein the keyword rating represents how relevant the keyword is to the business entity based on the profile of the business entity, searching for the qualified keyword in the promotional offer among a plurality of promotional offers in a library to generate a match between the qualified keyword and the promotional offer, adjusting a score of the promotional offer, in response to generating the match, based on the keyword rating, and sending the promotional offer to a consumer based on the score. 
+

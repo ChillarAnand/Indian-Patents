@@ -1,0 +1,22 @@
+Application number  =>  3106/CHENP/2011 A 
+
+Date of filing of application number  =>  05/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  DEVICE FOR ROTATABLY COUPLING TWO COAXIAL CONNECTING ELEMENTS 
+
+Name of applicant  =>  1)IMO HOLDING GMBH 
+
+Name of inventor  =>  1)FRANK, HUBERTUS 
+
+International Classification  =>  F16C19/16, F16C19/18, F16C19/38 
+
+Priority Doc No  =>  10 2008 050 620.6 
+
+International Application Number  =>  PCT/EP09/007249 
+
+International Publication Number  =>  WO 2010/040539 A1 
+
+Abstract  =>  The invention is directed to a device for rotatably coupling two coaxial connecting elements, at least one of which is configured as a circular ring, and each of which has at least one annular surface that faces the corresponding surface of the respective other connecting element but is spaced apart therefrom by a gap, such that they are rotatable in opposite directions about an imaginary axis (axis of rotation) at the center of the annular connecting element and approximately perpendicular to the ring plane, wherein disposed in the gap between the two connecting elements is a rotary joint, configured as a single- or multi-row rolling bearing, for absorbing axial and radial loads and tilting moments, wherein at least one annular connecting element comprises, on its surface facing the gap, a continuously circumferential, planar shoulder having an oblong or elongated cross section and extending away from the gap to a freely terminating, peripheral circumferential edge. 
+

@@ -1,0 +1,22 @@
+Application number  =>  2749/MUMNP/2010 A 
+
+Date of filing of application number  =>  22/12/2010 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  A MONITORING SYSTEM BASED ON ETCHING OF METALS 
+
+Name of applicant  =>  1)PATEL G 
+
+Name of inventor  =>  1)PATEL G 
+
+International Classification  =>  G01D 21/00 
+
+Priority Doc No  =>  61/081,763 
+
+International Application Number  =>  PCT/US2009/046228 
+
+International Publication Number  =>  WO/2009/149243 
+
+Abstract  =>  Compositions, devices and processes related to etching of a very thin layer or fine particles of a metal are disclosed for monitoring a variety of parameters, such as time, temperature, time-temperature, thawing, freezing, microwave, humidity, ionizing radiation, sterilization and chemicals These devices have capabilities of producing a long and sharp induction pe#od of an irreversible visual change The devices are composed of an indicator comp#sing a very thin layer of a metalThe indicator retains its opacity and metallic luster, e g, silvery white, mirror like finish of aluminum layer for a long time The activator destroys the indicator layer including the naturally formed oxide layer 
+

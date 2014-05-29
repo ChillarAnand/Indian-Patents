@@ -1,0 +1,22 @@
+Application number  =>  9814/CHENP/2011 A 
+
+Date of filing of application number  =>  27/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  OPEN LOOP CHANNEL REPORTING IN A WIRELESS COMMUNICATION SYSTEM 
+
+Name of applicant  =>  1)QUALCOMM Incorporated 
+
+Name of inventor  =>  1)GOROKHOV Alexei Y. 2)GAAL Peter 
+
+International Classification  =>  H04L 1/00 
+
+Priority Doc No  =>  61/221,478 
+
+International Application Number  =>  PCT/US2010/040308 
+
+International Publication Number  =>   
+
+Abstract  =>  Techniques for reporting channel quality indicator (CQI) in a wireless communication system are described. In one design a UE determines CQI based on an assumption of a set of precoding matrices being used by a base station for data transmission to the UE. The base station may or may not actually use the set of precoding matrices assumed by the UE. The UE sends the CQI to the base station and thereafter receives data transmission sent by the base station based on the CQI. In one design the UE determines the set of precoding matrices for a set of time-frequency resources available for data transmission to the UE. The UE determines the received signal quality of each time-frequency resource based on a precoding matrix for that time-frequency resource. The UE then determines the CQI based on the received signal qualities of the set of time-frequency resources. 
+

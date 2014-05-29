@@ -1,0 +1,45 @@
+The Patent Office Journal 31/12/2010 
+ 
+5493
+(12) PATENT APPLICATION PUBLICATION (21) Application No.4278/KOLNP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :15/11/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : OXIDATION CATALYST FOR COMMERCIAL VEHICLES COMPRISING A DIESEL MOTOR  
+  
+(51) International classification  :B01J 21/04  
+(31) Priority Document No  :08011154.5  
+(32) Priority Date  :19/06/2008 
+(33) Name of priority country  :EUROPEAN UNION 
+(86) International Application No 
+        Filing Date 
+:PCT/EP2009/004117 
+:09/06/2009 
+(87) International Publication No  :WO 2009/152971  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)UMICORE AG & CO. KG 
+      Address of Applicant :RODENBACHER CHAUSSEE 4, 
+63457 HANAU-WOLFGANG GERMANY. 
+(72)Name of Inventor : 
+   1)FRANTZ, STÉPHANIE 
+   2)SCHUETZE, FRANK-WALTER 
+   3)WOERZ, ANKE 
+   4)JESKE, GERALD  
+(57) Abstract : 
+An oxidation catalyst is described for the exhaust gas purification of utility vehicles with diesel engines, which contains a substrate 
+and a catalytically active coating of platinum, active aluminium oxide and aluminium-silicon mixed oxide. The two oxidic support 
+materials, aluminium oxide and aluminium-silicon mixed oxide, are catalytically activated with platinum, the majority of platinum 
+being present on the active aluminium oxide. The oxidation catalyst is distinguished by good NO oxidation rates together with a high 
+poisoning resistance against sulfur compounds.  
+ 
+No. of Pages : 23 No. of Claims : 13 

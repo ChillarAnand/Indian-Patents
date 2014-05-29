@@ -1,0 +1,79 @@
+ 
+The Patent Office Journal 31/08/2012 
+14093
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3139/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :06/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : ISOCYANATE TRIMERISATION CATALYST SYSTEM, A PRECURSOR FORMULATION, A 
+PROCESS FOR TRIMERISING ISOCYANATES, RIGID POLYISOCYANURATE/POLYURETHANE FOAMS MADE 
+THEREFROM, AND A PROCESS FOR MAKING SUCH FOAMS  
+  
+(51) International classification  
+:C08G18/02, 
+C08G18/18, 
+C08G18/09  
+(31) Priority Document No  :61/113,196  
+(32) Priority Date  :10/11/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US09/063733
+:09/11/2009 
+(87) International Publication No  :WO 2010/054317 A2  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)DOW GLOBAL TECHNOLOGIES LLC 
+      Address of Applicant :2040 DOW CENTER, MIDLAND , 
+MICHIGAN 48674 U.S.A. 
+(72)Name of Inventor : 
+   1)ATHEY, PHILLIP  
+   2)WILMOT, NATHAN 
+   3)KEATON, RICHARD 
+   4)BABB, DAVID 
+   5)BOYER, CECILE  
+   6)MORLEY, TIMOTHY  
+(57) Abstract : 
+The instant invention provides an isocyanate trimerisation catalyst system, a precursor formulation, a process for trimerising isocyanates, rigid foams made therefrom, 
+and a process for making such foams. The trimerisation catalyst system comprises: (a) an imidazolium or imidazolinium cation; and (b) an isocyanate-trimer inducing 
+anion; wherein said trimerisation catalyst system has a trimerisation activation temperature in the range of equal to or less than 73°C. The precursor formulation 
+comprises: (1) at least 25 percent by weigh of polyol, based on the weight of the precursor formulation; (2) less than 15 percent by weight of a trimerisation catalyst 
+system, based on the weight of the precursor formulation, comprising; (a) an imidazolium or imidazolinium cation; and (c) an isocyanate-trimer inducing anion; 
+wherein said trimerisation catalyst system has a trimerisation activation temperature in the range of equal to or less than 73°C; and (3) optionally one or more 
+surfactants, one or more flame retardants, water, one or more antioxidants, one or more auxiliary blowing agents, one or more urethane catalysts, one or more auxiliary 
+trimerisation catalysts, or combinations thereof The process for trimerisation of isocyanates comprises the steps of (1) pro -viding one or more monomers selected from 
+the group consisting of an isocyanate, a diisocyanate, a triisocyanatetriisocyanate, oligomeric isocyanate, a salt of any thereof, and a mixture of any thereof, (2) 
+providing a trimerisation catalyst system comprising; (a) an imidazolium or imidazolinium cation; and (b) an isocyanate-trimer inducing anion; (c) wherein said 
+trimerisation catalyst system has a trimerisation activation temperature in the range of equal to or less than 73°C; (3) trimerising said one or more monomers in the 
+presence of said trimerisation catalyst; (4) thereby forming an isocyanurate trimer. The process for making the PR foam comprises the steps of: (1) providing one or 
+more monomers selected from the group consisting of an isocyanate, a diisocyanate, a triisocyanatetriisocyanate, oligomeric isocyanate, a salt of any thereof, and a 
+mixture any thereof, (2) providing polyol; (3) providing a trimerisation catalyst system comprising; (a) an imidazolium or imidazolinium cation; and (b) an 
+isocyanatetrimer inducing anion; wherein said trimerisation catalyst system has a trimerisation activation temperature in the range of equal to or less than 73°C; and (4) 
+optionally providing one or more surfactants, one or more flame retardants, water, one or more antioxidants, one or more auxiliary blowing agents, one or more 
+urethane catalysts, one or more auxiliary trimerisation catalysts, or combinations thereof; (5) contacting said one or more monomers, and said polyol, and optionally 
+said one or more surfactants, and op -tionally said one or more flame retardants, and optionally said water, and optionally said one or more antioxidants, and optionally 
+said one or more auxiliary blowing agents in the presence of said trimerisation catalyst system and optionally said one or more urethane catalysts, and optionally said 
+one or more auxiliary trimerisation catalysts; (6) thereby forming said polyisocyanurate/polyurethane rigid foam. The PIR foam comprises the reaction product of one 
+or more monomers selected from the group consisting of an isocyanate, a diisocyanate, a triisocyanatetriisocyanate, oligomeric isocyanate, a salt of any thereof, and a 
+mixture any thereof with polyol in the presence of a trimerisation catalyst system comprising an imidazolium or imidazolinium cation, and an isocyanate -trimer 
+inducing anion, and optionally one or more surfactants, optionally one or more flame retardants, optionally water, optionally one or more antioxidants, optionally one or 
+more auxiliary blowing agents, optionally one or more additional urethane catalysts, and optionally one or more auxiliary trimerisation catalysts, or optionally 
+combinations thereof wherein the trimerisation catalyst system has a trimerisation activation temperature in the range of equal to or less than 73°C. The PIR foam 
+comprises the reaction product of one or more monomers selected from the group consisting of an isocyanate, a diisocyanate, a triisocyanatetriisocyanate, oligomeric 
+isocyanate, a salt of any thereof and a mixture any thereof with polyol in the presence of a trimerisation catalyst system comprising an imidazolium or imidazolinium 
+cation, and an isocyanate -trimer inducing anion, and optionally one or more surfactants, optionally one or more flame retardants, optionally water, optionally one or 
+more antioxidants, optionally one or more auxiliary blowing agents, optionally one or more additional polyurethane catalysts, and optionally one or more auxiliary 
+trimerisation catalysts, or optionally combinations thereof wherein the Plk foam has a polyisocyanurate trimer ratio (Abs1410/AbS1595) of at least 5 at a depth of 12 
+mm from the rising surface of the rigid foam, measured via ATR-FTTR spectroscopy. 
+  
+  
+No. of Pages : 38 No. of Claims : 15 

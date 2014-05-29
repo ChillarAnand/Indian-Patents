@@ -1,0 +1,22 @@
+Application number  =>  547/CHENP/2012 A 
+
+Date of filing of application number  =>  16/01/2012 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  CHARGED PARTICLES 
+
+Name of applicant  =>  1)BASF SE 
+
+Name of inventor  =>  1)HAYOZ, PASCAL 2)LAMATSCH, BERND 3)FONTANA, MARGHERITA 4)BURKHARDT, STEPHAN 5)MICHAU, LAURENT 6)LEHMANN, URS 7)BUGNON, PHILIPPE 
+
+International Classification  =>  C09B69/00 
+
+Priority Doc No  =>  09163640.7 
+
+International Application Number  =>  PCT/EP2010/058206 
+
+International Publication Number  =>  WO 2010/149505A2 
+
+Abstract  =>  Disclosed is a composition comprising a charged particle of volume 5 nm3 to 50 million nm3 preferably having an inorganic core of SiO2, AI2O3, and/or TiO2, or a core essentially consisting of an organic pigment and/or pigment derivative, and a counter ion which is separable from the particle and is not covalently linked to the particle, said counter ion comprising a silicon atom which is directly bound to a carbon atom. Preferably, said charged particle comprises a dye attached to said inorganic core and said counter ion comprises a (poly)siloxane moiety linked via suitable bridge members to a quaternary, positively charged, nitrogen or phosphorus atom, or to a moiety carrying an anionic functional group. Said composition may be used e.g. in the form of a homogenous dispersion in an electrophoretic display. 
+

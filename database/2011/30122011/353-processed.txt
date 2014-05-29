@@ -1,0 +1,22 @@
+Application number  =>  1271/KOL/2010 A 
+
+Date of filing of application number  =>  10/11/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  AUTOMATED START-STOP SYSTEMS AND METHODS FOR INTERNAL COMBUSTION ENGINES 
+
+Name of applicant  =>  1)GM GLOBAL TECHNOLOGY OPERATIONS, INC. 
+
+Name of inventor  =>  1)AWADESH TIWARI 2)VIJAY SHETTIGAR 3)AMIT KUMAR 4)SRINIVAS B. CHANDE 
+
+International Classification  =>  F02B25/14 
+
+Priority Doc No  =>  12/651,514 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  An automated start/stop system for a vehicle comprises an auto-stop module, a diagnostic module, and an auto-start module. The auto- stop module selectively initiates an auto-stop event and shuts down an engine while the vehicle is running. The diagnostic module selectively diagnoses a fault in a clutch pedal position sensor of the vehicle. The auto-start module, while the vehicle is running and the engine is shut down, selectively initiates an auto-start event after the fault has been diagnosed when current drawn by a starter motor is less than a predetermined maximum starting current. 
+

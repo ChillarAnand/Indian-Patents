@@ -1,0 +1,22 @@
+Application number  =>  757/MUMNP/2012 A 
+
+Date of filing of application number  =>  26/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  ENDOTRACHEAL TUBE APPARATUS 
+
+Name of applicant  =>  1)MEDTRONIC-XOMED, INC. 
+
+Name of inventor  =>  1)HACKER, DAVID 2)STANISLAUS, CHARLES 3)LI, WENJENG 4)YAMASAKI, SONNY 5)BRUNNETT, WILLIAM 6)MCFARLIN, KEVIN 7)HISSONG, BRITT 8)VACCARO, ROB 9)MURPHY, JOHN 10)PAGOTTO, CARLA 11)SCHULER, TINO 
+
+International Classification  =>  A61N 1/05 
+
+Priority Doc No  =>  61/248,294 
+
+International Application Number  =>  PCT/US10/051132 
+
+International Publication Number  =>  WO/2011/041684 
+
+Abstract  =>  An apparatus lor monitoring EMG signals of a patients laryngeal muscles includes an endotracheal tube having an exterior surface. Conductive ink electrodes are fonned on the exterior surface of the endotracheal tube. The conductive ink electrodes are configured to receive the EMG signals from the laryngeal muscles when the endotracheal tube is placed in a trachea of the patient. At least one conductor is coupled to the conductive ink electrodes and is configured to carry die EMG signals received by the conductive ink electrodes to a processing apparatus. 
+

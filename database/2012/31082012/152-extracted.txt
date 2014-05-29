@@ -1,0 +1,44 @@
+ 
+The Patent Office Journal 31/08/2012 
+13994
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2968/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :02/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : INTERFACE FOR WIRELESS COMMUNICATION DEVICES  
+  
+(51) International classification  :H04B1/40, H04B 1/48  
+(31) Priority Document No  :12/260,346  
+(32) Priority Date  :29/10/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/062327
+:28/10/2009 
+(87) International Publication No  :WO 2010/053776 A1 
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)QUALCOMM INCORPORATED 
+      Address of Applicant :INTERNATIONAL IP 
+ADMINISTRATION, 5775 MOREHOUSE DRIVE, SAN 
+DIEGO, CALIFORNIA 92121-1714 U.S.A. 
+(72)Name of Inventor : 
+   1)HAIM M. WEISSMAN  
+(57) Abstract : 
+Apparatuses for providing wireless communication in a device are presented for use with a plurality of antennas including a receive 
+antenna and a transmit antenna. The apparatuses may include a power amplifier arrangement in a transmit path coupled to the transmit 
+antenna. The power amplifier arrangement may include, for example, at least two amplifiers that are arranged either in series with a 
+filter coupled there between or at least two amplifiers that are arranged separately between a switch and a frequency domain 
+multiplexer. 
+  
+  
+No. of Pages : 46 No. of Claims : 49 

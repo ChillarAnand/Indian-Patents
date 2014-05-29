@@ -1,0 +1,22 @@
+Application number  =>  3170/CHENP/2011 A 
+
+Date of filing of application number  =>  09/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  VLPS PRESENTING TRIMERIC AND CONFORMATIONAL MOLECULES INCLUDING HIV-1 ENVELOPES, AND METHOD FOR MUCOSAL AND SUBLINGUAL IMMUNIZATION AGAINST HIV-1 USING THE SAME 
+
+Name of applicant  =>  1)BUONAGURO, FRANCO, MARIA 2)BUONAGURO, LUIGI 3)TORNESELLO, MARIA, LINA 
+
+Name of inventor  =>  1)BUONAGURO, FRANCO, MARIA 2)BUONAGURO, LUIGI 3)TORNESELLO, MARIA, LINA 
+
+International Classification  =>  A61K39/21 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/EP08/063912 
+
+International Publication Number  =>  WO 2010/043259 A1 
+
+Abstract  =>  The present invention is directed to a method of expressing the human immunodeficiency virus (HIV-1) capsid protein coding sequence in a cell using an expression system under conditions facilitating expression of the protein in the cell. In another aspect of the invention, it has been designed a modified HIV-1 gpl40 envelope protein made of the HIV-1 gpl20 and the ectodomain of the gp41 linked at the NH2 with a signal sequence of the Honeybee Mellitin (HBMSS) and at the COOH with the trans-membrane region (TM) of the baculovirus gp64 (HBM-SC)SIPgpl40-gp64TM). In one embodiment of the invention, there is provided a method of expressing the gag major capsid protein of HIV-1 and the HBM-SOSIPgpl40- gp64TM in several expression systems, including Sf-9 insect cells using the baculovirus expression system, to obtain HIV virus-like particles (HBM-SC)SIPgpl40-gp64TM-VLPs). It was further discovered that the HBM-SOSIPgpl40-gp64TM-VLPs show antigenic characteristics similar to those of native infectious HIV-1 particles and are recognized by sera from HIV-1 seropositive individuals. In yet another embodiment, the invention provides a method of vaccinating a mammal for HIV-1 by administering HIV-1 virus-like particles mucosally (including sublingual) to a mammal in an amount sufficient to induce an immune response to the HIV-1. 
+

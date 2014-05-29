@@ -1,0 +1,22 @@
+Application number  =>  4240/KOLNP/2010 A 
+
+Date of filing of application number  =>  11/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  SYSTEM AND METHOD FOR IQ IMBALANCE ESTIMATION USING LOOPBACK WITH FREQUENCY OFFSET 
+
+Name of applicant  =>  1)ENTROPIC COMMUNICATIONS, INC. 
+
+Name of inventor  =>  1)SAFAVI, SAEID 
+
+International Classification  =>  H04K 1/02 
+
+Priority Doc No  =>  12/165,526 
+
+International Application Number  =>  PCT/US2009/048923 
+
+International Publication Number  =>  WO 2010/002740 
+
+Abstract  =>  Systems and methods for estimating IQ imbalance in a communication system are provided. In various embodiments, a device is configured to perform a self-characterization. The self-characterization is performed over an RF loopback circuit. In some embodiments, a probe is transmitted over the RF loopback circuit. The probe uses a frequency offset such that an image related to one IQ imbalance is separated from an image related to another IQ imbalance. An imbalance estimate is calculated based on processing of the probe. 
+

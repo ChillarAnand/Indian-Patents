@@ -1,0 +1,22 @@
+Application number  =>  798/MUMNP/2012 A 
+
+Date of filing of application number  =>  29/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  CONTROL PIN AND SPOUT SYSTEM FOR HEATING METAL CASTING DISTRIBUTION SPOUT CONFIGURATIONS 
+
+Name of applicant  =>  1)WAGSTAFF, INC. 
+
+Name of inventor  =>  1)COOPER, TIMOTHY, JAMES 2)IMTHURN, JAMES, A. 
+
+International Classification  =>  C21C 5/42 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/US2009/005556 
+
+International Publication Number  =>  WO/2011/043759 
+
+Abstract  =>  A control pin system, including an apparatus and method, for use in controlling the flow of molten metal in a molten metal distribution system for casting, with some aspects of the control pin including: a control pin body with an internal cavity and an outer surface, wherein the outer surface is sized and configured to operatively interact with an internal surface of a spout to effectively control the flow of molten metal through a spout aperture; and a heater element within the internal cavity of the control pin body. In other embodiments, the heater may be located within the spout body and transferring heat to the control pin. 
+

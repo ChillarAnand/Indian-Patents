@@ -1,0 +1,22 @@
+Application number  =>  2687/MUMNP/2011 A 
+
+Date of filing of application number  =>  13/12/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD FOR MIDDLEWARE OF A SENSOR NETWORK 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)BULLARD Gregory T. 2)BRAKE Desiree D. 3)PRUETTING Christopher J. 4)STITS Raymond S. 5)RYBERG Jason T. 6)THOMAS Jason C. 7)WINCHELL Diane M. 
+
+International Classification  =>  H04L12/24 ,H0L29/08 
+
+Priority Doc No  =>  61/187,088 
+
+International Application Number  =>  PCT/US2010/148029 
+
+International Publication Number  =>   
+
+Abstract  =>  An apparatus for managing reports including a processing system is disclosed. The processing system is configured to receive a plurality of reports from a plurality of other apparatuses filter out one or more of the plurality of reports and forward the remaining plurality of reports to another apparatus wherein each of the plurality of reports comprises data based on a sensor measurement at the respective one of the plurality of other apparatuses. 
+

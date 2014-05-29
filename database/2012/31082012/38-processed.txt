@@ -1,0 +1,22 @@
+Application number  =>  2855/CHENP/2011 A 
+
+Date of filing of application number  =>  27/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHODS AND MEANS FOR EFFICIENT SKIPPING OF AT LEAST ONE OF THE FOLLOWING EXONS OF THE HUMAN DUCHENNE MUSCULAR DUSTROPHY GENE:43,46,50-53 
+
+Name of applicant  =>  1)ACADEMISCH ZIEKENHUIS LEIDEN 2)PROSENSA B.V. 3)PROSENSA TECHNOLOGIES B.V. 4)PROSENSA HOLDING BV 
+
+Name of inventor  =>  1)DE KIMPE, JOSEPHUS JOHANNES 2)PLATENBURG, GERARDUS JOHANNES 3)VAN DEUTEKOM, JUDITH, CHRISTINA, THEODORA 4)AARTSMA-RUS, ANNEMIEKE 5)VAN OMMEN, GARRIT-JAN BOUDEWIJN 
+
+International Classification  =>  A61K31/7105, A61K48/00, A61P21/00 
+
+Priority Doc No  =>  PCT/NL2008/050673 
+
+International Application Number  =>  PCT/NL09/050113 
+
+International Publication Number  =>  WO 2010/050802 A3 
+
+Abstract  =>  The invention relates a method wherein a molecule is used for inducing and/or promoting skipping of at least one of exon 43, exon 46, exons 50-53 of the DMD pre- mRNA in a patient, preferably in an isolated cell of a patient, the method comprising providing said cell and/or said patient with a molecule. The invention also relates to said molecule as such. 
+

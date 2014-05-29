@@ -1,0 +1,22 @@
+Application number  =>  2869/CHENP/2011 A 
+
+Date of filing of application number  =>  28/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD OF QUALITY CONTROL TESTING A FACTOR XIII CONTAINING SAMPLE 
+
+Name of applicant  =>  1)NOVO NORDISK HEALTH CARE AG 
+
+Name of inventor  =>  1)ANDERSEN, METTE DAHL 2)KRISTIANSEN, GUNHILD KLARSKOV 3)SVANE, PENILLE CHARLOTTE 4)HORLYCK, LENE 5)SCHRODER, METTE 
+
+International Classification  =>  C12Q1/56, G01N33/86 
+
+Priority Doc No  =>  08167476.4 
+
+International Application Number  =>  PCT/EP2009/063973 
+
+International Publication Number  =>  WO 2010/046468 A1 
+
+Abstract  =>  The invention relates to a method of quality control testing a Factor XIII (FXIII) containing sample which comprises the step of detecting the presence of and/or measuring the concentration of pre-activated FXIII (FXIIIa0) in said sample and to a quality control kit for determining the quality of a Factor XIII (FXIII) containing sample. Preferably, an anion-exchange chromatographic column is used, as well as the fluorescent substrate Abz-NE (Cad-Dnp) EQVS PLTLLK-OH 
+

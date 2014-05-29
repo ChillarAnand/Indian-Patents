@@ -1,0 +1,53 @@
+ 
+The Patent Office Journal 31/08/2012 
+14110
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3161/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :09/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : COMMUNICATIONS DECISION METHODS AND APPARATUS  
+  
+(51) International classification  
+:H04W72/08, 
+H04W84/18, 
+H04W72/10  
+(31) Priority Document No  :12/267,923  
+(32) Priority Date  :10/11/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US09/062888
+:30/10/2009 
+(87) International Publication No  :WO 2010/053850 A1  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)QUALCOMM INCORPORATED 
+      Address of Applicant :ATTN: INTERNATIONAL IP 
+ADMINISTRATION, 5775 MOREHOUSE DRIVE, SAN 
+DIEGO, CALIFORNIA 92121-1714 U.S.A. 
+(72)Name of Inventor : 
+   1)JUNYI LI 
+   2)RAJIV LAROIA 
+   3)SAURABH R. TAVILDAR 
+   4)XINZHOU WU  
+(57) Abstract : 
+Methods and apparatus for making communications decisions are described. In some embodiments, a method includes recovering a 
+first quality of service level from a first transmission request signal directed to a second communications device, and making a 
+decision whether or not to transmit traffic data to a third communications device based on the recovered first quality of service level. 
+In other embodiments a method includes recovering a first quality of service level from a first transmission request signal, and making 
+a decision whether or not to transmit a first transmission request response signal in response to a second transmission request signal 
+based on the recovered first quality of service level. In some embodiments, the phase of the transmission request signal is used to 
+communicate the quality of service level. The device transmitting the transmission request signal may also transmit pilots which can 
+be used as phase reference signals. 
+  
+  
+No. of Pages : 68 No. of Claims : 40 

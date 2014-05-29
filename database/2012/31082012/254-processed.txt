@@ -1,0 +1,22 @@
+Application number  =>  3158/CHENP/2011 A 
+
+Date of filing of application number  =>  09/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  PROCESS FOR THE MANUFACTURE OF P4 O6 WITH IMPROVED YIELD 
+
+Name of applicant  =>  1)STRAITMARK HOLDING AG 
+
+Name of inventor  =>  1)SCHIPPER, WILLEM J 
+
+International Classification  =>  C01B25/12 
+
+Priority Doc No  =>  08168898.8 
+
+International Application Number  =>  PCT/EP2009/064988 
+
+International Publication Number  =>  WO 2010/055056 A1 
+
+Abstract  =>  A process for the production of a reaction product consisting essentially of P4O6 is carried out by reacting oxygen with phosphorus in an exothermic reaction in a reaction unit. Heat created by the exothermic reaction is removed by feeding P4O6 and/or by-products of the process into the reaction unit. The generated reaction product is then quenched to a lower temperature where no essential decomposition of the reaction product occurs, and at least part of P4O6 is separated from the reaction product obtained after quenching. The resulting yield of P4O6 based on the phosphorus used is improved and the heat of the exothermic reaction can be controlled in an economic way. 
+

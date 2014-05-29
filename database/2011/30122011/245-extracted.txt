@@ -1,0 +1,44 @@
+The Patent Office Journal 30/12/2011 
+ 
+25582
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1120/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :17/02/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : COMMON-MODE PARTITIONING OF WIDEBAND CHANNELS  
+  
+(51) International classification  :H04W48/12, H04W16/02  
+(31) Priority Document No  :61/092,613  
+(32) Priority Date  :28/08/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/055181
+:27/08/2009 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)QUALCOMM Incorporated 
+      Address of Applicant :Attn: International IP Administration  
+5775 Morehouse Drive  San Diego  California 92121-1714 USA.  
+(72)Name of Inventor : 
+   1)LAKKIS Ismail  
+(57) Abstract : 
+Certain aspects of the present disclosure relate to a method for allocating a plurality of logical channels within each wideband channel 
+specified by the IEEE 802.15.3c standard. Each logical channel can utilize the same wideband channel, but the logical channel can 
+also utilize a narrowband channel (i.e., a low data rate (LDR) channel) for control and signaling. The logical channel may function as 
+a common mode channel for multi-mode operations. A piconet controller (PNC) within a piconet can utilize the LDR for beaconing, 
+association, and for assigning Channel Time Allocations (CTAs). Inside a CTA period, multiple devices in the piconet can 
+communicate using a single-carrier mode, an OFDM mode, or some other mode. 
+  
+  
+No. of Pages : 40 No. of Claims : 42 

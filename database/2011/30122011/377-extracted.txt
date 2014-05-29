@@ -1,0 +1,46 @@
+The Patent Office Journal 30/12/2011 
+ 
+25714
+(12) PATENT APPLICATION PUBLICATION (21) Application No.291/KOL/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :07/03/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : TORQUE BLENDING SYSTEMS FOR HYBRID ELECTRIC VEHICLES WITH ELECTRICALLY 
+CONTINUOUS VARIABLE TRANSMISSIONS  
+  
+(51) International classification  :F01P7/00 
+(31) Priority Document No  :12/822,603 
+(32) Priority Date  :24/06/2010
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)GM GLOBAL TECHNOLOGY OPERATIONS LLC 
+      Address of Applicant :300 GM RENAISSANCE CENTER, 
+DETROIT, MICHIGAN 48265-3000, U.S.A. 
+(72)Name of Inventor : 
+   1)MIN-JOONG KIM 
+   2)ALAN G. HOLMES 
+   3)BRENDAN M. CONLON  
+(57) Abstract : 
+A hybrid control system for a hybrid electric vehicle (HEV) includes a hybrid control module. The hybrid control module includes a 
+first motor control module that controls output torque of a first motor. A second motor control module controls output torque of a 
+second motor based on a second motor torque request signal. The second motor torque request signal is generated based on a 
+transmission output torque request signal prior to startup of an engine of the HEV. An override module generates a torque override 
+request signal during the startup. The first motor control module controls output torque of the first motor to crank the engine during 
+the startup. The second motor control module adjusts output torque of the second motor based on the torque override request signal 
+and not the transmission output torque request signal during the startup to minimize vehicle jerk during the engine start.  
+ 
+No. of Pages : 41 No. of Claims : 10 

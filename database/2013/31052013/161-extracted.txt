@@ -1,0 +1,40 @@
+The Patent Office Journal 31/05/2013 12132
+(12) PATENT APPLICATION PUBLICATION (21) Application No.994/CHENP/2012 A
+(19) INDIA
+(22) Date of filing of Application :31/01/2012 (43) Publication Date : 31/05/2013
+(54) Title of the invention : METHOD FOR PHYSICAL PLANT TREATMENT•
+(51) International classification :A01N 25/02
+(31) Priority Document No :10 2009 028 188.6
+(32) Priority Date :03/08/2009
+(33) Nam of priority country :Germany
+(86) International Application No
+Filing Date
+:PCT/EP2010/061298
+:03/08/2010
+(87) International Publication No : NA
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)SIMPLY WATER GMBH
+Address of Applicant :Prinz-Ludwig-Str. 17 93055
+Regensburg Germany
+(72)Name of Inventor :
+1)PHILIPPS Andr
+2)CZECH Manuel
+3)SAEFKOW Michael
+(57) Abstract :
+The present invention relates to a method for physical plant treatment by means of electrostatic charge, wherein a transfer of the
+electrostatic charge takes place via water treated by means of an influencing method, wherein the water comprises water clusters
+having an electron deficit due to the treatment by means of an influencing method, wherein the water treated by means of an
+influencing method can be obtained by the following process steps: introducing the water to be treated into a galvanic element,
+aligning the charges and free electrons in the electrical field, separating the charges by motion and the influence resulting
+therefrom, and collecting and removing the de-electronized, positively charged fraction. The method for physical plant treatment
+allows comprehensive and effective treatment of fungal diseases, simultaneously avoiding toxicological loads on the environment.
+No. of Pages : 16 No. of Claims : 13

@@ -1,0 +1,22 @@
+Application number  =>  1006/MUMNP/2011 A 
+
+Date of filing of application number  =>  19/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  PULSATILE MEDICAL DEVICE DESIGNED TO BE USED IN EXTRACORPOREAL SURGERY 
+
+Name of applicant  =>  1)NOUR Sayed 
+
+Name of inventor  =>  1)NOUR Sayed 
+
+International Classification  =>  A61M 1/10,A61M 1/36 
+
+Priority Doc No  =>  0858546 
+
+International Application Number  =>  PCT/EP2009/066994 
+
+International Publication Number  =>  WO/2010/066899 
+
+Abstract  =>  The invention relates to a pulsatile medical device (101; 201; 301; 401; 501) permitting the circulation of a flow of blood. According to the invention, the device comprises: an outer tube (2) having an inner wall (5), an outer wall (4) and two ends (6, 7), one end (6) being designed to be connected to a machine of the ECC type or to a system for cardiac assistance or to the body of the patient, and one end (7) being designed to be connected to the body of the patient; an inner tube (103) inserted into said outer tube (2) and having an inner wall (109), an outer wall (108), and two ends (110, 111) that are fixed all around their periphery to the outer tube (2), about the entire periphery thereof, the flow of blood circulating through said inner tube (103); the outer wall (108) of the inner tube (103) and the inner wall (5) of the outer tube (2) defining a space (12) designed to be filled with fluid, it being possible for said space (12) to be attached via a connector port (13) to an apparatus that can generate one or more inflations/deflations of said space (12) so as to create one or more pulses of the blood flow. 
+

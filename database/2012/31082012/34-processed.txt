@@ -1,0 +1,22 @@
+Application number  =>  2177/CHE/2011 A 
+
+Date of filing of application number  =>  28/06/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  SUPERCHARGING DEVICE FOR COMPRESSING CHARGE AIR FOR AN INTERNAL COMBUSTION ENGINE 
+
+Name of applicant  =>  1)HANDTMANN SYSTEMTECHNIK GMBH & CO. KG 
+
+Name of inventor  =>  1)HUBERT HAGEL 2)JURGEN LICHT 3)STEFAN COLSCH 4)JOACHIM NUSSER 5)ANDREAS LECHLEITER 
+
+International Classification  =>  F02B33/40, F01C17/06, F01C21/02 
+
+Priority Doc No  =>  10 2010 025 984.5 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A supercharging device for compressing charge air for an internal combustion engine having a scroll compressor is proposed, a displacement scroll (5) being connected to the supercharger shaft by way of an eccentric arrangement between a front bearing and rear bearing of the supercharger shaft (6), an externally driven drive element, such as a belt pulley or the like, being provided outside a housing (1) of the supercharging device, and the supercharger shaft (6) being connectable to the externally driven drive element by means of a controllable clutch member. The intended distinguishing features of the supercharging device according to the invention are a simpler bearing support and in particular a front bearing of smaller dimensions. This is achieved in that all connections of the drive and/or guide elements for the displacement scroll are arranged between the front bearing (2) and the rear bearing (3). 
+

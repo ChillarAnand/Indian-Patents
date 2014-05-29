@@ -1,0 +1,42 @@
+The Patent Office Journal 31/12/2010 
+ 
+5438
+(12) PATENT APPLICATION PUBLICATION (21) Application No.4166/KOLNP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :04/11/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : COOLANT PUMP  
+  
+(51) International classification  :F04D 29/58,F01P 5/10  
+(31) Priority Document No  :102008019369.0  
+(32) Priority Date  :17/04/2008 
+(33) Name of priority country  :Germany 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/039112
+:01/04/2009 
+(87) International Publication No  :WO 2009/129050  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)BORGWARNER INC. 
+      Address of Applicant :3850 HAMLIN ROAD AUBURN 
+HILLS, MI 48326 U.S.A. 
+(72)Name of Inventor : 
+   1)BUCHHOLZ, THOMAS 
+   2)ROTH, JUERGEN  
+(57) Abstract : 
+The invention relates to a coolant pump (15) having a pump wheel (13) which is arranged on a pump wheel shaft (3, 11); and having a 
+drive device (1; 8, 9) for the pump wheel (13), which drive device has a mechanical drive (1) and which drive device has an electric-
+motor drive (8, 9), wherein the pump wheel shaft is divided into a driving section (3) and a driven section (11), and an openable and 
+closable clutch (4) is arranged between the driving section (3) and the driven section (11).  
+  
+No. of Pages : 14 No. of Claims : 12 

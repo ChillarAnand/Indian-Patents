@@ -1,0 +1,22 @@
+Application number  =>  1004/CHENP/2011 A 
+
+Date of filing of application number  =>  14/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD AND APPARATUS FOR PEER TO PEER STREAMING 
+
+Name of applicant  =>  1)NOKIA CORPORATION 
+
+Name of inventor  =>  1)Jozef Van Gassel 2)Imed Bouazizi 3)Igor Curcio 4)Alex Jantunen 5)Marko Saukko 6)Lassi Vaatamoinen 
+
+International Classification  =>  H04L29/06, H04L12/56 
+
+Priority Doc No  =>  61/081,359 
+
+International Application Number  =>  PCT/IB2009/006254 
+
+International Publication Number  =>   
+
+Abstract  =>  In accordance with an example embodiment of the present invention, An apparatus, comprising a processor configured to assign at least one of a plurality of real time transport protocol data units to at least one of at least two peer to peer partial real-time transport protocol streaming sessions, based at least in part on at least one timestamp associated with the at least one of the plurality of real time protocol data units. T 10 he plurality of real time transport protocol data units, is associated with the real time transport protocol media stream. FIGURE. 4 
+

@@ -1,0 +1,22 @@
+Application number  =>  1133/CHENP/2011 A 
+
+Date of filing of application number  =>  17/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  Light Collection Device with Prismatic Light Turning Features 
+
+Name of applicant  =>  1)QUALCOMM MEMS Technologies Inc. 
+
+Name of inventor  =>  1)KHAZENI Kasra 2)KOTHARI Manish 3)XU Gang 4)BITA Ion 5)NARAYANAN K. S. 
+
+International Classification  =>  F21V8/00 
+
+Priority Doc No  =>  61/093,678 
+
+International Application Number  =>  PCT/US2009/055533 
+
+International Publication Number  =>   
+
+Abstract  =>  A light collection device includes a light guide body (180) and a plurality of spaced-apart slits (100). The slits (100) are formed by undercuts in the light guide body (180). Sides of the slits (100) form facets that redirect light impinging on the facets (100). In some embodiments, the light collection body (180) is attached to a photovoltaic cell (200). Light impinging on the light collection body is redirected towards the photovoltaic cell (200) by the slits (100). The photovoltaic cells (200) convert the light into electrical energy. 
+

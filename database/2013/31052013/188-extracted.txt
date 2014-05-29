@@ -1,0 +1,43 @@
+The Patent Office Journal 31/05/2013 12159
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9986/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :30/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : RESOLUTION ALGORITHMS FOR MULTI-RADIO COEXISTENCE
+(51) International classification :H04W 88/06
+(31) Priority Document No :61/224,327
+(32) Priority Date :09/07/2009
+(33) Name of priority country :U.S.A.
+(86) International Application No
+Filing Date
+:PCT/US2010/041611
+:09/07/2010
+(87) International Publication No : NA
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)QUALCOMM Incorporated
+Address of Applicant :Attn: International IP Administration
+5775 Morehouse Drive San Diego California 92121-1714
+USA.
+(72)Name of Inventor :
+1)MANTRAVADI Ashok
+2)KADOUS Tamer A.
+(57) Abstract :
+Systems and methodologies are described herein that facilitate resolution between respective radios associated with a multi-radio
+wireless device. As described herein various techniques can be utilized with a multi-radio coexistence manager and/or other
+suitable mechanisms associated with a wireless device to perform joint resolution for multiple associated radios thereby providing
+performance enhancements over conventional piecewise radio resolution schemes. Various exhaustive decoupled and
+progressive radio resolution algorithms are provided herein by which respective sets of parameters (e.g. transmit powers
+interference targets frequency sub-bands radio frequency knob settings etc.) can be selected for respective potentially conflicting
+radios to enable such radios to operate in coexistence. Further techniques are provided herein for utilizing a graph theoretic
+algorithm for progressive radio resolution. In addition a generic power resolution algorithm can be modified to provide support
+for multi-transmitter interference mechanisms by employing modifications such as joint power resolution and/or one-pass or
+iterative interference partitioning.
+No. of Pages : 61 No. of Claims : 59

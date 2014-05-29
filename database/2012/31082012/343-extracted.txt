@@ -1,0 +1,42 @@
+ 
+The Patent Office Journal 31/08/2012 
+13402
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2028/MUM/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :13/07/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : CHEMICAL BATH DEPOSITION EQUIPMENT  
+  
+(51) International classification  :C25D 19/00 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  :N/A 
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)BETKAR MAHESHWAR MALLIKARJUN 
+      Address of Applicant :SHIVAI, GOKUNDA, TQ.KINWAT, 
+DIST. NANDED, MS, INDIA, PIN_431811. Maharashtra India 
+(72)Name of Inventor : 
+   1)BETKAR MAHESHWAR MALLIKARJUN  
+(57) Abstract : 
+The present invention concerns chemical bath deposition equipment for depositing the thin films and method thereof. The deposition 
+method implemented by the invented equipment is advantageous in that, the integrated embodiment bi-directional DC motor 
+successfully optimizes the thermal field distribution and flow field distribution inside the chemical bath reaction fluid, which improves 
+the quality of thin films synthesized. The multiple substrate design enhances the quantity, hence less consumption of experimental 
+compound solutions. The reaction ambience inside the housing is well isolated from the outside atmosphere for creating the toxic free 
+surrounding. 
+ 
+No. of Pages : 25 No. of Claims : 10 

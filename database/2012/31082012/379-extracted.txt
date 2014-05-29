@@ -1,0 +1,47 @@
+ 
+The Patent Office Journal 31/08/2012 
+13438
+(12) PATENT APPLICATION PUBLICATION (21) Application No.5135/DELNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :04/07/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : REGENERATIVELY COOLED POROUS MEDIA JACKET  
+  
+(51) International classification  :F02K9/40  
+(31) Priority Document No  :61/120,776  
+(32) Priority Date  :08/12/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/067219
+:08/12/2009 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)FIRESTAR ENGINEERING  LLC 
+      Address of Applicant :1122 Flightline Rd. #76  Mojave  
+California 93501  United States of America. U.S.A. 
+(72)Name of Inventor : 
+   1)MUNGAS  Greg 
+   2)FISHER  David  J. 
+   3)LONDON  Adam  Pollok 
+   4)FRYER  Jack  Merrill  
+(57) Abstract : 
+The fluid and heat transfer theory for regenerative cooling of a rocket combustion chamber with a porous media coolant jacket is 
+presented. This model is used to design a regeneratively cooled rocket or other high temperature engine cooling jacket. Cooling 
+jackets comprising impermeable inner and outer walls, and porous media channels are disclosed. Also disclosed are porous media 
+coolant jackets with additional structures designed to transfer heat directly from the inner wall to the outer wall, and structures 
+designed to direct movement of the coolant fluid from the inner wall to the outer wall. Methods of making such jackets are also 
+disclosed. 
+  
+  
+No. of Pages : 71 No. of Claims : 27 

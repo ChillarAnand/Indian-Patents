@@ -1,0 +1,43 @@
+The Patent Office Journal 31/05/2013 12084
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9815/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :27/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : SYSTEM COMPATIBILITY METHOD AND APPARATUS
+(51) International classification :H04W 16/00
+(31) Priority Document No :NA
+(32) Priority Date :NA
+(33) Name of priority country :NA
+(86) International Application No
+Filing Date
+:PCT/CN2009/072261
+:12/06/2009
+(87) International Publication No : NA
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)Huawei Technologies Co. Ltd.
+Address of Applicant :Huawei Administration Building
+Bantian Longgang District Shenzhen Guangdong 518129 P.R.
+China.
+(72)Name of Inventor :
+1)LV Yongxia
+2)WANG Xuehuan
+3)XIONG Xin
+4)MO Junxian
+5)ZHAO Qiyong
+(57) Abstract :
+A system compatibility method and device are provided. The method involves sending information carried by a downlink resource
+according to a downlink resource configured in the new frame structure of the first system wherein the information carried by the
+downlink resource includes downlink resource carrier information which is compatible with the second system (110); receiving
+information carried by the uplink resource according to the uplink resource configured in the new frame structure of the first
+system wherein the information carried by the downlink resource includes uplink resource carrier information which is
+compatible with the second system (120). The invention reduces interference between systems enables compatibility between
+different systems and maximizes resource utility and system capacity.
+No. of Pages : 29 No. of Claims : 14

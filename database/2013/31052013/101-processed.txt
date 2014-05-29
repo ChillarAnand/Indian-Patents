@@ -1,0 +1,22 @@
+Application number  =>  9778/CHENP/2011 A 
+
+Date of filing of application number  =>  26/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  A METHOD AND SYSTEM FOR INTERWORKING BETWEEN INSTANT MESSAGING SERVICE AND SHORT MESSAGE SERVICE 
+
+Name of applicant  =>  1)ALCATEL LUCENT 
+
+Name of inventor  =>  1)WILLIAM J. BUSHNELL 
+
+International Classification  =>  H04L12/58 
+
+Priority Doc No  =>  12/494,627 
+
+International Application Number  =>  PCT/US2010/038807 
+
+International Publication Number  =>  WO 2011/008399 A1 
+
+Abstract  =>  A method and system for interworking between instant messaging and short message service are provided. The invention allows wireless service providers to offer a new text messaging service to their mobile clients, consumer IM clients and to enterprise IM clients. The exemplary embodiments comprise various elements, including a new administrative server that, among other things, allows consumer and enterprise-based IM users to register the URI of their IM client and to request a permanently assigned telephone number for receiving text messages from SMS clients and allows SMS users to register the mobile phone number and to request permanently assigned IM URI. The exemplary embodiments also comprise the expansion of the traditional E.164 Number Mapping (ENUM) server to provide the translation from IM URIs to mobile phone numbers and to perform the translation from mobile phone numbers to IM URIs, and modification of the traditional SMS Gateway to perform ENUM queries. 
+

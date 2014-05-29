@@ -1,0 +1,22 @@
+Application number  =>  3093/CHENP/2011 A 
+
+Date of filing of application number  =>  05/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD AND DEVICE FOR CONTROLLING AN INPUTTING DATA 
+
+Name of applicant  =>  1)TIKI'LABS 
+
+Name of inventor  =>  1)GUYOT-SIONNEST, LAURENT 
+
+International Classification  =>  G06F3/048, G06F3/023 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/IB2008/002654 
+
+International Publication Number  =>  WO 2010/041092 A1 
+
+Abstract  =>  The present invention relates to a progressive multilevel interactively guided method and device for inputting to an apparatus any object among a set of up to NN objects having each a symbolic representation, the small device comprising N sensible and N visual zones in correspondence one by one and having same form and relative positions, the method comprising the steps of showing N objects in each visual zone, a first actuation of the sensible zone associated with the visual zone showing the object to be selected, the distribution of the N shown objects in each N visual zones, a second actuation of the sensible zone associated with the visual zone showing the object to be selected, and an inputting of the selected object to the apparatus when the sensible zone is released. The objects symbolic representations are positioned within the visual zones in such a manner that the method is intuitive, easy to memorize and flexible, and via progressive levels, upward compatible with faster, chordic and less or no visual area demanding methods. The invention also relates to network systems using programs executing such methods and devices. 
+

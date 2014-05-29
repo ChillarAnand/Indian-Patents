@@ -1,0 +1,22 @@
+Application number  =>  687/MUMNP/2012 A 
+
+Date of filing of application number  =>  19/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  TRANSMISSION METHOD, DETECTION METHOD AND EQUIPMENT FOR CONTROL CHANNELS OF A RELAY SYSTEM 
+
+Name of applicant  =>  1)CHINA ACADEMY OF TELECOMMUNICATIONS TECHNOLOGY 
+
+Name of inventor  =>  1)SHEN ZUKANG 2)PAN XUEMING 3)XIAO GUOJUN 4)WANG LIBO 5)ZHANG WENJIAN 
+
+International Classification  =>  H04B 7/14 
+
+Priority Doc No  =>  200910235533.7 
+
+International Application Number  =>  PCT/CN2010/077490 
+
+International Publication Number  =>  WO/2011/038687 
+
+Abstract  =>  A configuration method, detection method and equipment for control channels of a relay system are provided in the present invention. The configuration method comprises: the network side transmits a Relay-Physical Downlink Control Channel (R-PDCCH) of a control channel to its service relay equipment, the related control information of said relay equipment is included in said R-PDCCH, said R-PDCCH is a dedicated R-PDCCH of said relay equipment (402). In the present invention, the dedicated control channel of the relay system is configured according to the number of Orthogonal Frequency Division Multiplexing (OFDM) symbols occupied by a R-PDCCH, and the mapping from a R-PDDCH/Relay-Physical Downlink Shared Channel (R-PDSCH) to a Resource Element (RE), and the demand that one relay node dedicates a R-PDCCH is satisfied. 
+

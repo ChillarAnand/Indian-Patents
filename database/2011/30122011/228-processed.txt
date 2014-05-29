@@ -1,0 +1,22 @@
+Application number  =>  1046/CHENP/2011 A 
+
+Date of filing of application number  =>  15/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD AND APPARATUS FOR THE OBJECTIVE DETECTION OF AUDITIVE DISORDERS 
+
+Name of applicant  =>  1)CENTRO DE NEUROCIENCIAS DE CUBA 
+
+Name of inventor  =>  1)PEREZ ABALO Maria Cecilia 2)RODRIGUEZ DAVILA Ernesto Luis 3)SANCHEZ CASTILLO Manuel 4)SOTERO DAZ Roberto Carlos 5)TORRES FORTUNY Alejandro 6)SANTOS FEBLES Elsa 
+
+International Classification  =>  A61B5/12 
+
+Priority Doc No  =>  2008-0141 
+
+International Application Number  =>  PCT/CU2009/000005 
+
+International Publication Number  =>   
+
+Abstract  =>  The invention relates to a method and apparatus for the objective detection of auditive disorders, by recording arising potentials of a stable state with simultaneous acoustic stimulation via the bones or the air way, to be used in new borns. The apparatus comprises the necessary means for the independent generation of two different sound stimuli presented to the subject simultaneously via osseous and air way electroacoustic transducers, the synchronous recording of the cerebral electrical activity of the subject, the continuous evaluation of the contact of the electrodes, the interactive measurement of the levels of ambient noise, and the wireless digital transmission of the bioelectric activity towards a computer. The method according to the invention statistically processes and detects the potentials provoked by the osseous-air way stimulation, automatically providing a categorical final result, according to the presence or absence of auditive sensitivity disorders, the type of disorder (conductive or sensorineural), and the validity of the result. 
+

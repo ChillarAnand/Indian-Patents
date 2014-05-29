@@ -1,0 +1,22 @@
+Application number  =>  1522/MUM/2009 A 
+
+Date of filing of application number  =>  26/06/2009 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  A METHOD AND DEVICE FOR REAL TIME COMMUNICATION OF HUMAN PHYSIOLOGICAL DATA 
+
+Name of applicant  =>  1)SOFOMO EMBEDDED SOLUTIONS PRIVATE LTD 
+
+Name of inventor  =>  1)GAUTAM MOREY 
+
+International Classification  =>  G06F19/00 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention discloses a system for capturing and transmitting human physiological data. The invention creates an electronic record of such data and transmits it to the desired location such as a hospital or a physician in real time. The present invention enables remote access to patient records on mobile consoles such as desktop PC or on Hand Held Devices through internet. The invention saves crucial time in decision making and aims at great convenience by enabling the physician to make a quick and effective diagnosis of the patients condition before the patient physically reaches the hospital. 
+

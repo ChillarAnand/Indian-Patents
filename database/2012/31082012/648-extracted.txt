@@ -1,0 +1,49 @@
+ 
+The Patent Office Journal 31/08/2012 
+13707
+(12) PATENT APPLICATION PUBLICATION (21) Application No.708/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :20/03/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : MANUAL INSTRUMENTED MEDICAL TOOL SYSTEM  
+  
+(51) International classification  :A61B 19/00  
+(31) Priority Document No  :61/272,296  
+(32) Priority Date  :09/09/2009 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/CA2010/001409
+:09/09/2010 
+(87) International Publication No  :WO/2011/029190  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)ENGINEERING SERVICES INC. 
+      Address of Applicant :890 YONGE SREET, 8TH FLOOR 
+TORONTO, ONTARIO M4W 3P4, CANADA. 
+   2)UNIVERSITY HEALTH NETWORK 
+(72)Name of Inventor : 
+   1)GOLDENBERG, ANDREW A. 
+   2)TRACHTENBERG, JOHN 
+   3)YANG, YI 
+   4)MA, LIANG  
+(57) Abstract : 
+A medical device is for use in association with a medical image of the gland or organ having a known reference point. The medical 
+device comprises a structural frame, a horizontal joint, a vertical joint, a pan join, a tilt joint a medical instrument assembly and a 
+control system. The medical device is positioned at a predetermined location relative to the medical image reference point. Each of the 
+horizontal joint, the vertical joint, the pan joint and the tilt joint have a position sensor and are operably connected to the frame. The 
+medical instrument assembly is operably connected to a sensor and to the horizontal joint, the vertical joint, the pan joint and the tilt 
+joint. The control system is operably connected to the other elements whereby the control system determines the position of a 
+predetermined location on the medical instrument assembly relative to the structural frame. 
+  
+  
+No. of Pages : 34 No. of Claims : 22 

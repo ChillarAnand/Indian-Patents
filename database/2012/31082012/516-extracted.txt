@@ -1,0 +1,48 @@
+ 
+The Patent Office Journal 31/08/2012 
+13575
+(12) PATENT APPLICATION PUBLICATION (21) Application No.468/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :24/02/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : RADIO BASE STATION APPARATUS, RADIO TERMINAL APPARATUS AND WIRELESS 
+COMMUNICATION METHOD  
+  
+(51) International classification  :H04W 48/16  
+(31) Priority Document No  :2009-212261  
+(32) Priority Date  :14/09/2009 
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date 
+:PCT/JP2010/005575
+:13/09/2010 
+(87) International Publication No  :WO/2011/030561  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)PANASONIC CORPORATION 
+      Address of Applicant :1006, OAZA KADOMA, KADOMA-
+SHI, OSAKA 571-8501, JAPAN. 
+(72)Name of Inventor : 
+   1)SEKI, YUTA  
+(57) Abstract : 
+A radio base station apparatus wherein even when a single-base-station transmission and a plural-base-station cooperative 
+transmission are implemented at the same time, the terminal-to-base-station feedback information amount and the ICI can be reduced, 
+thereby improving the reception characteristic of a terminal existing in the vicinity of a cell edge. A base station (100) uses a first 
+transmission mode, in which only the base station implements a signal transmission, and a second transmission mode, in which the 
+base station implements a cooperative signal transmission together with another radio base station apparatus, to communicate with one 
+or more radio terminal apparatuses. A setting unit (103) sets, as a particular frequency band the reception quality of which is to be 
+measured, one of first and second frequency bands that are parts of a band used for communications with the terminals. A deciding 
+unit (101) decides, as the transmission mode for the terminals, one of the first and second transmissions on the basis of the reception 
+quality of the particular frequency band. 
+  
+  
+No. of Pages : 63 No. of Claims : 9 

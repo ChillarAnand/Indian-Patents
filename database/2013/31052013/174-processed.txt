@@ -1,0 +1,22 @@
+Application number  =>  9963/CHENP/2011 A 
+
+Date of filing of application number  =>  29/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  METHOD AND APPARATUS FOR COMPENSATING FOR TRANSCEIVER IMPAIRMENTS 
+
+Name of applicant  =>  1)ALCATEL LUCENT 
+
+Name of inventor  =>  1)HEUTMAKER Michael Steven 2)HONCHARENKO Walter 
+
+International Classification  =>  H04B 1/30 
+
+Priority Doc No  =>  12/494,862 
+
+International Application Number  =>  PCT/US2010/038573 
+
+International Publication Number  =>   
+
+Abstract  =>  A method for compensating a transceiver for impairments includes transmitting a plurality of partial bandwidth training signals using a transmitter. A plurality of response signals of a receiver having a bandwidth and exhibiting receiver impairments is captured. Each response signal is associated with one of the partial bandwidth training signals. Each of the partial bandwidth training signals is associated with a portion of the receiver bandwidth. A plurality of partial compensation filters is generated based on the plurality of response signals. Each partial compensation filter is associated with one of the response signals. The partial compensation filters are combined to configure a receiver compensation filter operable to compensate for the receiver impairments. 
+

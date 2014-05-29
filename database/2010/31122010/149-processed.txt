@@ -1,0 +1,22 @@
+Application number  =>  4125/KOLNP/2010 A 
+
+Date of filing of application number  =>  02/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  SMALL APERTURE INTERROGATOR ANTENNA SYSTEM EMPLOYING SUM-DIFFERENCE AZIMUTH DISCRIMINATION TECHNIQUES 
+
+Name of applicant  =>  1)RAYTHEON COMPANY 
+
+Name of inventor  =>  1)TAHMISIAN, THEODORE, N 2)HALL, CHARLES, A 
+
+International Classification  =>  H01Q 1/27 
+
+Priority Doc No  =>  61/048.760 
+
+International Application Number  =>  PCT/US2009/041903 
+
+International Publication Number  =>  WO 2009/134751 
+
+Abstract  =>  An antenna system comprising a first antenna (26,42) corresponding to a horn antenna, a second antenna (28,44) corresponding to a horn antenna disposed such that the E-plane of the second antenna is co-planar with the E-plane of the first antenna an such that an aperture of the first antenna and an aperture of the second antenna are substantially in a common plane; and a third antenna (30,46) corresponding to a horn antenna disposed such that the E-plane of the third antenna is substantially co-planar with the E-plane of the first antenna and such that an aperture of said third antenna is substantially in the same plane as the aperture of the first and second antennas and wherein the second and third antennas are canted toward each other. 
+

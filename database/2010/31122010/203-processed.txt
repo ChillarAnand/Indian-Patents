@@ -1,0 +1,22 @@
+Application number  =>  4215/KOLNP/2010 A 
+
+Date of filing of application number  =>  10/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  METHOD AND DEVICE FOR REMOVING CONTAMINATTING PARTICLES FROM CONTAINERS 
+
+Name of applicant  =>  1)GERRESHEIMER PISA S.P.A. 
+
+Name of inventor  =>  1)FIORENTINI, LORENZO PAOLO DANTE 
+
+International Classification  =>  B08B 6/00 
+
+Priority Doc No  =>  08103961.2 
+
+International Application Number  =>  PCT/EP2009/003431 
+
+International Publication Number  =>  WO 2009/138231 
+
+Abstract  =>  A method and a device (50) for removing fragments and/or particles from containers, such as in particular glass tubes (5), provides means for adjusting the electrostatic force (40) in the tubes (5) and means for removing (60) of the fragments. The means for removing (60) can comprise a jet of fluid, of measured speed, put in the containers (5) by a nozzle (2), whereas the means for adjusting the electrostatic force (40) can comprise an element (1) for putting an electrically conducting fluid (8) with a measured resistivity in the containers (5). This way, the fluid (8), for example ionized air, acts in order to reduce and/or eliminate the electrostatic charge, and therefore the electrostatic force, between the fragments (30) and the surface of the containers, assisting the removal by means of jets of fluid or by suction means. 
+

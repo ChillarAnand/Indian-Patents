@@ -1,0 +1,46 @@
+The Patent Office Journal 30/12/2011 
+ 
+25576
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1073/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :16/02/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : POWER SUPPLY APPARATUS  
+  
+(51) International classification  :H02J7/00  
+(31) Priority Document No  :200810142968.2  
+(32) Priority Date  :23/07/2008 
+(33) Name of priority country  :China 
+(86) International Application No 
+        Filing Date 
+:PCT/IB2009/053022
+:13/07/2009 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+      Address of Applicant :GROENEWOUDSEWEG 1 
+EINDHOVEN  5621 BA  NETHERLANDS   
+(72)Name of Inventor : 
+   1)LIU  Chenyang 
+   2)RUIJTER  Hendrikus  Albertus  Adrianus  Maria de 
+   3)BAKKER  Levinus  Pieter  
+(57) Abstract : 
+To solve or mitigate the problem of lacking the last mile connection to a power grid, the invention provides a power supply 
+apparatus for supplying electric energy to a plurality of devices. The apparatus comprises a power dock configured to electrically 
+couple to a power pack, wherein the power pack is configured to store electric energy; and a plurality of connectors each being 
+configured to supply electric energy from the power dock to one of the plurality of devices. By utilizing the power pack, particularly a 
+removable super capacitor, accessing power becomes easier for those people living away from power grids or suffering from an 
+unstable power supply. (Fig. 2) 
+  
+ 
+No. of Pages : 15 No. of Claims : 11 

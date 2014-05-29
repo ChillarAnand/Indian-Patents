@@ -1,0 +1,22 @@
+Application number  =>  426/MUMNP/2012 A 
+
+Date of filing of application number  =>  20/02/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  VALUE EXCHANGE SYSTEM FOR USE WITHIN AN INTERNET-BASED SOCIAL NETWORK 
+
+Name of applicant  =>  1)MOL ACCESSPORTAL SDN. BHD. 
+
+Name of inventor  =>  1)BANGAH, GANESH, KUMAR 2)SIEW, TJEN, TSENG 
+
+International Classification  =>  G06Q 30/00 
+
+Priority Doc No  =>  PI20093417 
+
+International Application Number  =>  PCT/MY2010/000143 
+
+International Publication Number  =>  WO/2011/021924 
+
+Abstract  =>  A computer-implemented method of enabling a value exchange between users of a SNS which functions within the confines of the SNS according to the present invention, employs a system that comprises an application which creates an interface to the value exchange system, a means for registration to enable users to register with the value exchange system, wherein a user is assigned an account with the value exchange system after registration, a means for receiving at the value exchange system, a value exchange transaction between a first user and a second user, wherein the users are members of a same internet-based social network and the value exchange system makes use of the internet-based social network account identifiers of the respective users to enable the communication of value exchange transactions between the users, a notification means for computer generation of notifications of the value exchange transactions between the first and second users, and for the electronic transmission of the said notifications, and a value exchange means for debiting from or crediting to the value exchange system account of the first user the value to be exchanged in a value exchange transaction, and correspondingly crediting to or debiting from the value exchange system account of the second user the value to be exchanged. 
+

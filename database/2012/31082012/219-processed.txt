@@ -1,0 +1,22 @@
+Application number  =>  3103/CHENP/2011 A 
+
+Date of filing of application number  =>  05/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  SYSTEM FOR GUIDING A DRONE THE APPROACH PHASE TO A PLATFORM, IN PARTICULAR A NAVAL PLATFORM, WITH A VIEW TO LANDING SAME 
+
+Name of applicant  =>  1)DCNS 
+
+Name of inventor  =>  1)MORESVE, JULIEN 
+
+International Classification  =>  B64F1/20, G01S1/70, G08G5/02 
+
+Priority Doc No  =>  0856929 
+
+International Application Number  =>  PCT/FR2009/051953 
+
+International Publication Number  =>  WO 2010/043815 A1 
+
+Abstract  =>  This system for guiding a drone during the approach phase to a platform, particularly a naval platform, with a view to landing the same, is characterized in that the platform is equipped with a glide slope indicator installation emitting an array of optical guide beams over an angular sector predetermined from the horizontal, and in that the drone is equipped with a beam acquisition camera (6) connected to image analysis means (7) and to computing means (8) of orders for commanding automatic piloting means (9) of the drone to cause it to follow the guide beams. 
+

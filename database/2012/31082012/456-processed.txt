@@ -1,0 +1,22 @@
+Application number  =>  1077/MUMNP/2012 A 
+
+Date of filing of application number  =>  27/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  OBSERVATION CELL ARRANGEMENT 
+
+Name of applicant  =>  1)THE UNIVERSITY OF NOTTINGHAM 
+
+Name of inventor  =>  1)MORRIS, BRYAN 2)SELF, TIM 3)HILL, STEPHEN, JOHN 
+
+International Classification  =>  G01N 15/14 
+
+Priority Doc No  =>  0917565.4 
+
+International Application Number  =>  PCT/GB2010/051698 
+
+International Publication Number  =>  WO/2011/042755 
+
+Abstract  =>  An observation cell arrangement for flow perfusion of a sample to be examined, the arrangement comprising a flow cell (21) having a cavity therein to receive the sample, the flow cell (21) arranged to receive a flow of fluid through the cavity that is directed over the sample from a cavity inlet (22) to a cavity outlet (23), the cavity inlet (22) associated with a fluid supply line, and a first flow supply path (24) connected to the fluid supply line via a valve (39), the first flow supply path (24) adapted to receive pressure from a pressure source comprising a pressure reservoir (29) to drive fluid flow through the cavity at a desired flow rate 
+

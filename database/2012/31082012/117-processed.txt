@@ -1,0 +1,22 @@
+Application number  =>  2972/CHENP/2011 A 
+
+Date of filing of application number  =>  02/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  3-(BENZYLAMINO)-PYRROLIDINE DERIVATIVES AND THEIR USE AS NK-3 RECEPTOR ANTAGONISTS 
+
+Name of applicant  =>  1)F. HOFFMANN-LA ROCHE AG 
+
+Name of inventor  =>  1)BISSANTZ, CATERINA 2)JABLONSKI, PHILIPPE 3)KNUST, HENNER 4)NETTEKOVEN, MATTHIAS 5)RATNI, HASANE 6)RIEMER, CLAUS 
+
+International Classification  =>  C07D207/14, A61K 31/401, A61K31/4025 
+
+Priority Doc No  =>  08168213.0 
+
+International Application Number  =>  PCT/EP09/064031 
+
+International Publication Number  =>  WO 2010/060703 A1 
+
+Abstract  =>  The present invention relates to a compounds of formula I wherein Ar is aryl; R1 is hydrogen, halogen, lower alkyl, lower alkoxy, lower alkyl substituted by halogen, lower alkoxy substituted by halogen, cyano, amino, mono or di-lower alkyl amino, C(O)-lower alkyl, or is aryl or heteroaryl; R2 is hydrogen or halogen; R3 is -(CH2)p-heterocyclyl, optionally substituted by one or two substituents R4; or is lower alkyl, lower alkoxy, -(CH2)p-O-lower alkyl, -(CH2)P-CN, -O-(CH2)P-CN, -(CH2)p-heteroaiyl, -(CH2)p-C(O) - heteroaiyl, -O-(CH2)p-heterocyclyl, -(CH2)p-aryl, optionally substituted by lower alkoxy or halogen, -(CH2)p-O-aryl, optionally substituted by lower alkyl, -(CH2)p-NR-heterocyclyl, optionally substituted by lower alkyl, -CH2)P-NRR, -CH2)p-NR-CH2)p.-NRR, -CH2)p-NR-CH2)p-CN, -CH2)P-C(O)-NRR or is -O-(CH2)p-NRR; R4 is hydroxy, lower alkyl, -(CH2)p-OH, -(CH2)p-NRR, -NR- C(O)-lower alkyl, -(CH2)P-CN, -S(O)2-lower alkyl, -NR-S(O)2-lower alkyl, -S(O)2-NRR, -C(O)-lower alkyl, -C(O)-lower cycloalkyl, wherein the cycloalkyl may be substituted by lower alkyl, or is -C(O)-NRR, heterocyclyl, optionally substituted by =0, or is heteroaryl, optionally substituted by alkoxy or cyano, or is aryl optionally substituted by alkoxy, cyano or is 2-oxa-5 -aza- bicyclo[2.2.1 ]hept-5 -yl; R and R are independently from each other hydrogen, lower alkyl or -(CH2)p-OH; n is 1 or 2; in case n is 1 or 2, R1 may be the same or different; o is 1 or 2; in case o is 1 or 2, R2 may be the same or different; p,p are the same or different and are 0, 1, 2 3 or 4; or to a pharmaceutically active salt, a racemic mixture, an enantiomer, an optical isomer or a tautomeric form thereof. It has been found that the present compounds are high potential NK-3 receptor antagonists for the treatment of depression, pain, psychosis, Parkinsons disease, schizophrenia, anxiety and attention deficit hyperactivity disorder (ADHD). 
+

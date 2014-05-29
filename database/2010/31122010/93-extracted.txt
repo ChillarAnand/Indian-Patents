@@ -1,0 +1,59 @@
+The Patent Office Journal 31/12/2010 
+ 
+5359
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2008/MUMNP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :23/09/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : SYSTEM AND/OR METHOD FOR OBTAINING A TIME REFERENCE FOR A RECEIVED SPS 
+SIGNAL  
+  
+(51) International classification  :G01S1/00  
+(31) Priority Document No  :12/101,955  
+(32) Priority Date  :11/04/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/039750
+:07/04/2009 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)QUALCOMM INCORPORATED 
+      Address of Applicant :Attn: International IP Administration  
+5775 Morehouse Drive  San Diego  California 92121-1714  
+United States of America   
+(72)Name of Inventor : 
+   1)PON  Rayman Wai  
+(57) Abstract : 
+The subject matter disclosed herein relates to a system and method for obtaining time references for signals received from transmitters 
+in a satellite and/or terrestrial navigation system. A first time reference associated with a first signal received at a receiver from a first 
+transmitter is obtained. A second time reference associated with a second signal from a second transmitter is obtained based on the 
+first time reference and on an estimated difference between a first range to the first transmitter from the receiver and a second range to 
+the second transmitter from the receiver. 
+  
+  
+No. of Pages : 54 No. of Claims : 29 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

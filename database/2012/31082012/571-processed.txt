@@ -1,0 +1,22 @@
+Application number  =>  536/MUMNP/2012 A 
+
+Date of filing of application number  =>  05/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  ELECTRONIC BLANK AMMUNITION 
+
+Name of applicant  =>  1)NIMTEC AS 
+
+Name of inventor  =>  1)BOTTEN, STEFFEN 
+
+International Classification  =>  F41A 33/02 
+
+Priority Doc No  =>  2009 3112 
+
+International Application Number  =>  PCT/NO2010/000357 
+
+International Publication Number  =>  WO/2011/043673 
+
+Abstract  =>  The present invention relates to a system for electronic simulation of live ammunition when firing a small arms, comprising: - a magazine (1, 25, 50) to be inserted in a magazine funnel of the arms simulating a live ammunition magazine; - a trigger module (2, 26, 51) to be mounted on the arms, the trigger module comprising a trigger actuator (3, 27, 53, 95) for mounting on a trigger of the arms and a safety catch actuator (4, 28, 54, 97, 98, 99) for mounting on a safety catch on the arms; and - a sound producing device for simulation of shots. The invention replaces ordinary blank ammunition in the magazine with an electronic solution. 
+

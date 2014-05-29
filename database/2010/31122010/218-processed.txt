@@ -1,0 +1,22 @@
+Application number  =>  4245/KOLNP/2010 A 
+
+Date of filing of application number  =>  11/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  COLD WALL HORIZONTAL AMMONIA CONVERTER 
+
+Name of applicant  =>  1)KELLOGG BROWN & ROOT LLC 
+
+Name of inventor  =>  1)BLANCHARD, KENNETH, L. 
+
+International Classification  =>  C01C 1/00 
+
+Priority Doc No  =>  12/128,730 
+
+International Application Number  =>  PCT/US2009/002828 
+
+International Publication Number  =>  WO 2009/145865 
+
+Abstract  =>  Systems and methods for producing ammonia. Nitrogen and hydrogen can be supplied to a reaction zone disposed inside an inner shell. The inner shell can be disposed inside an outer shell such that a space is formed therebetween. The reaction zone can include at least one catalyst bed in indirect heat exchange with the space. The nitrogen and hydrogen can be reacted in the reaction zone in the presence of at least one catalyst to form an effluent comprising ammonia. The effluent can be recovered from the inner shell and cooled to provide a cooled effluent stream. A cooling fluid can be provided to the outer shell such that the cooling fluid flows through at least a portion of the space and is in fluid communication with the exterior of the inner shell. At least a portion of the cooled effluent can provide at least a portion of the cooling fluid. The cooling fluid can then be recovered from the outer shell as an ammonia product. 
+

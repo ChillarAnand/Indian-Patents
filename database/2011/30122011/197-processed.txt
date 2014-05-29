@@ -1,0 +1,22 @@
+Application number  =>  1122/MUMNP/2011 A 
+
+Date of filing of application number  =>  01/06/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD AND DEVICE FOR LASER LITHOTRIPSY 
+
+Name of applicant  =>  1)CERAMOPTEC INDUSTRIES INC. 
+
+Name of inventor  =>  1)CECCHETTI Leonardo 2)CECCHETTI Walter 3)NEUBERGER Wolfgang 
+
+International Classification  =>  A61B 18/26 
+
+Priority Doc No  =>  61/119,190 
+
+International Application Number  =>  PCT/US2009/066413 
+
+International Publication Number  =>  WO/2010/065638 
+
+Abstract  =>  A system and method for the destruction/ablation of stones, calculi or other hard substances by means of laser energy is disclosed. As a consequence, several important medical treatments can be performed, especially lithotripsy. The system comprises a diode laser source emitting at least at one wavelength, one or more optical fibers which convey laser radiation to the treatment site and a liquid delivery system used for creating a liquid environment around the stones (calculi). The laser device emits at least one wavelength which is highly absorbed in the surrounding/covering medium, thus causing evaporation and cavitation effects that lead to stone/calculi destruction. Different radiation configurations may be used. In one embodiment continuous radiation is used to create sparkler-less plasma bubbles able to destroy hard substances. In another embodiment high peak power pulsed radiation is used. Wavelengths of 1470 nm, 1940 nm, or 1550 nm are preferred. 
+

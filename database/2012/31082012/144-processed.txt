@@ -1,0 +1,22 @@
+Application number  =>  3002/CHENP/2011 A 
+
+Date of filing of application number  =>  03/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD AND APPARATUS FOR DETERMINING DRX CYCLE USED FOR PAGING 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)MASATO KITAZOE 2)OSOK SONG 3)NATHAN EDWARD TENNY 
+
+International Classification  =>  H04W68/00 
+
+Priority Doc No  =>  61/115,848 
+
+International Application Number  =>  PCT/US09/065010 
+
+International Publication Number  =>  WO 2010/059741 A2 
+
+Abstract  =>  Techniques for determining a discontinuous reception (DRX) cycle used to receive paging are described. A user equipment (UE) may have (i) a first DRX cycle used by a first network (e.g., a core network) to page the UE and (ii) a second DRX cycle used by a second network (e.g., a RAN) to page the UE. In an aspect, the UE may use the longer DRX cycle and ignore the shorter DRX cycle, when allowed, to extend battery life. In one design, the UE may receive an indication of whether the second DRX cycle can be ignored or is to be considered by the UE. The UE may use the longer DRX cycle if the second DRX cycle can be ignored and may receive paging from the first network and/or the second network based on the longer DRX cycle. In another aspect, the UE may negotiate a DRX cycle with a network. 
+

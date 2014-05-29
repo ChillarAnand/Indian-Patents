@@ -1,0 +1,22 @@
+Application number  =>  1299/KOL/2010 A 
+
+Date of filing of application number  =>  16/11/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  TUCK-IN METHOD AND TUCK-IN DEVICE FOR SHUTTLELESS LOOM 
+
+Name of applicant  =>  1)TSUDAKOMA KOGYO KABUSHIKI KAISHA 
+
+Name of inventor  =>  1)KAKUTANI, KAZUTO 2)UESHIMA, TAMOTSU 
+
+International Classification  =>  D03D45/50 
+
+Priority Doc No  =>  2009-271221 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  An air jet tuck-in device for use in a shuttleless loom for weaving a fabric (1) including a plurality of weave sections having different weft densities includes one or more tuck-in nozzles (4) disposed at a side of a row of warp yarns for tucking an end portion (2a) of a weft yarn into a warp shedding (30) after weft insertion; switching means (5) that switches an ejection position of the tuck-in nozzles (4) between a first ejection position that corresponds to a first weave section (1a) and a second ejection position that corresponds to a second weave section (1b); and control means (6) that selects the ejection position of the tuck-in nozzles (4) and operates the switching means (5) on the basis of a result of the selection, the selection being performed on the basis of a signal related to an input weft density or a weaving condition associated with the weft density. 
+

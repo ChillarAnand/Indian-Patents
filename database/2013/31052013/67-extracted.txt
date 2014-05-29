@@ -1,0 +1,42 @@
+The Patent Office Journal 31/05/2013 12038
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2789/CHENP/2012 A
+(19) INDIA
+(22) Date of filing of Application :27/03/2012 (43) Publication Date : 31/05/2013
+(54) Title of the invention : METHOD OF CONVERTING FEEDS FROM RENEWABLE SOURCES IN CO-PROCESSING
+WITH A PETROLEUM FEED USING A CATALYST BASED ON NICKEL AND MOLYBDENUM
+(51) International classification :B01J 23/88
+(31) Priority Document No :09/04.162
+(32) Priority Date :02/09/2009
+(33) Name of priority country :France
+(86) International Application No
+Filing Date
+:PCT/FR2010/000543
+:27/07/2010
+(87) International Publication No :WO 2011/030009A1
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)IFP ENERGIES NOUVELLES
+Address of Applicant :1 & 4 AVENUE DE BOIS-PREAU,
+92852 RUEIL-MALMAISON CEDEX France
+(72)Name of Inventor :
+1)DUPASIEUX, NATHALIE
+2)DAUDIN, ANTOINE
+3)CHAPUS, THIERRY
+(57) Abstract :
+The invention relates to a method of hydrotreatment in co-processing of petroleum feeds, in a mixture with at least one feed
+obtained from renewable sources, for producing fuel bases (kerosene and/or gas oil) having a sulphur content below 10 ppm, said
+method comprising the following stages: a) a first hydrotreatment stage in which said feed passes through at least one first fixed-
+bed catalytic zone comprising at least one bulk or supported catalyst comprising an active phase constituted by at least one group
+VIB element and at least one group VIII element, said elements being in the form of sulphide and the atomic ratio of the group
+VIII metal (or metals) to group VIB metal (or metals) being strictly greater than 0 and less than 0.095, b) a second hydrotreatment
+stage into which the effluent from the first hydrotreatment stage is sent directly, and in which said effluent passes through at least
+one second fixed-bed catalytic zone comprising at least one hydrotreatment catalyst.
+No. of Pages : 38 No. of Claims : 15

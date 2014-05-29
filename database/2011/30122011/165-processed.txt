@@ -1,0 +1,22 @@
+Application number  =>  1072/MUMNP/2011 A 
+
+Date of filing of application number  =>  26/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  SECURE NODE IDENTIFIER ASSIGNMENT IN A DISTRIBUTED HASH TABLE FOR PEER-TO- PEER NETWORKS 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)XIAO Lu 2)NARAYANAN Vidya 3)HARDIE Edward Thomas Lingham 4)JAYARAM Ranjith S. 5)SUBRAMANIAN Ramachandran 6)DONDETI Lakshminath Reddy 
+
+International Classification  =>  H04L 29/06 
+
+Priority Doc No  =>  12/342,021 
+
+International Application Number  =>  PCT/US2009/069113 
+
+International Publication Number  =>  WO/2010/075338 
+
+Abstract  =>  A multi-party commitment method is provided whereby a joining node uses contributions provided by contributor nodes in a peer-to- peer overlay network to generate a node identifier. The joining node generates a first contribution and sends a join request to an introducer node (or a plurality of contributor nodes), where the join request seeks to obtain one or more contributions for generating the node identifier within an identifier space of the overlay network. A hash of the first contribution may be included as part of the join request. In response, the joining node may receive a plurality of contributions, wherein the contributions are bound to each other and the first contribution by a prior external multi-node commitment operation. The joining node can then generate its node identifier as a function of the first contribution and the received contributions. Consequently, collusion between nodes and malicious manipulation during ID generation can be frustrated. 
+

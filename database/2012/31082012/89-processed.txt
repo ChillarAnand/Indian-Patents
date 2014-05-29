@@ -1,0 +1,22 @@
+Application number  =>  2935/CHENP/2011 A 
+
+Date of filing of application number  =>  29/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  PROCEDURE FOR PREPARING A PROCESSED VIRTUAL ANALYSIS IMAGE 
+
+Name of applicant  =>  1)NOVACYT 
+
+Name of inventor  =>  1)PELTIER, ERIC 
+
+International Classification  =>  G02B21/36, G01N1/30, G02B21/00 
+
+Priority Doc No  =>  0857438 
+
+International Application Number  =>  PCT/FR2009/052086 
+
+International Publication Number  =>  WO 2010/049651 A1 
+
+Abstract  =>  This method comprises the following steps: - carrying out a processing of the specimen, said processing being carried out so as to make it possible to differentiate the pathological cells from the healthy cells of the specimen, - performing an acquisition of images of the specimen disposed on the analysis plate so as to obtain a plurality of images each representing a zone of the analysis plate, said images placed side by side forming an image of the whole of the specimen so as to create a virtual analysis plate. The method furthermore comprises the following step: - performing on the virtual analysis plate a processing of the images acquired so as to obtain a virtual restitution of the colors and of the intensity of the colors of the cytoplasm and/or of the nucleus, said colors and said intensity being able to be modified according to the preferences of the person in charge of the analysis. 
+

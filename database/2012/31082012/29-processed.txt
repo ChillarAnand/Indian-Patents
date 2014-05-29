@@ -1,0 +1,22 @@
+Application number  =>  2163/CHE/2011 A 
+
+Date of filing of application number  =>  27/06/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  COLOR IMAGE FORMING APPARATUS 
+
+Name of applicant  =>  1)CANON KABUSHIKI KAISHA 
+
+Name of inventor  =>  1)TAKEHIRO UCHIYAMA 2)TAKATERU OHKUBO 3)KENJI WATANABE 4)KENICHI IIDA 5)TOSHIAKI SAKO 6)HIROSHI HAGIWARA 7)HIROMITSU KUMADA 
+
+International Classification  =>  G03G15/01 
+
+Priority Doc No  =>  2010-149479 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The image forming apparatus includes process units that are closely arranged around respective photosensitive members and act on the photosensitive members, a light emission section that forms an electrostatic latent image for detection on the photosensitive member and a detection section that detects the electrostatic latent image passes through a position facing to the process unit and a control section that performs misregistration correction control based on the detection result. It achieves to resolve a problem that is caused in detection of a conventional toner image for detection by an optical sensor and to enhance usability of an image forming apparatus. 
+

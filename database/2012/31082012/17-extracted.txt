@@ -1,0 +1,45 @@
+ 
+The Patent Office Journal 31/08/2012 
+13859
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2097/CHE/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :21/06/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : IMPLEMENTING SUBSTATION AUTOMATION LOAD TRANSFER FUNCTION  
+  
+(51) International classification  :G06F1/28 
+(31) Priority Document No  :10167226.9 
+(32) Priority Date  :24/06/2010
+(33) Name of priority country  :EPO 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)ABB TECHNOLOGY 
+      Address of Applicant :AFFOLTERNSTRASSE 44, CH-8050 
+ZURICH Switzerland 
+(72)Name of Inventor : 
+   1)PETER RIETMANN 
+   2)WOLFGANG WIMMER  
+(57) Abstract : 
+The present invention relates to a process of implementing, or engineering, topology-dependent functions based on a formal 
+description of the Substation Automation system, by performing a topology analysis of the current single line state. A topology 
+interpreting implementation replacing complex topology analysis logics requires only the project specific static single line topology 
+and the connection to the real process state data. All this information can be delivered in an IEC 61850 conforming SCD file, which 
+readily exists for any IEC 61850 based system. The engineering and testing effort of automatic load transfer functions for more 
+complex single line topologies is thus reduced drastically. Also the interface description for controlling and monitoring the load 
+transfer application can be generated automatically from the SCD file.   
+  
+  
+No. of Pages : 17 No. of Claims : 6 

@@ -1,0 +1,46 @@
+The Patent Office Journal 31/12/2010 
+ 
+5416
+(12) PATENT APPLICATION PUBLICATION (21) Application No.4129/KOLNP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :02/11/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : MOBILE COMMUNICATION METHOD, MOBILE STATION, AND RADIO BASE STATION  
+  
+(51) International classification  :H04W 74/04  
+(31) Priority Document No  :2008-111922  
+(32) Priority Date  :22/04/2008 
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date 
+:PCT/JP2009/058008
+:22/04/2009 
+(87) International Publication No  :WO 2009/131154  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)NTT DOCOMO, INC. 
+      Address of Applicant :11-1,NAGATACHO 2-CHOME, 
+CHIYODA-KU, TOKYO, 100-6150 JAPAN. 
+(72)Name of Inventor : 
+   1)ISHII, HIROYUKI 
+   2)UMESH, ANIL  
+(57) Abstract : 
+Provided is a mobile communication method in which a mobile station UE uses an uplink radio resource allocated by predetermined 
+scheduling information at a predetermined cycle so as to transmit uplink data transmitted from a radio base station eNB. The method 
+includes: step A for reporting information on the predetermined cycle and the uplink radio resource to the mobile station UE; step B 
+for reporting predetermined scheduling information to the mobile station UE; and step C for transmitting uplink data at a 
+predetermined cycle starting at the moment decided by the received predetermined scheduling information by using the uplink radio 
+resource allocated by the predetermined scheduling information. If step C finds that the information on the uplink radio resource 
+contradicts with the information reported by the predetermined scheduling information, the predetermined scheduling information is 
+discarded.  
+ 
+No. of Pages : 75 No. of Claims : 18 

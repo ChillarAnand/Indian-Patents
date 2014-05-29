@@ -1,0 +1,22 @@
+Application number  =>  1035/MUMNP/2012 A 
+
+Date of filing of application number  =>  24/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  CHAMFERING DEVICE AND GEAR PROCESSING MACHINE PROVIDED THEREWITH 
+
+Name of applicant  =>  1)MITSUBISHI HEAVY INDUSTRIES, LTD. 
+
+Name of inventor  =>  1)MASUO KOICHI 2)TOKAWA TAKAHIDE 
+
+International Classification  =>  B23F 19/10 
+
+Priority Doc No  =>  2010-057009 
+
+International Application Number  =>  PCT/JP2010/067504 
+
+International Publication Number  =>  WO/2011/114558 
+
+Abstract  =>  Provided is a chamfering device such that in a simple configuration, position adjustments of a chamfering cutter and a deburring cutter with respect to a workpiece can be easily carried out. The chamfering device is equipped with the chamfering cutter (31); the deburring cutter (32), which has a diameter different from that of the chamfering cutter; and a cutter swing block (35), a cutter longitudinal feed block (42), and a base block (43), which rotatably support the chamfering cutter (31) and the deburring cutter (32), and are capable of subjecting the chamfering cutter (31) and the deburring cutter (32) to position adjustment with respect to the workpiece (W). The workpiece (W), the chamfering cutter (31), and the deburring cutter (32) are disposed so that the cutter longitudinal feed block (42) can perform single-axis feeding with respect to the workpiece (W). The chamfering cutter and the deburring cutter are disposed so that the cutting change amount of the chamfering cutter and that of the deburring cutter will be approximately equal to each other throughout the diameter range of the workpiece to be processed. 
+

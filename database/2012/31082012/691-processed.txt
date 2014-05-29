@@ -1,0 +1,22 @@
+Application number  =>  777/MUMNP/2012 A 
+
+Date of filing of application number  =>  27/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  SYSTEM AND METHOD FOR PRODUCING, FILLING, PACKAGING AND/OR TRANSPORTING BEVERAGES 
+
+Name of applicant  =>  1)KRONES AG 
+
+Name of inventor  =>  1)KLAUS WASMUHT 2)ALBERT LINK 
+
+International Classification  =>  H02J 11/00 
+
+Priority Doc No  =>  10 2009 044 258.8 
+
+International Application Number  =>  PCT/EP2010/063211 
+
+International Publication Number  =>  WO/2011/045126 
+
+Abstract  =>  The present invention relates to a system and a method for the production, filling, packaging and / or transport of beverages in beverage containers. The system components are coupled physically and by a common control unit. Furthermore the system components are coupled at least partially energetically. The system components form mutually coupled energy conversion units, energy storage units and / or energy consumption units. The system components are provided with energy from one common energy generating device, which supplies mechanical operating power (wave energy) and / or electrical energy and / or thermal energy to the system components. 
+

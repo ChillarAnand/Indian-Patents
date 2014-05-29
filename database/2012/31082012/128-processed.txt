@@ -1,0 +1,22 @@
+Application number  =>  2962/CHENP/2011 A 
+
+Date of filing of application number  =>  02/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHODS AND SYSTEMS FOR PROGRAMMABLE DIGITAL UP-CONVERSION 
+
+Name of applicant  =>  1)NORTEL NETWORKS LIMITED 
+
+Name of inventor  =>  1)BRADLEY JOHN MORRIS 2)ARTHUR THOMAS GERALD FULLER 
+
+International Classification  =>  H04L27/00, H03M1/66, H03H17/02 
+
+Priority Doc No  =>  12/254,332 
+
+International Application Number  =>  PCT/CA09/001495 
+
+International Publication Number  =>  WO 2010/045720 A1 
+
+Abstract  =>  A method of digitally up-converting a discrete-time baseband signal to a desired frequency comprising: selecting a fixed effective sampling rate Fs for a digital-to-analog converter (DAC) used in up-converting the discrete-time baseband signal; performing complex tuning on the discrete-time baseband signal to produce a complex tuned discrete-time signal which is translated in the frequency domain; up-sampling by N, N>=2, to produce an up-sampled discrete-time signal having a frequency domain representation that includes a plurality of equally spaced apart images; filtering the up-sampled discrete-time signal to select at least one image of the plurality of images of the discrete-time signal to produce a filtered discrete-time signal; converting the filtered discrete-time signal that includes the at least one image to a continuous-time signal using the DAC; and filtering the continuous-time signal to select an image located at the desired frequency in the frequency domain; wherein an amount of tuning used in the performing complex tuning step and filter coefficients used in the filtering of the discrete-time signal step are each determined as a function of the fixed effective sampling rate of the DAC and the desired frequency of up-conversion. 
+

@@ -1,0 +1,34 @@
+The Patent Office Journal 31/05/2013 11994
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1367/MUM/2012 A
+(19) INDIA
+(22) Date of filing of Application :02/05/2012 (43) Publication Date : 31/05/2013
+(54) Title of the invention : A RAIN SENSOR
+(51) International classification :G01N27/02
+(31) Priority Document No :NA
+(32) Priority Date :NA
+(33) Name of priority country :NA
+(86) International Application No
+Filing Date
+:NA
+:NA
+(87) International Publication No : NA
+(61) Patent of Addition to Application Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)KORE SHANTANU SHRIKANT
+Address of Applicant :TARA-PRASAD, VITHOBA ROAD,
+A/P: ASHTA, TAL: WALWA, DIST: SANGLI,PIN CODE-
+416301 Maharashtra India
+(72)Name of Inventor :
+1)KORE SHANTANU SHRIKANT
+(57) Abstract :
+The present invention discloses a rain sensor. The rain sensor has a predetermined geometry which causes the rain water drops to
+form a film or column on the sensor surface. This film or column of water causes a change in the impedance of the sensor. This
+change in impedance of the sensor is used for automatically varying the rate of rotation of the windshield wiper.
+No. of Pages : 14 No. of Claims : 3

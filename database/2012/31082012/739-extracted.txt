@@ -1,0 +1,48 @@
+ 
+The Patent Office Journal 31/08/2012 
+13798
+(12) PATENT APPLICATION PUBLICATION (21) Application No.912/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :12/04/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : UNDERWATER COMPRESSOR ARRANGEMENT AND UNDERWATER PROCESS FLUID 
+CONVEYING ARRANGEMENT EQUIPPED THEREWITH  
+  
+(51) International classification  :F04D 13/06  
+(31) Priority Document No  :10 2009045633.3  
+(32) Priority Date  :13/10/2009 
+(33) Name of priority country  :Germany 
+(86) International Application No 
+        Filing Date 
+:PCT/DE2010/050052
+:28/07/2010 
+(87) International Publication No  :WO/2011/044892  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)MAN DIESEL & TURBO SE 
+      Address of Applicant :STADTBACHSTR. 1, 86153 
+AUGSBURG, GERMANY. 
+(72)Name of Inventor : 
+   1)KLEYNHANS, GEORGE 
+   2)SUTER, ROGER 
+   3)STALDER, CLAUDE  
+(57) Abstract : 
+The invention relates to an underwater compressor arrangement (10, 10A) and an underwater process fluid conveying arrangement 
+equipped therewith, wherein the underwater compressor arrangement comprises: a housing (100), a turbocompressor (200) having a 
+compressor rotor (210), and a rotary drive unit (300) having a drive rotor (310), wherein the turbocompressor (200) and the rotary 
+drive unit (300) are arranged in the housing (100) and the compressor rotor (210) is connected to the drive rotor (310) such that the 
+drive rotor rotatably drives the compressor rotor, wherein the housing (100) is hermetically sealed, with the exception of operating 
+connections for the turbocompressor (200) and for the rotary drive unit (300), and wherein the compressor rotor (210) is rotatably 
+supported in the housing (100) by means of a rolling bearing (410). 
+  
+  
+No. of Pages : 24 No. of Claims : 19 

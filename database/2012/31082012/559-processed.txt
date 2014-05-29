@@ -1,0 +1,22 @@
+Application number  =>  525/MUM/2011 A 
+
+Date of filing of application number  =>  25/02/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  A POWER SUPPLY SYSTEM AND AN ALTERNATOR FOR CHARGING BATTERY 
+
+Name of applicant  =>  1)M. SHRIDHAR NAIDU 
+
+Name of inventor  =>  1)M. SHRIDHAR NAIDU 
+
+International Classification  =>  H02K19/36; H02P9/00 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention provides system for charging battery. The system depending upon the inputs received from the first shunt and the second shunt, the speed controller along with the governor controls the speed of alternator thereby controlling the electricity generated and optimizing the usage of fuel by the engine. The system comprises a three phase alternator for generating electricity. The alternator can replace flywheel which reduces power consumption. The alternator also has inbuilt impeller for circulating air for cooling thereof. 
+

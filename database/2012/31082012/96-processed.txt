@@ -1,0 +1,22 @@
+Application number  =>  2941/CHENP/2011 A 
+
+Date of filing of application number  =>  29/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHODS AND SYSTEMS FOR HANDOVER USING INCREASED PROBABILITY FOR FAST RANGING SUCCESS 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)JONG RO PARK 2)CHUN WOO LEE 3)KUO-CHUN LEE 
+
+International Classification  =>  H04W36/08, H04W56/00 
+
+Priority Doc No  =>  12/260,387 
+
+International Application Number  =>  PCT/US09/060916 
+
+International Publication Number  =>  WO 2010/051168 A1 
+
+Abstract  =>  Techniques presented herein disclose handover using increased probability of the fast ranging success. Propagation delay of the RF signal transmitted from an MS to a target BS may be estimated based on a known propagation delay to a current serving BS and a relative difference in propagation delays to the current serving BS and the target BS, for example, as indicated by different receive times of preamble sequences transmitted from the current serving BS and the target BS. 
+

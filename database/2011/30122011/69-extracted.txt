@@ -1,0 +1,48 @@
+The Patent Office Journal 30/12/2011 
+ 
+25406
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2138/DELNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :22/03/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : PROPYLENE-BASED BLOCK COPOLYMER, COMPOSITION CONTAINING THE COPOLYMER, 
+AND MOLDED PRODUCTS OBTAINED THEREFROM  
+  
+(51) International classification  :C08F 29/08  
+(31) Priority Document No  :2008-242799  
+(32) Priority Date  :22/09/2008 
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date 
+:PCT/JP2009/066274
+:17/09/2009 
+(87) International Publication No  :WO 2010/032793  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)MITSUI CHEMICALS, INC., 
+      Address of Applicant :5-2, HIGASHI-SHIMBASHI, 1-
+CHOME, MINATO-KU, TOKYO 1057117, JAPAN 
+(72)Name of Inventor : 
+   1)KAZUHISA MATSUNAGA 
+   2)KEITA ITAKURA  
+(57) Abstract : 
+To provide a propylene-based block copolymer which has high melt viscoelasticity, excellent balance between rigidity and impact 
+resistance and good molding processablility and is extremely excellent in its molded product appearance, a composition containing the 
+copolymer and molded products obtained therefrom. The propylene-based block copolymer comprises 5 to 80% by weight of a room 
+temperature n-decane-soluble portion (Dsol) and 20 to 95% by weight of a room temperature n-decane-insoluble portion (Dinsol), 
+with the proviso that the total amount of the Dsol and the Dinsol is 100% by weight, and satisfies the following requirements [1] to [3] 
+at the same time: [1] the molecular weight distribution (Mw/Mn) of the Dsol is not less than 7. 0 but not more than 30, [2] the 
+molecular weight distribution (Mw/Mn) of the Dinsol is not less than 7.0 but not more than 30, and Mz/Mw thereof is not less than 6.0 
+but not more than 20, and [3] the pentad fraction (mmmm) of the Dinsol is not less than 93%. 
+  
+ 
+No. of Pages : 167 No. of Claims : 13 

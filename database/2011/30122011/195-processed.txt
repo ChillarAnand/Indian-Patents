@@ -1,0 +1,22 @@
+Application number  =>  1125/MUMNP/2011 A 
+
+Date of filing of application number  =>  01/06/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD FOR DETERMINING THE SPECTRAL AND SPATIAL DISTRIBUTION OF BRAKING PHOTONS, AND RELATED DEVICE 
+
+Name of applicant  =>  1)COMMISSARIAT A LENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES 
+
+Name of inventor  =>  1)LYOUSSI Abdallah 2)PAYAN Emmanuel 3)MARIANI Alain 
+
+International Classification  =>  G01T 3/00,G01T 1/29 
+
+Priority Doc No  =>  08/58641 
+
+International Application Number  =>  PCT/EP2009/067048 
+
+International Publication Number  =>  WO/2010/069909 
+
+Abstract  =>  The invention relates to a method for determining the spectral and spatial distribution of a braking photon flow along at least one direction in space (x, y, z), characterised in that the method comprises measuring the neutrons resulting from the impact of the braking photons (ph) on at least one conversion target (5) which is moved in the direction (x, y, z) in space. The invention can be used for X- rays, medical imaging, tomography, etc. 
+

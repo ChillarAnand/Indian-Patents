@@ -1,0 +1,22 @@
+Application number  =>  819/KOL/2010 A 
+
+Date of filing of application number  =>  26/07/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  PRESSURE ROLLER ASSEMBLY AND TIRE MANUFACTURING METHOD USING THE SAME 
+
+Name of applicant  =>  1)SUMITOMO RUBBER INDUSTRIES, LTD 
+
+Name of inventor  =>  1)NAKAMURA, AKIHIRO 
+
+International Classification  =>  B32B37/00 
+
+Priority Doc No  =>  :2009-185988(PAT) 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A pressure roller assembly comprises: a support shaft, a tubular elastic support fitted on the support shaft, and a segmented roller fitted on the tubular elastic support and having a pressing surface for pressing an object, the segmented roller divided axially of the roller into a plurality of roller segments which are movable radially of the roller independently from each other by elasticity deformation of the tubular elastic support. A method for manufacturing a pneumatic tire comprises the steps of: forming a raw rubber component of the tire by winding a rubber strip around a drum so as to form an overlapped portion of the rubber strip, and pressing the overlapped portion by the pressure roller assembly to secure adhesion of the rubber strip and removal of trapped air. 
+

@@ -1,0 +1,22 @@
+Application number  =>  1044/CHENP/2011 A 
+
+Date of filing of application number  =>  14/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  PROCESSING POLLING REQUESTS FROM RADIO LINK CONTROL PEERS 
+
+Name of applicant  =>  1)QUALCOMM Incorporated 
+
+Name of inventor  =>  1)HO Sai Yiu Duncan 2)XIAO Gang A. 
+
+International Classification  =>  H04L1/16, H04L1/18 
+
+Priority Doc No  =>  61/087,606 
+
+International Application Number  =>  PCT/US2009/053204 
+
+International Publication Number  =>   
+
+Abstract  =>  This innovation relates to systems and methods for transmission of protocol data units, and more particularly to processing polling requests from a radio link control peer. A radio link control transmitter can poll a receiver to obtain a report regarding the status of a set of data packets, and the polls can be sent in-band with a data packet. The receiver can determine to wait before sending the status report based on one or more characteristics of the received data packets. 
+

@@ -1,0 +1,45 @@
+The Patent Office Journal 30/12/2011 
+ 
+25722
+(12) PATENT APPLICATION PUBLICATION (21) Application No.709/KOL/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :30/06/2010 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : HYDRAULIC CONTROL SYSTEM FOR A DUAL CLUTCH TRANSMISSION  
+  
+(51) International classification  :F16H3/00 
+(31) Priority Document No  :61/230,015 
+(32) Priority Date  :30/07/2009
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)GM GLOBAL TECHNOLOGY OPERATIONS, INC. 
+      Address of Applicant :300 RENAISSANCE CENTER, 
+DETROIT, MICHIGAN 48265-3000 UNITED STATES OF 
+AMERICA 
+(72)Name of Inventor : 
+   1)BRIAN W. WHITMARSH 
+   2)BRET M. OLSON 
+   3)PHILIP C. LUNDBERG 
+   4)WAYNE B. VOGEL  
+(57) Abstract : 
+A hydraulic control system for a dual clutch transmission includes a plurality of solenoids and valves in fluid communication with a 
+plurality of clutch actuators and with a plurality of synchronizer actuators. The clutch actuators are operable to actuate a plurality of 
+torque transmitting devices and the synchronizer actuators are operable to actuate a plurality of synchronizer assemblies. Selective 
+activation of combinations of the solenoids allows for a pressurized fluid to activate at least one of the clutch actuators and 
+synchronizer actuators in order to shift the transmission into a desired gear ratio.  
+ 
+No. of Pages : 48 No. of Claims : 17 

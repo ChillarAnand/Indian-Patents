@@ -1,0 +1,40 @@
+The Patent Office Journal 31/05/2013 12072
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9778/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :26/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : A METHOD AND SYSTEM FOR INTERWORKING BETWEEN INSTANT MESSAGING
+SERVICE AND SHORT MESSAGE SERVICE
+(51) International classification :H04L12/58
+(31) Priority Document No :12/494,627
+(32) Priority Date :30/06/2009
+(33) Name of priority country :U.S.A.
+(86) International Application No
+Filing Date
+:PCT/US2010/038807
+:16/06/2010
+(87) International Publication No :WO 2011/008399 A1
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)ALCATEL LUCENT
+Address of Applicant :3, AVENUE OCTAVE GREARD, F-
+75007 PARIS France
+(72)Name of Inventor :
+1)WILLIAM J. BUSHNELL
+(57) Abstract :
+A method and system for interworking between instant messaging and short message service are provided. The invention allows
+wireless service providers to offer a new text messaging service to their mobile clients, consumer IM clients and to enterprise IM
+clients. The exemplary embodiments comprise various elements, including a new administrative server that, among other things,
+allows consumer and enterprise-based IM users to register the URI of their IM client and to request a permanently assigned
+telephone number for receiving text messages from SMS clients and allows SMS users to register the mobile phone number and to
+request permanently assigned IM URI. The exemplary embodiments also comprise the expansion of the traditional E.164 Number
+Mapping (ENUM) server to provide the translation from IM URIs to mobile phone numbers and to perform the translation from
+mobile phone numbers to IM URIs, and modification of the traditional SMS Gateway to perform ENUM queries.
+No. of Pages : 23 No. of Claims : 10

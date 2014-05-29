@@ -1,0 +1,22 @@
+Application number  =>  2936/CHENP/2011 A 
+
+Date of filing of application number  =>  29/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD AND APPARATUS FOR CONTROLLING VIDEO-AUDIO DATA PLAYING 
+
+Name of applicant  =>  1)TENCENT TECHNOLOGY (SHENZHEN) COMPANY LIMITED 
+
+Name of inventor  =>  1)WANG, XINLIANG 
+
+International Classification  =>  H04N5/91, H04L12/56, H04N5/926 
+
+Priority Doc No  =>  200910077340.3 
+
+International Application Number  =>  PCT/CN2010/070614 
+
+International Publication Number  =>  WO 2010/094234 A1 
+
+Abstract  =>  The embodiments of the present invention disclose a method for controlling video-audio data playing, which relates to the network communication field. The method includes: obtaining total duration of playing video-audio data in a buffer; calculating a time difference, the time difference being a difference between a current time point and a time point of receiving a latest video-audio data packet; and performing time domain stretch processing for video-audio data in the buffer when the total duration and the time difference satisfy a preset condition, and playing the processed video-audio data. The embodiments of the present invention also disclose an apparatus for controlling video-audio data playing. By using the method and apparatus, the incontinuity phenomena will be decreased when the video-audio data is played, so as to improve user experiences. 
+

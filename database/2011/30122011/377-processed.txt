@@ -1,0 +1,22 @@
+Application number  =>  291/KOL/2011 A 
+
+Date of filing of application number  =>  07/03/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  TORQUE BLENDING SYSTEMS FOR HYBRID ELECTRIC VEHICLES WITH ELECTRICALLY CONTINUOUS VARIABLE TRANSMISSIONS 
+
+Name of applicant  =>  1)GM GLOBAL TECHNOLOGY OPERATIONS LLC 
+
+Name of inventor  =>  1)MIN-JOONG KIM 2)ALAN G. HOLMES 3)BRENDAN M. CONLON 
+
+International Classification  =>  F01P7/00 
+
+Priority Doc No  =>  12/822,603 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A hybrid control system for a hybrid electric vehicle (HEV) includes a hybrid control module. The hybrid control module includes a first motor control module that controls output torque of a first motor. A second motor control module controls output torque of a second motor based on a second motor torque request signal. The second motor torque request signal is generated based on a transmission output torque request signal prior to startup of an engine of the HEV. An override module generates a torque override request signal during the startup. The first motor control module controls output torque of the first motor to crank the engine during the startup. The second motor control module adjusts output torque of the second motor based on the torque override request signal and not the transmission output torque request signal during the startup to minimize vehicle jerk during the engine start. 
+

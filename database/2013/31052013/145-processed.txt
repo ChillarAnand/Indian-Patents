@@ -1,0 +1,22 @@
+Application number  =>  988/CHENP/2012 A 
+
+Date of filing of application number  =>  31/01/2012 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  METHOD, BASE STATION, AND SYSTEM OF CONFIGURING RELAY LINK RESOURCES 
+
+Name of applicant  =>  1)HUAWEI TECHNOLOGIES CO., LTD. 
+
+Name of inventor  =>  1)LI ZHONGFENG 
+
+International Classification  =>  H04B7/14 
+
+Priority Doc No  =>  200910161850.9 
+
+International Application Number  =>  PCT/CN2010/075595 
+
+International Publication Number  =>  WO 2011/012088 A1 
+
+Abstract  =>  A method, a base station, and a system of configuring relay link resources are provided according to the embodiments of the present invention. The method of configuring relay link resources includes: receiving an orthogonal frequency division multiplexing OFDM symbol number reported by a relay node RN, in which the OFDM symbol is used by a physical downlink control channel PDCCH of a multimedia multicast broadcast single frequency network MBSFN subframe where a relay link of the RN is located; and configuring relay link resources according to the OFDM symbol number, an offset, and a length of a PDCCH in an eNB subframe, in which the offset is an offset of an RN frame relative to the time when the RN frame is initially synchronized with an eNB frame, and is smaller than a sum of a length of the PDCCH of the MBSFN subframe where the relay link of the RN is located and a first idle time. The method increases relay link resources and reduces resource waste. 
+

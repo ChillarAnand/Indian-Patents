@@ -1,0 +1,22 @@
+Application number  =>  1275/KOL/2010 A 
+
+Date of filing of application number  =>  11/11/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD FOR FULL-BANDWIDTH SOURCE DEGHOSTING OF MARINE SEISMIC STREAMER DATA 
+
+Name of applicant  =>  1)PGS GEOPHYSICAL AS 
+
+Name of inventor  =>  1)VAN BORSELEN, ROALD G. 2)RIYANTI, CHRISTINA D. 3)PAGE, CHRISTOPHER P. 4)FOKKEMA, JACOB T 5)VAN DEN BERG, PETER M. 
+
+International Classification  =>  G01V3/08 
+
+Priority Doc No  =>  12/653,099 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  Seismic data recorded in a marine streamer are obtained, sorted as a common receiver gather. A complex Laplace frequency parameter is used to transform the seismic data from a space-time domain to a spectral domain. An iterative conjugate gradient scheme, using a physically-based preconditioner, is applied to the transformed seismic data, to provide a least squares solution to a normal set of equations for a source deghosting system of equations. The solution is inverse-transformed back to a space-time domain to provide source deghosted seismic data, which is useful for imaging the earth’s subsurface. 
+

@@ -1,0 +1,46 @@
+ 
+The Patent Office Journal 31/08/2012 
+13639
+(12) PATENT APPLICATION PUBLICATION (21) Application No.558/MUM/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :28/02/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : TERMINATION PITCH ADJUSTABLE TRANSMISSION SHAFT ASSEMBLY FOR MOVING 
+CONTACT IN LV SWITCHGEAR PRODUCTS  
+  
+(51) International classification  :H01H31/02; H01R4/50  
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)LARSEN & TOUBRO LIMITED 
+      Address of Applicant :L & T House  Ballard Estate  Mumbai 
+400 001  State of Maharashtra  India. 
+(72)Name of Inventor : 
+   1)PATIL  Rohit  Naresh; 
+   2)THAKUR  Pankaj  Dattatraya; 
+   3)FEGADE  Pramod  L  
+(57) Abstract : 
+The present invention relates to a termination pitch adjustable transmission shaft assembly for moving contact in lv switchgear 
+products. The assembly comprises a cassette means, plurality of rotor means (1) and coupler means (13). The rotor means (1) 
+comprises a male feature (5) and a female feature (6) adapted to be operatively engaged with an identical or substantially identical 
+female feature (6) and male feature (5) of another rotor means respectively so as to form transmission shaft means of a switch. The 
+coupler means (13) comprises a male feature (5) and a female feature (6) adapted to be operatively engaged with proximate pole 
+means such that termination pitch adjustable transmission shaft being formed ensuring wide range of termination pitch.   
+  
+  
+No. of Pages : 14 No. of Claims : 9 

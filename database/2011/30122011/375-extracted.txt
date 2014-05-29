@@ -1,0 +1,43 @@
+The Patent Office Journal 30/12/2011 
+ 
+25712
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1307/KOL/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :19/11/2010 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : VEHICLE WHEEL AND METHOD FOR MANUFACTURING THE SAME  
+  
+(51) International classification  :B21D53/30 
+(31) Priority Document No  :JP2010-045276  
+(32) Priority Date  :02/03/2010
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)ASAHI TEC CORPORATION 
+      Address of Applicant :547-1, HORINOUCHI, KIKUGAWA-
+CITY, SHIZUOKA, 439-8651 JAPAN 
+(72)Name of Inventor : 
+   1)AOKI, TATSUYA  
+(57) Abstract : 
+There is provided a vehicle wheel 5 where an outer circumferential shape of a cross section of a rimportion 3 is formed into a circle 
+having a predetermined diameter by subjecting a wheel precursor 1 obtained by casting using a side gate type wheel casting mold 
+having two gates symmetrical to a wheel axis to spinning uniformly over the entire circumference of the rim portion 3 of the wheel 
+precursor 1. The wheel precursor 1 has a shape where the rim portion 3 has a thickness gradually reducing from gate-corresponding 
+sections 3a which correspond with the gates toward 90° shift sections 3b which are sections of 90° shift in a circumferential direction 
+from the gate-corresponding sections 3a to make a deformation ratio of the gate-corresponding sections 3a higher than that of the 90° 
+shift sections 3b by subjecting the wheel precursor 1 to the spinning.  
+ 
+No. of Pages : 28 No. of Claims : 5 

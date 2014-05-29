@@ -1,0 +1,22 @@
+Application number  =>  2145/DELNP/2011 A 
+
+Date of filing of application number  =>  22/03/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  APPARATUS FOR SOLAR TRACKING OF ENERGY HARVESTER 
+
+Name of applicant  =>  1)MIMOS BERHAD 
+
+Name of inventor  =>  1)A.S.M MUKTER-UZ-ZAMAN 2)MASURI OTHMAN 3)DZUZLINDAH MUHAMAD ALIAS 4)MOHAMMAD SHAHARIA BHUYAN 5)KHAIRUL HAKIMIN ZAINUDDIN 6)ABDUL GHANI OTHMAN 
+
+International Classification  =>  F24J 2/38 
+
+Priority Doc No  =>  PI 20083638 
+
+International Application Number  =>  PCT/MY2009/000150 
+
+International Publication Number  =>  WO 2010/033015 
+
+Abstract  =>  An apparatus for solar tracking using minimal energy is described. A prismatic energy harvester (10) is positioned above a spring (20). The harvester has a pair of ears (14) at both side of the top portion of the harvester. The ear is moved by strings (16) from a reel (18) connected to a box of motor (12), At least two photo-resistive elements track the sun rays intensity to identify the position of the sun. Then, the motor adjust the reels to rotate the harvester using strings until the harvester and the sun is at right angle. The photoresistive elements continuously track the sun so that the harvester can be rotated towards the sun at right angle. 
+

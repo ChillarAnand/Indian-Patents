@@ -1,0 +1,22 @@
+Application number  =>  2902/CHENP/2011 A 
+
+Date of filing of application number  =>  28/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  PROVIDER LINK STATE BRIDGING (PLSB) COMPUTATION METHOD 
+
+Name of applicant  =>  1)NORTEL NETWORKS LIMITED 
+
+Name of inventor  =>  1)JEROME CHIABAUT 2)DAVID ALLAN 3)NIGEL BRAGG 
+
+International Classification  =>  H04L12/24 
+
+Priority Doc No  =>  12/259,650 
+
+International Application Number  =>  PCT/CA2009/001506 
+
+International Publication Number  =>  WO 2010/048698 A1 
+
+Abstract  =>  A method of multicast route computation in a Link state protocol controlled network, (he method comprising steps of: computing a spanning tree from a first node to even other node in the network using a known shortest path tree algorithm: dividing the network into partitions, each partition encompassing an immediate neighbour node of the first node on the computed spanning tree and any nodes of (he network subtending the neighbour node on the computed spanning tree; merging two or more of the partitions when a predetermined criterion is satisfied; examining nodes within all of the partitions except a largest one of the partitions to identify node pairs for which a respective shortest path traverses the first node. 
+

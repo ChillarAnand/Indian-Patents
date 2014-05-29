@@ -1,0 +1,22 @@
+Application number  =>  9947/CHENP/2011 A 
+
+Date of filing of application number  =>  29/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  APPARATUS AND METHODS FOR LOW POWER SENSING OF WIRELESS ACCESS TECHNOLOGIES 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)DILIP KRISHNASWAMY 2)PARAG MOHAN KANADE 3)PARVATHANATHAN SUBRAHMANYA 
+
+International Classification  =>  H04W52/02 
+
+Priority Doc No  =>  61/218,552 
+
+International Application Number  =>  PCT/US2010/039182 
+
+International Publication Number  =>  WO 2010/148311 A1 
+
+Abstract  =>  Apparatus and methods for low power sensing of wireless access technologies are disclosed. In particular, a mobile wireless device, such as an access terminal, may utilize a lower power circuitry portion that operates at a lower power than active circuitry, such as a primary transceiver. The lower power circuitry portion includes a configurable searcher that is capable of sensing if signals of one or more various wireless access technologies are present. When the wireless device utilizes sleep or idle modes for power savings, use of the lower power sensing circuitry to sense the presence of wireless access technologies, rather than using an awoken higher power primary transceiver for sensing, affords increased power savings. An added ability of the lower power circuitry to be put into sleep or idles modes achieves even greater power savings. 
+

@@ -1,0 +1,22 @@
+Application number  =>  823/MUMNP/2012 A 
+
+Date of filing of application number  =>  02/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  GLYCOSYLATED REPEAT-MOTIF-MOLECULE CONJUGATES 
+
+Name of applicant  =>  1)F. HOFFMANN-LA ROCHE AG 
+
+Name of inventor  =>  1)STEPHEN FISCHER 2)SABINE IMHOF-JUNG 3)ERHARD KOPETZKI 
+
+International Classification  =>  C07K 16/18 
+
+Priority Doc No  =>  09013887.6 
+
+International Application Number  =>  PCT/EP2010/006728 
+
+International Publication Number  =>  WO/2011/054519 
+
+Abstract  =>  Herein are reported glycosylated repeat-motif-molecule conjugate of the following formula: (repeat-motif-molecule - linkern)m - conjugation partner - (linkero - repeat-motif-molecule)p, wherein n and o are independently of each other and independently for each value of m and p integer values of 0 or 1, and m and p are independently of each other integer values of 0 or 1 or 2 or 3 or 4 or 5 or 6 or 7, and wherein the repeat-motif-molecule conjugate comprises at least one oligosaccharide attached to a glycosylation site. Also reported are encoding nucleic acids and method for producing these repeat-motif-conjugates in mammalian cells. 
+

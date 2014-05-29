@@ -1,0 +1,45 @@
+The Patent Office Journal 31/12/2010 
+ 
+5484
+(12) PATENT APPLICATION PUBLICATION (21) Application No.4245/KOLNP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :11/11/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : COLD WALL HORIZONTAL AMMONIA CONVERTER  
+  
+(51) International classification  :C01C 1/00  
+(31) Priority Document No  :12/128,730  
+(32) Priority Date  :29/05/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/002828 
+:07/05/2009 
+(87) International Publication No  :WO 2009/145865  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)KELLOGG BROWN & ROOT LLC 
+      Address of Applicant :4100 CLINTON DRIVE, HOUSTON, 
+TX 77020 UNITED STATES OF AMERICA. 
+(72)Name of Inventor : 
+   1)BLANCHARD, KENNETH, L.  
+(57) Abstract : 
+Systems and methods for producing ammonia. Nitrogen and hydrogen can be supplied to a reaction zone disposed inside an inner 
+shell. The inner shell can be disposed inside an outer shell such that a space is formed therebetween. The reaction zone can include at 
+least one catalyst bed in indirect heat exchange with the space. The nitrogen and hydrogen can be reacted in the reaction zone in the 
+presence of at least one catalyst to form an effluent comprising ammonia. The effluent can be recovered from the inner shell and 
+cooled to provide a cooled effluent stream. A cooling fluid can be provided to the outer shell such that the cooling fluid flows through 
+at least a portion of the space and is in fluid communication with the exterior of the inner shell. At least a portion of the cooled 
+effluent can provide at least a portion of the cooling fluid. The cooling fluid can then be recovered from the outer shell as an ammonia 
+product.  
+ 
+No. of Pages : 21 No. of Claims : 20 

@@ -1,0 +1,22 @@
+Application number  =>  534/MUM/2011 A 
+
+Date of filing of application number  =>  26/02/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  A THERMOPLASTIC COMPONENT FOR SWITCHGEARS AND A METHOD OF MANUFACTURING THERMOPLASTIC COMPONENTS 
+
+Name of applicant  =>  1)LARSEN & TOUBRO LIMITED 
+
+Name of inventor  =>  1)VAIRAGI Prashant B.; 2)MAJUMDAR Vikas M.; 
+
+International Classification  =>  H01B3/30,H01H9/02 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The various embodiments of the present invention provide a thermoplastic material to a preset level to avoid melting during an application of normal operating pressure and at normal operating temperature. The present inventions also provide a method of manufacture of thermoplastic components for switch gears. The method includes molding a thermoplastic component to a preset level using a thermal injection molding process and placing the molded thermoplastic component in a carton. The method further includes passing the carton through an irradiation chamber to provide an exposure to gamma radiation or electron beam radiation for cross linking one or more thermoplastic components. 
+

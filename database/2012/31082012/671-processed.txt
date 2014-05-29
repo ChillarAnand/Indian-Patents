@@ -1,0 +1,22 @@
+Application number  =>  725/MUMNP/2012 A 
+
+Date of filing of application number  =>  21/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  NANOCRYSTAL TITANIUM ALLOY AND PRODUCTION METHOD FOR SAME 
+
+Name of applicant  =>  1)NHK SPRING CO., LTD. 2)TOHOKU UNIVERSITY 
+
+Name of inventor  =>  1)LEE, SANG-HAK 2)ONO, YOSHIKO 3)IKAI, KAZUYA 4)MATSUMOTO, HIROAKI 5)CHIBA, AKIHIKO 
+
+International Classification  =>  C22C 14/00,C22F 1/00 
+
+Priority Doc No  =>  2009-221214 
+
+International Application Number  =>  PCT/JP2010/066379 
+
+International Publication Number  =>  WO/2011/037127 
+
+Abstract  =>  Disclosed is a Ti alloy having high strength and excellent workability, and which is suitable for materials for various types of manufacturing such as vehicle manufacturing. Also disclosed is a production method for the Ti alloy. The α martensitic phase structure of the alloy is hot worked under conditions in which dynamic recrystallisation occurs. The processing conditions are that the temperature is increased at a heating rate of 50-800°C/sec, the strain rate at 700-800°C is 0.01-10/sec, the strain rate between 800°C and 1000°C noninclusive is 0.1-10/sec, and the strain is 0.5 or more. Thus, equiaxed crystals with an average crystal grain diameter below 1000nm are obtained. 
+

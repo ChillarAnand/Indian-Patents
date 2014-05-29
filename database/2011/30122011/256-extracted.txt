@@ -1,0 +1,47 @@
+The Patent Office Journal 30/12/2011 
+ 
+25593
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1209/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :21/02/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : System and Method for Acknowledgement Packet Transmitting and Receiving  
+  
+(51) International classification  :H04L1/16, H04L1/18  
+(31) Priority Document No  :61/098,606  
+(32) Priority Date  :19/09/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/032262
+:28/01/2009 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)QUALCOMM Incorporated 
+      Address of Applicant :Attn: International IP Administration  
+5775 Morehouse Drive  San Diego  California 92121-1714 USA.  
+(72)Name of Inventor : 
+   1)JIA Zhanfeng 
+   2)TIAN Qingjiang 
+   3)JULIAN David Jonathan  
+(57) Abstract : 
+A communications method comprising the steps of receiving a data packet; processing the data packet; and transmitting an ack packet 
+approximately at an end of a first defined time interval if the processing of the data packet is completed within the first defined 
+interval, or transmitting the ack packet approximately at an end of a second defined time interval if the processing of the data packet is 
+not completed within the first defined interval and is completed within the second defined interval. Another communication method 
+comprising the steps of transmitting a data packet; scanning a channel for an ack packet approximately at an end of a first defined time 
+interval from the transmission of the data packet; and scanning the channel for the ack packet approximately at an end of a second 
+defined time interval from the transmission of the data packet if the ack packet was not received within the first defined interval. 
+  
+  
+No. of Pages : 35 No. of Claims : 47 

@@ -1,0 +1,22 @@
+Application number  =>  1046/MUMNP/2012 A 
+
+Date of filing of application number  =>  25/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD AND DEVICE FOR DETERMINING CARRIER SCHEDULING MODE 
+
+Name of applicant  =>  1)CHINA ACADEMY OF TELECOMMUNICATIONS TECHNOLOGY 
+
+Name of inventor  =>  1)LI, HAITAO 2)XU, FANGLI 3)LIANG, JING 
+
+International Classification  =>  H04W 72/04 
+
+Priority Doc No  =>  CN 200910235258.9 
+
+International Application Number  =>  PCT/CN2010/077368 
+
+International Publication Number  =>  WO/2011/038666 
+
+Abstract  =>  A method for indicating and determining a carrier scheduling mode in a Long Term Evolution-Advanced (LTE-A) system is disclosed in the present invention. The method is that: a network device determines whether a component carrier adopts a cross-carrier scheduling mode to perform resource scheduling, and transmits first indication information that indicating whether the component carrier adopts the cross-carrier scheduling mode to perform the resource scheduling to a User Equipment (UE), so as to indicate the UE to determine whether adopting the cross-carrier scheduling mode to perform the resource scheduling on a component carrier supported by the UE itself according to the received first indication information. By adopting the present solution, the UE supporting multi-carriers in the LTE-A system is able to determine which mode one certain component carrier or several certain component carriers adopt to perform the resource scheduling, thereby performing data reception/transmission correctly. 
+

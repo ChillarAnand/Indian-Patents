@@ -1,0 +1,22 @@
+Application number  =>  2965/CHENP/2011 A 
+
+Date of filing of application number  =>  02/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  WIRELESS DEVICE PROVISIONING TOOL 
+
+Name of applicant  =>  1)ENFORA, INC. 
+
+Name of inventor  =>  1)MATT GLOVER 2)IAIN SHIGEOKA 
+
+International Classification  =>  G06F9/445 
+
+Priority Doc No  =>  12/288,588 
+
+International Application Number  =>  PCT/US2009/061520 
+
+International Publication Number  =>  WO 2010/048315 A2 
+
+Abstract  =>  Systems and methods are disclosed for provisioning a position monitoring device. The position monitoring device may include a wireless communication modem (108) and a first serial port (202). A provisioning device (124) may be coupled to the position monitoring device (104) through a serial connection. The provisioning device can include a memory, a second serial port, and a processor (122). In some embodiments, the provisioning device (116) initiates an automatic configuration of the wireless communication modem (108) through a series of attention commands. Systems and methods are also disclosed that include provisioning a target device (104) coupled to a wireless network. These systems and methods include a provisioning server (116) coupled to the wireless network and a target update (102) coupled to the provisioning server (116). The provisioning server (116) includes instructions relating to the configuration of the target device (104). In addition, these systems and methods include a server (1016) coupled to the target update (102) and a provisioning user interface coupled to the server that is operable to create parameters for a software update and transmit the parameters to the server. The server (116) is operable to communicate the parameters to create the target update, and the target update is transmitted through the provisioning server and the wireless network to the target device. 
+

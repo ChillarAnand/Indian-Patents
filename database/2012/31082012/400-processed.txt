@@ -1,0 +1,22 @@
+Application number  =>  5338/DELNP/2011 A 
+
+Date of filing of application number  =>  11/07/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  PHARMACEUTICAL COMPOSITION CONTAINING AN ANIONIC DRUG, AND A PRODUCTION METHOD THEREFOF 
+
+Name of applicant  =>  1)SAMYANG CORPORATION 
+
+Name of inventor  =>  1)KIM Se-Ho 2)SON Ji-Yeon 3)LA Muhn-Ho 4)CHOI Sung-Won 5)SEO Min-Hyo 
+
+International Classification  =>  A61K 
+
+Priority Doc No  =>  10-2008-0134459 
+
+International Application Number  =>  PCT/KR2009/007804 
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention relates to an anionic drug-containing pharmaceutical composition comprising: an anionic drug as an active ingredient; a cationic lipid; and an amphiphilic block copolymer, wherein the anionic drug forms a complex with the cationic lipid, and the complex is entrapped in the micelle structure of the amphiphilic block copolymer, and a method for preparing the same. The pharmaceutical composition may increase stability of the anionic drug in blood or in a body fluid, and it may enable intracellular delivery to improve efficacy of anionic drugs. 
+

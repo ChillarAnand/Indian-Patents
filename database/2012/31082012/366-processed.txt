@@ -1,0 +1,22 @@
+Application number  =>  5326/DELNP/2011 A 
+
+Date of filing of application number  =>  11/07/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  LATCHES 
+
+Name of applicant  =>  1)JOHN PHILIP CHEVALIER 
+
+Name of inventor  =>  1)CHEVALIER, JOHN, PHILIP 
+
+International Classification  =>  E05B 65/12 
+
+Priority Doc No  =>  0822529.4 
+
+International Application Number  =>  PCT/GB2009/002858 
+
+International Publication Number  =>  WO 2010/067074 
+
+Abstract  =>  A latch for an automotive closure comprises a claw (2), which is spring- biased towards the semi-latched position, for engaging a striker (15) fixed to the closure, a pawl (4) for latching open the claw (2) and a single electric motor (40) selectively coupled to the pawl to cause it to release the claw to open the latch, in one direction of rotation of the motor, and to claw to move it into the fully latched position, in the opposite direction of the motor. 
+

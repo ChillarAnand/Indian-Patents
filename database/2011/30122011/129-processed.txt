@@ -1,0 +1,22 @@
+Application number  =>  1016/MUMNP/2011 A 
+
+Date of filing of application number  =>  19/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  SIMULTANEOUS MUTLI-SOURCE AUDIO OUTPUT AT A WIRELESS HEADSET 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)SAMPAT Kuntal 
+
+International Classification  =>  H04R 1/10 
+
+Priority Doc No  =>  12/334,205 
+
+International Application Number  =>  PCT/US2009/063270 
+
+International Publication Number  =>  WO/2010/068351 
+
+Abstract  =>  A wireless headset supports simultaneous connections to two or more audio sources and can concurrently output audio from the different sources. The audio may include voice and/or audio playback, e.g., music playback. The wireless headset includes a first transceiver configured to receive a first audio input from a first source, a second transceiver configured to receive a second audio input from a second source, and an audio mixer configured to combine the first and second audio inputs into output audio. 
+

@@ -1,0 +1,22 @@
+Application number  =>  2963/CHENP/2011 A 
+
+Date of filing of application number  =>  02/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  TRANSFERRING DATA IN A MOBILE TELEPHONY NETWORK 
+
+Name of applicant  =>  1)NORTEL NETWORKS LIMITED 
+
+Name of inventor  =>  1)JAMES MARK NADEN 
+
+International Classification  =>  H04W92/20 
+
+Priority Doc No  =>  12/259,484 
+
+International Application Number  =>  PCT/EP2009/064160 
+
+International Publication Number  =>  WO 2010/049427 A1 
+
+Abstract  =>  A method of transferring data from a first base station to a second base station in a mobile telephone network operating according to a predetermined standard, the method comprising sending the data from the first base station to a data receiver of a data transfer node via a first wireless communications channel complying with the said standard, transferring the received data to a data sender of the data transfer node, and sending the transferred data from the data sender to the second base station via a second wireless communications channel complying with the said standard. 
+

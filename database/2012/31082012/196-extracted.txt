@@ -1,0 +1,47 @@
+ 
+The Patent Office Journal 31/08/2012 
+14038
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3087/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :05/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : BROADCAST RECEIVER APPARATUS  
+  
+(51) International classification  :H04N7/173  
+(31) Priority Document No  :2008-263673  
+(32) Priority Date  :10/10/2008 
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date 
+:PCT/JP09/067462 
+:07/10/2009 
+(87) International Publication No  :WO 2010/041674 A1  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)SHARP KABUSHIKI KAISHA 
+      Address of Applicant :22-22, NAGAIKE-CHO, ABENO-KU, 
+OSAKA-SHI, OSAKA 545-8522 Japan 
+(72)Name of Inventor : 
+   1)SHIMIZU, TOSHINORI  
+(57) Abstract : 
+There is provided a broadcast receiver apparatus capable of receiving correct channel information any time even if a network to which 
+the broadcast receiver apparatus is connected changes to another one. The broadcast receiver apparatus includes storage means (29) 
+for storing a network configuration information file and channel information and control means (25) for controlling units of the 
+broadcast receiver apparatus. When the broadcast receiver apparatus is activated, the control means connects to a network, acquires a 
+network configuration information file, and determines whether a network name described in the acquired network configuration 
+information file is different from a network name described in the network configuration information file stored in the storage means. 
+If the network names are different, the broadcast receiver apparatus acquires channel information on the basis of a piece of 
+information described in the network configuration information file and overwrites the network configuration information file and 
+channel information stored in the storage means with the newly acquired network configuration information file and channel 
+information. 
+  
+  
+No. of Pages : 22 No. of Claims : 8 

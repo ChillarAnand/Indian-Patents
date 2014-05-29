@@ -1,0 +1,22 @@
+Application number  =>  3101/CHENP/2011 A 
+
+Date of filing of application number  =>  05/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  SYNCHRONISATION METHOD BETWEEN BASE STATIONS, RADIO COMMUNICATION SYSTEM AND BASE STATION THEREOF 
+
+Name of applicant  =>  1)ALCATEL LUCENT 
+
+Name of inventor  =>  1)FAHLDIECK, TORSTEN 
+
+International Classification  =>  H04W36/04 
+
+Priority Doc No  =>  08305773.7 
+
+International Application Number  =>  PCT/EP2009/062247 
+
+International Publication Number  =>  WO 2010/052062 A1 
+
+Abstract  =>  The invention relates to a method for use in a radio communication system (RCS), the radio communication system (RCS) comprising at least three base stations (SBS1, MBS1, MBS2), a first one (SBS1) of the at least three base stations (SBS1, MBS1, MBS2) hereinafter called first slave base station, a second one (MBS1) of the at least three base stations (MBS1, MBS2, SBS1) hereinafter called first master base station, and a third one (MBS2) of the at least three base stations (SBS1, MBS1, MBS2) hereinafter called second master base station, the method comprising the step of controlling a first part (PI) of a radio resource allocation domain at the first slave base station (SBS1) by the first master base station (MBS1), wherein the method further comprises the step of controlling at least a second part (P2) of the radio resource allocation domain at the first slave base station (SBS1) by the second master base station (MBS2), and wherein the first part (PI) and the at least second part (P2) of the radio resource allocation domain are disjoined. 
+

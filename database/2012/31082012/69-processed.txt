@@ -1,0 +1,22 @@
+Application number  =>  2900/CHENP/2011 A 
+
+Date of filing of application number  =>  28/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  MOBILE TAG TRACKING SYSTEM 
+
+Name of applicant  =>  1)NORTEL NETWORKS LIMITED 
+
+Name of inventor  =>  1)DAVID STEER 
+
+International Classification  =>  H04W4/02, H04L12/56, H04L9/00 
+
+Priority Doc No  =>  12/259,586 
+
+International Application Number  =>  PCT/CA2009/001510 
+
+International Publication Number  =>  WO 2010/048699 A1 
+
+Abstract  =>  A mobile tag tracking system for providing mobile security monitoring is provided. The system includes a communications facility, a communications network coupled to the communications facility, and a mobile tag. The mobile tag is coupled to an item to be monitored. The mobile tag has a processor having a memory and for controlling operation of the mobile tag, a radio communications component coupled to the processor for communicating with the communications facility over the communications network for reporting status messages related to the item, a power supply coupled to the processor for providing power to the mobile tag, security sequence generator coupled to the processor for generating binary sequences, a location tracking component coupled to the processor for determining the location of the mobile tag and providing a location signal to the processor, and a clock coupled to the processor. The mobile tag communicates with the communications facility using randomly scheduled communications each including a status message. 
+

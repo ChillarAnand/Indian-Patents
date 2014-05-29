@@ -1,0 +1,46 @@
+The Patent Office Journal 30/12/2011 
+ 
+25634
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1318/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :24/02/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : THREE- DIMENSIONAL IMAGING ULTRASOUND PROBE  
+  
+(51) International classification  :A61B8/00  
+(31) Priority Document No  :61/085476  
+(32) Priority Date  :01/08/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/IB2009/053194
+:22/07/2009 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+      Address of Applicant :GROENEWOUDSEWEG 1 
+EINDHOVEN  5621 BA  NETHERLANDS   
+(72)Name of Inventor : 
+   1)HART  Jeffrey 
+   2)MOIST  Brian 
+   3)CLARK  Dennis 
+   4)AGIUS  Daniel  
+(57) Abstract : 
+An ultrasound probe includes a transducer array which is moved back and forth to sweep the image plane of the array through a 
+volumetric region for 3D scanning. The transducer array is mounted on a carriage assembly which moves back and forth on a pair of 
+rails inside a fluid compartment in the probe. The rails are preferentially arcuately curved to provide an elevationally divergent scan 
+with a relatively wide aperture in the near field. A cam is provided for a motor-driven cable drive for the carriage assembly which 
+provides relatively linear motion through the path of travel of the transducer array. Fig.3 
+  
+ 
+No. of Pages : 19 No. of Claims : 14 

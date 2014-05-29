@@ -1,0 +1,48 @@
+ 
+The Patent Office Journal 31/08/2012 
+13536
+(12) PATENT APPLICATION PUBLICATION (21) Application No.279/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :03/02/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : LOCTION REPORTING WITH SECURE USER PLANE LOCATION (SUPL)  
+  
+(51) Intenational classification  :H04W 4/02,H04W 12/08  
+(31) Priority Document No  :60/711,801  
+(32) Priority Date  :25/08/2005 
+(33) Name of priority cuntry  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2006/033250
+:25/08/2006 
+(87) International Publication No  :WO/2007/025143  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filed on 
+:519/MUMNP/2008 
+:19/03/2008  
+  
+(71)Name of Applicant :  
+   1)QUALCOMM INCORPORATED 
+      Address of Applicant :Attn: International IP Administration  
+5775 Morehouse Drive  San Diego  California 92121-1714  
+UNITED STATES OF AMERICA. 
+(72)Name of Inventor : 
+   1)WACHTER  Andreas 
+   2)EDGE  Stephen 
+   3)BURROUGHS  Kirk  
+(57) Abstract : 
+Techniques for supporting periodic and other location services with Secure User Plane Location (SUPL) and other location 
+architectures are described. The techniques can provide position estimates for a SUPL enabled terminal (SET) to a SUPL agent 
+periodically and/or based on trigger events. A Home SUPL Location Platform (H-SLP) receives from the SUPL agent a request for 
+position estimates for the SET. The H-SLP starts a SUPL location session with the SET. For each of at least one reporting event 
+during the location session  the H-SLP obtains a position estimate for the SET and sends the position estimate to the SUPL agent. The 
+position estimate may be derived by the SET and sent to the H-SLP. Alternatively  the position estimate may be derived by the H-SLP 
+based on measurements from the SET. 
+  
+  
+No. of Pages : 56 No. of Claims : 12 

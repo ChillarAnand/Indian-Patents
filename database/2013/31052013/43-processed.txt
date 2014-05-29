@@ -1,0 +1,22 @@
+Application number  =>  3440/DEL/2011 A 
+
+Date of filing of application number  =>  29/11/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  A COMPUTING MECHANISM FOR AUTOMATION OF RAPID THERMAL ANNEAL OF SEMICONDUCTOR 
+
+Name of applicant  =>  1)INDIAN INSTITUTE OF TECHNOLOGY KANPUR 
+
+Name of inventor  =>  1)TATHAGATA BHOWMICK 2)UTPAL DAS 
+
+International Classification  =>  A63D 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  This invention relates to a computing mechanism for automation of rapid thermal anneal of semiconductor comprising of a computing mechanism, which is fed with material parameters and RTA system parameters to control the RTA system for achieving a predetermined refractive indices (nr) and absorption co-efficients (a) of intermixed MQW structure. The present invention eradicates the computational complexity involved with changing material composition and RTA parameters to austerely reduce man hours involved in QWI process. A fast and accurate technique has been employed to incorporate variation in the material compositions targeted for QWI to control the RTI system. This allows an. easy operation of the RTA system for specific QWI over a wide range of compound semiconductor materials. 
+

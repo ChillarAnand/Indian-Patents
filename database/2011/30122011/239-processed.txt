@@ -1,0 +1,22 @@
+Application number  =>  1073/CHENP/2011 A 
+
+Date of filing of application number  =>  16/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  POWER SUPPLY APPARATUS 
+
+Name of applicant  =>  1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+
+Name of inventor  =>  1)LIU Chenyang 2)RUIJTER Hendrikus Albertus Adrianus Maria de 3)BAKKER Levinus Pieter 
+
+International Classification  =>  H02J7/00 
+
+Priority Doc No  =>  200810142968.2 
+
+International Application Number  =>  PCT/IB2009/053022 
+
+International Publication Number  =>   
+
+Abstract  =>  To solve or mitigate the problem of lacking the last mile connection to a power grid, the invention provides a power supply apparatus for supplying electric energy to a plurality of devices. The apparatus comprises a power dock configured to electrically couple to a power pack, wherein the power pack is configured to store electric energy; and a plurality of connectors each being configured to supply electric energy from the power dock to one of the plurality of devices. By utilizing the power pack, particularly a removable super capacitor, accessing power becomes easier for those people living away from power grids or suffering from an unstable power supply. (Fig. 2) 
+

@@ -1,0 +1,22 @@
+Application number  =>  2928/CHENP/2011 A 
+
+Date of filing of application number  =>  29/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  HYDROGEN-GENERATING FUEL CELL CARTRIDGES 
+
+Name of applicant  =>  1)SOCIETE BIC 
+
+Name of inventor  =>  1)ROSENZWEIG, ALAIN 2)CURELLO, ANDREW, J. 3)SPAHR, PAUL 4)CURELLO, MICHAEL, R. 
+
+International Classification  =>  H01M8/00 
+
+Priority Doc No  =>  61/110,780 
+
+International Application Number  =>  PCT/US2009/063108 
+
+International Publication Number  =>  WO 2010/051557 A1 
+
+Abstract  =>  The present application is directed to a gas-generating apparatus (10). Hydrogen is generated within the gas-generating apparatus and is transported to a fuel cell. The generation of hydrogen is regulated automatically by the selective exposure of a catalyst (48) to the fuel mixture depending on the pressure inside the reaction chamber (28) of the gas-generating apparatus. Catalyst sealing mechanisms (40,42) are provided at least partially within the reaction chamber to regulate the hydrogen pressure and to minimize the fluctuations in pressure of the hydrogen received by the fuel cell. 
+

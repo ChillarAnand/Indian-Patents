@@ -1,0 +1,22 @@
+Application number  =>  1042/CHENP/2011 A 
+
+Date of filing of application number  =>  14/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHODS AND APPARATUS FOR FRAME EXCHANGE FOR SDMA UPLINK DATA 
+
+Name of applicant  =>  1)QUALCOMM Incorporated 
+
+Name of inventor  =>  1)JONES Vincent Knowles IV 2)WENTINK Maarten Menzo 3)AGGARWAL Alok 
+
+International Classification  =>  H04W74/04, H04W74/06 
+
+Priority Doc No  =>  61/090,207 
+
+International Application Number  =>  PCT/US2009/054210 
+
+International Publication Number  =>   
+
+Abstract  =>  Certain embodiments provide a method for scheduling simultaneous transmissions of data from multiple wireless nodes in a wireless communications system. 
+

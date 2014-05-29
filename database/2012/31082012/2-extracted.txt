@@ -1,0 +1,43 @@
+ 
+The Patent Office Journal 31/08/2012 
+13844
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1461/CHENP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :15/03/2010 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : PROCESS FROM SHIKIMIC ACID TO OSELTAMIVIR PHOSPHATE  
+  
+(51) International classification  :C07D227/28, C07C229/48  
+(31) Priority Document No  :07116617.7  
+(32) Priority Date  :18/09/2007 
+(33) Name of priority country  :Switzerland 
+(86) International Application No 
+        Filing Date 
+:PCT/EP2008/061838
+:08/09/2008 
+(87) International Publication No  :WO 2009/037137 A3  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)F HOFFMANN LA ROCHE AG 
+      Address of Applicant :124 GRENZACHERSTRASSE, CH-
+4070 BASEL Switzerland 
+(72)Name of Inventor : 
+   1)TRUSSARDI, RENE  
+(57) Abstract : 
+The present invention relates to a process for the preparation of a 4,5-diamino shikimic acid derivative of formula I and 
+pharmaceutically acceptable addition salts thereof wherein R1, R1 are independent of each other H or alkyl, R2 is an alkyl and R3,R4 
+are independent of each other H or an alkanoyl, with the proviso that not both R3 and R4 are H. 4,5-diamino shikimic acid derivatives 
+of formula I, especially the (3R,4R,5S)-5-amino-4-acetylamino-3-(1-ethyl-propoxy)-cyclohex-l-ene-carboxylic add ethyl ester and its 
+pharmaceutically acceptable additional salts are potent inhibitors of viral neuraminidase. 
+  
+  
+No. of Pages : 29 No. of Claims : 18 

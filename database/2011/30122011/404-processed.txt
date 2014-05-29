@@ -1,0 +1,22 @@
+Application number  =>  757/KOL/2010 A 
+
+Date of filing of application number  =>  12/07/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  ABS VALVE ARRANGEMENT OF A VEHICLE WITH PRESSURE LIMITATION ON AN INDIRECTLY SLIP-CONTROLLED AXLE 
+
+Name of applicant  =>  1)KNORR-BREMSE SYSTEME FÜR NUTZFAHRZEUGE GMBH 
+
+Name of inventor  =>  1)GERHARD WIEDER 2)PETER HOLOBRADI 
+
+International Classification  =>  F16K31/36 
+
+Priority Doc No  =>  102009034450.0 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The invention relates to a valve arrangement (44) for regulating the fluid pressure in an ABS brake system of a vehicle in such a way that, when wheels (6a, 6b) of a vehicle axle (2a) tend to lock, the brake pressure in the brake cylinders (14a, 14b) assigned to the wheels can be matched adaptively, in order to regulate the brake slip of the wheels (6a, 6b) to a stipulated optimal brake slip, a brake pressure being fed into at least one brake cylinder (14c, 14d) of at least one further axle (2b), which brake pressure is at least temporarily dependent on the brake slip-controlled brake pressure fed into at least one brake cylinder (14a, 14b) of the one axle (2a). According to the invention, the said valve arrangement has a pressure-limiting valve device (46), by means of which, when a stipulated brake-pressure value is overshot by the brake pressure generated for the at least one brake cylinder (14a, 14b) of the one axle (2a), the brake pressure for the at least one brake cylinder (14c, 14d) of the at least one further axle (2b) is limited to a brake- pressure limit value lower than the theoretical brake-pressure value arising due to dependence on the brake pressure in the at least one brake cylinder (14a, 14b) of the one axle (2a). 
+

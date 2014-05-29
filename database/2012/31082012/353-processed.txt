@@ -1,0 +1,22 @@
+Application number  =>  609/MUM/2012 A 
+
+Date of filing of application number  =>  06/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  AN IMPROVED DEVICE FOR PHYSIOLOGICAL MONITORING OF NEONATES AND PEDIATRIC PATIENT 
+
+Name of applicant  =>  1)LARSEN & TOUBRO LIMITED 
+
+Name of inventor  =>  1)TEJAS Depaklal Bengali 2)RAVINDRAN Nagarajan 
+
+International Classification  =>  A61B5/00 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention relates an improved device for physiological monitoring of neonates and pediatric patient . The device comprises ˜an enclosure means . The enclosure means comprises a front side of the enclosure means, a back side of the enclosure means and a central module of the enclosure means. The front side of the enclosure means comprises a display means adapted to display waveforms, numerical value and animations; a capacitive touch keyboard; a speaker means and a visual alarm comprises LED having different colors. The central module of the enclosure means operatively connected with the front and back side . The central module comprises a controller means operatively connected with a capacitive touch keyboard; visual alarm ; a level convertor means operatively connected with the controller means and the display means adapted to provide interface between the controller and display means; a speaker driver operatively connected with the controller means and the speaker means to operate the speaker means. 
+

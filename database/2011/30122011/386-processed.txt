@@ -1,0 +1,22 @@
+Application number  =>  710/KOL/2010 A 
+
+Date of filing of application number  =>  30/06/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  SYSTEMS AND METHODS FOR LAYERED REGENERATION OF A PARTICULATE MATTER FILTER 
+
+Name of applicant  =>  1)GM GLOBAL TECHNOLOGY OPERATIONS, INC. 
+
+Name of inventor  =>  1)FUGENE V. GONZE 2)MICHAEL J. PARATORE, JR. 3)GARIMA BHATIA 
+
+International Classification  =>  F01N9/00 
+
+Priority Doc No  =>  12/539,838 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A method for controlling an engine includes receiving a request to regenerate a particulate matter filter and regulating, in response to the request, operation of the engine and an electric heater that heats an inlet surface of the filter such that for a first period, the heater maintains the inlet surface within a first temperature range above a regeneration temperature of the filter and combustion of a first mass of accumulated PM within the filter is initiated, for a second period following the first period, exhaust cools the inlet surface to within a second temperature range below the regeneration temperature and combustion of the first mass is inhibited, and for a third period following the second period, the inlet surface is maintained within a third temperature range above the regeneration temperature and a second mass of the accumulated PM is combusted. A related control system is also provided. 
+

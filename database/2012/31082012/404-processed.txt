@@ -1,0 +1,22 @@
+Application number  =>  5361/DELNP/2011 A 
+
+Date of filing of application number  =>  12/07/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  CHANGE DETECTION OF TARGET IDENTIFICATION DATA IN LAWFUL INTERCEPTION SYSTEMS 
+
+Name of applicant  =>  1)TELEFONAKTIEBOLAGET LM ERICSSON (PUBL) 
+
+Name of inventor  =>  1)DI DONATO, RITA 2)CICCO, ROBERTO 3)DE SANTIS, RAFFAELE 4)DI SERIO, LUCA 
+
+International Classification  =>  H04L 29/06 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/EP2009/050386 
+
+International Publication Number  =>  WO 2010/081551 
+
+Abstract  =>  A node of telecommunications network comprises comparing means for comparing current mobile station ID information with previously stored mobile station ID information. The node also comprises preparing means for preparing a notification message including both the previous mobile station ID information and the current mobile station ID information. 
+

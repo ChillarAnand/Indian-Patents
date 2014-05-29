@@ -1,0 +1,22 @@
+Application number  =>  830/KOL/2010 A 
+
+Date of filing of application number  =>  27/07/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  PULPER WITH A TORQUE MOTOR 
+
+Name of applicant  =>  1)BTA INTERNATIONAL GMBH 2)BIOTEC SISTEMI S.R.L. 
+
+Name of inventor  =>  1)WILJAN, HARRY 2)CARRA, ROLAND 3)BOZANO, STEFANO 
+
+International Classification  =>  B07B1/20 
+
+Priority Doc No  =>  10 2009 035 247.3 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The invention relates to a pulper and to its method for recycling wastes and/or product residuals. The pulper comprises a tank is which a rotor is provided for defibrating the stock mixture to be recycled, as well as a screen for drawing off the defibrated outfeed from the tank, the rotor being powered by an electric motor comprising a drive shaft in active transmission with the rotor. In accordance with the invention the electric motor is configured as a three-phase synchronous motor for operation in a speed range from 0 to 1000 rpm. It is connected to the output of a frequency inverter controlled by a controller, the output of the drive shaft being directly connected to the rotor. 
+

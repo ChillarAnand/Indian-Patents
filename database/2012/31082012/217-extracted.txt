@@ -1,0 +1,45 @@
+ 
+The Patent Office Journal 31/08/2012 
+14059
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3110/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :06/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : ETHYLENE-α-OLEFIN COPOLYMER AND MOLDED OBJECT THEREOF  
+  
+(51) International classification  :C08F210/02  
+(31) Priority Document No  :2008-288496  
+(32) Priority Date  :11/11/2008 
+(33) Name of priority country  :Japan 
+(86 International Application No 
+        Filing Date 
+:PCT/JP09/069418 
+:10/11/2009 
+(87) International Publication No  :WO 2010/055935 A1  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)SUMITOMO CHEMICAL COMPANY, LIMITED  
+      Address of Applicant :27-1, SHINKAWA 2-CHOME, CHUO-
+KU, TOKYO Japan 
+(72)Name of Inventor : 
+   1)NOZUE, YOSHINOBU  
+   2)KAWASHIMA, YASUTOYO 
+   3)OCHI, NAOKO (NEE NUMAO) 
+   4)OGANE, TAKUYA   
+(57) Abstract : 
+The purpose of the invention is to provide an ethylene-a-olefin copolymer, which has a high melt tension but a small neck-in, and a 
+molded object produced by extrusion molding of the copolymer. An ethylene-a-olefin copolymer having a monomer unit based on 
+ethylene and a monomer unit based on an a-olefin having 3 to 20 carbon atoms, which has a melt flow rate (MFR) of 0.1 to 100 g/10 
+min, a density (d) of 850 to 940 kg/m3, a ratio (Mw/Mn) of weight average molecular weight (Mw) to number average molecular 
+weight (Mn) of 2 of 12, and a valve g defined by the following formula (I) of 0.50 to 0.75: equation 
+  
+  
+No. of Pages : 125 No. of Claims : 7 

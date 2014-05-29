@@ -1,0 +1,22 @@
+Application number  =>  3082/CHENP/2011 A 
+
+Date of filing of application number  =>  05/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  CARBAMATE COMPOUND OR SALT THEREOF 
+
+Name of applicant  =>  1)ASTELLAS PHARMA INC. 
+
+Name of inventor  =>  1)ISHII, TAKAHIRO 2)SUGANE, TAKASHI 3)MUNAKATA, RYOSUKE 4)AOKU, SATOSHI 5)HIGAKI, MASAHIDE 6)SOMEYA, AKIYOSHI 
+
+International Classification  =>  C07D401/12, A61K31/496, A61P13/00 
+
+Priority Doc No  =>  2008-285466 
+
+International Application Number  =>  PCT/JP2009/068902 
+
+International Publication Number  =>  WO 2010/053120 A1 
+
+Abstract  =>  Problems] A compound useful as an active ingredient for a pharmaceutical composition for treating FAAH-related diseases is provided. [Means for Solution] The present inventors have made extensive studies on compounds having an FAAH inhibitory activity, and as a result, have found that a piperazine-l-carboxylate compound, in which benzimidazol-2-ylcarbonyl, benzofuran-2- ylcarbonyl or the like binds to the 4-position of the piperazine, has an excellent FAAH inhibitory activity and further has an action to increase the effective bladder capacity, an action to ameliorate sleep disorders, an anti-diuretic action, and an analgesic activity on lower urinary tract pain including bladder pain and the like, thereby completed the present invention. The carbamate compound of the present invention has an excellent FAAH inhibitory activity and can be used as an agent for preventing and/or treating FAAH-related diseases, particularly nocturia, interstitial cystitis, painful bladder syndrome, or chronic non-bacterial prostatitis/chronic pelvic pain syndrome. 
+

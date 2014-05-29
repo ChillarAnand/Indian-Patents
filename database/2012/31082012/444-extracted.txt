@@ -1,0 +1,49 @@
+ 
+The Patent Office Journal 31/08/2012 
+13503
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1063/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :26/04/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : METHOD FOR PRODUCING HOLLOW ENGINE VALVE  
+  
+(51) International classification  :F01L 3/20,F01L 3/14  
+(31) Priority Document No  :2010-041410  
+(32) Priority Date  :26/02/2010 
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date 
+:PCT/JP2010/066479
+:24/09/2010 
+(87) International Publication No  :WO/2011/104916  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)MITSUBISHI HEAVY INDUSTRIES, LTD. 
+      Address of Applicant :16-5, KONAN 2-CHOME, MINATO-
+KU, TOKYO 1088215, JAPAN. 
+   2)YOSHIMURA COMPANY 
+(72)Name of Inventor : 
+   1)MORII HIROKAZU 
+   2)YOSHIMURA HYOJI  
+(57) Abstract : 
+Provided is a method for producing a hallow engine valve which can easily produce a hallow engine valve in which strength is 
+improved and weight is reduced. Specifically, provided is a method for producing a hallow engine valve which involves gradually 
+reducing the size of the outer diameter and inner diameter of a hallow shaft of a semi-finished product (10a), sequentially inserting the 
+hallow shaft into a plurality of molding holes (M1, M2, M(m-1), Mm, M(n-1), Mn) having different hole shapes so as to gradually 
+extend the length of the hallow shaft, and forming the hallow shaft into a predetermined shape by sequentially performing said 
+drawing process, wherein the semi-finished product (10a) is subjected to heat treatment such that the hardness thereof is equal to or 
+less than a predetermined hardness, and the maximum thickness (t2) between the hallow shaft and an umbrella portion connected to 
+the bottom edge of the hallow shaft is formed to be thicker than the thickness (t2) of the hallow shaft by means of molding hole (M2) 
+of a die (Di2) which is adjusted to have a specific length (L2) and maximum inner diameter (D2). 
+  
+  
+No. of Pages : 17 No. of Claims : 4 

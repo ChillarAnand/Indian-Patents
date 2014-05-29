@@ -1,0 +1,45 @@
+The Patent Office Journal 31/12/2010 
+ 
+5344
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1524/MUM/2009 A 
+(19) INDIA  
+(22) Date of filing of Application :28/06/2009 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : AN OPTICAL FIBER WITH REDUCED POLARIZATION MODE DISPERSION AND A METHOD 
+OF FABRICATING AN OPTICAL FIBER WITH REDUCED POLARIZATION MODE  
+  
+(51) International classification  :C03B37/012 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)Sterlite Technologies Limited 
+      Address of Applicant :E1/E2/E3  MIDC  Waluj  Aurangabad  
+431136  Maharashtra  INDIA   
+(72)Name of Inventor : 
+   1)Hrudya Ranjan SAHU 
+   2)Amjad KHAN 
+   3)G. Pavan KUMAR  
+(57) Abstract : 
+An optical fiber having reduced Polarization Mode Dispersion is provided. The optical fiber comprises spin imparted in the optical 
+fiber along the length of the optical fiber about the axis of the optical fiber. The spin is imparted alternatively in clockwise and 
+anticlockwise direction, wherein maximum number of spins imparted in the optical fiber in successive clockwise direction and 
+anticlockwise direction are not equal, whereby, at least the spins imparted in the optical fiber in successive clockwise direction and 
+anticlockwise direction are asymmetric. 
+  
+  
+No. of Pages : 35 No. of Claims : 41 

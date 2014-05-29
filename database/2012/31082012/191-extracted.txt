@@ -1,0 +1,48 @@
+ 
+The Patent Office Journal 31/08/2012 
+14033
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3084/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :05/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : PROCESS FOR FLUXLESS BRAZING OF ALUMINIUM AND BRAZING SHEET FOR USE 
+THEREIN  
+  
+(51) International classification  
+:B23B15/01, 
+B23K35/02, 
+B23K35/28  
+(31) Priority Document No  :08168713.9  
+(32) Priority Date  :10/11/2008 
+(33) Name of priority country  :EPO 
+(86) International Application No 
+        Filing Date 
+:PCT/EP09/064586
+:04/11/2009 
+(87) International Publication No  :WO 2010/052231 A1  
+(61) Patent of Addition to Application Number 
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)ALERIS ALUMINUM KOBLENZ GMBH 
+      Address of Applicant :CARL-SPAETER-STRASSE 10, 
+56070 KOBLENZ Germany 
+(72)Name of Inventor : 
+   1)WITTEBROOD, ADRIANUS, JACOUBUS  
+(57) Abstract : 
+The invention relates to a process for controlled atmosphere brazing comprising, brazing an aluminium alloy without flux in a 
+controlled atmosphere, while using brazing sheet comprising of an aluminium alloy core upon which on at least one side a layer of 
+filler alloy is clad, the filler clad layer having an inner-surface and an outer- surface, the inner-surface is facing the core and the outer-
+surface is devoid of any further metallic based layers, and wherein the filler alloy has a composition which is Na-free, Li-free, K-free, 
+and Ca-free, and comprising, in wt.%: Si 3% to 15%, Mg 0.05% to 0.5%, one or more elements selected from the group consisting of: 
+(Bi 0.03% to 0.2%, Pb 0.03% to 0.2%, Sb 0.03% to 0.2%, and the sum of these elements being 0.2% or less), Fe 0 to 0.6%, Mn 0 to 
+1.5%, the balance aluminium and incidental impurities. 
+  
+  
+No. of Pages : 17 No. of Claims : 11 

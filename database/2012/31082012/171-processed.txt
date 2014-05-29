@@ -1,0 +1,22 @@
+Application number  =>  3054/CHENP/2011 A 
+
+Date of filing of application number  =>  04/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  FIELD REMOVABLE BONNET ASSEMBLIES FOR USE WITH VALVES 
+
+Name of applicant  =>  1)EMERSON PROCESS MANAGEMENT REGULATOR TECHNOLOGIES, INC. 
+
+Name of inventor  =>  1)LI, CHUN 2)HANUSA, MATTHEW, W. 3)PELFREY, ROY, RONALD 4)MILLER, ERIC, ALAN 
+
+International Classification  =>  F16K41/04, F16K 39/02 
+
+Priority Doc No  =>  12/247,854 
+
+International Application Number  =>  PCT/US2009/054628 
+
+International Publication Number  =>  WO 2010/042278 A1 
+
+Abstract  =>  Field removable bonnet assemblies for use with valves are described herein. An example field removable bonnet assembly for use with internal valves includes a body (208) that is to be removably coupled to the internal valve. The body defines a bore that is to receive a valve packing (220). Additionally, the field removable bonnet assembly includes a shaft (210) having a cam assembly (212) that is to rotatably engage a stem of the internal valve. The shaft is rotatably coupled to the body and the shaft is at least partially positioned within the bore. Further, the field removable bonnet assembly includes a removable adjuster (222) that is externally accessible to enable an adjustment of the removable adjuster relative to the body to change a force exerted by the valve packing on the shaft. The removable adjuster is field removable to replace or repair the valve packing. 
+

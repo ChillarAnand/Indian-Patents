@@ -1,0 +1,43 @@
+The Patent Office Journal 31/12/2010 
+ 
+5432
+(12) PATENT APPLICATION PUBLICATION (21) Application No.4154/KOLNP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :03/11/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : CELL-LIKE STRUCTURE MANUFACTURING METHOD, CELL-LIKE STRUCTURE, AND 
+CORRESPONDING EQUIPMENT  
+  
+(51) International classification  :B29D 99/00  
+(31) Priority Document No  :08/01929  
+(32) Priority Date  :08/04/2008 
+(33) Name of priority country  :France 
+(86) International Application No 
+        Filing Date 
+:PCT/FR2009/000407 
+:07/04/2009 
+(87) International Publication No  :WO 2009/130419  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)LE MONNIER, MARC 
+      Address of Applicant :14 RUE VICTOR HUGO 63500 
+ISSOIRE FRANCE. 
+(72)Name of Inventor : 
+   1)LE MONNIER, MARC  
+(57) Abstract : 
+Method for manufacturing a cell-like honeycomb structure, formed from a plurality of thermoplastic sheets (101) attached to each 
+other, wherein contoured areas (2a and 3a) are provided in each sheet, and each free sheet (101b) is attached to an adjacent sheet 
+(101a) of an intermediate block (21) formed by the different sheets previously attached therebetween, welding at least some of the flat 
+areas (3a and 2b) contacting this free sheet and this adjacent sheet with a laser source along a continuous line (L) parallel to the 
+contour axis.  
+  
+No. of Pages : 30 No. of Claims : 15 

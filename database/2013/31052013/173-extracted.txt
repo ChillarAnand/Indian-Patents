@@ -1,0 +1,38 @@
+The Patent Office Journal 31/05/2013 12144
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9962/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :29/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : A METHOD AND AN APPARATUS FOR CONTINUOUSLY STERILIZING WATER FOR
+SPRAYING THE PISTONS IN A PISTON PUMP OR A HOMOGENIZER
+(51) International classification :C02F 9/10
+(31) Priority Document No :0900901-0
+(32) Priority Date :02/07/2009
+(33) Name of priority country :Sweden
+(86) International Application No
+Filing Date
+:PCT/SE2010/000173
+:23/06/2010
+(87) International Publication No : NA
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)Tetra Laval Holdings & Finance S.A.
+Address of Applicant :Avenue Gnral-Guisan 70 CH-1009
+Pully Switzerland
+(72)Name of Inventor :
+1)JOHANSSON Fredrik
+(57) Abstract :
+The present invention relates to a method and an apparatus for continuously sterilizing water for spraying the pistons in a piston
+pump or a homogenizer. The heating takes place in a first stage in a first heat exchanger (3) and in a second stage in a second heat
+exchanger (5). The first heat exchanger (3) operates regeneratively so that incoming cold water is heated in the first heat
+exchanger (3) by water which has been heated by steam in the second heat exchanger. After the second heat exchanger (5) the
+water is at a temperature of at least 1210°C and is to stay at this temperature in a holding cell (8) during a predetermined period of
+time. After the water has been cooled regeneratively in the first heat exchanger (3) it is to be at a temperature which exceeds 75°C.
+No. of Pages : 9 No. of Claims : 2

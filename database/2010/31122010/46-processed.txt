@@ -1,0 +1,22 @@
+Application number  =>  1477/DEL/2010 A 
+
+Date of filing of application number  =>  24/06/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  A CATALYTIC CRACKING CATALYST HAVING HIGHER SELECTIVITY, PROCESSING METHOD AND USE THEREOF 
+
+Name of applicant  =>  1)CHINA PETROLEUM & CHEMICAL CORPORATION 2)RESEARCH INSTITUTE OF PETROLEUM PROCESSING, SINOPEC 
+
+Name of inventor  =>  1)XU YOUHAO 2)CUI SHOUYE 3)LONG JUN 4)GONG JIANHONG 5)DA ZHIJIAN 6)ZHANG JIUSHUN 7)ZHU YUXIA 8)LUO YIBIN 9)TANG JINLIAN 
+
+International Classification  =>  B01J8/24; 
+
+Priority Doc No  =>  200910148615.8 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention provides a catalytic cracking catalyst, processing method and use thereof. When the catalyst is added into a commercial catalytic cracking unit, it has an initial activity of not higher than 80, preferably not higher than 75, more preferably not higher than 70, a self-balancing time of 0.1-50 h, and an equilibrium activity of 35-60. Said method enables the activity and selectivity of the catalyst in the catalytic cracking unit to be more homogeneous and notably improves the selectivity of the catalytic cracking catalyst, so as to obviously reduce the dry gas and coke yields, to sufficiently use steam and to reduce the energy consumption of the FCC unit. 
+

@@ -1,0 +1,22 @@
+Application number  =>  500/MUMNP/2012 A 
+
+Date of filing of application number  =>  29/02/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD FOR HEATING A WORKPIECE AND A CORRESPONDING TOOL 
+
+Name of applicant  =>  1)PRIZZTECH OY 2)HOLLMING OY 
+
+Name of inventor  =>  1)PEKKA SUOMINEN 2)RISTO SALO 
+
+International Classification  =>  B23K 37/04,H05B 6/02 
+
+Priority Doc No  =>  20095863 
+
+International Application Number  =>  PCT/FI2010/050661 
+
+International Publication Number  =>  WO/2011/020952 
+
+Abstract  =>  A method and a corresponding tool for heating a metallic workpiece. In the method, the metallic piece is heated in a machine tool by attaching thereto an induction heating tool comprising a permanent magnet structure and by rotating and/or moving the metallic piece to be heated and the induction heating tool relative to each other at a suitable distance. In this case, heating eddy currents are induced in the piece, wherein the energy needed for heating is obtained from the motor of the machine tool. 
+

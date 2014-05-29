@@ -1,0 +1,22 @@
+Application number  =>  919/MUMNP/2012 A 
+
+Date of filing of application number  =>  13/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  A METHOD FOR INDENTIFYING HETERO-MULTIMERIC MODIFIED UBIQUITIN PROTEINS WITH BINDING CAPABILITY TO LIGANDS 
+
+Name of applicant  =>  1)SCIL PROTEINS GMBH 
+
+Name of inventor  =>  1)KUNERT, ANJA 2)NERKAMP, JOERG 3)STEUERNAGEL, ARND 4)FIEDLER, MARKUS 5)FIEDLER, ERIK 6)GOETTLER, THOMAS 
+
+International Classification  =>  C07K 14/00 
+
+Priority Doc No  =>  10186980.8 
+
+International Application Number  =>  PCT/EP2010/069674 
+
+International Publication Number  =>  WO/2011/073214 
+
+Abstract  =>  The present invention refers to a method for identifying hetero-multimeric ubiquitins with binding capability to a ligand. Furthermore, the invention provides DNA libraries encoding for a population of said hetero-multimeric ubiquitins as well as protein libraries obtained by expression of said DNA libraries, cells and phages containing said DNA or proteins, polynucleotides encoding for said fusion proteins and vectors comprising said polynucleotides. Further new binding proteins based on hetero-multimeric ubiquitin being able to bind specifically with high affinity to selected ligands are provided. 
+

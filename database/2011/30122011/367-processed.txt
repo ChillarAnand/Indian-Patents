@@ -1,0 +1,22 @@
+Application number  =>  1317/KOL/2010 A 
+
+Date of filing of application number  =>  22/11/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  SPEED PROFILE DICTIONARY 
+
+Name of applicant  =>  1)NAVTEQ NORTH AMERICA, LLC 
+
+Name of inventor  =>  1)TENNENT, TOBY S. 2)APER, MICHAEL L. 3)LINDSAY, MATTHEW G. 4)ROCKWOOD, GARY R. 
+
+International Classification  =>  G01C21/32 
+
+Priority Doc No  =>  12/637,980 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A speed profile dictionary and associated lookup tables are disclosed. A set of distinct speed profiles is defined using a statistical analysis routine. Preferably, the statistical analysis routine uses clustering. The speed profiles are then matched to location codes identifying physical locations on a road network and days of the week. Applications using historic traffic data may use the speed profile dictionary and one or more lookup tables instead of a complete historic traffic database, thereby reducing the amount of memory needed to store historic traffic data. 
+

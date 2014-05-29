@@ -1,0 +1,22 @@
+Application number  =>  1258/CHENP/2011 A 
+
+Date of filing of application number  =>  23/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  A GROUP SHARED DISTRIBUTED RESERVATION PROTOCOL 
+
+Name of applicant  =>  1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+
+Name of inventor  =>  1)ZHAI Hongqiang 
+
+International Classification  =>  H04W28/26 
+
+Priority Doc No  =>  61/084071 
+
+International Application Number  =>  PCT/IB2009/052975 
+
+International Publication Number  =>   
+
+Abstract  =>  A method (400) for creating a group shared distributed reservation in a wireless network. The method comprises collecting information about the distributed reservation availabilities of devices in the wireless network (S410); selecting a group of shared devices to be included in the group shared distributed reservation based on the collected information (S420); sending a reservation request to each device in the group of shared devices (S430); and updating the group of shared devices to include only devices that accept the reservation request (S460), thereby creating a group shared distributed reservation of medium access time slots. Fig.5 
+

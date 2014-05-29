@@ -1,0 +1,22 @@
+Application number  =>  5391/DELNP/2011 A 
+
+Date of filing of application number  =>  13/07/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  AN IONIC LIQUID CATALYST HAVING A HIGH MOLAR RATIO OF ALUMINUM TO NITROGEN 
+
+Name of applicant  =>  1)CHEVRON U.S.A. INC. 
+
+Name of inventor  =>  1)LACHEEN, HOWARD S. 2)ELOMARI, SALEH 
+
+International Classification  =>  B01J 31/18 
+
+Priority Doc No  =>  12/335,487 
+
+International Application Number  =>  PCT/US2009/064596 
+
+International Publication Number  =>  WO 2010/074835 
+
+Abstract  =>  An ionic liquid catalyst is provided comprising an ammonium chloroaluminate salt, and having a molar ratio of Al to N greater than 2.0 when held at a temperature at or below 25°C for at least two hours. There is also provided an ionic liquid catalyst comprising an alkyl-pyridinium haloaluminate and an impurity, wherein the ionic liquid catalyst has a molar ratio of Al to N greater than 2.0 when held at a temperature at or below 25°C for at least two hours. In a third embodiment, there is provided an ionic liquid system for isoparaffin/olefin alkylation, comprising a quaternary ammonium chloroaluminate, a conjunct polymer, and a hydrogen chloride. The ionic liquid system has a molar ratio of Al to N from 2.1 to 8.0. Less than 0.1 wt% AICI3 precipitates from the ionic liquid system when it is held for three hours or longer at or below 25°C. 
+

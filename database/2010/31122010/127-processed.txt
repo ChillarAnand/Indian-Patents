@@ -1,0 +1,22 @@
+Application number  =>  3937/CHENP/2010 A 
+
+Date of filing of application number  =>  24/06/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  POSITIONING DEVICE OF POSITION SENSOR 
+
+Name of applicant  =>  1)HONDA MOTORS CO., LTD. 
+
+Name of inventor  =>  1)AISAKI, HIDEKI 2)HIROSAKI, KAZUYOSHI 3)MURAGUCHI, KOUJI 4)HONDA, KOUICHI 5)TANIZAKI, SEIJI 
+
+International Classification  =>  B60K20/02 
+
+Priority Doc No  =>  2007-341579 
+
+International Application Number  =>  PCT/JP08/073534 
+
+International Publication Number  =>  WO 2009/084564 A1 
+
+Abstract  =>  A positioning device of a position sensor that does not require re-positioning and re-fastening at the time of mounting the position sensor. A positioning tool provided with a driving section and a positioning section is mounted on a position sensor. Then, positioning projections of the positioning section are engaged with neutral position grooves. In this state, the positioning section is rotated by the driving section so as to have the position sensor rotated together until the R-contact turns ON, so that an angle from N to R, i.e. from a neutral position to a reverse contact ON position is measured. Thereafter, the positioning section is rotated in an opposite direction to measure an angle from N to D, i.e. from a reverse contact OFF position to a drive contact ON position. Based on the measurement result, the positioning section is re-rotated by the driving section to move the position sensor to a proper neutral position. The position sensor is fastened in this condition. 
+

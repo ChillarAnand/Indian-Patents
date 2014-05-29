@@ -1,0 +1,37 @@
+The Patent Office Journal 31/05/2013 12129
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9917/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :28/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : METHOD AND APPARATUS FOR MULTI-STATION REQUEST MESSAGING
+(51) International classification :H04W 72/04
+(31) Priority Document No :61/221,362
+(32) Priority Date :29/06/2009
+(33) Name of priority country :U.S.A.
+(86) International Application No
+Filing Date
+:PCT/US2010/040313
+:29/06/2010
+(87) International Publication No : NA
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)QUALCOMM Incorporated
+Address of Applicant :Attn: International IP Administration
+5775 Morehouse Drive San Diego California 92121-1714
+USA.
+(72)Name of Inventor :
+1)ABRAHAM Santosh P.
+2)SAMPATH Hemanth
+3)VERMANI Sameer
+(57) Abstract :
+A process for wireless communications is disclosed herein that includes specifying transmission parameters for a plurality of
+wireless nodes in a single frame; and transmitting the single frame. An apparatus for performing the process is also disclosed
+herein.
+No. of Pages : 40 No. of Claims : 47

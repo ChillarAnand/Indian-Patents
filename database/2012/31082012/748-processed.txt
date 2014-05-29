@@ -1,0 +1,22 @@
+Application number  =>  935/MUMNP/2012 A 
+
+Date of filing of application number  =>  16/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  A METHOD OF MODIFYING THE CARBOHYDRATE CONTENT OF A PLANT 
+
+Name of applicant  =>  1)STELLENBOSCH UNIVERSITY SOUTH AFRICAN SUGARCANE RESEARCH INSTITUTE 2)SOUTH AFRICAN SUGARCANE RESEARCH INSTITUTE 
+
+Name of inventor  =>  1)BOUSSIENGUI-BOUSSIENGUI, GINO 2)KOSSMAN, JENS 
+
+International Classification  =>  C12N 15/113 
+
+Priority Doc No  =>  2009/06506 
+
+International Application Number  =>  PCT/IB2010/002331 
+
+International Publication Number  =>  WO/2011/033371 
+
+Abstract  =>  A method of modifying at least one carbohydrate in a tissue of a plant is described. The method is typically applied to a sugarcane plant of the genus Saccharum method and includes the steps of inserting into a plant cell a gene silencing cassette which includes nucleic acid operably linked to transcription elements such as a monocotyledonous promoter for transcribing the nucleic acid in a plant cell, wherein transcription of the nucleic acid decreases activity of UMP synthase. The method further includes the steps of regenerating a transgenic plant from the plant cell and producing the tissue with increased carbohydrate content. Vectors for use therefor, as well as a transformed plant cell and a transgenic plant or plant part containing or derived from a transformed plant cell are also described. 
+

@@ -1,0 +1,22 @@
+Application number  =>  120/MUMNP/2010 A 
+
+Date of filing of application number  =>  20/01/2010 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHODS FOR N-DEMETHYLATION OF MORPHINE AND TROPANE ALKALOIDS 
+
+Name of applicant  =>  1)BROCK UNIVERSITY 
+
+Name of inventor  =>  1)CARROLL Robert James 2)LEISCH Hannes 3)HUDLICKY Tomas 
+
+International Classification  =>  C07D 489/02,B01J 23/44,B01J 23/12 
+
+Priority Doc No  =>  11/771,227 
+
+International Application Number  =>  PCT/CA2008/001179 
+
+International Publication Number  =>  WO 2009/003272 A1 
+
+Abstract  =>  The present invention relates to a method for N-demethylation of a tertiary N-methylated heterocycle, particularly a morphine or tropane alkaloids or derivatives thereof. The method, comprises reacting said tertiary N-methylated heterocycle with a metal catalyst, for example Pd(OAc)2 or Cu(OAc)2 in the presence of an oxidizing agent such as oxygen or ammonium persulfate. 
+

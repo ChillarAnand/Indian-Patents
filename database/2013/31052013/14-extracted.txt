@@ -1,0 +1,38 @@
+The Patent Office Journal 31/05/2013 11985
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1863/DEL/2012 A
+(19) INDIA
+(22) Date of filing of Application :18/06/2012 (43) Publication Date : 31/05/2013
+(54) Title of the invention : MULTI TOOL AND MULTI PLATFORM ENGINE
+(51) International classification :G05B
+(31) Priority Document No :NA
+(32) Priority Date :NA
+(33) Name of priority country :NA
+(86) International Application No
+Filing Date
+:NA
+:NA
+(87) International Publication No : NA
+(61) Patent of Addition to Application Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)CRESTECH SOFTWARE SYSTEMS PVT. LTD.
+Address of Applicant :CRESTECH SOFTWARE
+SYSTEMS PVT. LTD. C 4/20 MODEL TOWN DELHI 110009
+INDIA
+(72)Name of Inventor :
+1)PANKAJ GOEL
+2)PALLAVI SHARMA
+3)AVINASH TIWARI
+(57) Abstract :
+The present invention relates to a solution architecture wherein one uses a fusion of test automation tools across platforms,
+leveraging the capabilities of the individual tool(s) to achieve a state of complete test automation and at the same time reducing
+the overall test automation effort required to achieve seamless automation of any application under test; thereby providing a
+scalable; reliable and extensible solution. The invention further relates to a process of automation testing by a seamless integration
+of plurality of tools across multiple platforms for automation of a complex application.
+No. of Pages : 28 No. of Claims : 9

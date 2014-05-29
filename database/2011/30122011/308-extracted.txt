@@ -1,0 +1,45 @@
+The Patent Office Journal 30/12/2011 
+ 
+25645
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1363/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :28/02/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : FIBRE MONITORING IN OPTICAL NETWORKS  
+  
+(51) International classification  :H04B10/08  
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date 
+:PCT/EP2008/061399
+:29/08/2008 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)TELEFONAKTIEBOLAGET LM ERICSSON (PUBL) 
+      Address of Applicant :Torshamnsgaten 23  S-16483 
+Stockholm  Sweden  
+(72)Name of Inventor : 
+   1)CAMPANELLI  Carlo 
+   2)MAGRI  Roberto  
+(57) Abstract : 
+A method of monitoring (200) an optical fibre comprises modulating (210) an optical signal with a traffic signal; modulating (220) the 
+optical signal with an incoherent optical frequency domain reflectometry, IOFDR, test signal; transmitting (230) the doubly modulated 
+optical signal onto an optical fibre at a first end of the fibre; detecting (240) scattered radiation output from the first end of the fibre; 
+and analysing (250) the detected scattered radiation using incoherent optical frequency domain reflectometry to determine a distance 
+to a break in the optical fibre. Apparatus suitable for carrying out the method is also described, as well as an optical communications 
+network employing the method. 
+  
+  
+No. of Pages : 49 No. of Claims : 30 

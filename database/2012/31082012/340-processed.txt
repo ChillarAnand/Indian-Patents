@@ -1,0 +1,22 @@
+Application number  =>  2192/MUM/2012 A 
+
+Date of filing of application number  =>  31/07/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  A SYSTEM AND METHOD FOR SPEND ANALYSIS OF THE SERVICE CATEGORY. 
+
+Name of applicant  =>  1)ZYCUS INFOTECH PVT. LTD. 
+
+Name of inventor  =>  1)MR. SACHIN SHARMA 2)CHITRESH JAIN 
+
+International Classification  =>  G06F 17/60 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention introduces a system containing an integration of iContract module and SPM module for analyzing and taking actions pertaining to contracts and suppliers performance in procurement process, comprising: iContract module containing database of contracts of suppliers; and SPM module adapted for measuring, analyzing and managing the performance of a supplier; it allows to view the supplier performance report corresponding to the specific contract being selected as well as to view contracts corresponding to the specific supplier being selected; present system allows the user to make a decision regarding renewal or termination of the contract with specified supplier, based on the performance report of the supplier. 
+

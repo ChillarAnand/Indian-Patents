@@ -1,0 +1,22 @@
+Application number  =>  1155/MUMNP/2011 A 
+
+Date of filing of application number  =>  06/06/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD AND APPARATUS FOR REPRODUCING CONTENT BY USING METADATA 
+
+Name of applicant  =>  1)SAMSUNG ELECTRONICS CO. LTD. 
+
+Name of inventor  =>  1)YOUM Sun-Hee 2)SEO Ju-Hee 3)YANG Seung-Ji 4)KIM Hwa-Jung 5)SHIM Woo-Sung 
+
+International Classification  =>  G06Q 30/00 
+
+Priority Doc No  =>  10-2008-0119958 
+
+International Application Number  =>  PCT/KR2009/006931 
+
+International Publication Number  =>  WO/2010/062096 
+
+Abstract  =>  The present invention relates to the encoding and decoding of images based on dynamically determined data-processing units. In the present invention, image data classified into basic blocks is subjected to predetermined group encoding by classifying image data into a group which comprises at least one basic block and a subgroup which comprises at least one basic block and which is comprised in a group. In order to do this, the present invention provides an image-encoding method which entails the determination of an encoding mode for a group showing the system for encoding predetermined group data by means of data-processing units for one or other of the group, subgroup and basic block, and which entails the encoding of group data in accordance with the encoding mode so determined. During the image-encoding process, respective detailed processes are carried out with reference to the group encoding mode. 
+

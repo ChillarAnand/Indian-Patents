@@ -1,0 +1,51 @@
+ 
+The Patent Office Journal 31/08/2012 
+13891
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2853/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :27/04/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : METHOD AND APPARATUS FOR MIMO-BASED MULTIPLE BASE STATION COLLABORATIVE 
+COMMUNICATION  
+  
+(51) International classification  :H04B7/06  
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date 
+:PCT/CN2008/001826
+:31/10/2008 
+(87) International Publication No  :WO 2010/048745 A1 
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)ALCATEL LUCENT  
+      Address of Applicant :3, AVENUE OCTAVE GREARD, F-
+75007 PARIS France 
+(72)Name of Inventor : 
+   1)ZHU, XIAOLONG  
+   2)LI, DONG  
+   3)SONG, YANG  
+(57) Abstract : 
+A solution for multiple base station collaborative communication in TDD (Time Division Duplex) and FDD (Frequency Division 
+Duplex) systems is provided. To be specific, a serving base station and coordinating base station transmit detection signals with 
+specific Multiple Input Multiple Output (MIMO) features on one or more communication resources. The mobile station measures the 
+detection signals on the one or more communication resources and generates indication information of the recommended collaborative 
+communication modes based on the measurement results. Preferably the indexes of the time-frequency resources corresponding to the 
+recommended collaborative communication modes are reported to the serving base station. Then the serving base station schedules at 
+least one of the one or more mobile stations according to the indication information reported by the one or more stations and provides 
+MIMO communication manner for the mobile station scheduled. The coverage of the cells is improved, the cell edge user throughput 
+is increased and the inter-cell interference between neighboring base stations is decreased by exploiting the invention. Preferably the 
+amount of uplink feedback information is decreased and the uplink bandwidth is saved.   
+  
+  
+No. of Pages : 51 No. of Claims : 15 

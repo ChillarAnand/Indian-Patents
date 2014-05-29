@@ -1,0 +1,45 @@
+The Patent Office Journal 30/12/2011 
+ 
+25758
+(12) PATENT APPLICATION PUBLICATION (21) Application No.794/KOL/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :21/07/2010 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : VALVE-MEMBER MONITORING SYSTEM  
+  
+(51) International classification  :G08B17/00 
+(31) Priority Document No  :2009-187508  
+(32) Priority Date  :12/08/2009
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)TLV CO. LTD. 
+      Address of Applicant :881 NAGASUNA, NOGUCHI-CHO, 
+KAKOGAWA-SHI, HYOGO-KEN 675-8511 JAPAN 
+(72)Name of Inventor : 
+   1)TADASHI OIKE 
+   2)MAMORU NAGASE  
+(57) Abstract : 
+Construction of a valve-member monitoring system using wireless communication is facilitated. The valve-member monitoring 
+system is structured with operating-condition sensors each attached to each of multiple steam traps installed on a manifold. The 
+manifold serves as a discharged condensate collecting pipe in which condensate is discharged through the multiple steam traps. The 
+valve-member monitoring system further includes a sensor controlling terminal cevice that is attached to the manifold or in the 
+vicinity of the manifold and exchanges information by radio with a central control apparatus. In the valve-member monitoring system, 
+the terminal device is connected to the operating-condition sensors each attached to each of the steam traps installed on the manifold 
+with lead 1 ines This reduces time and effort required to determine which operating-condition sensors are to be connected to the 
+terminal device, and therefore facilitates the construction of the valve-member monitoring system, which are excellent results.  
+ 
+No. of Pages : 18 No. of Claims : 1 

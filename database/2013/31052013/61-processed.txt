@@ -1,0 +1,22 @@
+Application number  =>  2593/CHENP/2012 A 
+
+Date of filing of application number  =>  21/03/2012 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  RELIABILITY CALCULATION FOR SUBSTATION AUTOMATION SYSTEMS 
+
+Name of applicant  =>  1)ABB RESEARCH LTD. 
+
+Name of inventor  =>  1)FREI, CHRISTIAN 2)TOURNIER, JEAN-CHARLES 3)WERNER, THOMAS 4)WIMMER, WOLFGANG 
+
+International Classification  =>  G05B23/02 
+
+Priority Doc No  =>  09171343.8 
+
+International Application Number  =>  PCT/EP2010/063363 
+
+International Publication Number  =>  WO 2011/036067A1 
+
+Abstract  =>  The present invention automatically extracts, to a maximum extent, reliability-relevant information from a Substation Configuration Description (SCD) file describing a electric power transmission or distribution substation. In particular, the information present in the SCD file is used to identify the physical topology of a communication network of the Substation Automation (SA) system, as well as all dataflow relating to a given SA functionality or Logical Node (LN). An LN reliability measure for the latter is calculated, involving reliability indications specific to each element or device participating in said dataflow. Finally, a number of LN reliability measures are consolidated to produce an overall reliability for the SA system architecture or communication network topology considered. The proposed invention minimizes the engineering effort required to perform a reliability calculation, and thus allows comparing the reliability of different SA architectures with minimal effort and intervention of a reliability engineer. 
+

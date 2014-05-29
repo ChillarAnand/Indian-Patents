@@ -1,0 +1,54 @@
+The Patent Office Journal 30/12/2011 
+ 
+25684
+(12) PATENT APPLICATION PUBLICATION (21) Application No.969/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :10/02/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : METHODS AND APPARATUSES FOR PROCESSING MEASUREMENT GAPS IN A WIRELESS 
+COMMUNICATION SYSTEM  
+  
+(51) International classification  :H04W24/10  
+(31) Priority Document No  :61/087,930  
+(32) Priority Date  :11/08/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/053478
+:11/08/2009 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)QUALCOMM Incorporated 
+      Address of Applicant :Attn: International IP Administration  
+5775 Morehouse Drive  San Diego  California 92121-1714 USA.  
+(72)Name of Inventor : 
+   1)MEYLAN Arnaud 
+   2)KRISHNAMOORTHY Srividhya 
+   3)MAHESHWARI Shailesh 
+   4)KUMAR Vanitha A. 
+   5)HALBHAVI Sudhir 
+   6)NAGPAL Vikas 
+   7)BHAWNANI Udayan 
+   8)HOOVER Scott A. 
+   9)HANNAGAN Steve  
+(57) Abstract : 
+In a wireless communication system, user equipment (UE) is provided, one or more set of rules are provided for the UE to handle the 
+processing during a measurement gap. In some aspects, the gap measurement may be ignored. In some aspects, the processing is 
+stored and handled at a later in time and gap measurements are performed. Depending on the system, the measurements performed 
+during the gaps may be UE implementation dependent, wherein the UE determines whether to perform the measurement for a given 
+gap. In some instances, the UE may not perform measurements during the gap, thereby giving priority to other processing, such as 
+RACH processing. Depending on the type of processing required (DL-SCH, UL-SCH, TTI bundling, RACH or SR), the UE may store 
+requests and process the measurements during the gap or ignore the gap measurement as if there were no gaps. 
+  
+  
+No. of Pages : 72 No. of Claims : 62 

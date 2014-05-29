@@ -1,0 +1,22 @@
+Application number  =>  4283/KOLNP/2010 A 
+
+Date of filing of application number  =>  15/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  TRACE PARTICLE COLLECTION SYSTEM 
+
+Name of applicant  =>  1)IMPLANT SCIENCES CORPORATION 
+
+Name of inventor  =>  1)BUNKER, STEPHEN, N. 
+
+International Classification  =>  G01N 1/02 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/US2008/006102 
+
+International Publication Number  =>  WO 2009/139744 
+
+Abstract  =>  A trace particle collection system accumulates trace particles of those materials that are adhering to target surfaces. The particles are removed from the surface, transported and collected in a particle collection medium, and then provided to a detection instrument. Trace particles are often bound tenaciously to the target surface, and simple techniques, such as blowing air, will either remove only the largest particles or none at all. The removal of trace particles is described which utilizes an aerosol mixture of frozen carbon dioxide aerosol particles in a gas stream to impact and more, efficiently remove the target particles from the surface. 
+

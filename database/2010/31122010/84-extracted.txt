@@ -1,0 +1,44 @@
+The Patent Office Journal 31/12/2010 
+ 
+5350
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1522/MUM/2009 A 
+(19) INDIA  
+(22) Date of filing of Application :26/06/2009 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : A METHOD AND DEVICE FOR REAL TIME COMMUNICATION OF HUMAN PHYSIOLOGICAL 
+DATA  
+  
+(51) International classification  :G06F19/00 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  :N/A  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)SOFOMO EMBEDDED SOLUTIONS PRIVATE LTD 
+      Address of Applicant :PLOT NO. 39, FLAT NO. 4, AMAR 
+CO-OPERATIVE SOCIETY, ERANDWANE, PUNE-411004, 
+MAHARASHTRA, INDIA.   
+(72)Name of Inventor : 
+   1)GAUTAM MOREY  
+(57) Abstract : 
+The present invention discloses a system for capturing and transmitting human physiological data. The invention creates an electronic 
+record of such data and transmits it to the desired location such as a hospital or a physician in real time. The present invention enables 
+remote access to patient records on mobile consoles such as desktop PC or on Hand Held Devices through internet. The invention 
+saves crucial time in decision making and aims at great convenience by enabling the physician to make a quick and effective diagnosis 
+of the patients condition before the patient physically reaches the hospital. 
+  
+  
+No. of Pages : 15 No. of Claims : 20 

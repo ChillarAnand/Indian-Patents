@@ -1,0 +1,22 @@
+Application number  =>  9970/CHENP/2011 A 
+
+Date of filing of application number  =>  30/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  MEMS TUNABLE RESONATOR IN A CAVITY 
+
+Name of applicant  =>  1)QUALCOMM Incorporated 
+
+Name of inventor  =>  1)PARK Sang-June 
+
+International Classification  =>  H03H 9/46 
+
+Priority Doc No  =>  12/488,404 
+
+International Application Number  =>  PCT/US2010/039374 
+
+International Publication Number  =>   
+
+Abstract  =>  Tunable MEMS resonators having adjustable resonance frequency and capable of handling large signals are described. In one exemplary design, a tunable MEMS resonator includes (i) a first part (160) having a cavity (180) and a post (170) and (ii) a second part (110) mated to the first part (160) and including a movable plate (140) located under the post (170). Each part may be covered with a metal layer (130, 190) on the surface facing the other part. The movable plate (140) may be mechanically moved by a DC voltage to vary the resonance frequency of the MEMS resonator. The cavity (180) may have a rectangular or circular shape and may be empty or filled with a dielectric material. The post (170) may be positioned in the middle of the cavity (180). The movable plate (140) may be attached to the second part (i) via an anchor (144) and operated as a cantilever or (ii) via two anchors (146, 148) and operated as a bridge. 
+

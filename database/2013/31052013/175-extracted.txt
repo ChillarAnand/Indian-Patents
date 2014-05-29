@@ -1,0 +1,40 @@
+The Patent Office Journal 31/05/2013 12146
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9964/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :29/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : METHOD AND APPARATUS TO PERFORM ANTENNA MANAGEMENT
+(51) International classification :H04B 7/02
+(31) Priority Document No :61/220,039
+(32) Priority Date :24/06/2009
+(33) Name of priority country :U.S.A.
+(86) International Application No
+Filing Date
+:PCT/US2010/039670
+:23/06/2010
+(87) International Publication No : NA
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)Research In Motion Limited
+Address of Applicant :295 Phillip Street Waterloo Ontario
+N2L 3W8 Canada
+(72)Name of Inventor :
+1)XU Hua
+2)CAI Zhijun
+3)LI Jun
+4)FONG Mo-Han
+5)CREASY Timothy
+6)EARNSHAW Mark
+7)HEO Youn Hyoung
+(57) Abstract :
+A method of establishing communication between user equipment and a network includes receiving a control channel message
+decoding the control channel message and sending an indication of whether interoperability of receiving signals from a first
+number of antennas is certified for the user equipment
+No. of Pages : 47 No. of Claims : 52

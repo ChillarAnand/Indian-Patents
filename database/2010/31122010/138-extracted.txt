@@ -1,0 +1,75 @@
+The Patent Office Journal 31/12/2010 
+ 
+5404
+(12) PATENT APPLICATION PUBLICATION (21) Application No.947/CHE/2005 A 
+(19) INDIA  
+(22) Date of filing of Application :15/07/2005 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : FAULT RECOGNITION SYSTEM AND METHOD FOR AN INTERNAL COMBUSTION ENGINE  
+  
+(51) International classification  :G06F11/36  
+(31) Priority Document No  :09/289,553  
+(32) Priority Date  :09/04/1999 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filed on 
+:242/MAS/2000 
+:28/03/2000  
+  
+(71)Name of Applicant :  
+   1)CUMMINS ENGINE COMPANY 
+      Address of Applicant :500 JACKSON STREET, 
+COLUMBUS INDIANA 47201 U.S.A. 
+(72)Name of Inventor : 
+   1)JOHN M, IRONS 
+   2)EDWARD J. LEWANDOWSKI 
+   3)SCOTT G. DECKER 
+   4)GREGG G. GREATHOUSE 
+   5)IRFAN TUSNEEM  
+(57) Abstract : 
+A fault recognition system is implemented as an adjunct to fault determination software of an on-board engine control module (ECM). 
+The ECMactivates a Type A or Type B fault code for each signal received from a plurality of sensors disposed about the engine when 
+that signal exceeds a predetermined threshold. A Type C fault is recognized and activated when all of a predetermined group of 
+underlying Type A or Type B fault codes have been activated. The Type C fault is displayed, while the underlying faults may or may 
+not be displayed. The Type C fault provides a better and more immediate indication of the source of the engine problem than any of 
+the underlying faults. Only those imderlying faults that aid in the recognition of the source of the engine problem are displayed. The 
+remaining faults underlying the Type C fault are masked. When the Type C fauU becomes inactive, any underlying fauh codes are 
+unmasked for subsequent evaluation. To avoid false positives or negatives, all of the underlying faults must be activated for a 
+predetermined period before the Type C fault will be activated. Likewise, before the Type C fauh is de-activated, at least one of the 
+underlying faults must be inactive for a predetermined period. 
+  
+  
+No. of Pages : 28 No. of Claims : 25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

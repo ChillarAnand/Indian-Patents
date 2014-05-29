@@ -1,0 +1,52 @@
+ 
+The Patent Office Journal 31/08/2012 
+13872
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2762/CHE/2008 A 
+(19) INDIA  
+(22) Date of filing of Application :11/11/2008 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : METHOD AND SYSTEM FOR UPDATING SOCIAL NETWORKING SITE WITH RING BACK 
+TONE INFORMATION  
+  
+(51) International classification  :H04M, G06Q 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)ONMOBILE GLOBAL LIMITED 
+      Address of Applicant :#26, BANNERGHATTA ROAD, J.P. 
+NAGAR, PHASE-III, BANGALORE - 560 076 Karnataka India 
+(72)Name of Inventor : 
+   1)VINAY NANJUNDAIAH 
+   2)HARISH BABU 
+   3)ABHINAV ANAND 
+   4)ANCHAL JAJODIA 
+   5)VENKATESH SREEKAR 
+   6)ROHITH KORANAPALLI NAGARAJU 
+   7)ALAPAN KUNDU  
+(57) Abstract : 
+A method for providing access to a socio-RBT service is provided. The socio-RBT service enables updating social networking website 
+profile of a user with RBT related information of the user. The method enables, firstly, receiving socio-RBT subscription information 
+from the use. The socio-RBT subscription information comprises at least one unique identifier of the user. Secondly, the method 
+enables verifying one or more predetermined conditions related to the user. The one or more predetermined conditions facilitate to 
+determine if the user is eligible to access the socio-RBT service. Further, the method enables mapping the unique identifier of the user 
+with a unique identifier of the users social networking website profile. The method further enables obtaining RBT subscription 
+information corresponding to the mapped unique identifier of the user. The method enables, finally, updating RBT related information 
+on the social networking website profile of the user corresponding to the RBT subscription information. 
+  
+  
+No. of Pages : 27 No. of Claims : 17 

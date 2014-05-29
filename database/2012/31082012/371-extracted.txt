@@ -1,0 +1,48 @@
+ 
+The Patent Office Journal 31/08/2012 
+13430
+(12) PATENT APPLICATION PUBLICATION (21) Application No.5346/DELNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :12/07/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : SPRAYING METHOD AND DEVICE FOR A ROLLING PLANT  
+  
+(51) International classification  :B21B 27/10  
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date 
+:PCT/FR2009/000113 
+:02/02/2009 
+(87) International Publication No  :WO 2010/086514  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)SIEMENS VAI METALS TECHNOLOGIES SAS 
+      Address of Applicant :51, RUE SIBERT, F-42403 SAINT-
+CHAMOND, FRANCE France 
+(72)Name of Inventor : 
+   1)VINCENT CRONIER 
+   2)BERNARD ROSSIGNEUX  
+(57) Abstract : 
+The invention relates to a spraying method and device for a plant for rolling a strip (1), said plant comprising at least one rolling stand, 
+said device including: a pair of working rolls (2a, 2b) between which the strip (1) runs; a plane (P) perpendicular to the running 
+direction of the strip; at least one pair of supporting rolls (3a, 3b) for said working rolls (2a, 2b); two pairs of bearing rolls (5a, 5a, 5b, 
+5b), each of said pairs having the rolls (5a, 5a, 5b, 5b) thereof substantially symmetrically arranged on either side of the working rolls 
+(2a, 2b) in a plane substantially parallel to the strip so as to transfer, to said working rolls (2a, 2b), a force for maintaining said 
+working rolls in a predetermined position relative to the supporting roll; a support for said bearing rolls (5a, 5a, 5b, 5b) in the form of 
+two rows including a plurality of bearing rollers (6) mounted side by side; at least one nozzle system for spraying at least a portion of 
+the strip and at least a portion of said rolls, characterized in that at least one of the nozzle systems is capable of directly spraying at 
+least a portion of the working rolls on either side of said plane which is perpendicular to the running direction of the strip. 
+  
+  
+No. of Pages : 48 No. of Claims : 24 

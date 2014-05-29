@@ -1,0 +1,22 @@
+Application number  =>  9730/CHENP/2011 A 
+
+Date of filing of application number  =>  23/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  SYSTEM FOR RELATIVE POSITIONING OF ACCESS POINTS IN A REAL TIME LOCATING SYSTEM 
+
+Name of applicant  =>  1)Accenture Global Services Limited 
+
+Name of inventor  =>  1)JOHNSON Ernest K. Jr. 2)DAVISSON Mark J. 
+
+International Classification  =>  G08B 23/00 
+
+Priority Doc No  =>  61/234,134 
+
+International Application Number  =>  PCT/US2010/043972 
+
+International Publication Number  =>   
+
+Abstract  =>  A system is described for relative positioning of access points in a real time locating system. The system may include a memory interface and processorThe memory may store layout information for a work area which includes architectural and infrastructure attributesThe processor may determine a number of access points to position in the work area based on the architectural attributeThe processor may determine a placement of a test tag in the work area based on the infrastructure ttributesThe processor may determine a positioning of the access points in the work area which substantially maximizes coverage and accuracy of locating the test tag in the work area. The processor may determine a repositioning of one of the access points when the coverage and accuracy do not satisfy a thresholdThe processor may provide a graphical representation of the positioning of the access points when the threshold is satisfied. 
+

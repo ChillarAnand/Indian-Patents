@@ -1,0 +1,47 @@
+The Patent Office Journal 31/12/2010 
+ 
+5314
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2453/DEL/2009 A 
+(19) INDIA  
+(22) Date of filing of Application :27/11/2009 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : APPARATUS, METHOD AND SYSTEM FOR RECONFIGURING ITEMS  
+  
+(51) International classification  :B65B1/04; 
+(31) Priority Document No  :12/491,524 
+(32) Priority Date  :25/06/2009
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  :NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)PIONEER HI-BRED INTERNATIONAL, INC. 
+      Address of Applicant :7100 N.W. 62nd AVENUE, 
+JOHNSTON, IOWA 50131 USA.   
+(72)Name of Inventor : 
+   1)BECKER STEVEN M. 
+   2)COPE JASON  
+   3)DIMOND JAMES DAVID  
+(57) Abstract : 
+Apparatuses, methods, and systems for reconfiguring some or all content from one or more first containers into a second container are 
+provided. In an example of the apparatus, the apparatus has a dispensing system having a dispenser to dispense content from one 
+container into another, and a delivery system adapted to reconfigure the dispensed content from the one container into another 
+container. In another example, a method includes dispensing selected contents from one container and reconfiguring the dispensed 
+contents from the one container into another. In another example, the system includes a controller, a machine controlled by the 
+controller, wherein the machine has a pair of container handlers, a content dispenser, and a content delivery system. The controller is 
+adapted to control the machine using a selection criterion to operate the content dispenser to dispense selected content from one 
+container to move with the delivery system into another container. 
+  
+  
+No. of Pages : 43 No. of Claims : 20 

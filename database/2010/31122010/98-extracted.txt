@@ -1,0 +1,46 @@
+The Patent Office Journal 31/12/2010 
+ 
+5364
+(12) PATENT APPLICATION PUBLICATION (21) Application No.4069/CHENP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :01/07/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : GROUP CALL MANAGEMENT  
+  
+(51) International classification  :H04W4/06  
+(31) Priority Document No  :11/966,690  
+(32) Priority Date  :28/12/2007 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/EP2008/068333
+:29/12/2008 
+(87) International Publication No  :WO 2009/083587 A2  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)NORTEL NETWORKS LIMITED 
+      Address of Applicant :2351 BOULEVARD ALFRED-
+NOBEL, ST. LAURANT, QUEBEC H4S 2AP Canada 
+(72)Name of Inventor : 
+   1)JOERG BECKER 
+   2)MARTIN SAUTER  
+   3)TIMOTHY LONGMAN  
+(57) Abstract : 
+A method of setting up a call group for participation in a group call by a plurality of mobile devices in a mobile telecommunications 
+network, the mobile telecommunications network comprising a serving node operable to transceive data to and from the mobile 
+telecommunications devices, the method comprising: receiving, at a serving node, data indicative of a group identifier from a said 
+mobile terminal registered with the mobile telecommunications network; and defining a Group Call Area using the received group 
+identifier, the defined Group Call Area being accessible by the serving node so as to enable the serving node to discriminate one call 
+group registered with said telecommunications network from another call group registered with said telecommunications network. 
+  
+  
+No. of Pages : 33 No. of Claims : 25 

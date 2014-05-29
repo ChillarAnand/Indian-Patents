@@ -1,0 +1,22 @@
+Application number  =>  9915/CHENP/2011 A 
+
+Date of filing of application number  =>  28/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  METHODS&NBSP; APPARATUSES AND SYSTEM FOR DECENTRALIZED COEXISTENCE MANAGEMENT FOR CONTROLLING OPERATION OF MULTIPLE RADIOS 
+
+Name of applicant  =>  1)QUALCOMM Incorporated 
+
+Name of inventor  =>  1)LINSKY Joel B. 2)KADOUS Tamer A. 3)MANTRAVADI Ashok 4)WIETFELDT Richard D. 5)CHRISIKOS George 
+
+International Classification  =>  H04W 16/14 
+
+Priority Doc No  =>  61/221,287 
+
+International Application Number  =>  PCT/US2010/040439 
+
+International Publication Number  =>   
+
+Abstract  =>  Systems and methodologies are described herein that facilitate a decentralized structure for managing multi-radio coexistence for a mobile device and/or other suitable device(s). As described herein a coexistence manager (CxM) and/or other suitable means can be implemented in connection with a set of radios (or other transceivers) in order to manage conflicts between events corresponding to the radios. Functionality can be divided such that the CxM operates on the control plane and handles configuration and long-term operations such as registration sleep mode management interaction with upper layers etc. while the respective radios operate on the data plane and handle short-term radio event management operations based on incoming notifications or event requests. For instance radios can identify conflicts between requested external events and internally associated events and accordingly provide responses that allow or disallow the external events on an absolute basis or a conditional basis (e.g. based on proposed event modifications). 
+

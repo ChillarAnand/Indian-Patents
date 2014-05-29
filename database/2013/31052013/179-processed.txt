@@ -1,0 +1,22 @@
+Application number  =>  9968/CHENP/2011 A 
+
+Date of filing of application number  =>  29/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  METHOD AND SYSTEM FOR DIAGNOSING APPARATUS 
+
+Name of applicant  =>  1)Huawei Technologies Co. Ltd. 
+
+Name of inventor  =>  1)WANG Feizhou 2)TAO Lin 3)LI Yi 4)CHANG Lin 
+
+International Classification  =>  G06F 11/22 
+
+Priority Doc No  =>  200910188485.0 
+
+International Application Number  =>  PCT/CN2010/079142 
+
+International Publication Number  =>   
+
+Abstract  =>  A method and a system for diagnosing an apparatus are provided. The method for diagnosing the apparatus comprises: determining whether the apparatus is to enter a diagnostic mode after a system is started; performing a diagnosis of the apparatus by executing a diagnostic program when the apparatus is determined to enter the diagnostic mode; and performing a normal BIOS or EFI startup when the apparatus is determined not to enter the diagnostic mode. An accurate diagnosis of the apparatus can be realized by firstly determining whether the apparatus is to enter a diagnostic mode after a system is started, if yes, then the apparatus entering the diagnostic mode, and if not, then the apparatus performing a normal BIOS or EFI startup. Moreover, in case of a memory or PCI/PCIB bus error in the apparatus, since the diagnostic program is loaded prior to the BIOS startup, the fault can be diagnosed. 
+

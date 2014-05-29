@@ -1,0 +1,45 @@
+ 
+The Patent Office Journal 31/08/2012 
+14112
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3163/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :09/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : DATA MAINTENANCE SYSTEM  
+  
+(51) International classification  :G06F12/00  
+(31) Priority Document No  :61/119,148  
+(32) Priority Date  :02/12/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/066206
+:01/12/2009 
+(87) International Publication No  :WO 2010/065507 A1 
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)AB INITIO TECHNOLOGY LLC 
+      Address of Applicant :201 SPRING STREET, LEXINGTON, 
+MA 02421 U.S.A. 
+(72)Name of Inventor : 
+   1)CHRISTOPHER J. WINTERS 
+   2)ANTHONY YERACARIS 
+   3)JOEL GOULD  
+(57) Abstract : 
+Maintaining data in a data management system (10) including at least one processor and a storage system (150) includes accessing a 
+first data source (130) providing one or more source elements of data; accessing a storage system (120) storing one or more subsets of 
+data, each subset including at least one element of data, and storing one or more descriptors identifying a data source for a subset and 
+identifying a data source for each of one or more elements of the subset; and processing rules that determine if, according to the 
+descriptors, an element in the storage system is allowed to be changed. 
+  
+  
+No. of Pages : 33 No. of Claims : 44 

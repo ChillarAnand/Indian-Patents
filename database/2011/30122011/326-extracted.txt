@@ -1,0 +1,52 @@
+The Patent Office Journal 30/12/2011 
+ 
+25663
+(12) PATENT APPLICATION PUBLICATION (21) Application No.636/CHENP/2006 A 
+(19) INDIA  
+(22) Date of filing of Application :21/02/2006 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : PROCESS FOR PRODUCTION OF ACETYL ANHYDRIDES AND OPTIONALLY ACETIC ACID 
+FROM METHANE AND CARBON DIOXIDE  
+  
+(51) International classification  :C07C  
+(31) Priority Document No  :10/627,254  
+(32) Priority Date  :24/07/2003 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US04/023681
+:23/07/2004 
+(87) International Publication No  :WO 2005/09927  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)THE REGENTS OF THE UNIVERSITY OF 
+CALIFORNIA  
+      Address of Applicant :1111 Franklin Street, 12th Floor, 
+Oakland, CA 94607-5200 U.S.A. 
+   2)BP CHEMICALS LIMITED 
+(72)Name of Inventor : 
+   1)BELL, Alexis T.  
+   2)MUKHOPADHYAY, Sudip  
+   3)ZERELLA, Mark, T 
+   4)SUNLEY, John Glenn  
+   5) GAEMERS, Sander  
+   6)MUSKETT, Michael James   
+(57) Abstract : 
+Acetyl anhydrides such as acetyl sulfate are produced by a process for comprising contacting methane and carbon dioxide in an 
+anhydrous environment in the presence of effective amounts of a transition metal catalyst and a reaction promoter, and an acid 
+anhydride compound, and optionally an acid. The acetyl anhydride can be contacted with water to produce acetic acid or with an 
+alcohol to produce a product comprising an acetate ester and that may also comprise acetic acid. Optionally, water in stoichiometric 
+amounts or less, with respect to the acetic anhydride, may be fed to a continuous process of this type to produce some acetic acid in 
+situ. 
+  
+  
+No. of Pages : 24 No. of Claims : 54 

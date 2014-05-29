@@ -1,0 +1,43 @@
+The Patent Office Journal 31/05/2013 12160
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9987/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :30/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : QUANTUM REPEATER AND SYSTEM AND METHOD FOR CREATING EXTENDED
+ENTANGLEMENTS
+(51) International classification :H04L 9/08
+(31) Priority Document No :0911275.6
+(32) Priority Date :30/06/2009
+(33) Name of priority country :U.K.
+(86) International Application No
+Filing Date
+:PCT/EP2009/064071
+:26/10/2009
+(87) International Publication No : NA
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)HEWLETT-PACKARD DEVELOPMENT COMPANY
+L.P.
+Address of Applicant :11445 Compaq Center Drive West
+Houston TX 77070 U.S.A.
+2)NATIONAL INSTITUTE OF INFORMATICS
+(72)Name of Inventor :
+1)Keith Alexander HARRISON
+2)William MUNRO
+3)Kae NEMOTO
+(57) Abstract :
+A method is provided of creating an end-to-end entanglement (89) between qubits in first and second end nodes (81L 81R) of a
+chain of optically-coupled nodes whose intermediate nodes (80) are quantum repeaters. Local entanglements (85) are created
+between qubits in neighbouring pairs in the chain through interaction of the qubits with light fields transmitted between the nodes.
+A trigger (82) propagated along the chain from one end node (81L) sequentially enables each quantum repeater (100; 210) to
+effect a top-level cycle of operation. In each such cycle a repeater (80) initiates a merging of two entanglements involving
+respective repeater qubits that are at least expected to be entangled with qubits in nodes disposed in opposite directions along the
+chain from the repeater. A quantum repeater (80) adapted for implementing this method is also provided.
+No. of Pages : 76 No. of Claims : 20

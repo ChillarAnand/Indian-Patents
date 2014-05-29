@@ -1,0 +1,43 @@
+The Patent Office Journal 30/12/2011 
+ 
+25622
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1261/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :23/02/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : TECHNIQUES FOR MONITORING THE QUALITY OF SHORT-RANGE WIRELESS LINKS  
+  
+(51) International classification  :H04B17/00  
+(31) Priority Document No  :61/084062  
+(32) Priority Date  :28/07/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/IB2009/052972
+:08/07/2009 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+      Address of Applicant :GROENEWOUDSEWEG 1 
+EINDHOVEN  5621 BA  NETHERLANDS   
+(72)Name of Inventor : 
+   1)ZHAI  Hongqiang  
+(57) Abstract : 
+A method for monitoring of a wireless link quality comprises measuring the link quality of a wireless link (120-XY) between a beacon 
+device (110-X) transmitting a beacon and a beacon device (110-Y) receiving the beacon, wherein the measuring is performed by the 
+receiving device (S320); saving link quality measures in a local neighborhood link quality (LNLQ) table (400) maintained by the 
+receiving device (110-Y) (S330); and advertising the link quality measures of wireless links by transmitting the measures in beacons 
+(S340). Fig.1 
+  
+ 
+No. of Pages : 19 No. of Claims : 13 

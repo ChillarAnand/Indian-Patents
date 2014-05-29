@@ -1,0 +1,49 @@
+ 
+The Patent Office Journal 31/08/2012 
+13861
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1306/CHENP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :08/03/2010 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : LABELING AND PREPARATION DEVICE FOR TEST TUBES  
+  
+(51) International classification  :B01L9/06  
+(31) Priority Document No  :1020070091623  
+(32) Priority Date  :10/09/2007 
+(33) Name of priority country  :Republic of Korea 
+(86) International Application No 
+        Filing Date 
+:PCT/KR2008/005075
+:29/08/2008 
+(87) International Publication No  :WO 2009/035225 A1 
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)ENERGIUM CO., LTD  
+      Address of Applicant :3BA 610., SIHWA-GONGDAN, 
+JEONGWANG-DONG, SIHEUNG, GYEONGGI-DO429-450 
+Republic of Korea 
+(72)Name of Inventor : 
+   1)KIM, SUNG-LIM 
+   2)KANG, JUNG-HUN 
+   3)JU, JIN-SAM 
+   4)LEE, KANG-HEE 
+   5)PARK, CHANG-SOON  
+(57) Abstract : 
+A labeling and preparation device for test tubes. At least one storage section places at least one pallet having a set of test tubes at a 
+preset position. At least one transfer section is disposed above the storage section, and clamps or releases one of the test tubes. A 
+labeling section is disposed below the transfer section, receives the test tubes transferred from the transfer section, and attaches a label 
+having information related to a sample on a circumference of each test tube. An ejection section is disposed below the labeling 
+section, and ejects the test tubes to an outside. A controller controls drivers of the transfer section, the labeling section and the ejection 
+section. 
+  
+  
+No. of Pages : 29 No. of Claims : 11 

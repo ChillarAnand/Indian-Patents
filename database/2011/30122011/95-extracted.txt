@@ -1,0 +1,48 @@
+The Patent Office Journal 30/12/2011 
+ 
+25432
+(12) PATENT APPLICATION PUBLICATION (21) Application No.217/DELNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :11/01/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : MESSAGE ROUTING PLATFORM  
+  
+(51) International classification  :H04L 12/56  
+(31) Priority Document No  :200805997-4  
+(32) Priority Date  :13/08/2008 
+(33) Name of priority country  :Singapore 
+(86) International Application No 
+        Filing Date 
+:PCT/SG2009/000266
+:29/07/2009 
+(87) International Publication No  :WO 2010/019105  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)3RD BRAND PTE. LTD. 
+      Address of Applicant :100 BEACH ROAD, #25-06 SHAW 
+TOWERS, SINGAPORE 189702   
+(72)Name of Inventor : 
+   1)UNDERWOOD, JOHN ANTHONY 
+   2)KEYS, CHRISTOPHER EDWARD 
+   3)KERO, MARKKU 
+   4)LEINONEN, RAINER 
+   5)DELAGON, ALVIN  
+(57) Abstract : 
+A system and method for routing messages in a communication network is disclosed. The system include a plurality of nodes for 
+receiving a packet for delivery to an intended recipient wherein the system is adapted to determine if the intended recipient is 
+connected to a first selected node within the plurality of nodes; and if the recipient is connected to the first selected node, deliver the 
+packet; and if the recipient is determined not to be connected to the first selected node within the plurality of nodes, the system is 
+further adapted to determine which node from the plurality of nodes the intended recipient is connected and forward the packet to the 
+node to which the intended recipient is connected. 
+  
+ 
+No. of Pages : 23 No. of Claims : 21 

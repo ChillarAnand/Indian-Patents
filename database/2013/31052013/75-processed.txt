@@ -1,0 +1,22 @@
+Application number  =>  2944/CHENP/2012 A 
+
+Date of filing of application number  =>  30/03/2012 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  SYSTEM AND METHOD FOR ALLOCATING RESOURCES IN AN EXTENDED BANDWIDTH WIRELESS NETWORK 
+
+Name of applicant  =>  1)QUALCOMM Incorporated 
+
+Name of inventor  =>  1)CHEN Wanshi 2)MONTOJO Juan 
+
+International Classification  =>  H04L5/00 
+
+Priority Doc No  =>  61/252,106 
+
+International Application Number  =>  PCT/US2010/052969 
+
+International Publication Number  =>   
+
+Abstract  =>  A method an apparatus and a computer program product for wireless communication are disclosed in which a base station provides an extended bandwidth having an extension portion and a non-extension portion. The base station can indicate for a particular user equipment (UE) to utilize only a portion of the extended bandwidth. In this way the extended bandwidth can include multiplexed resources directed to a plurality of UEs improving capacity and/or throughput. Moreover backwards compatibility with devices compatible with LTE Release 8 can be achieved as those devices can be directed to utilize only the non-extension portion of the extended bandwidth. In one aspect the base station indicates a system bandwidth including resource blocks associated with the non-extension portion and resource blocks associated with the extension portion and the UE is not required to monitor more than a predetermined number of resource blocks to receive a downlink transmission. 
+

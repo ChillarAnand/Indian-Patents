@@ -1,0 +1,22 @@
+Application number  =>  1112/MUMNP/2011 A 
+
+Date of filing of application number  =>  31/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  MAGNETIC ORIENTING AND PRINTING  
+
+Name of applicant  =>  1)SICPA HOLDING SA 2)CHINA BANKNOTE SICPA SECURITY INK CO. LTD. 
+
+Name of inventor  =>  1)LI Xiang 2)DESPLAND Claude-Alain 3)MLLER Edgar 4)DEGOTT Pierre 5)BLEIKOLM Anton 6)SUDAN Alexandre 
+
+International Classification  =>  B41F 15/08 
+
+Priority Doc No  =>  PCT/IB2008/003406 
+
+International Application Number  =>  PCT/EP2009/066826 
+
+International Publication Number  =>  WO/2010/066838 
+
+Abstract  =>  The invention discloses a device and a process for producing indicia comprising magnetically oriented magnetic or magnetizable particles in an ink or coating composition on a sheet (5) of substrate material. The device comprises a flat-bed screen-printing unit having a flat printing screen (2) and a printing platen (1) for receiving said sheet (5), the printing platen (1) having an upper surface facing the printing screen and a first direction along its upper surface along which said sheet (5) is unloadable, and a magnetic orienting unit comprising multiple magnet assemblies (6). The magnetic orienting unit is disposed below the upper surface of the printing platen (1), said multiple magnet assemblies (6) are disposed along said first direction, and all of said magnet assemblies (6) are concomitantly movable from a first position away from the upper surface of the printing platen to a second position close to the upper surface of the printing platen. 
+

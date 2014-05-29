@@ -1,0 +1,22 @@
+Application number  =>  9918/CHENP/2011 A 
+
+Date of filing of application number  =>  28/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  POWER MANAGEMENT BETWEEN MULTIPLE WIRELESS INTERFACES 
+
+Name of applicant  =>  1)QUALCOMM Incorporated 
+
+Name of inventor  =>  1)TAGHAVI NASRABADI Mohammad Hossein 2)SAMPATH Hemanth 3)ABRAHAM Santosh P. 
+
+International Classification  =>  H04W 16/14 
+
+Priority Doc No  =>  61/220,800 
+
+International Application Number  =>  PCT/US2010/040079 
+
+International Publication Number  =>   
+
+Abstract  =>  An apparatus for wireless communications includes a processing system. The processing system is configured to turn off a first wireless interface configured to support communications within a first coverage area. The processing system is further configured to communicate with a second apparatus using a second wireless interface configured to support communications within a second coverage area greater than the first coverage area. The processing system is further configured to turn on the first wireless interface based on the communication with the second apparatus. 
+

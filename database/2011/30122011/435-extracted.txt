@@ -1,0 +1,43 @@
+The Patent Office Journal 30/12/2011 
+ 
+25772
+(12) PATENT APPLICATION PUBLICATION (21) Application No.821/KOL/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :26/07/2010 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : SOLAR RECEIVER FOR A SOLAR CONCENTRATOR WITH A LINEAR FOCUS  
+  
+(51) International classification  :H01L31/00 
+(31) Priority Document No  :09425303.6 
+(32) Priority Date  :29/07/2009 
+(33) Name of priority country  :EUROPEAN UNION 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)THESAN S.P.A. 
+      Address of Applicant :VIA VALEGGIO, 41, I-10129 
+TORINO, ITALY 
+(72)Name of Inventor : 
+   1)BALBO DI VINADIO, AIMONE 
+   2)PALAZZETTI, MARIO  
+(57) Abstract : 
+A solar receiver (26) for a linear-focusing solar concentrator, comprising: - a base (28), which is elongated in a direction parallel to a 
+focal line (A) and carries an array of strip-shaped targets (34) arranged orthogonal to said focal line (A) and set at a distance apart 
+from one another in a direction parallel to the focal line (A); - a focusing assembly (40) including an array of optical elements (44) 
+arranged for focusing solar radiation on said strip-shaped targets (34), the focusing assembly (40) being mobile with respect to the 
+base (28) of the photovoltaic receiver (26) in a direction parallel to said focal line (A); and - an azimuthal pointing device (58, 60), 
+designed to move the focusing assembly (40) with respect to said base (28) as a function of the position of the sun.  
+ 
+No. of Pages : 13 No. of Claims : 6 

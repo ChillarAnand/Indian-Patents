@@ -1,0 +1,22 @@
+Application number  =>  907/CHENP/2011 A 
+
+Date of filing of application number  =>  08/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD AND SYSTEM FOR RESTRICTED ACCESS CONFIGURATION OF ACCESS POINT BASE STATIONS 
+
+Name of applicant  =>  1)QUALCOMM Incorporated 
+
+Name of inventor  =>  1)BUTLER Brian K. 2)NANDA Sanjiv 
+
+International Classification  =>  H04W48/08 
+
+Priority Doc No  =>  12/200,583 
+
+International Application Number  =>  PCT/US2008/088073 
+
+International Publication Number  =>   
+
+Abstract  =>  Devices and methods are provided for the controlling access to access point (AP) base stations. In particular, described herein are techniques for the automated configuration of AP base stations for restricted access. For example, the technique may involve receiving a contact list from an access terminal (AT) associated with the AP base station and a network operator. From the received contact list, saved contacts associated with the operator may be identified. The technique may further involve retrieving identifiers for the identified contacts, and generating an allowed user list from the identifiers, which may be used to configure the AP base station for restricted access. 
+

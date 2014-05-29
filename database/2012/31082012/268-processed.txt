@@ -1,0 +1,22 @@
+Application number  =>  3161/CHENP/2011 A 
+
+Date of filing of application number  =>  09/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  COMMUNICATIONS DECISION METHODS AND APPARATUS 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)JUNYI LI 2)RAJIV LAROIA 3)SAURABH R. TAVILDAR 4)XINZHOU WU 
+
+International Classification  =>  H04W72/08, H04W84/18, H04W72/10 
+
+Priority Doc No  =>  12/267,923 
+
+International Application Number  =>  PCT/US09/062888 
+
+International Publication Number  =>  WO 2010/053850 A1 
+
+Abstract  =>  Methods and apparatus for making communications decisions are described. In some embodiments, a method includes recovering a first quality of service level from a first transmission request signal directed to a second communications device, and making a decision whether or not to transmit traffic data to a third communications device based on the recovered first quality of service level. In other embodiments a method includes recovering a first quality of service level from a first transmission request signal, and making a decision whether or not to transmit a first transmission request response signal in response to a second transmission request signal based on the recovered first quality of service level. In some embodiments, the phase of the transmission request signal is used to communicate the quality of service level. The device transmitting the transmission request signal may also transmit pilots which can be used as phase reference signals. 
+

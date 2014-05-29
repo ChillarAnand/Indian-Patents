@@ -1,0 +1,22 @@
+Application number  =>  1077/MUMNP/2011 A 
+
+Date of filing of application number  =>  26/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  MOBILE COMMUNICATION DEVICE 
+
+Name of applicant  =>  1)INQ ENTERPRISES LIMITED 
+
+Name of inventor  =>  1)JOHNSTONE Ken 2)EDMONDS Gavin 3)DAVIES Simon 4)VITOLO Gaetano 5)ZINCOLA Andrea 
+
+International Classification  =>  G06F 9/445 
+
+Priority Doc No  =>  0820427.3 
+
+International Application Number  =>  PCT/GB2009/002631 
+
+International Publication Number  =>  WO/2010/052477 
+
+Abstract  =>  A mobile communication device, a mobile communication method and an application manager are provided that can coordinate integration of the functionality of a new application relating to a communication service such a social networking communication service into pre-installed user interface application on the communication device. A mobile communication device is also provided that can update image data such as an avatar relating to a contact in a contact list based on the image data provided by a communication service. A mobile communication device is also provided that can determine whether the device is in a particular network and determine whether the device can access data relating to a service depending on whether the network is in a predetermined category. 
+

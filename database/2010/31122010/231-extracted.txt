@@ -1,0 +1,42 @@
+The Patent Office Journal 31/12/2010 
+ 
+5497
+(12) PATENT APPLICATION PUBLICATION (21) Application No.4283/KOLNP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :15/11/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : TRACE PARTICLE COLLECTION SYSTEM  
+  
+(51) International classification  :G01N 1/02  
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date 
+:PCT/US2008/006102
+:14/05/2008 
+(87) International Publication No  :WO 2009/139744  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)IMPLANT SCIENCES CORPORATION 
+      Address of Applicant :600 RESEARCH DRIVE, 
+WILMINGTON, MA 01887 UNITED STATES OF AMERICA. 
+(72)Name of Inventor : 
+   1)BUNKER, STEPHEN, N.  
+(57) Abstract : 
+A trace particle collection system accumulates trace particles of those materials that are adhering to target surfaces. The particles are 
+removed from the surface, transported and collected in a particle collection medium, and then provided to a detection instrument. 
+Trace particles are often bound tenaciously to the target surface, and simple techniques, such as blowing air, will either remove only 
+the largest particles or none at all. The removal of trace particles is described which utilizes an aerosol mixture of frozen carbon 
+dioxide aerosol particles in a gas stream to impact and more, efficiently remove the target particles from the surface.  
+ 
+No. of Pages : 32 No. of Claims : 22 

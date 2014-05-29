@@ -1,0 +1,52 @@
+The Patent Office Journal 30/12/2011 
+ 
+25518
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1112/MUMNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :31/05/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : MAGNETIC ORIENTING AND PRINTING   
+  
+(51) International classification  :B41F 15/08  
+(31) Priority Document No  :PCT/IB2008/003406 
+(32) Priority Date  :10/12/2008 
+(33) Name of priority country  :Argentina 
+(86) International Application No 
+        Filing Date 
+:PCT/EP2009/066826
+:10/12/2009 
+(87) International Publication No  :WO/2010/066838  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)SICPA HOLDING SA 
+      Address of Applicant :Avenue de Florissant 41  CH-1008 
+Prilly  Switzerland   
+   2)CHINA BANKNOTE SICPA SECURITY INK CO.  LTD.
+(72)Name of Inventor : 
+   1)LI  Xiang 
+   2)DESPLAND  Claude-Alain 
+   3)MLLER  Edgar 
+   4)DEGOTT  Pierre 
+   5)BLEIKOLM  Anton 
+   6)SUDAN  Alexandre  
+(57) Abstract : 
+The invention discloses a device and a process for producing indicia comprising magnetically oriented magnetic or magnetizable 
+particles in an ink or coating composition on a sheet (5) of substrate material. The device comprises a flat-bed screen-printing unit 
+having a flat printing screen (2) and a printing platen (1) for receiving said sheet (5), the printing platen (1) having an upper surface 
+facing the printing screen and a first direction along its upper surface along which said sheet (5) is unloadable, and a magnetic 
+orienting unit comprising multiple magnet assemblies (6). The magnetic orienting unit is disposed below the upper surface of the 
+printing platen (1), said multiple magnet assemblies (6) are disposed along said first direction, and all of said magnet assemblies (6) 
+are concomitantly movable from a first position away from the upper surface of the printing platen to a second position close to the 
+upper surface of the printing platen. 
+  
+ 
+No. of Pages : 36 No. of Claims : 21 

@@ -1,0 +1,22 @@
+Application number  =>  3013/CHENP/2011 A 
+
+Date of filing of application number  =>  03/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  DIGITAL BROADCAST RECEIVER AND RECEPTION METHOD 
+
+Name of applicant  =>  1)SHARP KABUSHIKI KAISHA 
+
+Name of inventor  =>  1)WATANABE, RYUHSUKE 2)SHIMIZU, TOSHINORI 3)YAMADA, HAJIME 
+
+International Classification  =>  H04N7/173, H04N 7/173, H04N 7/24 
+
+Priority Doc No  =>  2008-260738 
+
+International Application Number  =>  PCT/JP2009/067347 
+
+International Publication Number  =>  WO 2010/041628 A1 
+
+Abstract  =>  If there is a service provider for which basic registration has already been performed, the processing proceeds to step S15 to determine whether there is an IP broadcast service or not. If no IP broadcast service is provided, the processing proceeds to step S17 to determine whether there is another service provider for which the basic registration has already been performed. If no other service provider for which the basic registration has already been performed is found in this determination, a transition is made to a portal site of the service provider for which the basic registration has already been performed. If it is determined that an IP broadcast service is provided in step S15, the processing proceeds to step S16 to perform a caution display. In the caution display, a display is made to prompt acquisition of channel information. In the case of acquiring channel information, an indication informing the user is displayed so that the channel information can be acquired at this phase. Thereby, when IP broadcasting is selected, the receiver determines whether there is a broadcast viewable with the receiver and changes a screen after transition, thus enabling the user to perform an operation without any confusion. 
+

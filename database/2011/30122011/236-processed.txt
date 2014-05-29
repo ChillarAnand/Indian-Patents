@@ -1,0 +1,22 @@
+Application number  =>  1077/CHENP/2011 A 
+
+Date of filing of application number  =>  16/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  3D DISPLAY HANDLING OF SUBTITLES 
+
+Name of applicant  =>  1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+
+Name of inventor  =>  1)NEWTON Philip S. 2)BOLIO Dennis D. R. J. 3)SCALORI Francesco. 4)VAN DER HEIJDEN Gerardus W. T. 5)VAN DOVEREN Henricus F. P. M. 6)DE HAAN Wiebe 7)MOLL Hendrik F. 
+
+International Classification  =>  H04N13/02 
+
+Priority Doc No  =>  08161152.7 
+
+International Application Number  =>  PCT/IB2009/053116 
+
+International Publication Number  =>   
+
+Abstract  =>  A method of creating a three-dimensional image signal comprises receiving a first image component, receiving a second component for creating a three-dimensional image in combination with the first image component, receiving a text component for including in the three-dimensional image, receiving a data component comprising location information describing the location of the text component within the three-dimensional image, and creating a three-dimensional image signal comprising the first image component, the second component, the text component, and the data component. The signal is rendered by rendering a three-dimensional image from the first image component and the second component, the rendering including rendering the text component in the three-dimensional image, the rendering of the text component including adjusting three-dimensional parameters of the three-dimensional image in the location of the rendered text component. Fig. 3 
+

@@ -1,0 +1,42 @@
+The Patent Office Journal 31/05/2013 12151
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9969/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :29/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : METHOD&NBSP; COMMUNICATION APPARATUS AND COMMUNICATION SYSTEM FOR
+HANDOVER PROCESSING
+(51) International classification :H04W 36/00
+(31) Priority Document No :200910146740.5
+(32) Priority Date :22/06/2009
+(33) Name of priority country :China
+(86) International Application No
+Filing Date
+:PCT/CN2010/074223
+:22/06/2010
+(87) International Publication No : NA
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)Huawei Technologies Co. Ltd.
+Address of Applicant :Huawei Administration Building
+Bantian Longgang District Shenzhen Guangdong 518129 P.R.
+China.
+(72)Name of Inventor :
+1)QIN Yali
+(57) Abstract :
+A handover processing method communication apparatus and communication system for handover processing are disclosed by
+the embodiments of the present invention. The handover processing method includes: when a terminal supporting the optimized
+handover and the non-optimized handover capability needs a handover from a first network to a second network determining
+whether the terminal is not able to perform the optimized handover in which the authentication and authorization are
+accomplished before the handover to the second network; if the terminal is determined not able to perform the optimized
+handover performing the non-optimized handover in which the authentication and authorization are performed after the handover
+to the second network. A communication apparatus and communication system are also provided correspondingly in the
+embodiments of the present invention. With the technical schemes in the embodiments of the present invention handover between
+different networks in more scenarios is enabled.
+No. of Pages : 30 No. of Claims : 16

@@ -1,0 +1,46 @@
+The Patent Office Journal 31/05/2013 12023
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2204/CHENP/2012 A
+(19) INDIA
+(22) Date of filing of Application :09/03/2012 (43) Publication Date : 31/05/2013
+(54) Title of the invention : TELECOMMUNICATIONS NETWORK NODE AND METHODS
+(51) International classification :H04W52/34
+(31) Priority Document No :09360042.7
+(32) Priority Date :10/09/2009
+(33) Name of priority country :EPO
+(86) International Application No
+Filing Date
+:PCT/EP2010/004750
+:03/08/2010
+(87) International Publication No :WO 2011/029503A1
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)ALCATEL LUCENT
+Address of Applicant :3, AVENUE OCTAVE GREARD, F-
+75007 PARIS France
+(72)Name of Inventor :
+1)HO, LESTER, T.W.
+2)CLAUSSEN, HOLGER
+(57) Abstract :
+A telecommunications network node and methods are disclosed. The method is for generating, by genetic programming, evolved
+algorithms for adjusting base station transmission power to control coverage of a cell to assist in providing desired base station
+operating characteristics. The method comprises the steps of: generating, using predetermined functions and terminals defined in a
+functions and terminals list, a plurality of evolved algorithms each of which determine whether, for any particular base station
+operating conditions, to adjust said base station transmission power; determining a fitness level indicative of each evolved
+algorithm's ability to adjust base station transmission power to control coverage to achieve said desired base station operating
+characteristics under expected operating conditions; and iteratively performing said steps of generating and determining to
+generate further evolved algorithms using at least one of said evolved algorithms determined to have achieved a particular fitness
+level. In this way, it can be seen that algorithms can be assembled and then tested to see how suitable they are at controlling base
+station power to achieve particular operating characteristics under particular operating conditions. Those algorithms which are
+determined to be the best at achieving those characteristics under those particular operating conditions may then be used to
+generate further algorithms which, in turn, are also then assessed. Hence, those individual algorithms which are suited to the
+operating characteristics and the operating conditions can rapidly be generated thereby avoiding the need to manually design new
+algorithms which are specialised to particular environments.
+No. of Pages : 36 No. of Claims : 15

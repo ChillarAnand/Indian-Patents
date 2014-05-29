@@ -1,0 +1,22 @@
+Application number  =>  2176/DELNP/2011 A 
+
+Date of filing of application number  =>  23/03/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  CAPTURE AND RELEASE OF ACID-GASSES WITH ACID-GAS BINDING ORGANIC COMPOUNDS 
+
+Name of applicant  =>  1)BATELLE MEMORIAL INSTIUTE 
+
+Name of inventor  =>  1)HELDEBRANT, DAVID, J. 2)YONKER, CLEMENT, R. 3)KOECH, PHILLIP, K. 
+
+International Classification  =>  B01D 53/14 
+
+Priority Doc No  =>  61/099,387 
+
+International Application Number  =>  PCT/US2009/0057721 
+
+International Publication Number  =>  WO 2010/039479 
+
+Abstract  =>  Reversible acid-gas binding organic liquid materials, systems and methods that permit capture of one or more of the several acid gases. These acid-gas binding organic compounds can be regenerated to release the captured acid gasses and enable these organic acid-gas binding materials to be reused. This enables transport of the liquid capture compounds and the release of the acid gases from the organic liquid with significant energy savings compared to current aqueous systems. The acid gas capture compound is preferably a liquid material that can be easily transported to allow movement of the captured material from the scrubbing location to a second stage where the acid gas can be removed for storage or processing. Once the acid gas is removed from the organic liquid, the organic liquid can be returned to the system and the process repeated. In some embodiments these are single molecules of zwitteronic liquids. 
+

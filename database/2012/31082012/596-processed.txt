@@ -1,0 +1,22 @@
+Application number  =>  594/MUMNP/2012 A 
+
+Date of filing of application number  =>  12/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  SURFACE MODIFYING COMPOSITIONS 
+
+Name of applicant  =>  1)BATTELLE MEMORIAL INSTITUTE 
+
+Name of inventor  =>  1)LALGUDI , RAMANATHAN ,S. 2)CAIN , ROBERT , J. 
+
+International Classification  =>  D06M 13/513 
+
+Priority Doc No  =>  61/238,250 
+
+International Application Number  =>  PCT/US2010/047295 
+
+International Publication Number  =>  WO/2011/026093 
+
+Abstract  =>  A surface modifying composition comprises an amphiphilic compound which is non-cellulose based, the amphiphilic compound including a covalently linked ionic moiety with the following formula: where M= metal oxide or binary metal oxide, Ai is selected from compounds with surface energy greater than or equal to 25 dynes cm-1, A2 is selected from compounds with surface energy greater than or equal to 12 dynes cm-1, A3 is selected from compounds having more than one reactive functional group, x = NH2, NHR or NR2 (R= methyl, ethyl, propyl or isopropyl), y= COOH, SO3H or PO3H, and R= H or halogen; and where one of the A1 -x, A2, or A3-y may be replaced by a second O-R. 
+

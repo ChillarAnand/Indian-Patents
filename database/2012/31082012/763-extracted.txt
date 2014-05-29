@@ -1,0 +1,50 @@
+ 
+The Patent Office Journal 31/08/2012 
+13822
+(12) PATENT APPLICATION PUBLICATION (21) Application No.962/MUM/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :30/03/2010 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : SYSTEM AND METHOD FOR GRAPHICALLY MANAGING COMMUNICATION SESSIONS  
+  
+(51) International classification  
+:G06F3/048, 
+H04L12/56, 
+H04M1/00 
+(31) Priority Document No  :61/164,753 
+(32) Priority Date  :30/03/2009
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)AVAYA, INC 
+      Address of Applicant :211,MOUNT AIRY ROAD, BASKING 
+RIDGE, NEW JERSEY 07920,   U.S.A. 
+(72)Name of Inventor : 
+   1)BIRGIT GEPPERT 
+   2)FRANK ROESSLER  
+(57) Abstract : 
+Disclosed herein are systems, methods, and non-transitory computer-readable storage media for managing a communication session 
+via a graphical user interface (GUI). The method causes a communication device to present a set of connected graphical elements 
+representing a structure of the communication session via the GUI, the communication session comprising at least two communicating 
+users, receive user input associated with the set of connected graphical elements, the user input having an action associated with the 
+communication session, and perform the action based on the received user input. The graphical elements can include images, text, 
+caricatures, and avatars, and can change based on a contacted party context, persona, and presence. Active connections to the 
+communication session can be visually represented as overlapping graphical elements, a line connecting graphical elements, a shape 
+connecting graphical elements, a shape with radiating lines connecting graphical elements, and a common augmented appearance of 
+graphical elements. 
+  
+  
+No. of Pages : 44 No. of Claims : 10 

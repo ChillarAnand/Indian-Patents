@@ -1,0 +1,22 @@
+Application number  =>  1355/CHENP/2011 A 
+
+Date of filing of application number  =>  25/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  SYSTEM AND METHOD FOR PROVIDING A SECURE NETWORK ON ANOTHER SECURE NETWORK 
+
+Name of applicant  =>  1)John Henry DUNSTAN 
+
+Name of inventor  =>  1)John Henry DUNSTAN 
+
+International Classification  =>  H04L12/46, G06Q20/00 
+
+Priority Doc No  =>  2637179 
+
+International Application Number  =>  PCT/CA2009/001070 
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention provides a system and method for providing a closed or secure network on another closed or secure network. The system enables linking at least one acquirer network operating a closed network to at least one operator by a central server. The acquirer network includes one or more terminals and optionally an acquirer server. The central server is linked to the acquirer network and to the operator. The central server is configurable to communicate with at least a subset of the one or more terminals, and also with the operator, and to establish one or more communication links between the operator and the one or more terminals. The central server acts as a trusted intermediary between the acquirer network and the operator for enabling the operator to communicate with the one or more terminals via the closed acquirer network.FIG-1 
+

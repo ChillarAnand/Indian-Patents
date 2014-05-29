@@ -1,0 +1,22 @@
+Application number  =>  1156/MUMNP/2011 A 
+
+Date of filing of application number  =>  06/06/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  APPARATUS AND METHODS FOR PROVIDING AUTHORIZED DEVICE ACCESS 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)HOHLFELD Matthew W. 2)LUNDBLADE Laurence G. 
+
+International Classification  =>  G06F 21/00 
+
+Priority Doc No  =>  61/140,969 
+
+International Application Number  =>  PCT/US2009/069126 
+
+International Publication Number  =>  WO/2010/075343 
+
+Abstract  =>  Methods, apparatus, and systems are described for providing an accessor device an access credential to interact with a device resource on an accessee device. An authorization entity having a trust relationship with the accessee device, or a linked subordinate authorization entity, generates the access credential. The access credential includes a modification detection indicator, at least one access privilege, and an accessor public key. The at least one access privilege corresponds to at least one device resource on the accessee device. The authorization entity forwards the access credential to the accessor device, which presents the access credential to the accessee device for authentication. Once authenticated, the accessee device grants access to one or more device resources, and controls requests to insure they are within the scope of the at least one access privilege. 
+

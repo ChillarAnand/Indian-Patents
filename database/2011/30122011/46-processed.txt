@@ -1,0 +1,22 @@
+Application number  =>  2122/DELNP/2011 A 
+
+Date of filing of application number  =>  21/03/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  MEMORY ACCESS CONTROL 
+
+Name of applicant  =>  1)NOKIA CORPORATION 
+
+Name of inventor  =>  1)TAKALA, JANNE 2)VAINIO, JUHA JOHANNES 3)BUCHHOLTZ, MIKAEL 
+
+International Classification  =>  G06F 21/22 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/EP2008/063491 
+
+International Publication Number  =>  WO 2010/040407 
+
+Abstract  =>  An apparatus comprising: a memory having at least two sections; a security element associated with at least one of said at least two sections; and a processor for controlling access to at least one of the at least two sections of the memory in dependence on a value of the security element. The apparatus may be an integrated circuit and the memory may be a read-only-memory storing generic code in one of the sections and code specific to a mobile communication device provider in the second section. The security element may be a permanently programmed memory element programmed by the IC manufacturer 
+

@@ -1,0 +1,45 @@
+ 
+The Patent Office Journal 31/08/2012 
+13657
+(12) PATENT APPLICATION PUBLICATION (21) Application No.549/MUM/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :28/02/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : ARC CHUTE ASSEMBLY AND METHOD THERE OF  
+  
+(51) International classification  
+:H01H73/18; 
+H01H9/02; 
+H01  
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  :N/A  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)LARSEN & TOUBRO LIMITED 
+      Address of Applicant :L&T HOUSE, BALLARD ESTATE, 
+MUMBAI - 400 001, MAHARASHTRA, INDIA.  
+(72)Name of Inventor : 
+   1)RAHUL AMBRISH 
+   2)SHIRISH DATTATRAY GAIKWAD 
+   3)PRIYANKA SHARMA  
+(57) Abstract : 
+The present invention provides an arc chute assembly for a switching device. The arc chute assembly as of a plurality of differentially 
+varied arc plates which are incrementally configured in the assembly. The assembly helps in achieving higher arc lengths and higher 
+arc voltage. Achieving higher arc voltage helps the arc to quench faster.   
+  
+  
+No. of Pages : 12 No. of Claims : 3 

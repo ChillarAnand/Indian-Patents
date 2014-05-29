@@ -1,0 +1,22 @@
+Application number  =>  985/CHENP/2012 A 
+
+Date of filing of application number  =>  31/01/2012 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  RADIO SELF-BACKHAUL METHOD, DEVICE, AND SYSTEM 
+
+Name of applicant  =>  1)HUAWEI TECHNOLOGIES CO., LTD. 
+
+Name of inventor  =>  1)LI JIE 2)REN QIANDONG 3)QIN YALI 4)YING WEIMIN 
+
+International Classification  =>  H04W28/00 
+
+Priority Doc No  =>  200910089928.0 
+
+International Application Number  =>  PCT/CN2010/075154 
+
+International Publication Number  =>  WO 2011/012049 A1 
+
+Abstract  =>  Embodiments of the present invention relate to a radio self-backhaul method, device, and system in an evolved network. With the radio self-backhaul method, device, and system provided in the embodiments of the present invention, the NodeB sends the uplink data to the core network by using the cable transmission link without occupying the radio resources of other NodeBs. This implements the radio self-backhaul for the NodeB, saves the radio transmission resources of the NodeB, and mitigates the impact on the radio network throughput. 
+

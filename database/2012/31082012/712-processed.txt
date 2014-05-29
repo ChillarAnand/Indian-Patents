@@ -1,0 +1,22 @@
+Application number  =>  828/MUMNP/2012 A 
+
+Date of filing of application number  =>  03/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD AND SYSTEM FOR PROVIDING GROUP DIRECTORY SERVICES FOR MOBILE COMMUNICATION DEVICES 
+
+Name of applicant  =>  1)OMNI SYMMETRY, LLC 2)BROTHERS, SUE, E 
+
+Name of inventor  =>  1)PATTERSON, JAMES, D 2)BROTHERS, SUE, E 
+
+International Classification  =>  H04W 4/08 
+
+Priority Doc No  =>  61/312,996 
+
+International Application Number  =>  PCT/US2011/027661 
+
+International Publication Number  =>  WO/2011/112659 
+
+Abstract  =>  A method of providing group directory services for mobile communication devices includes the steps of maintaining a registry of user profiles established and maintained by mobile communication device users, wherein each user profile includes data representative of a user s name and preferred contact method; and permitting a group administrator to access the registry and create a group directory consisting of at least some members who have user profiles in the registry by linking the members user profiles to the group directory. 
+

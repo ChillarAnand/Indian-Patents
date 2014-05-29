@@ -1,0 +1,22 @@
+Application number  =>  1093/MUMNP/2011 A 
+
+Date of filing of application number  =>  27/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  HANDWRITING INPUT/OUTPUT SYSTEM, HANDWRITING INPUT SHEET, INFORMATION INPUT SYSTEM, AND INFORMATION INPUT ASSISTANCE SHEET 
+
+Name of applicant  =>  1)YOSHIDA Kenji 
+
+Name of inventor  =>  1)YOSHIDA Kenji 
+
+International Classification  =>  G06F 3/042 
+
+Priority Doc No  =>  2008-300118 
+
+International Application Number  =>  PCT/JP2009/006332 
+
+International Publication Number  =>  WO/2010/061584 
+
+Abstract  =>  Disclosed is a simple and inexpensive handwritten input/output system that allows text and/or diagrams to be input by hand. A simple and inexpensive handwritten input/output system in which an image pickup means picks up and transmits an image of a medium provided with a writing region, using a dot pattern to define coordinate information/code information, the image data of this dot pattern is stored by a dot pattern analysis means, and locus information is found by code analysis; a locus identification means identifies the locus information of the text or diagrams that are traced in the writing region, based on changes in the coordinate information obtained by analysis; text and/or diagrams etc. can be input by handwriting by transmitting the locus information to an information processing means, together with processing instructions based on the identification information obtained by a processing instruction means. Also, a handwritten input system is provided wherein not only text or diagram information but also associated information can be input together. 
+

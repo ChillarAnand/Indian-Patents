@@ -1,0 +1,22 @@
+Application number  =>  3105/CHENP/2011 A 
+
+Date of filing of application number  =>  05/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  A POWER SUPPLY SYSTEM AND METHOD FOR CONTROLLING A MECHANICALLY COMMUTATED ELECTRIC MOTOR 
+
+Name of applicant  =>  1)IDEASSOCIATES (IOM) LTD 
+
+Name of inventor  =>  1)FICH, PREBEN, BO 2)WILLADSEN, CURT MICHAEL PETERSEN 
+
+International Classification  =>  H02P7/29 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/DK2008/000353 
+
+International Publication Number  =>  WO 2010/040349 A1 
+
+Abstract  =>  The invention relates to a method for providing a trigger signal in response to the commutation of a mechanically commutated electric motor (1). The method comprising the steps of providing a mechanically commutated electric motor (1), providing a power supply for said mechanically commutated electric motor via electrical supply leads (10, 11) from power supply circuitry, providing a filter (15) connected to said electrical supply leads (10, 11), detecting with said filter (15) a voltage spike occurring at commutation, outputting from said filter (15) said trigger signal. 
+

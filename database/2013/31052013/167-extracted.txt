@@ -1,0 +1,40 @@
+The Patent Office Journal 31/05/2013 12138
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9938/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :29/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : INFUSED BOND LINES ON BLADES
+(51) International classification :F03D 1/06
+(31) Priority Document No :61/221,919
+(32) Priority Date :30/06/2009
+(33) Name of priority country :U.S.A.
+(86) International Application No
+Filing Date
+:PCT/DK2010/050171
+:29/06/2010
+(87) International Publication No :WO 2011/000381 A2
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)VESTAS WIND SYSTEMS A/S
+Address of Applicant :HEDEAGER 44, 8200, AARHUS N
+Denmark
+(72)Name of Inventor :
+1)PETERSEN, LEIF KAPPEL
+2)SCHRODER, HENNING
+(57) Abstract :
+The present invention relates to a method of manufacturing a wind turbine blade 1 having a first member 2 with a first joining
+surface and a second member 3 with a second joining surface. The method comprises applying at least one resin barrier 4,4a to
+one or both of the joining surfaces, and subsequently locating the first and the second members 2,3 adjacent each other so that
+they are joined by the at least one resin barrier 4,4a. Hereby at least one cavity is formed between the first and second joining
+surfaces, which cavity is delimited by the at least one resin barrier 4,4a. Subsequently resin 5 is filled into the at least one cavity,
+and the resin 5 is cured. In a preferred embodiment of the invention the first member 2 is a blade shell, and the second member is
+a blade spar 3. The Invention further relates to a wind turbine blade 1 manufactured by such a method and to a wind turbine
+comprising such a wind turbine blade 1.
+No. of Pages : 21 No. of Claims : 17

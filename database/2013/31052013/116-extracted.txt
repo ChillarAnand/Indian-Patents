@@ -1,0 +1,45 @@
+The Patent Office Journal 31/05/2013 12087
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9818/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :27/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : METHOD APPARATUS AND SYSTEM FOR TRANSMITTING CHANNEL STATE
+INFORMATION
+(51) International classification :H04B 7/02
+(31) Priority Document No :200910171411.6
+(32) Priority Date :28/08/2009
+(33) Name of priority country :China
+(86) International Application No
+Filing Date
+:PCT/CN2010/076441
+:28/08/2010
+(87) International Publication No : NA
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)Huawei Technologies Co. Ltd.
+Address of Applicant :Huawei Administration Building
+Bantian Longgang District Shenzhen Guangdong 518129 P.R.
+China.
+(72)Name of Inventor :
+1)ZHANG Gong
+2)LONG Yi
+3)HE Cheng
+4)CHENG Yong
+5)LIU Jianneng
+(57) Abstract :
+A method device and system for transmitting channel state information (CSI) are provided which belong to the field of
+communications and solve the problem that it is difficult to transmit CSI information in a cooperative multiple-input multiple-
+output (MIMO) system in the prior art. The technical solution provided in the invention includes: obtaining the channel state
+information between a mobile terminal and more than two cooperative base stations; according to a preset single cell code book
+between the mobile terminal and each base station of the more than two cooperative base stations respectively quantifying the
+channel state information and obtaining a combined codeword index of the quantified channel state information in the single cell
+code book; transmitting the combined codeword index of the quantified channel state information in the single cell code book.
+The implements in the present invention can be applied in the cooperative MIMO system.
+No. of Pages : 31 No. of Claims : 12

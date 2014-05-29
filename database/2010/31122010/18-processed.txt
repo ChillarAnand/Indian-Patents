@@ -1,0 +1,22 @@
+Application number  =>  3273/CHE/2010 A 
+
+Date of filing of application number  =>  03/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  THE ART, MANNER AND PROCESS OF A COMBINATION DEVICE OF A SOLAR CELL WITH ELECTRICAL ENERGY STORAGE CAPACITY AND METHOD FOR PRODUCTION OF THE SAME 
+
+Name of applicant  =>  1)AMRITA VISWAVIDYAPEETHAM 
+
+Name of inventor  =>  1)DR. SHANTIKUMAR V. NAIR 2)K.R.V. SUBRAMANIAM 3)MINI P 
+
+International Classification  =>  H01L31/00 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A new invention is described that is capable of direct and efficient storage of solar generated energy within the solar cell itself A key part of the invention is the additional of one or more additional layers to the cell such as a capacitor or super-capacitor thin film(s) and/or thin film battery which is fully integrated with the solar cell. Such additional films can be integrated with any existing solar cell concepts, such as a Si wafer cell, Dye Sensitized Solar Cell (DSSC), extra-thin absorber layer (ETA) cells, quantum dot (QD) cells, Bulk Heterojunction (BH) cells etc. 
+

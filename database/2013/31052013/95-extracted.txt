@@ -1,0 +1,38 @@
+The Patent Office Journal 31/05/2013 12066
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9771/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :23/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : METHOD&NBSP; APPARATUS&NBSP; AND SYSTEM FOR ESTABLISHING BACKUP
+LABEL SWITCHED PATH
+(51) International classification :H04L 12/56
+(31) Priority Document No :NA
+(32) Priority Date :NA
+(33) Name of priority country :NA
+(86) International Application No
+Filing Date
+:PCT/CN2009/072275
+:15/06/2009
+(87) International Publication No : NA
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)Huawei Technologies Co. Ltd.
+Address of Applicant :Huawei Administration Building
+Bantian Longgang District Shenzhen Guangdong 518129 P.R.
+China.
+(72)Name of Inventor :
+1)CHEN Ying
+(57) Abstract :
+The embodiment of the present invention discloses a method a device and a system for establishing a backup Label Switched
+Path (LSP). The method includes: acquiring path information; performing selection for the backup LSP according to the path
+information; if a non-optimal path without loop path is selected using the non-optimal path without a loop path as the backup
+LSP. The present invention binds the main LSP with the backup LSP and implements that the network negotiates generation of
+backup LSP by itself.
+No. of Pages : 18 No. of Claims : 11

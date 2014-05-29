@@ -1,0 +1,22 @@
+Application number  =>  1073/MUMNP/2011 A 
+
+Date of filing of application number  =>  26/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD AND APPARATUS FOR STATISTICAL MULTIPLEXING 
+
+Name of applicant  =>  1)TELEFONAKTIEBOLAGET LM ERICSSON (PUBL) 
+
+Name of inventor  =>  1)JONES Anthony Richard 2)BOCK Alois Martin 
+
+International Classification  =>  H04N 5/00 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/EP2008/066169 
+
+International Publication Number  =>  WO/2010/060463 
+
+Abstract  =>  There is provided a method of statistically multiplexing a plurality of input video data streams into at least one output data stream having a pre-determined capacity, comprising providing a plurality of bit rate estimates at different quality levels for each input video data stream using a look-ahead encoder, summing together the bit rate estimates of the same quality level for all input video data streams, determining the picture quality of each input video data stream at which the summed bit rate estimates is equal to or less than the output data stream pre-determined capacity. There is also provided an apparatus and system for carrying out the method, and a computer readable product carrying instructions which when executed carry out the method. 
+

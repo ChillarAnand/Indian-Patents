@@ -1,0 +1,22 @@
+Application number  =>  1001/MUMNP/2011 A 
+
+Date of filing of application number  =>  18/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  A METHOD OF FABRICATING A FIN FIELD EFFECT TRANSISTOR (FINFET) DEVICE  
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)SONG Seung-Chul 2)ABU-RAHMA Mohamed Hassan 3)HAN Beom-Mo 
+
+International Classification  =>  H01L 21/336 
+
+Priority Doc No  =>  12/266,183 
+
+International Application Number  =>  PCT/US2009/063478 
+
+International Publication Number  =>  WO/2010/054139 
+
+Abstract  =>  A method of fabricating a semiconductor using a fin field effect transistor (FINFET) is disclosed. In a particular embodiment, a method includes depositing, on a silicon substrate, a first dummy structure having a first sidewall and a second sidewall separated by a first width. The method also includes depositing, on the silicon substrate, a second dummy structure concurrently with depositing the first dummy structure. The second dummy structure has a third sidewall and a fourth sidewall that are separated by a second width. The second width is substantially greater than the first width. The first dummy structure is used to form a first pair of fins separated by approximately the first width. The second dummy structure is used to form a second pair of fins separated by approximately the second width. 
+

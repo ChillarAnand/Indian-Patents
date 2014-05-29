@@ -1,0 +1,22 @@
+Application number  =>  3127/CHENP/2011 A 
+
+Date of filing of application number  =>  06/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD AND APPARATUS FOR FAST CHANNEL CHANGE 
+
+Name of applicant  =>  1)ALCATEL-LUCENT USA INC. 
+
+Name of inventor  =>  1)JIANG, HONG 2)MATTHEWS, KIM N. 3)WILFORD, PAUL, ALBIN 
+
+International Classification  =>  H04N5/50, H03M13/27, H04L1/00 
+
+Priority Doc No  =>  12/266,263 
+
+International Application Number  =>  PCT/US09/063192 
+
+International Publication Number  =>  WO 2010/053932 A1 
+
+Abstract  =>  Providing a fast channel change function in a digital television system by hierarchically modulating each channel to provide both high priority (long interleave) and low priority (short interleave) signals, wherein a receiver may rapidly demodulate and use information within the low priority signal of a new channel to more rapidly change to the new channel. 
+

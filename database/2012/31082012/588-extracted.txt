@@ -1,0 +1,42 @@
+ 
+The Patent Office Journal 31/08/2012 
+13647
+(12) PATENT APPLICATION PUBLICATION (21) Application No.542/MUM/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :28/02/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : WALL MOUNTED SPEED REGULATOR FOR A BLDC MOTOR DRIVEN CEILING FAN  
+  
+(51) International classification  :H02H7/122; H02P27/00 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  :N/A  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)INDIAN INSTITUTE OF TECHNOLOGY, BOMBAY 
+      Address of Applicant :POWAI, MUMBAI 400076 
+MAHARASHTRA, INDIA. 
+(72)Name of Inventor : 
+   1)ANAND SANDEEP 
+   2)FERNANDES BAYTON GODFREY  
+(57) Abstract : 
+Wall mounted speed regulator for a BLDC motor driven ceiling fan. The regulator (1) comprises an AC-DC converter (2) mounted on 
+a wall and connected to an AC supply (3) and to a DC controller (4) provided with a speed controller knob (5). A DC-AC converter 
+(6) is mounted in the housing of the BLDC motor (7) and connected to the AC-DC converter by cables (8) and to the BLDC motor by 
+cables (9)   
+  
+  
+No. of Pages : 12 No. of Claims : 2 

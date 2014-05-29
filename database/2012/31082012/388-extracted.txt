@@ -1,0 +1,45 @@
+ 
+The Patent Office Journal 31/08/2012 
+13447
+(12) PATENT APPLICATION PUBLICATION (21) Application No.5348/DELNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :12/07/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : HYDRAULIC SYSTEM FOR WORKING VEHICLE  
+  
+(51) International classification  :F16H 57/02  
+(31) Priority Document No  :2009-017879  
+(32) Priority Date  :29/01/2009 
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date 
+:PCT/JP2009/071575
+:25/12/2009 
+(87) International Publication No  :WO 2010/087096  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)KOMATSU LTD. 
+      Address of Applicant :2-3-6 AKASAKA, MINATO-KU, 
+TOKYO 1078414, JAPAN Japan 
+(72)Name of Inventor : 
+   1)TAKESHI YOSHIKAWA  
+   2)HITOSHI MIYAMOTO  
+(57) Abstract : 
+A low-pressure pump (13) supplies oil stored in a steering case (32) to a steering device (4) as lubricating oil via a steering lubricating 
+circuit (31). A high-pressure pump (14) supplies the oil stored in the steering case (32) to a clutch via a high-pressure circuit (33). A 
+transmission lubricating circuit (34) branches off from the high-pressure circuit (33) via a relief valve (51) and supplies lubricating oil 
+to a transmission device (3). A transmission-lubricating assist circuit (35) is provided so as to branch off from the steering lubricating 
+circuit (31) and is connected to the transmission lubricating circuit (34). A transmission case (36) stores the oil used to lubricate the 
+transmission device (3). A scavenging pump (15) returns the oil stored in the transmission case (36) to the steering device (4). 
+  
+  
+No. of Pages : 29 No. of Claims : 2 

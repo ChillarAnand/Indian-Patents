@@ -1,0 +1,22 @@
+Application number  =>  1045/MUMNP/2012 A 
+
+Date of filing of application number  =>  25/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  MACHINE DISPLACEMENT ADJUSTMENT SYSTEM FOR MACHINE TOOLS 
+
+Name of applicant  =>  1)MITSUBISHI HEAVY INDUSTRIES, LTD. 
+
+Name of inventor  =>  1)YAMAMOTO HIDEAKI 
+
+International Classification  =>  B23Q 15/18 
+
+Priority Doc No  =>  2010-002631 
+
+International Application Number  =>  PCT/JP2010/065911 
+
+International Publication Number  =>  WO/2011/083596 
+
+Abstract  =>  Provided is a machine displacement adjustment system for machine tools, which uses a tilt angle detector, such as a level, which can directly detect the tilt angle of a machine structure, such as a column. Said system is provided with: a tilt angle detector (a level) which is disposed on a machine tool structure, detects the tilt angle of said structure, and outputs data of the tilt amount; and an adjustment device (92) which has a tilt amount data inputting unit (93) for inputting the aforementioned data of the tilt amount (c1 to c6) obtained from the tilt angle detector, a machine displacement amount calculating unit (94) for calculating the machine displacement amount of the aforementioned structure on the basis of the data of the tilt amount (c1 to c6) inputted by means of the tilt amount data inputting unit, and an adjustment amount calculating unit (95) for calculating the adjustment amount of the displacement axes (X axis, Y axis, and Z axis) of the machine tool on the basis of the machine displacement amount of the structure calculated by means of the machine displacement amount calculating unit. 
+

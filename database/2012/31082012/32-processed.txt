@@ -1,0 +1,22 @@
+Application number  =>  2854/CHENP/2011 A 
+
+Date of filing of application number  =>  27/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  PROCESS FOR PRODUCING AMMONIA SYNTHESIS GAS 
+
+Name of applicant  =>  1)AMMONIA CASALE S.A. 
+
+Name of inventor  =>  1)FILIPPI, ERMANNO 2)BADANO, MARCO 3)SKINNER, GEOFFREY FREDERICK 
+
+International Classification  =>  C01B3/38 
+
+Priority Doc No  =>  08017372.7 
+
+International Application Number  =>  PCT/EP2009/060970 
+
+International Publication Number  =>  WO 2010/037598 A1 
+
+Abstract  =>  A process for producing ammonia synthesis gas, where a natural gas feedstock (10) is reformed in a primary steam reformer (12) and in a secondary reformer (14) at a pressure of at least 35 bar; the product syngas (16) at the output of the secondary reformer is cooled and subject to catalytic medium-temperature shift, converting the CO into CO2 and H2; downstream said medium-temperature shift, the carbon dioxide is removed from the syngas by physical absorption. 
+

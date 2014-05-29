@@ -1,0 +1,48 @@
+ 
+The Patent Office Journal 31/08/2012 
+13965
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2989/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :02/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : VALVE FOR CONTROLLING FLOW VOLUME  
+  
+(51) International classification  :F16K3/08, F16K 31/53  
+(31) Priority Document No  :10 2008 042 947.3  
+(32) Priority Date  :20/10/2008 
+(33) Name of priority country  :Germany 
+(86) International Application No 
+        Filing Date 
+:PCT/EP2009/062874
+:05/10/2009 
+(87) International Publication No  :WO 2010/046225 A1  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)ROBERT BOSCH GMBH 
+      Address of Applicant :POSTFACH 30 02 20, 70442 
+STUTTGART Germany 
+(72)Name of Inventor : 
+   1)MOENCH, JOCHEN 
+   2)HILLS, ALOIS 
+   3)REEB, GEORG 
+   4)MUSCHELKNAUTZ, CLAUDIUS 
+   5)URLAUB, SVEN   
+(57) Abstract : 
+The present subject matter relates to a valve (1) for controlling flow volume, particularly in a heating and/or cooling system of a motor 
+vehicle. The valve (1) includes a disc shaped valve body (2) with at least one control opening (3). Further the disc shaped valve body 
+(2) interacts with a disc shaped sealing body (10) having at least one through hole (11) for controlling the flow volume. The disc 
+shaped valve body (2) includes external gear teeth (49) into which a pinion (42) engages in order to rotate the disc shaped valve body 
+(2). According to the present subject matter, the pinion (42) and the external gear teeth (49) of the disc shaped valve body (2) interact 
+with each other via involute gear teeth (43, 44).   
+  
+  
+No. of Pages : 16 No. of Claims : 9 

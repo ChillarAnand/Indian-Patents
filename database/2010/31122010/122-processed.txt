@@ -1,0 +1,22 @@
+Application number  =>  4087/CHENP/2010 A 
+
+Date of filing of application number  =>  01/07/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  PLASMA PROCESSING APPARATUS 
+
+Name of applicant  =>  1)SHARP KABUSHIKI KAISHA 
+
+Name of inventor  =>  1)KISHIMOTO, KATSUSHI 2)FUKUOKA, YUSUKE 
+
+International Classification  =>  C23C16/455 
+
+Priority Doc No  =>  2008-004600 
+
+International Application Number  =>  PCT/JP08/073227 
+
+International Publication Number  =>  WO 2009/087887 A1 
+
+Abstract  =>  The invention provides a plasma processing apparatus that can uniformly supply a gas between a cathode electrode and an anode electrode, even when areas of both electrodes are increased, and that can reduce thicknesses of both electrodes. Two sets of an anode electrode 4 and a cathode electrode 12 are arranged in a chamber 15 of a plasma processing apparatus 100 so as to be opposite to each other. The cathode electrode 12 has a shower plate 2, a back plate 3, and a hollow room 17. The shower plate 2 is provided with first gas-ejection holes 18 for ejecting a gas, which is introduced into the hollow room 17, to a portion between both electrodes 4 and 12. A gas introducing port 31 for introducing a gas from an outside is provided at an electrode end face at a lower face (a inner-wall 19 of the hollow room 17 opposite to the shower plate 2) of the back plate 3. The inner-wall 19 of the hollow room 17 is provided with second gas-ejection holes 32 for ejecting the gas to the hollow room 17, and a gas guiding section 33 for guiding the gas to the second gas-ejection holes 32 from the gas introducing port 31. 
+

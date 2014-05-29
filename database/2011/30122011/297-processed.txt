@@ -1,0 +1,22 @@
+Application number  =>  1318/CHENP/2011 A 
+
+Date of filing of application number  =>  24/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  THREE- DIMENSIONAL IMAGING ULTRASOUND PROBE 
+
+Name of applicant  =>  1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+
+Name of inventor  =>  1)HART Jeffrey 2)MOIST Brian 3)CLARK Dennis 4)AGIUS Daniel 
+
+International Classification  =>  A61B8/00 
+
+Priority Doc No  =>  61/085476 
+
+International Application Number  =>  PCT/IB2009/053194 
+
+International Publication Number  =>   
+
+Abstract  =>  An ultrasound probe includes a transducer array which is moved back and forth to sweep the image plane of the array through a volumetric region for 3D scanning. The transducer array is mounted on a carriage assembly which moves back and forth on a pair of rails inside a fluid compartment in the probe. The rails are preferentially arcuately curved to provide an elevationally divergent scan with a relatively wide aperture in the near field. A cam is provided for a motor-driven cable drive for the carriage assembly which provides relatively linear motion through the path of travel of the transducer array. Fig.3 
+

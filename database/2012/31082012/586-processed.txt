@@ -1,0 +1,22 @@
+Application number  =>  566/MUMNP/2012 A 
+
+Date of filing of application number  =>  07/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  ASYNCHRONOUS GENERATOR SYSTEM AND WIND TURBINE WITH AN ASYNCHRONOUS GENERATOR SYSTEM 
+
+Name of applicant  =>  1)SUZLON ENERGY GMBH 
+
+Name of inventor  =>  1)RAFOTH, AXEL 
+
+International Classification  =>  H02P 9/00,F03D 9/00 
+
+Priority Doc No  =>  102009037330.6 
+
+International Application Number  =>  PCT/EP2010/061863 
+
+International Publication Number  =>  WO/2011/018527 
+
+Abstract  =>  The present invention relates to an asynchronous generator system for a wind turbine, and a wind turbine having such a system, and the method for operating and starting up such a wind turbine. The asynchronous generator system is thereby designed very simply and thus inexpensively and is able to absorb wind gusts and the associated speed increases. 
+

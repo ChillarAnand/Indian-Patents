@@ -1,0 +1,22 @@
+Application number  =>  515/MUM/2011 A 
+
+Date of filing of application number  =>  24/02/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  AUTOMATIC CHANNEL SWITCHING 
+
+Name of applicant  =>  1)TATA CONSULTANCY SERVICES LIMITED 
+
+Name of inventor  =>  1)SINGH DHEERAJ 2)NARAYANAN GANAPATHY 
+
+International Classification  =>  H04W4/06 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The present subject matter relates to method and systems for automatic switching of channels in a user device (110). The present subject matter includes determining occurrence of a primary switching event during reception of a current broadcast signal. Based on the determining, at least one broadcast signal from among a plurality of preferred broadcast signals is identified. The preferred broadcast signals are selected based in part on channel access pattern associated with a user. Further, a signal fingerprint of the at least one identified broadcast signal is compared with a plurality of reference signal fingerprints. Based on the comparison, a switching action is performed. 
+

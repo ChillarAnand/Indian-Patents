@@ -1,0 +1,34 @@
+The Patent Office Journal 31/05/2013 12013
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3436/DEL/2011 A
+(19) INDIA
+(22) Date of filing of Application :29/11/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : A METHOD AND SYSTEM FOR DETECTING INCORRECT FILLING OF A TANK FOR AN
+AQUEOUS UREA SOLUTION
+(51) International classification :G05G
+(31) Priority Document No :NA
+(32) Priority Date :NA
+(33) Name of priority country :NA
+(86) International Application No
+Filing Date
+:NA
+:NA
+(87) International Publication No :NA
+(61) Patent of Addition to Application Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)CONTINENTAL AUTOMOTIVE GMBH
+Address of Applicant :VAHRENWALDER STRAE 9,
+30165 HANNOVER, GERMANY
+(72)Name of Inventor :
+1)KATCHAPESWARAN, GANAPATHY KRISHNAN
+(57) Abstract :
+A method for detecting incorrect filling of a tank for an aqueous urea solution including the following steps: Measuring a
+temperature of a fluid in the tank, heating of the fluid in the tank, determining a value representing a rate of temperature change
+of the fluid in the tank, comparing the value to a reference value.
+No. of Pages : 17 No. of Claims : 14

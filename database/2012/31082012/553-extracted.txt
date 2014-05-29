@@ -1,0 +1,46 @@
+ 
+The Patent Office Journal 31/08/2012 
+13612
+(12) PATENT APPLICATION PUBLICATION (21) Application No.527/MUM/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :25/02/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : AN ELECTRICAL CONTACT SYSTEM HAVING SHORT CIRCUIT CURRENT WITHSTANDING 
+CAPABILITY  
+  
+(51) International classification  :H01H73/04 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)LARSEN & TOUBRO LIMITED 
+      Address of Applicant :L & T House  Ballard Estate  Mumbai 
+400 001  State of Maharashtra  India. 
+(72)Name of Inventor : 
+   1)DATTATRAY  Gaikwad  Shirish;  
+(57) Abstract : 
+The present invention relates to an electrical contact system comprises pair stationary contact means and moving contact means (5). 
+The moving contact means (5) is proximally located in between the stationary contact means, which are operatively surrounding the 
+moving contacts means (5) wholly or partially. The stationary contact means comprises a substantially U shaped modular profile 
+located almost at the middle of said stationary contact means having parallel portions I and parallel portions II such that the parallel 
+portions I are operatively located substantially above the moving contact means (5) and the parallel portions II are operatively located 
+substantially below the moving contact means (5). The portion I and portion II having an appropriate longitudinal relationship and are 
+substantially symmetrically located on both sides of the moving contact means such that current direction in the parallel portions I and 
+parallel portions II is opposite to the moving contact means (5) thereby preventing opening of the moving contact means (5) when 
+high current flows through the system.     
+  
+No. of Pages : 15 No. of Claims : 4 

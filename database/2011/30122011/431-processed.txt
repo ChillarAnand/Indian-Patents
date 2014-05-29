@@ -1,0 +1,22 @@
+Application number  =>  829/KOL/2010 A 
+
+Date of filing of application number  =>  27/07/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  PLASMA TORCH WITH ELECTRODE WEAR DETECTION SYSTEM 
+
+Name of applicant  =>  1)THE ESAB GROUP, INC. 
+
+Name of inventor  =>  1)GRIFFIN, DAVID C. 
+
+International Classification  =>  H05H1/00 
+
+Priority Doc No  =>  12/544,777 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A plasma arc torch is provided that includes a wear stop designed to detect wear of an electrode and prevent the use of the electrode once the electrode has experienced a certain amount of wear. Either the electrode or the nozzle is movable with respect to the main torch body, and the movable component defines a projection. The wear stop is positioned a predetermined distance from a nozzle of the torch, such that prior to experiencing an excessive amount of wear, the electrode is able to contact the nozzle and initiate a pilot arc for starting a torch operation. Once the length of the electrode becomes shorter than a predetermined length due to wear, the projection of the electrode engages the wear stop, and the wear stop prevents the electrode from contacting the nozzle. In this way, an electrode that is excessively worn cannot be used in subsequent torch operations. 
+

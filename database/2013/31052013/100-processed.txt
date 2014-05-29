@@ -1,0 +1,22 @@
+Application number  =>  9777/CHENP/2011 A 
+
+Date of filing of application number  =>  26/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  METHOD AND APPARATUS FOR INDEPENDENT LICENSING OF AUDIO IN DISTRIBUTION OF AUDIOVISUAL ASSETS 
+
+Name of applicant  =>  1)ROCKSTAR BIDCO LP 
+
+Name of inventor  =>  1)MARTIN SOUKUP 2)ROBERT KAPPLER 
+
+International Classification  =>  H04N5/262 
+
+Priority Doc No  =>  12/493,620 
+
+International Application Number  =>  PCT/CA2010/001028 
+
+International Publication Number  =>  WO 2011/000105 A1 
+
+Abstract  =>  A method and apparatus is disclosed for enabling and facilitating the licensing of audio portions of audio-video assets per individual copy of the asset. The method and apparatus involves omitting unlicensed portions of the audio content from the asset and instead inserting tags identifying the omitted audio portions and distributing the audiovisual asset, whereupon each individual distributee may obtain licenses for the unlicensed audio portions of the asset and then accessing and playing those audio portions during playback of the asset. 
+

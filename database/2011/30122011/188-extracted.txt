@@ -1,0 +1,44 @@
+The Patent Office Journal 30/12/2011 
+ 
+25525
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1118/MUMNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :01/06/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : SEMICONDUCTOR LAYER AND METHOD FOR FORMING SAME  
+  
+(51) International classification  :H01L 29/786  
+(31) Priority Document No  :2008-297296  
+(32) Priority Date  :20/11/2008 
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date 
+:PCT/JP2009/005824
+:02/11/2009 
+(87) International Publication No  :WO/2010/058528  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)SHARP KABUSHIKI KAISHA 
+      Address of Applicant :22-22  Nagaike-cho  Abeno-ku  Osaka-
+shi  Osaka 545-8522  Japan   
+(72)Name of Inventor : 
+   1)Hiroaki FURUKAWA  
+(57) Abstract : 
+A semiconductor layer (100) includes an upper surface (100o), a lower surface (100u), and a side surface (100s). In the vicinity of the 
+boundary between the side surface (100s) and the upper surface (100o) on the side surface (100s), the tangent (T1) of the boundary is 
+inclined with respect to the normal of the lower surface (100u). At a portion of the side surface (100s) apart from the upper surface 
+(100o) as compared to the vicinity of the boundary, the angle defined by the tangent (T2) of that portion and the plane defined by the 
+lower surface (100u) is greater than the angle defined by the tangent (T1) in the vicinity of the boundary and the plane defined by the 
+lower surface (100u). 
+  
+ 
+No. of Pages : 67 No. of Claims : 24 

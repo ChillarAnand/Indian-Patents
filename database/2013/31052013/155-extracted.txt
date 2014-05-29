@@ -1,0 +1,40 @@
+The Patent Office Journal 31/05/2013 12126
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9920/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :29/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : GATHERING INFORMATION ABOUT CONNECTIONS IN A SOCIAL NETWORKING
+SERVICE
+(51) International classification :G06Q 99/00
+(31) Priority Document No :12/496,606
+(32) Priority Date :01/07/2009
+(33) Name of priority country :U.S.A.
+(86) International Application No
+Filing Date
+:PCT/US2010/038023
+:09/06/2010
+(87) International Publication No : NA
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)FACE BOOK INC.
+Address of Applicant :1601 Willow Road Menlo Park CA
+94025 USA.
+(72)Name of Inventor :
+1)TOM OCCHINO
+2)OLUMAKINDE ADEGBOYEGA ADEAGBO
+(57) Abstract :
+To enhance information about connections in a social networking service embodiments of the invention enable users to reference
+nodes while posting content to a communication channel. To identify connections within content in the social networking service
+users of the social networking service are provided an interface to post content items in communication channels of the social
+networking service. A trigger received in the interface indicates that a user wishes to identify a connection in the posted content
+item. Selectable links enable the user to mention another node in the social networking service when posting a content item. As
+users reference nodes in content items information about the connections with the referenced nodes is gathered and stored in a
+database that is indexable and searchable in real-time.
+No. of Pages : 35 No. of Claims : 31

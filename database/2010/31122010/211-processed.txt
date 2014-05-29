@@ -1,0 +1,22 @@
+Application number  =>  4227/KOLNP/2010 A 
+
+Date of filing of application number  =>  10/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  SURGICAL INSTRUMENT WITH AUTOMATICALLY RECONFIGURABLE ARTICULATING END EFFECTOR 
+
+Name of applicant  =>  1)ETHICON ENDO-SURGERY, INC. 
+
+Name of inventor  =>  1)FREDERICK E. SHELTON, IV 2)DAVID C. YATES 3)RICHARD C. SMITH 
+
+International Classification  =>  A61B 17/072 
+
+Priority Doc No  =>  12/124,655 
+
+International Application Number  =>  PCT/US2009/044428 
+
+International Publication Number  =>  WO 2009/143092 
+
+Abstract  =>  A surgical instrument, such as a surgical cutting and fastening instrument, with an automatically articulatable end effector. The surgical instrument may comprise an end effector, a shaft, and an articulatable joint assembly connected between the end effector and the shaft. The joint assembly comprises at least one motor for articulating the end effector relative to the shaft. The joint assembly comprises at least one articulation sensor for sensing articulation of the end effector relative to the shaft. The instrument further comprises a control unit in communication with the articulation sensor and the motor. The control unit comprises at least one memory unit for storing articulation data from the at least one articulation sensor. When activated, the control unit sends control signals to the motor of the joint assembly to articulate automatically the end effector to a desired position based on the articulation data from the articulation sensor that is stored in the memory unit of the control unit. 
+

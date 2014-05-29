@@ -1,0 +1,46 @@
+The Patent Office Journal 31/12/2010 
+ 
+5315
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1355/DEL/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :10/06/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : TRANSVERSAL CONDUCTION LIGHTNING PROTECTION SYSTEM  
+  
+(51) International classification  :H02G13/00; 
+(31) Priority Document No  :12/491,520 
+(32) Priority Date  :25/06/2009
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  :NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)GENERAL ELECTRIC COMPANY 
+      Address of Applicant :1 RIVER ROAD, SCHENECTADY, 
+NEW YORK 12345 U.S.A.   
+(72)Name of Inventor : 
+   1)MENDEZ HERNANDEZ YARU NAJEM 
+   2)ROESNER ROBERT  
+(57) Abstract : 
+A lightning protection system (50) for a wind turbine blade or aircraft wing includes a glass-reinforced fiber or carbon-reinforced 
+wind turbine blade or aircraft wing having a tip region (12), a suction side (18), a pressure side (20), a leading edge (18) and a trailing 
+edge (20. A substantially planar sheet of conductive or semi-conductive material (62) is disposed internal to the blade tip region or 
+wing tip region (12) and between the suction side (18) and pressure side (20). The sheet (62) operates during a lightning discharge to 
+form an electric field control mechanism causing the lightning discharge to attach to the tip region (12). The sheet (62) is in electrical 
+communication or galvanic connection with a conductive or semi-conductive path such that the electric field control mechanism and 
+the path together operate to protect the wind turbine blade or aircraft wing from damage caused by the lightning strike in the tip region 
+(12) of the wind turbine blade or aircraft wing by controlling an electric field in the tip region (12) caused by the lightning strike. 
+  
+  
+No. of Pages : 17 No. of Claims : 11 

@@ -1,0 +1,22 @@
+Application number  =>  4566/CHENP/2011 A 
+
+Date of filing of application number  =>  27/06/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD AND SYSTEM FOR IMPROVING CROSSTALK ATTENUATION WITHIN A PLUG/JACK CONNECTION AND BETWEEN NEARBY PLUG/JACK COMBINATIONS 
+
+Name of applicant  =>  1)PANDUIT CORP. 
+
+Name of inventor  =>  1)STARAKA, FRANK, M. 2)TELLAS, RONALD, L. 3)GERMAN, JASON, J. 4)VATIKUS, VYTAS, J. 
+
+International Classification  =>  H01R24/00 
+
+Priority Doc No  =>  61/119,231 
+
+International Application Number  =>  PCT/US2009/066336 
+
+International Publication Number  =>  WO 2010/065588 A1 
+
+Abstract  =>  This application describes a jack for improving crosstalk attenuation. The jack has a housing, a foil at least partially surrounding the housing, a printed circuit board, and at least one pair of insulation displacement contacts and vias. Each pair of insulation contacts and vias are associated with a differential signal. A conductive trace stub is routed on the printed circuit board near the edge of the board in order to at least partially balance the coupling from one of the insulation displacement contacts and vias of a pair to the foil with the other insulation displacement contact and via of the pair. 
+

@@ -1,0 +1,22 @@
+Application number  =>  9964/CHENP/2011 A 
+
+Date of filing of application number  =>  29/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  METHOD AND APPARATUS TO PERFORM ANTENNA MANAGEMENT 
+
+Name of applicant  =>  1)Research In Motion Limited 
+
+Name of inventor  =>  1)XU Hua 2)CAI Zhijun 3)LI Jun 4)FONG Mo-Han 5)CREASY Timothy 6)EARNSHAW Mark 7)HEO Youn Hyoung 
+
+International Classification  =>  H04B 7/02 
+
+Priority Doc No  =>  61/220,039 
+
+International Application Number  =>  PCT/US2010/039670 
+
+International Publication Number  =>   
+
+Abstract  =>  A method of establishing communication between user equipment and a network includes receiving a control channel message decoding the control channel message and sending an indication of whether interoperability of receiving signals from a first number of antennas is certified for the user equipment 
+

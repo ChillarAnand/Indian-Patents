@@ -1,0 +1,22 @@
+Application number  =>  2881/CHENP/2011 A 
+
+Date of filing of application number  =>  28/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  PINCH VALVE MECHANISM FOR A MEDICAL FLUID INJECTION DEVICE 
+
+Name of applicant  =>  1)ACIST MEDICAL SYSTEMS, INC. 
+
+Name of inventor  =>  1)EVANS, ALAN 2)HIEB, MARTY 3)LE, KHOI 4)LINS, CHRIS 5)PLAGER, STEVEN, PAUL 6)WEST, BILL 7)WROLOSN, DARRYL, T. 
+
+International Classification  =>  A61M5/45, A61M39/28 
+
+Priority Doc No  =>  12/261,786 
+
+International Application Number  =>  PCT/US2009/062396 
+
+International Publication Number  =>  WO 2010/051315 A2 
+
+Abstract  =>  In general, this disclosure relates to techniques for sealing, or pinching, high-pressure fluid tubing (e.g., braided tubing) that may be used to deliver medical fluid from a powered medical fluid injection device, such as an injector that delivers contrast media and/or saline during angiographic or computed tomography (CT) procedures. In some cases, one or more low-friction, solenoid- based pinch valve mechanisms may be used. One example powered medical fluid injection device comprises an injector head and at least one pinch valve mechanism that is coupled to the injector head. The at least one pinch valve mechanism comprises a plunger, a reciprocating arm driven by the plunger, and a tube pinching area. The at least one pinch valve mechanism, when deactivated by the injector head, is configured to cause the reciprocating ann to pinch fluid tubing that runs through the tube pinching area. 
+

@@ -1,0 +1,22 @@
+Application number  =>  1029/MUMNP/2011 A 
+
+Date of filing of application number  =>  20/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  PROCESS FOR PREPARING CYCLIC DIAMINES 
+
+Name of applicant  =>  1)BASF SE 
+
+Name of inventor  =>  1)DAHMEN Kirsten 2)ERNST Martin 3)LIMBACH Michael 4)MELDER Johann-Peter 5)R–LER-FEIGEL Beatrice 6)TELES Joaquim Henrique 
+
+International Classification  =>  C07C 209/16 
+
+Priority Doc No  =>  08168819.4 
+
+International Application Number  =>  PCT/EP2009/064751 
+
+International Publication Number  =>  WO/2010/054988 
+
+Abstract  =>  The present invention relates to a process for preparing a cyclic diamine, comprising the reaction of at least one cyclic alkene with a gas mixture (G) comprising dinitrogen monoxide to give at least one cyclic ketone and the subsequent conversion of the at least one cyclic ketone to a cyclic diamine. The invention also relates to the use of a cyclic diamine with primary and secondary amine functions thus obtained to prepare polyamides and polyurethanes. 
+

@@ -1,0 +1,43 @@
+The Patent Office Journal 31/05/2013 12157
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9983/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :30/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : ENHANCEMENTS FOR MULTI-MODE SYSTEM SELECTION (MMSS) AND MMSS SYSTEM
+PRIORITY LISTS (MSPLS)
+(51) International classification :H04W 48/20
+(31) Priority Document No :61/226,991
+(32) Priority Date :20/07/2009
+(33) Name of priority country :U.S.A.
+(86) International Application No
+Filing Date
+:PCT/US2010/042659
+:20/07/2010
+(87) International Publication No : NA
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)QUALCOMM Incorporated
+Address of Applicant :Attn: International IP Administration
+5775 Morehouse Drive San Diego California 92121-1714
+USA.
+(72)Name of Inventor :
+1)YOON Young Cheul
+2)BALASUBRAMANIAN Srinivasan
+3)RAMACHANDRAN Shyamal
+4)SWAMINATHAN Arvind
+(57) Abstract :
+A mobile device or access terminal of a wireless wide area network (WWAN) communication system is provisioned for Multi-
+Mode System Selection (MMSS) wherein an MMSS System Priority List (MSPL) is used with respect to the underlying system
+selection priority list (e.g. Private Land Mobile Network (PLMN) list). Relating a current location to one or more entries in an
+MMSS Location Associated Priority List (MLPLs) enables scaling a range of entries in the PLMN list indicating whether the
+MSPL apply to the entire list of PLMNs stored in an access terminal or to some subset of the PLMN List. Similarly the present
+innovation addresses whether the MSPL applies to the entire Preferred Roaming List (PRL) or some subset of a geo-spatial
+location (GEO) area.
+No. of Pages : 60 No. of Claims : 37

@@ -1,0 +1,48 @@
+The Patent Office Journal 30/12/2011 
+ 
+25386
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2124/DELNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :21/03/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : WAFER-LEVEL FABRICATION OF LIQUID CRYSTAL OPTOELECTRONIC DEVICES  
+  
+(51) International classification  :G02F 1/136  
+(31) Priority Document No  :61/093,419  
+(32) Priority Date  :01/09/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/CA2009/001181
+:01/09/2009 
+(87) International Publication No  :WO 2010/022503  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)LENSVECTOR INC. 
+      Address of Applicant :2307 LEGHORN ST., MOUNTAIN 
+VIEW, CALIFORNIA 94043, U.S.A   
+(72)Name of Inventor : 
+   1)GALSTIAN, TIGRAN 
+   2)PROUDIAN, DEREK ALEXANDRE 
+   3)AFSHARI, BARHAM 
+   4)NYSTROM, MICHAEL 
+   5)CLARK, PETER  
+(57) Abstract : 
+Liquid crystal optoelectronic devices are produced by fabricating a wafer- level component structure and affixing a plurality of 
+discrete components to a surface structure prior to singulating the individual devices therefrom. After singulation, the individual 
+devices include a portion of the wafer-level fabricated structure and at least of the discrete components. The wafer-level structure may 
+include a liquid crystal and controlling electrodes, and the discrete components may include fixed lenses or image sensors. The 
+discrete components may be located on either or both of two sides of the wafer-level structure. Multiple liquid crystal layers may be 
+used to reduce nonuniformities in the interaction with light from different angles, and to control light of different polarizations. The 
+liquid crystal devices may function as optoelectronic devices such as tunable lenses, shutters or diaphragms. 
+  
+No. of Pages : 24 No. of Claims : 30 

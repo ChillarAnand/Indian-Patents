@@ -1,0 +1,22 @@
+Application number  =>  834/MUMNP/2012 A 
+
+Date of filing of application number  =>  03/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD FOR THE PRODUCTION OF A GLYCOSYLATED IMMUNOGLOBULIN 
+
+Name of applicant  =>  1)F. HOFFMANN-LA ROCHE AG 2)CHUGAI SEIYAKU KABUSHIKI KAISHA 
+
+Name of inventor  =>  1)FRANZE, REINHARD 2)HIRASHIMA, CHIKASHI 3)LINK, THOMAS 4)TAKAGI, YOSHINORI 5)TAKUMA, SHINYA 6)TSUDA, YURIKO 
+
+International Classification  =>  C07K 16/00 
+
+Priority Doc No  =>  09013455.2 
+
+International Application Number  =>  PCT/EP2010/066073 
+
+International Publication Number  =>  WO/2011/051231 
+
+Abstract  =>  Herein is reported a method for the production of an immunoglobulin comprising the following steps: a) providing a eukaryotic cell comprising a nucleic acid encoding the immunoglobulin, b) cultivating the eukaryotic cell in a cultivation medium wherein the amount of glucose available in the cultivation medium per time unit is kept constant and limited to less than 80 % of the amount that could maximally be utilized by the cells in the cultivation medium per time unit, and c) recovering the immunoglobulin from the culture. 
+

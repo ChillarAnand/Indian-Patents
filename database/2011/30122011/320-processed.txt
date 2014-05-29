@@ -1,0 +1,22 @@
+Application number  =>  2052/CHE/2010 A 
+
+Date of filing of application number  =>  19/07/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD AND APPARATUS FOR REMOVING A REVERSIBLY MOUNTED DEVICE WAFER FROM A CARRIER SUBSTRATE 
+
+Name of applicant  =>  1)BREWER SCIENCE,INC 
+
+Name of inventor  =>  1)JEREMY W.MCCUTCHEON 2)ROBERT D.BROWN 
+
+International Classification  =>  H01L21/68, H01L21/50 
+
+Priority Doc No  =>  12/819,680 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  New demounting methods and apparatuses for separating temporarily, permanently, or semi-permanently bonded substrates and articles formed from those methods and apparatuses are provided. The methods comprise demounting a device wafer from a carrier wafer or substrate that have only been strongly bonded at their outer perimeters. The edge bonds are chemically, mechanically, acoustically, or thermally softened, dissolved, or disrupted to allow the wafers to be easily separated with very low forces and at or near room temperature at the appropriate stage in the fabrication process. A clamp for facilitating separation of the bonded substrates is also provided. 
+

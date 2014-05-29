@@ -1,0 +1,22 @@
+Application number  =>  688/MUMNP/2012 A 
+
+Date of filing of application number  =>  19/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  AGGREGATE DETECTION DEVICE AND CONCRETE MIXING PLANT USING THE SAME 
+
+Name of applicant  =>  1)HUNAN SANY INTELLIGENT CONTROL EQUIPMENT CO., LTD. 2)SANY HEAVY INDUSTRY CO., LTD. 
+
+Name of inventor  =>  1)HUANG XIANGYANG 2)JIANG ZHIHUI 3)ZHANG JIAQIAO 4)HUANG SHENHAI 
+
+International Classification  =>  B28C 7/02 
+
+Priority Doc No  =>  CN200920217680.7 
+
+International Application Number  =>  PCT/CN2010/074268 
+
+International Publication Number  =>  WO/2011/038594 
+
+Abstract  =>  An aggregate detection device and a concrete mixing plant using the same are provided. The aggregate detection device comprises a bin level controller (3), a driving medium (5) and a detector (6). One end of the driving medium (5) is connected to the bin level controller (3), and the other end is connected to the detector (6). The aggregate detection device can automatically detect the level of aggregate in an aggregate storage bin (1), so as to exactly and reliably control a valve (8) of the aggregate storage bin (1). 
+

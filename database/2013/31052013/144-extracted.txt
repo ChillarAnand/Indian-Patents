@@ -1,0 +1,36 @@
+The Patent Office Journal 31/05/2013 12115
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9894/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :28/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : MODULAR RELAIS COMPONENTS
+(51) International classification :H01H 73/00
+(31) Priority Document No :NA
+(32) Priority Date :NA
+(33) Name of priority country :NA
+(86) International Application No
+Filing Date
+:PCT/CN2009/072104
+:03/06/2009
+(87) International Publication No : NA
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)ABB Schweiz AG
+Address of Applicant :Brown Boveri Strasse 6 CH-5400
+Baden Switzerland
+(72)Name of Inventor :
+1)ABERT Alexander
+2)LI Eric-JiuQuan
+3)FLEISCHMANN Juerg
+(57) Abstract :
+An electrical device (1) according to the present invention is made from a first component (10) and a second component (12). The
+first component (10) has a functional set (10™) and the second component (12) has a second functional set (12™). The second
+component (12) is disposed in an outer shell opening (24) of the first component (10) to form the electrical device.
+No. of Pages : 25 No. of Claims : 17

@@ -1,0 +1,22 @@
+Application number  =>  2141/DELNP/2011 A 
+
+Date of filing of application number  =>  22/03/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  ADAPTIVE FILTER 
+
+Name of applicant  =>  1)MEDIATEK INC. 
+
+Name of inventor  =>  1)FU, CHIH-MING 2)GUO, XUN 3)HUANG, YU-WEN 4)LEI, SHAW-MIN 
+
+International Classification  =>  H04N 7/26 
+
+Priority Doc No  =>  61/099,981 
+
+International Application Number  =>  PCT/CN2009/072192 
+
+International Publication Number  =>  WO 2010/034205 
+
+Abstract  =>  A video encoder includes a prediction unit for performing prediction techniques according to original video data and reconstructed video data to generate prediction samples, a reconstruction unit for reconstructing the prediction samples to form the reconstructed video data, and a reference picture buffer for storing the reconstructed video data as reference video data. The video encoder also includes a filter parameter estimator for estimating filter parameters according to the original video data of a current picture and the reconstructed video data of the current picture, and an adaptive loop filter for filtering the reconstructed video data of the current picture according to stored filter parameters of a prior picture in coding order. The filter parameter estimator and adaptive loop filter can operate in parallel. 
+

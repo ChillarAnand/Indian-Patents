@@ -1,0 +1,22 @@
+Application number  =>  3309/CHE/2010 A 
+
+Date of filing of application number  =>  04/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  A METHOD AND SYSTEM FOR PERFORMING SECURED DATA EXCHANGE OVER A NETWORK 
+
+Name of applicant  =>  1)HCL Technologies Ltd. 
+
+Name of inventor  =>  1)Sudhish M. 2)Bala Aravind G. 3)Ramprasath V. 
+
+International Classification  =>  H04L9/00 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A system for performing secured data exchange in a network environment, said system comprising a wireless communication device comprising a processor configured to download and host a client utility configurable to generate a unique biometric identification tag based on predetermined criteria, said biometric identification tag representing at least one set of biometric data; a plurality of terminal devices coupled with said wireless device and configured to interpret and redirect said one set of biometric data; a server unit coupled with said terminal devices, configurable to receive said one set of biometric data and host a second set of biometric data , said server unit comprising of a processor configured to compare said second set of biometric data with said one set of biometric data for performing said biometric authentication. 
+

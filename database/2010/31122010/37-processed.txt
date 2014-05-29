@@ -1,0 +1,22 @@
+Application number  =>  1318/DEL/2009 A 
+
+Date of filing of application number  =>  26/06/2009 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  A TECHNIQUE AND DEVICE FOR MULTIPHASE ENCRYPTION 
+
+Name of applicant  =>  1)AMITY UNIVERSITY 
+
+Name of inventor  =>  1)HIMANSHU GUPTA 
+
+International Classification  =>  H04L 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention relates to a method and device for multi-phase data encryption that enhances the complexity of data encryption by performing the same operation multiple times as in single phase encryption techniques. The advantage of multiple encryptions is that it provides better security because even if some component ciphers are broken or some of the secret keys are recognized, the confidentiality of original data is still maintained by the multiple encryptions. 
+

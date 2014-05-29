@@ -1,0 +1,43 @@
+ 
+The Patent Office Journal 31/08/2012 
+13783
+(12) PATENT APPLICATION PUBLICATION (21) Application No.879/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :09/04/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : METHOD, SYSTEM AND DEVICE FOR TRANSMITTING SYSTEM INFORMATION  
+  
+(51) International classification  :H04W 48/08  
+(31) Priority Document No  :200910092379.2  
+(32) Priority Date  :11/09/2009 
+(33) Name of priority country  :China 
+(86) International Application No 
+        Filing Date 
+:PCT/CN2010/001381
+:09/09/2010 
+(87) International Publication No  :WO/2011/029271  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)CHINA MOBILE COMMUNICATION CORPORATION
+      Address of Applicant :29, JINRONG AVE., XICHENG 
+DISTRICT, BEIJING 100032, CHINA . 
+(72)Name of Inventor : 
+   1)HU, NAN  
+(57) Abstract : 
+A method, system and device for transmitting system information are provided, and said method includes the following steps: the 
+network side transmits the system information on a downlink work carrier, wherein said system information includes the master 
+system information and wireless resource configuration information of said downlink work carrier, and master system information of 
+at least one of the other downlink carriers in multiple carriers. By using the present invention, the speed and efficiency of the terminal 
+obtaining the system information of other downlink work carrier can be improved in multi-carrier system.  
+  
+  
+No. of Pages : 38 No. of Claims : 30 

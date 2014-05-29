@@ -1,0 +1,22 @@
+Application number  =>  2989/CHENP/2011 A 
+
+Date of filing of application number  =>  02/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  VALVE FOR CONTROLLING FLOW VOLUME 
+
+Name of applicant  =>  1)ROBERT BOSCH GMBH 
+
+Name of inventor  =>  1)MOENCH, JOCHEN 2)HILLS, ALOIS 3)REEB, GEORG 4)MUSCHELKNAUTZ, CLAUDIUS 5)URLAUB, SVEN 
+
+International Classification  =>  F16K3/08, F16K 31/53 
+
+Priority Doc No  =>  10 2008 042 947.3 
+
+International Application Number  =>  PCT/EP2009/062874 
+
+International Publication Number  =>  WO 2010/046225 A1 
+
+Abstract  =>  The present subject matter relates to a valve (1) for controlling flow volume, particularly in a heating and/or cooling system of a motor vehicle. The valve (1) includes a disc shaped valve body (2) with at least one control opening (3). Further the disc shaped valve body (2) interacts with a disc shaped sealing body (10) having at least one through hole (11) for controlling the flow volume. The disc shaped valve body (2) includes external gear teeth (49) into which a pinion (42) engages in order to rotate the disc shaped valve body (2). According to the present subject matter, the pinion (42) and the external gear teeth (49) of the disc shaped valve body (2) interact with each other via involute gear teeth (43, 44). 
+

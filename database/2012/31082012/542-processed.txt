@@ -1,0 +1,22 @@
+Application number  =>  509/MUMNP/2012 A 
+
+Date of filing of application number  =>  01/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  INTRAOCULAR PRESSURE SENSOR WITH EXTERNAL PRESSURE COMPENSATION 
+
+Name of applicant  =>  1)ALCON RESEARCH, LTD. 
+
+Name of inventor  =>  1)RICKARD, MATTHEW J.A. 2)SANCHEZ, JR., ROBERT JOSEPH 
+
+International Classification  =>  A61B 3/16,A61M 27/00 
+
+Priority Doc No  =>  12/563,244 
+
+International Application Number  =>  PCT/US10/047429 
+
+International Publication Number  =>  WO/2011/034727 
+
+Abstract  =>  An intraocular pressure sensor system has a first pressure sensor located in an anterior chamber of an eye and a remote pressure sensor located remotely from the first pressure sensor. The remote pressure sensor measures or approximates atmospheric pressure. A difference between readings from the first pressure sensor and the remote pressure sensor approximates intraocular pressure. 
+

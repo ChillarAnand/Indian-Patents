@@ -1,0 +1,22 @@
+Application number  =>  850/KOL/2010 A 
+
+Date of filing of application number  =>  02/08/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  NAVIGATION SYSTEM AND METHODS REGARDING DISPUTED TERRITORIES 
+
+Name of applicant  =>  1)NAVTEQ NORTH AMERICA, LLC 
+
+Name of inventor  =>  1)WEILAND, MICHAEL L. 2)PAINTER, JEFFREY 3)DEMBSKI, MICHAEL P. 4)TIELENS, BART 
+
+International Classification  =>  G06F17/30 
+
+Priority Doc No  =>  12/559,723 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  Systems, devices, features, and methods for operations corresponding to disputed territories are disclosed. For example, one method comprises providing different data records corresponding to geographic features in dispute between multiple geographic entities. The different data records may be used to display different views of a disputed area as recognized by the respective geographic entities. 
+

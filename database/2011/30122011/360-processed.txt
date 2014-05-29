@@ -1,0 +1,22 @@
+Application number  =>  1292/KOL/2010 A 
+
+Date of filing of application number  =>  15/11/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  ACTUATOR-BASED CALIBRATION SYSTEM FOR A PRESSURE-SENSITIVE CATHETER 
+
+Name of applicant  =>  1)BIOSENSE WEBSTER (ISRAEL), LTD. 
+
+Name of inventor  =>  1)ASSAF GOVARI 2)YARON EPHRATH 3)ANDRES CLAUDIO ALTMANN 
+
+International Classification  =>  A61B19/00 
+
+Priority Doc No  =>  12/646050 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A calibration apparatus includes a fixture coupled to hold a distal end of a medical probe. An actuator is configured to press against the distal tip of the probe and apply to the distal tip multiple force vectors having respective magnitudes and angles with respect to the distal end, so as to cause a deformation of the distal tip relative to the distal end. A sensing device is configured to measure the magnitudes of the force vectors applied by the actuator. A calibration processor is configured to receive from the probe first measurements indicative of the deformation of the distal tip in response to the force vectors, to receive from the sensing device second measurements indicative of the magnitudes of the force vectors, and to compute, based on the angles and the first and second measurements, calibration coefficients for assessing the force vectors as a function of the first measurements. 
+

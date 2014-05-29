@@ -1,0 +1,43 @@
+ 
+The Patent Office Journal 31/08/2012 
+13419
+(12) PATENT APPLICATION PUBLICATION (21) Application No.373/DEL/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :19/02/2010 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : AN APPARATUS FOR DECOLOURIZATION OF ANALYTES AND A PROCESS THEREOF  
+  
+(51) International classification  :C07C 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA
+:NA 
+(87) International Publication No  :NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA
+:NA  
+  
+(71)Name of Applicant :  
+   1)COUNCIL OF SCIENTIFIC & INDUSTRIAL 
+RESEARCH 
+      Address of Applicant :ANUSANDHAN BHAWAN, RAFI 
+MARG, NEW DELHI-110 001, INDIA. Delhi India 
+(72)Name of Inventor : 
+   1)RITA SANDIP DHODAPKAR 
+   2)NAGESWARA RAO NETI 
+   3)TAPAS NANDY  
+(57) Abstract : 
+Disclosed herein is an apparatus for decolourization of analytes and a pretreatment process for colour removal from water and 
+wastewater prior to analysis. The invention is based on titanium dioxide and UV light induced oxidation of chromophore bearing 
+compounds which cause interference in analysis of anions by spectrophotometric or turbidimetric methods. 
+  
+  
+No. of Pages : 26 No. of Claims : 9 

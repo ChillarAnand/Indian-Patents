@@ -1,0 +1,50 @@
+The Patent Office Journal 30/12/2011 
+ 
+25517
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1098/MUMNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :30/05/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : NOVEL CC-1065 ANALOGS AND THEIR CONJUGATES  
+  
+(51) International classification  :C07D 403/06  
+(31) Priority Document No  :61/110,765  
+(32) Priority Date  :03/11/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/NL2009/050660
+:03/11/2008 
+(87) International Publication No  :WO/2010/062171  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)SYNTARGA B.V. 
+      Address of Applicant :Toernooiveld 1  NL-6525 ED 
+Nijmegen  The Netherlands   
+(72)Name of Inventor : 
+   1)BEUSKER  Patrick Henry 
+   2)COUMANS  Rudy Gerardus Elisabeth 
+   3)ELGERSMA  Ronald Christiaan 
+   4)MENGE  Wiro Micha«l Petrus Bernardus 
+   5)JOOSTEN  Johannes Albertus Frederikus 
+   6)SPIJKER  Henri Johannes 
+   7)DE GROOT  Franciscus Marinus Hendrikus  
+(57) Abstract : 
+This invention relates to novel analogs of the DNA-alkylating agent CC-1065 and to their conjugates. Furthermore this invention 
+concerns intermediates for the preparation of said agents and conjugates. The conjugates are designed to release their (multiple) 
+payload after one or more activation steps and/or at a rate and time span controlled by the conjugate in order to selectively deliver 
+and/or controllably release one or more of said DNA alkylating agents. The agents, conjugates, and intermediates can be used to treat 
+an illness that is characterized by undesired (cell) proliferation. As an example, the agents and the conjugates of this invention may be 
+used to treat a tumor. 
+  
+ 
+No. of Pages : 181 No. of Claims : 19 

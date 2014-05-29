@@ -1,0 +1,22 @@
+Application number  =>  1401/CHENP/2011 A 
+
+Date of filing of application number  =>  28/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  FLEXIBLE SUBSTRATE AND ELECTRIC CIRCUIT STRUCTURE 
+
+Name of applicant  =>  1)SHARP KABUSHIKI KAISHA 
+
+Name of inventor  =>  1)Yukihiro SUMIDA 2)Takeshi MURAOKA 
+
+International Classification  =>  H05K1/11, G02F1/1345 
+
+Priority Doc No  =>  2008-207186 
+
+International Application Number  =>  PCT/JP2009/063726 
+
+International Publication Number  =>   
+
+Abstract  =>  Provided is a flexible substrate wherein a connection portion between the flexible substrate and an electric circuit board meets requirements of narrow wiring pitch and low resistance at the connection portion. An electric circuit structure, which has the flexible substrate and the electric circuit board to which the flexible substrate is connected, is also provided. A wiring pattern (22) is formed on a flexible base film (21), a connection terminal (25) connected electrically to an electrode terminal of another electric circuit board is arranged at an end portion of the wiring pattern (22), and the connection terminal (25) includes wide connection terminals (25b, 25c) having a terminal width extending across plural lines of the wiring pattern (22). [Figure 2] 
+

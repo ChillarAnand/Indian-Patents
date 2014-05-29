@@ -1,0 +1,47 @@
+The Patent Office Journal 30/12/2011 
+ 
+25765
+(12) PATENT APPLICATION PUBLICATION (21) Application No.820/KOL/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :26/07/2010 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : VALVE OPERATING DEVICE FOR VEHICLE ENGINES  
+  
+(51) International classification  :F01L1/00 
+(31) Priority Document No  :098125154 
+(32) Priority Date  :27/07/2009
+(33) Name of priority country  :Taiwan 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  :NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)SANYANG INDUSTRY CO. LTD 
+      Address of Applicant :184 KENG TZU KOU, SHANG KENG 
+VILLAGE, HSIN FONG SHIANG, HSINCHU TAIWAN R.O.C 
+(72)Name of Inventor : 
+   1)CHANG, JYH-SHYANG 
+   2)LU, CHUN JUNG 
+   3)YU, CHIH-WEN  
+(57) Abstract : 
+A valve operating device for a vehicle engine includes a camshaft seat fixed in a cylinder head, a camshaft assembly arranged passing 
+through the camshaft seat, at least one bolt passing through the cylinder head and the camshaft seat, a rocker-arm mechanism 
+including at least one rocker arm shaft, and a cover plate. The cover plate includes a fixing section and a baffling section, wherein the 
+fixing section touches and is secured on a top surface of the camshaft seat, and the bolt passes through the cover plate. The baffling 
+section bends from the fixing section and extends over an edge of the front seat hole so as to restrict the axial displacement amount of 
+the camshaft assembly. The baffling section can correspond both to the axially-baffling surface and the rotationally-baffling surface of 
+the rocker arm shaft so as to restrict axial displacement amount and rotation amount of the rocker arm shaft. Thereby, there is no need 
+for the camshaft seat to be drilled and tapped, laterally, for bolt fastening, so that cost can be lowered and engine minimization is 
+enhanced.  
+ 
+No. of Pages : 25 No. of Claims : 10 

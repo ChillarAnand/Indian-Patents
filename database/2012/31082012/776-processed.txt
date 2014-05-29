@@ -1,0 +1,22 @@
+Application number  =>  995/MUMNP/2012 A 
+
+Date of filing of application number  =>  20/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  TREATING NEUROTOXICITY ASSOCIATED WITH COMBINATIONS OF 5- FU OR ITS PRODRUGS AND DPD INHIBITORS 
+
+Name of applicant  =>  1)ADHEREX TECHNOLOGIES, INC. 
+
+Name of inventor  =>  1)SPECTOR THOMAS 
+
+International Classification  =>  A61K 31/513 
+
+Priority Doc No  =>  61/251,449 
+
+International Application Number  =>  PCT/US2010/052734 
+
+International Publication Number  =>  WO/2011/047195 
+
+Abstract  =>  Methods for improved administration and dosing of DPD inhibitors in combination with 5-FU and/or 5-FU prodrugs are provided, comprising first administering to a patient in need thereof a DPD inhibitor that substantially eliminates activity of the enzyme in both nervous and non-nervous tissues within the patient and thereafter administering 5-FU or a 5-FU prodrug, wherein the level of 5-FU or 5-FU generated from a prodrug is in substantial excess of DPD inhibitor in the patient. 
+

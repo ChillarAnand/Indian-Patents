@@ -1,0 +1,22 @@
+Application number  =>  1307/KOL/2010 A 
+
+Date of filing of application number  =>  19/11/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  VEHICLE WHEEL AND METHOD FOR MANUFACTURING THE SAME 
+
+Name of applicant  =>  1)ASAHI TEC CORPORATION 
+
+Name of inventor  =>  1)AOKI, TATSUYA 
+
+International Classification  =>  B21D53/30 
+
+Priority Doc No  =>  JP2010-045276 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  There is provided a vehicle wheel 5 where an outer circumferential shape of a cross section of a rimportion 3 is formed into a circle having a predetermined diameter by subjecting a wheel precursor 1 obtained by casting using a side gate type wheel casting mold having two gates symmetrical to a wheel axis to spinning uniformly over the entire circumference of the rim portion 3 of the wheel precursor 1. The wheel precursor 1 has a shape where the rim portion 3 has a thickness gradually reducing from gate-corresponding sections 3a which correspond with the gates toward 90° shift sections 3b which are sections of 90° shift in a circumferential direction from the gate-corresponding sections 3a to make a deformation ratio of the gate-corresponding sections 3a higher than that of the 90° shift sections 3b by subjecting the wheel precursor 1 to the spinning. 
+

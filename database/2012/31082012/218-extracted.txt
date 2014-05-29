@@ -1,0 +1,52 @@
+ 
+The Patent Office Journal 31/08/2012 
+14060
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3111/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :06/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : A PREPARATION METHOD OF HIGH-PURITY L-CARNITINE  
+  
+(51) International classification  :C07C229/22, C07C49/215  
+(31) Priority Document No  :200810195331.X  
+(32) Priority Date  :13/10/2008 
+(33) Name of priority country  :China 
+(86) International Application No 
+        Filing Date 
+:PCT/CN2009/001122
+:09/10/2009 
+(87) International Publication No  :WO 2010/043110 A1 
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)CHANGZHOU MULTIPLE DIMENSION INSTITUTE 
+OF INDUSTRY TECHNOLOGY CO., LTD. 
+      Address of Applicant :JIAXIN HUAYUAN A-1704 NO.18 
+HENGSHAN ROAD, XINBEI CHANGZHOU, JIANGSU 
+213022 China 
+(72)Name of Inventor : 
+   1)GU, SHUHUA  
+   2)WANG, XUECHENG  
+   3)LI, QINGYI  
+(57) Abstract : 
+The present invention relate to a preparation method of high-purity L-carnitine which belongs to an important technique of qulity 
+control in different steps of chiral medicine production. The method comprises the following steps of monitoring the content of the L-
+isomer impurity in chiral material S-epichlorohydrin by gas chromatography and chiral cilumn and controlling the content of the L-
+isomer impurity in chiral raw material in the definite range; monitoring and controlling the specific optical rotation of the chiral 
+intermediate L-3-chloro-2-hydroxy-N,N,N-trimethyl-propanaminium in the definite ranges using a polarimeter; monitoring the 
+content of the R-isomer in the intermediate L-3-cyano-2-hydroxy-N,N,N-trimethyl-propanaminium using derivation agent (+)a-
+methyl-6-methoxy-2-naphthaleneaceyl chloride by HPLC and controlling the content of the isomer in the intermediate in the definite 
+range; and measuring the final product L-carnitine using derviation agent (+)a-methyl-6-methoxy-2-naphthaleneaceyl chloride by 
+HPLC. This method gives the high-purity L-carnitine in which the content of L-isomer may be more than 97% and that of R-
+isomerless than 2%. 
+  
+  
+No. of Pages : 22 No. of Claims : 8 

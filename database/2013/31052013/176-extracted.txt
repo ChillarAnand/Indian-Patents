@@ -1,0 +1,46 @@
+The Patent Office Journal 31/05/2013 12147
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9965/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :29/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : METHOD AND COMMUNICATION DEVICE FOR ASSIGNING SCHEDULING GRANT
+(51) International classification :H04W 72/12
+(31) Priority Document No :200910088051.3
+(32) Priority Date :01/07/2009
+(33) Name of priority country :China
+(86) International Application No
+Filing Date
+:PCT/CN2010/074883
+:01/07/2010
+(87) International Publication No : NA
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)Huawei Technologies Co. Ltd.
+Address of Applicant :Huawei Administration Building
+Bantian Longgang District Shenzhen Guangdong 518129 P.R.
+China.
+(72)Name of Inventor :
+1)YAN Kun
+2)LI Jing
+3)FAN Shuju
+4)GAO Yongqiang
+5)MA Xueli
+(57) Abstract :
+The present invention discloses a method and a communication device for assigning a scheduling grant. The method for assigning
+a scheduling grant includes: receiving a grant value, an E-TFCI offset value, and a data stream identifier corresponding to the E-
+TFCI offset value, where the grant value, the E-TFCI offset value, and the data stream identifier are returned by a Node B and the
+E-TFCI offset value is determined by the Node B according to data transmitted by a mobile terminal through two data streams,
+and the two data streams include a data stream identified by the data stream identifier and the other data stream; determining,
+according to the grant value, a transport block size of the data stream identified by the data stream identifier in a current TT1; and
+determining a transport block size of the other data stream in the current TTI according to the transport block size and the E-TFCI
+offset value, in the embodiments of the present invention the MIMO technology may be applied to the HSUPA technology, in
+order to improve spectrum utilization, coverage performance, and user peak rate in an uplink direction, and ensure demodulation
+performance of an uplink data stream at a receiving end.
+No. of Pages : 31 No. of Claims : 14

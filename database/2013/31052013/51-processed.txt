@@ -1,0 +1,22 @@
+Application number  =>  2203/CHENP/2012 A 
+
+Date of filing of application number  =>  09/03/2012 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  BASE STATION, METHOD AND COMPUTER PROGRAM PRODUCT 
+
+Name of applicant  =>  1)ALCATEL LUCENT 
+
+Name of inventor  =>  1)ASHRAF, IMRAN 2)CLAUSSEN, HOLGER 
+
+International Classification  =>  H04W16/08 
+
+Priority Doc No  =>  09360041.9 
+
+International Application Number  =>  PCT/EP2010/004585 
+
+International Publication Number  =>  WO 2011/029497A1 
+
+Abstract  =>  A base station, a method and a computer program product are disclosed. The base station is operable, in concert with other base stations within a group, to support wireless communications with user equipment. The base station comprises: transmission logic operable to generate a cell having a coverage area supporting wireless communications with user equipment; reception logic operable to receive load information indicative of a user equipment communications load experienced by base stations within said group; and coverage area adjustment logic operable to determine changes required to said coverage area to change a user equipment communications load experienced by at least one base station within said group. In this way, it can be seen that each base station within the group may receive information about the user loading on other base stations within that group and is able to adjust its coverage area to cause that communications loading to be rebalanced to enable efficient use of resources and optimise the overall performance of each of the base stations within the group. The group of base stations with co-ordinated and optimised coverage can achieve higher end user data rates and improved quality of service than would otherwise be possible. 
+

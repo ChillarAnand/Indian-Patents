@@ -1,0 +1,55 @@
+The Patent Office Journal 31/12/2010 
+ 
+5312
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1477/DEL/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :24/06/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : A CATALYTIC CRACKING CATALYST HAVING HIGHER SELECTIVITY, PROCESSING 
+METHOD AND USE THEREOF  
+  
+(51) International classification  :B01J8/24;  
+(31) Priority Document No  :200910148615.8
+(32) Priority Date  :25/06/2009 
+(33) Name of priority country  :China 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  :NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)CHINA PETROLEUM & CHEMICAL CORPORATION 
+      Address of Applicant :22 CHAOYANGMEN NORTH 
+STREET, CHAOYANG DISTRICT, BEIJING 100728 
+P.R.CHINA.   
+   2)RESEARCH INSTITUTE OF PETROLEUM 
+PROCESSING, SINOPEC 
+(72)Name of Inventor : 
+   1)XU YOUHAO 
+   2)CUI SHOUYE 
+   3)LONG JUN 
+   4)GONG JIANHONG 
+   5)DA ZHIJIAN 
+   6)ZHANG JIUSHUN 
+   7)ZHU YUXIA 
+   8)LUO YIBIN 
+   9)TANG JINLIAN  
+(57) Abstract : 
+The present invention provides a catalytic cracking catalyst, processing method and use thereof. When the catalyst is added into a 
+commercial catalytic cracking unit, it has an initial activity of not higher than 80, preferably not higher than 75, more preferably not 
+higher than 70, a self-balancing time of 0.1-50 h, and an equilibrium activity of 35-60. Said method enables the activity and selectivity 
+of the catalyst in the catalytic cracking unit to be more homogeneous and notably improves the selectivity of the catalytic cracking 
+catalyst, so as to obviously reduce the dry gas and coke yields, to sufficiently use steam and to reduce the energy consumption of the 
+FCC unit. 
+  
+  
+No. of Pages : 37 No. of Claims : 25 

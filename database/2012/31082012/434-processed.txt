@@ -1,0 +1,22 @@
+Application number  =>  1037/MUMNP/2012 A 
+
+Date of filing of application number  =>  24/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  BROACH CHIP REMOVAL APPARATUS AND BROACH CHIP REMOVAL METHOD 
+
+Name of applicant  =>  1)MITSUBISHI HEAVY INDUSTRIES, LTD. 
+
+Name of inventor  =>  1)FUJITA YOSHIHITO 2)TAKEHANA ISAMU 
+
+International Classification  =>  B23D 39/00 
+
+Priority Doc No  =>  2010-020831 
+
+International Application Number  =>  PCT/JP2010/065907 
+
+International Publication Number  =>  WO/2011/096105 
+
+Abstract  =>  Disclosed are a broach chip removal apparatus and a broach chip removal method with which chips attached inside cutting grooves can be efficiently removed from a broach by inserting a brush up to the end of the cutting grooves of the broach. A broach chip removal apparatus for removing chips from a broach (11) in which cutting edges (12) are provided in multiple stages at regular intervals in the axial direction of the broach (11), wherein the broach chip removal apparatus is provided with: a broach movement motor (22) which moves the broach (11) in the axial direction of the broach (11); a brush (33) which has a screw shape having a lead equal to the pitch between the cutting edges (12) so that the brush (33) can mesh with cutting grooves (13) formed between the cutting edges (12); a brush rotation motor (41) which rotates the brush (33) about the axis of the brush (33); and an NC apparatus (51) which controls the broach movement motor (22) and the brush rotation motor (41) in such a way that the brush (33) meshes with the cutting grooves (13). 
+

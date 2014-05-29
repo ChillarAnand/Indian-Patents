@@ -1,0 +1,43 @@
+The Patent Office Journal 31/12/2010 
+ 
+5460
+(12) PATENT APPLICATION PUBLICATION (21) Application No.4197/KOLNP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :08/11/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : PROCESS FOR CONVERTING BIOMASS TO COAL-LIKE MATERIAL USING HYDROTHERMAL 
+CARBONISATION  
+  
+(51) International classification  :C10L 5/44  
+(31) Priority Document No  :08007516.1  
+(32) Priority Date  :17/04/2008 
+(33) Name of priority country  :EUROPEAN UNION 
+(86) International Application No 
+        Filing Date 
+:PCT/EP2009/054602
+:17/04/2009 
+(87) International Publication No  :WO 2009/127727  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)CSL CARBON SOLUTIONS LTD. 
+      Address of Applicant :WHITELEY CHAMBERS, DON 
+STREET, HELIER, JERSEY JE4 9 WG, 10 UNITED KINGDOM 
+(72)Name of Inventor : 
+   1)ANTONIETTI, MARKUS  
+(57) Abstract : 
+The present invention relates to a hydro thermal carbonization process for the preparation of coal-like material using biomass. The 
+process comprises a step (i) of heating a reaction mixture comprising water and biomass to obtain a reaction mixture comprising 
+activated biomass; and a step (ii) of adding a polymerization initiator to the reaction mixture obtained in step (i) to polymerize the 
+activated biomass and to obtain a reaction mixture comprising coal-like material. The process is beneficial in terms of product control, 
+and process engineering.  
+ 
+No. of Pages : 30 No. of Claims : 17 

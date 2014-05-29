@@ -1,0 +1,53 @@
+The Patent Office Journal 30/12/2011 
+ 
+25502
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1072/MUMNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :26/05/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : SECURE NODE IDENTIFIER ASSIGNMENT IN A DISTRIBUTED HASH TABLE FOR PEER-TO-
+PEER NETWORKS  
+  
+(51) International classification  :H04L 29/06  
+(31) Priority Document No  :12/342,021  
+(32) Priority Date  :22/12/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/069113 
+:22/12/2009 
+(87) International Publication No  :WO/2010/075338  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)QUALCOMM INCORPORATED 
+      Address of Applicant :Attn: International IP Administration  
+5775 Morehouse Drive  San Diego  California 92121-1714  
+United States of America  
+(72)Name of Inventor : 
+   1)XIAO  Lu 
+   2)NARAYANAN  Vidya 
+   3)HARDIE  Edward  Thomas  Lingham 
+   4)JAYARAM  Ranjith  S. 
+   5)SUBRAMANIAN  Ramachandran 
+   6)DONDETI  Lakshminath  Reddy  
+(57) Abstract : 
+A multi-party commitment method is provided whereby a joining node uses contributions provided by contributor nodes in a peer-to-
+peer overlay network to generate a node identifier. The joining node generates a first contribution and sends a join request to an 
+introducer node (or a plurality of contributor nodes), where the join request seeks to obtain one or more contributions for generating 
+the node identifier within an identifier space of the overlay network. A hash of the first contribution may be included as part of the 
+join request. In response, the joining node may receive a plurality of contributions, wherein the contributions are bound to each other 
+and the first contribution by a prior external multi-node commitment operation. The joining node can then generate its node identifier 
+as a function of the first contribution and the received contributions. Consequently, collusion between nodes and malicious 
+manipulation during ID generation can be frustrated. 
+  
+ 
+No. of Pages : 73 No. of Claims : 64 

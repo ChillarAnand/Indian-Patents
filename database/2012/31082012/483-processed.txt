@@ -1,0 +1,22 @@
+Application number  =>  164/MUMNP/2010 A 
+
+Date of filing of application number  =>  27/01/2010 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  SYSTEM FOR CONTROLLING ACCESS TO CONTENT 
+
+Name of applicant  =>  1)GOOGLE INC. 
+
+Name of inventor  =>  1)WHITTEN Alma W. 2)O™SULLIVAN Joseph K. 
+
+International Classification  =>  G06F 17/30,G06F 1/00 
+
+Priority Doc No  =>  N/A 
+
+International Application Number  =>  PCT/US2005/035289 
+
+International Publication Number  =>  WO 2006/039548 A1 
+
+Abstract  =>  A software module is presented that enables a person to determine the relevance of a document while preventing the person from making a copy of the entire document. In one embodiment, this is accomplished by programmatically controlling which portions of a document will be presented to a user and which portions will not be presented to the user. In one embodiment, the software module is used in conjunction with a search engine to present a document search result. 
+

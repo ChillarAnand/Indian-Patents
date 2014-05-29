@@ -1,0 +1,46 @@
+The Patent Office Journal 30/12/2011 
+ 
+25459
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1005/MUMNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :18/05/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : METHOD AND DEVICE FOR DIAGNOSING THE FIRST RECEPTION OF AN IDENTIFIER, 
+DETECTION METHOD, STORAGE MEDIUM AND COMPUTER SOFTWARE FOR SAID METHOD  
+  
+(51) International classification  :G06F 21/00  
+(31) Priority Document No  :0857881  
+(32) Priority Date  :20/11/2008 
+(33) Name of priority country  :France 
+(86) International Application No 
+        Filing Date 
+:PCT/EP2009/065050
+:12/11/2009 
+(87) International Publication No  :WO/2010/057828  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)Viaccess 
+      Address of Applicant :Les Collines de lArche  Tour Operera C 
+92057 PARIS L a Dfense  France 
+(72)Name of Inventor : 
+   1)Haythem GADACHA  
+(57) Abstract : 
+The method of the invention comprises: a) determining (64, 68) at least one limit based on N already received identifiers, where N is 
+strictly higher than the number of identifiers that can be contained in an anti-replay memory, the limit being determined so as to 
+define, on the one hand, a range of identifiers that have not yet been received and, on the other hand, a range of identifiers containing 
+the N already received identifiers; b) comparing (58) the newly received identifier to said limit; c) if the newly received identifier 
+belongs to the range identifiers that have not yet been received, diagnosing (60) a first reception of the newly received identifier; and 
+d) if the newly received identifier belongs to the range of identifiers containing the N already received identifiers, searching (73) the 
+newly received identifier among those contained in the anti-replay memory. 
+  
+ 
+No. of Pages : 18 No. of Claims : 11 

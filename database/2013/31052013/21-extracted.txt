@@ -1,0 +1,46 @@
+The Patent Office Journal 31/05/2013 11992
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1790/MUM/2013 A
+(19) INDIA
+(22) Date of filing of Application :21/05/2013 (43) Publication Date : 31/05/2013
+(54) Title of the invention : RFID BASED VEHICLE IDENTIFICATION SYSTEM AND ACCESS CONTROL INTO
+PARKING
+(51) International classification :G07B15/02,B60R25/00
+(31) Priority Document No :NA
+(32) Priority Date :NA
+(33) Name of priority country :NA
+(86) International Application No
+Filing Date
+:NA
+:NA
+(87) International Publication No : NA
+(61) Patent of Addition to Application Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)Dr. Sanjay Trymbak Gandhe
+Address of Applicant :Principal, Sandip Foundation™s
+Sandip Institute of Technology and Research Centre,
+Mahiravani, Trimbak Road, Nashik Maharashtra India
+(72)Name of Inventor :
+1)Prof. Amol D. Potgantwar
+2)Anurag Hemant Wad
+3)Pranav Prakash Pandit
+4)Sidhesh Kumar
+(57) Abstract :
+Present invention revolves around the problem definition RFID Based Vehicle Identification and Access Control into parking,
+providing automated identification of vehicles using RFID system. It also provides an access control mechanism for the parking
+area by authorizing the vehicles using the RFID tags. The UID of the RFID tag will be stored in the database and will fetched
+every time the vehicle comes or wishes to come into the parking area. If the UID matches with the one stored against the vehicle
+information stored into the database, the vehicle will get an access into the parking area. We will also provide business
+intelligence tools such as Report Generation for making management decisions. Such reports may be used for further planning. In
+such way a complete Parking Identification System is proposed in the problem definition. Following invention is described in
+detail with the help of Figure 1 of sheet 1 showing Vehicle Check-in flowchart describing the check-in process, Figure 2 of sheet
+2 showing Vehicle Check-in flowchart describing the check-in process, Figure 3 of sheet 3 showing Vehicle approaching the
+RFID reader antenna, Figure 4 of sheet 3 showing RFID antenna detecting the tag, Figure 5 of sheet 4 showing Vehicle Check-out
+flowchart describing the check-out process, Figure 6 of sheet 5 showing breakdown structure of the invention.
+No. of Pages : 23 No. of Claims : 5

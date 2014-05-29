@@ -1,0 +1,22 @@
+Application number  =>  1205/CHENP/2011 A 
+
+Date of filing of application number  =>  21/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  INTERFERENCE MANAGEMENT IN A MULTI-CARRIER COMMUNICATION SYSTEM 
+
+Name of applicant  =>  1)QUALCOMM Incorporated 
+
+Name of inventor  =>  1)DAMNJANOVIC Jelena M. 2)MONTOJO Juan 3)BHUSHAN Naga 
+
+International Classification  =>  H04W16/10 
+
+Priority Doc No  =>  61/096,929 
+
+International Application Number  =>  PCT/US2009/057018 
+
+International Publication Number  =>   
+
+Abstract  =>  Systems and methodologies are described that facilitate assigning carriers to access points based on power class. Devices can accordingly evaluate cells provided by the access points to select a cell with an optimal SNR or path loss for communication regardless of power class, since lower powered cells will not be interfered by higher powered cells communicating over different carriers. Cross-carrier operation is also provided where access points can transmit downlink signals according to carrier assignment information while receiving uplink signals over other carriers. Thus, once an optimal cell is determined, downlink control data can be received over the assigned carrier to ensure receipt without interference, but uplink transmissions can occur over multiple carriers to facilitate increased throughput using one or more reuse schemes. 
+

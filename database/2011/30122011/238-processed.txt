@@ -1,0 +1,22 @@
+Application number  =>  1072/CHENP/2011 A 
+
+Date of filing of application number  =>  16/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  A METHOD AND APPARATUS FOR DISPLAYING A PLURALITY OF ITEMS 
+
+Name of applicant  =>  1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+
+Name of inventor  =>  1)OOSTERHOLT Ronaldus H. T. 
+
+International Classification  =>  G11B27/34, G06F17/30 
+
+Priority Doc No  =>  08160930.7 
+
+International Application Number  =>  PCT/IB2009/053058 
+
+International Publication Number  =>   
+
+Abstract  =>  A method of displaying a plurality of items is described. The items are arranged in a plurality of hierarchical levels, each of the hierarchical levels comprises a plurality of sets of items, each set comprising at least one of the plurality of items and each item has associated therewith at least one other item in another hierarchical level. An item within a first hierarchical level is selected (step 206), at least two sets of items of at least one second hierarchical level (the second hierarchical level being a level lower than the first hierarchical level) are arranged in an order determined by the selected one of the items (step 208) and the ordered sets of items are displayed (step 210). Fig. 2 
+

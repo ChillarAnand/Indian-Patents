@@ -1,0 +1,22 @@
+Application number  =>  450/MUMNP/2012 A 
+
+Date of filing of application number  =>  22/02/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD AND DEVICE FOR CONVERTING THERMAL ENERGY FROM BIOMASS INTO MECHANICAL WORK 
+
+Name of applicant  =>  1)KRONES AG 
+
+Name of inventor  =>  1)DRAGAN STEVANOVIC 
+
+International Classification  =>  F02C 3/28,F02C 1/04 
+
+Priority Doc No  =>  10 2009 038 322.0 
+
+International Application Number  =>  PCT/EP2010/061754 
+
+International Publication Number  =>  WO/2011/020768 
+
+Abstract  =>  The invention relates in particular to a method for converting thermal energy from carbonaceous raw materials into mechanical work, having at least one first (4) and one second (6) device for storing and releasing thermal energy connected to least intermittently alternatingly in a turbine branch (T) having a gas turbine (8) connected downstream thereof, comprising the steps of: a) combusting a gas in a gas combustor (2); b) passing the smoke gases (3) arising in the gas combustor (2) through a device (4, 6) for storing thermal energy; and c) feeding the hot air released by at least one device (4, 6) into the gas turbine (8), wherein the hot air (7) released by the gas turbine (8) is fed to at least one heat exchanger () connected downstream of the gas turbine (8). 
+

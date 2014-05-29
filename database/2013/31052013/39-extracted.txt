@@ -1,0 +1,38 @@
+The Patent Office Journal 31/05/2013 12010
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3446/DEL/2011 A
+(19) INDIA
+(22) Date of filing of Application :30/11/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : POWER BACKUP SYSTEM WITH EFFECTIVE ENERGY MANAGEMENT AND UTILIZATION
+(51) International classification :A63D
+(31) Priority Document No :NA
+(32) Priority Date :NA
+(33) Name of priority country :NA
+(86) International Application No
+Filing Date
+:NA
+:NA
+(87) International Publication No :NA
+(61) Patent of Addition to Application Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)SU-KAM POWER SYETEMS LTD
+Address of Applicant :306, KIRTI DEEP BUILDING, NEW
+DELHI India
+(72)Name of Inventor :
+1)KUNWER SACHDEV
+2)SANJEEV KUMAR SAINI
+(57) Abstract :
+The present invention relates to a power backup system with multiple input power sources and the management of these input
+power sources for efficient electricity generation and utilization of energy generated in most economical way. The backup system
+comprises at least a sensing, instrumentation & data mining/ processing/ retrieval unit which senses/analyses the input source such
+as but not limited to the renewable energy sources, solar availability, environmental data, historic data base, mains electricity and
+energy storage device status/ conditions or any other such kind. The system manages the input sources. The input priority protocol
+allows the backup system to prioritize the different applications for power management and its utilization in economic way. The
+system monitors the battery charge level, power generation, power consumption level or any other parameter.
+No. of Pages : 29 No. of Claims : 9

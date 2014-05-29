@@ -1,0 +1,22 @@
+Application number  =>  4069/CHENP/2010 A 
+
+Date of filing of application number  =>  01/07/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  GROUP CALL MANAGEMENT 
+
+Name of applicant  =>  1)NORTEL NETWORKS LIMITED 
+
+Name of inventor  =>  1)JOERG BECKER 2)MARTIN SAUTER 3)TIMOTHY LONGMAN 
+
+International Classification  =>  H04W4/06 
+
+Priority Doc No  =>  11/966,690 
+
+International Application Number  =>  PCT/EP2008/068333 
+
+International Publication Number  =>  WO 2009/083587 A2 
+
+Abstract  =>  A method of setting up a call group for participation in a group call by a plurality of mobile devices in a mobile telecommunications network, the mobile telecommunications network comprising a serving node operable to transceive data to and from the mobile telecommunications devices, the method comprising: receiving, at a serving node, data indicative of a group identifier from a said mobile terminal registered with the mobile telecommunications network; and defining a Group Call Area using the received group identifier, the defined Group Call Area being accessible by the serving node so as to enable the serving node to discriminate one call group registered with said telecommunications network from another call group registered with said telecommunications network. 
+

@@ -1,0 +1,22 @@
+Application number  =>  1026/MUMNP/2012 A 
+
+Date of filing of application number  =>  23/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  APPARATUS FOR SINGLE-MOLECULE DETECTION 
+
+Name of applicant  =>  1)INDUSTRIAL TECHNOLOGY RESEARCH INSTITUTE 
+
+Name of inventor  =>  1)CHUNG-FAN CHIOU 2)RUNG-YWAN TSAI 3)YU-TANG LI 4)CHIH-TSUNG SHIH 5)MING-CHIA LI 6)CHANG-SHENG CHU 7)SHUANG-CHAO CHUNG 8)JUNG-PO CHEN 9)YING-CHIH PU 
+
+International Classification  =>  G01N 21/63 
+
+Priority Doc No  =>  12/801,503 
+
+International Application Number  =>  PCT/CN2011/075598 
+
+International Publication Number  =>  WO/2011/153962 
+
+Abstract  =>  An apparatus for detecting an object capable of emitting light. The apparatus includes a light source (102) and a waveguide (110). The waveguide (110) includes a core layer (112) and a first cladding layer (114). At least one nanowell (120) is formed in at least the first cladding layer (114). The apparatus further includes a light detector (106). The light detector (106) can detect light emitted from a single molecule object contained in the at least one nanowell (120). 
+

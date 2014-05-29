@@ -1,0 +1,49 @@
+The Patent Office Journal 30/12/2011 
+ 
+25442
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2176/DELNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :23/03/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : CAPTURE AND RELEASE OF ACID-GASSES WITH ACID-GAS BINDING ORGANIC 
+COMPOUNDS  
+  
+(51) International classification  :B01D 53/14  
+(31) Priority Document No  :61/099,387  
+(32) Priority Date  :23/09/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/0057721
+:21/09/2009 
+(87) International Publication No  :WO 2010/039479  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)BATELLE MEMORIAL INSTIUTE 
+      Address of Applicant :PACIFIC NORTHWEST DIVISION, 
+INTELLECTUAL PROPERTY LEGAL SERVICES, P.O. BOX 
+999, RICHLAND, WA 99352 (U.S.) U.S.A. 
+(72)Name of Inventor : 
+   1)HELDEBRANT, DAVID, J. 
+   2)YONKER, CLEMENT, R. 
+   3)KOECH, PHILLIP, K.  
+(57) Abstract : 
+Reversible acid-gas binding organic liquid materials, systems and methods that permit capture of one or more of the several acid 
+gases. These acid-gas binding organic compounds can be regenerated to release the captured acid gasses and enable these organic 
+acid-gas binding materials to be reused. This enables transport of the liquid capture compounds and the release of the acid gases from 
+the organic liquid with significant energy savings compared to current aqueous systems. The acid gas capture compound is preferably 
+a liquid material that can be easily transported to allow movement of the captured material from the scrubbing location to a second 
+stage where the acid gas can be removed for storage or processing. Once the acid gas is removed from the organic liquid, the organic 
+liquid can be returned to the system and the process repeated. In some embodiments these are single molecules of zwitteronic liquids. 
+  
+ 
+No. of Pages : 23 No. of Claims : 15 

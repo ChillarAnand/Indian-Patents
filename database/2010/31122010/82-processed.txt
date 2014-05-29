@@ -1,0 +1,22 @@
+Application number  =>  2004/MUMNP/2010 A 
+
+Date of filing of application number  =>  23/09/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  METHOD FOR RAPID IDENTIFICATION OF PHARMACOLOGICALLY ACTIVE CHEMICAL ENTITIES ASSOCIATED WITH THE EFFICACY OF ETHNOBOTANCIAL SUBSTANCES 
+
+Name of applicant  =>  1)BAJPAI Mukul 
+
+Name of inventor  =>  1)BAJPAI Mukul 2)BAJPAI Mangala P. 
+
+International Classification  =>  A61K36/00,A61K31/235,C07C69/88 
+
+Priority Doc No  =>  12/054,129 
+
+International Application Number  =>  PCT/US2009/036634 
+
+International Publication Number  =>   
+
+Abstract  =>  The method includes the steps of performing in-vitro liver, intestinal and/or expressed enzyme assays with selected ethnobotanical substances, for both humans and a variety of animal species, to produce an array of resulting chemical entities, such as metabolites, for the human and the animals. Comparisons are then made between the chemical entities from the human in-vitro studies and the animal in-vitro studies to determine the closest match. The animal with the closest match is then used for an invivo study. If a match is present between the animal in-vivo results and the human in-vitro results, the matched chemical entity is isolated or synthesized and then further tested to determine the suitability of the matched chemical entity as a treatment drug. 
+

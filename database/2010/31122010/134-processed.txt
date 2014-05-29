@@ -1,0 +1,22 @@
+Application number  =>  4098/CHENP/2010 A 
+
+Date of filing of application number  =>  01/07/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  MULTI-CLIENT COLLABORATION TO ACCESS AND UPDATE STRUCTURED DATA ELEMENTS 
+
+Name of applicant  =>  1)MICROSOFT CORPORATION 
+
+Name of inventor  =>  1)HAWKING, ROBERT G 
+
+International Classification  =>  G06F15/16 
+
+Priority Doc No  =>  12/014,727 
+
+International Application Number  =>  PCT/US2008/088347 
+
+International Publication Number  =>  WO 2009/091488 A3 
+
+Abstract  =>  Tools and techniques for providing multi-client collaboration to access and update structured data elements are disclosed. Client systems may present user interfaces that provide libraries of published data elements that are available for collaboration. The clients may request selected data elements, while referencing unique identifiers associated with the selected data elements. Those clients that publish data elements for collaboration by others may present user interfaces that provide representations of candidate structured data elements, and receive selections of those data elements chosen for publication. The publishing clients may then send the selected data elements for publication. The client systems may interact with servers or collaboration services, which may receive structured data elements that the clients have published for access by others. The servers may define respective unique identifiers for the published data elements, and may send the structured data elements and corresponding unique identifiers to various client systems. Fig.2 
+

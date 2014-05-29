@@ -1,0 +1,22 @@
+Application number  =>  527/MUM/2011 A 
+
+Date of filing of application number  =>  25/02/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  AN ELECTRICAL CONTACT SYSTEM HAVING SHORT CIRCUIT CURRENT WITHSTANDING CAPABILITY 
+
+Name of applicant  =>  1)LARSEN & TOUBRO LIMITED 
+
+Name of inventor  =>  1)DATTATRAY Gaikwad Shirish; 
+
+International Classification  =>  H01H73/04 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention relates to an electrical contact system comprises pair stationary contact means and moving contact means (5). The moving contact means (5) is proximally located in between the stationary contact means, which are operatively surrounding the moving contacts means (5) wholly or partially. The stationary contact means comprises a substantially U shaped modular profile located almost at the middle of said stationary contact means having parallel portions I and parallel portions II such that the parallel portions I are operatively located substantially above the moving contact means (5) and the parallel portions II are operatively located substantially below the moving contact means (5). The portion I and portion II having an appropriate longitudinal relationship and are substantially symmetrically located on both sides of the moving contact means such that current direction in the parallel portions I and parallel portions II is opposite to the moving contact means (5) thereby preventing opening of the moving contact means (5) when high current flows through the system. 
+

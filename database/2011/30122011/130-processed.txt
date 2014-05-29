@@ -1,0 +1,22 @@
+Application number  =>  1017/MUMNP/2011 A 
+
+Date of filing of application number  =>  19/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  SYSTEM AND METHOD OF AUTOMATICALLY GENERATING AND SENDING TEXT MESSAGES 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)GOYAL Amitabh 2)JAGETIYA Vikas 3)GUPTA Prateek 
+
+International Classification  =>  H04M 3/42 
+
+Priority Doc No  =>  12/333,851 
+
+International Application Number  =>  PCT/US2009/067690 
+
+International Publication Number  =>  WO/2010/068878 
+
+Abstract  =>  A method of automatically generating text messages in response to a telephone call is disclosed and may include receiving an incoming telephone call at a text message capable device from a calling device, determining whether a text message engine within the text message capable device is enabled, automatically generating a text message when the text message engine is enabled and transmitting the text message to the calling device. 
+

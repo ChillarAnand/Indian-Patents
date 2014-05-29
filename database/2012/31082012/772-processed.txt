@@ -1,0 +1,22 @@
+Application number  =>  972/MUMNP/2012 A 
+
+Date of filing of application number  =>  18/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  LOCATION METHOD, APPARATUS AND SYSTEM 
+
+Name of applicant  =>  1)CHINA ACADEMY OF TELECOMMUNICATIONS TECHNOLOGY 
+
+Name of inventor  =>  1)ZHANG, DAJUN 2)FANG, JIAYI 3)QUAN, HAIYANG 
+
+International Classification  =>  H04W 4/02 
+
+Priority Doc No  =>  CN200910237241.7 
+
+International Application Number  =>  PCT/CN2010/078415 
+
+International Publication Number  =>  WO/2011/054302 
+
+Abstract  =>  The present invention discloses a location method, apparatus and system, and the method comprises the following steps: a Mobility Management Entity (MME) receives a location service request, selects an Evolved Service Mobile Location Center (E-SMLC), and transmits the location service request including a location identifier to the selected E-SMLC; the MME receives a User Equipment (UE) specific message including the location identifier transmitted by the E-SMLC, and communicates the location information with the E-SMLC using the location identifier. The embodiments of the present invention can ensure the correct delivery of the location information, and further improve the correctness of the location technology. 
+

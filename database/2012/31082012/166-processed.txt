@@ -1,0 +1,22 @@
+Application number  =>  3046/CHENP/2011 A 
+
+Date of filing of application number  =>  04/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  SIZE DEPENDENT MARKER CODES 
+
+Name of applicant  =>  1)EASTMAN KODAK COMPANY 
+
+Name of inventor  =>  1)MYRA TOFFOLON OLM 2)THOMAS D. PAWLIK 3)ERWIN LUDWIG ALLMANN 
+
+International Classification  =>  G07D7/20, C09K 11/06, C09K 11/08 
+
+Priority Doc No  =>  12/337,752 
+
+International Application Number  =>  PCT/US2009/006488 
+
+International Publication Number  =>  WO 2010/071673 A1 
+
+Abstract  =>  A security marker material comprising emissive particles and the emissive particles can be grouped into at least two groups with different size distributions and the size distributions satisfy the formula: [(x-z)2/(Sx2 + Sz2)J1/2>l wherein x and z are the volume- weighted mean equivalent-spherical diameters of the two particle distributions and Sx and Sz are the standard deviations of the same two distributions. 
+

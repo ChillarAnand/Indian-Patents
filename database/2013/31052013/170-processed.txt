@@ -1,0 +1,22 @@
+Application number  =>  996/CHENP/2012 A 
+
+Date of filing of application number  =>  31/01/2012 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  PARAMETRIC IMAGES BASED ON DYNAMIC BEHAVIOUR OVER TIME 
+
+Name of applicant  =>  1)BRACCO SUISSE SA 
+
+Name of inventor  =>  1)ROGNIN Nicolas 2)ARDITI Marcel 3)MERCIER Laurent 4)FRINKING Peter 
+
+International Classification  =>  G06T 7/00 
+
+Priority Doc No  =>  09169189.9 
+
+International Application Number  =>  PCT/EP2010/062816 
+
+International Publication Number  =>   
+
+Abstract  =>  A solution for analyzing a body-part of a patient is proposed. A corresponding data-processing method (A1-A14) includes the steps of providing (A1) a sequence of input images representing the body-part over an analysis period each input image including a set of input values each one being indicative of a response to an interrogation signal of a corresponding location of the body-part at a corresponding acquisition instant included in the analysis period associating (A2 A3 A4 A6) an analysis function of time with each one of a set of selected locations the analysis function modeling a trend of the input values of the selected location in the sequence of input images and providing (A2™ A4™ A5 A6™) a reference function of time for the analysis functions; in the solution according to an embodiment of the invention the data-processing method further includes comparing (A7) the analysis function of each selected location with the reference function 
+

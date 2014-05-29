@@ -1,0 +1,22 @@
+Application number  =>  1157/MUMNP/2011 A 
+
+Date of filing of application number  =>  07/06/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  COMMUNICATION APPARATUS 
+
+Name of applicant  =>  1)SUMITOMO ELECTRIC INDUSTRIES, LTD. 
+
+Name of inventor  =>  1)MOCHIDA, EIJI 2)HIRAKAWA, MITSURU 
+
+International Classification  =>  H04B 7/10,H04W 72/04,H04J 11/00 
+
+Priority Doc No  =>  2008-286722 
+
+International Application Number  =>  PCT/JP09/068327 
+
+International Publication Number  =>  WO/2010/053019 
+
+Abstract  =>  A communication apparatus capable of simultaneously receiving signals from a plurality of users by an SC-FDMA scheme reduces its circuit size. A communication apparatus BS1, BS2 is capable of simultaneously receiving signals from a plurality of users by the SC- FDMA scheme. The communication apparatus BS1, BS2 includes a plurality of antennas la and lb; a processing unit 6 that performs multi-antenna signal processing on a plurality of received SC-FDMA signals in a frequency domain, the received SC-FDMA signals being received by the plurality of antennas la and lb; and a user separating unit 7 that demultiplexes a signal obtained through the multi-antenna signal processing, into signals for each user based on user allocation information in the SC-FDMA scheme. 
+

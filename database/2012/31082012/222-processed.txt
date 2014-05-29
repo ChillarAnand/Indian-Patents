@@ -1,0 +1,22 @@
+Application number  =>  3116/CHENP/2011 A 
+
+Date of filing of application number  =>  06/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  TECHNIQUES FOR MINIMIZING CONTROL VOLTAGE RIPPLE DUR TO CHARGE PUMP LEAKAGE IN PHASE LOCKED LOOP CIRCUITS 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)ASHWIN RAGHUNATHAN 2)MARZIO PEDRALI-NOY 
+
+International Classification  =>  H03L7/089 
+
+Priority Doc No  =>  61/114,041 
+
+International Application Number  =>  PCT/US09/064267 
+
+International Publication Number  =>  WO 2010/056912 A1 
+
+Abstract  =>  Techniques for adaptively control of a loop filter sampling interval to mitigate the effects of charge pump leakage current in an apparatus including a phase lock loop circuit are provided. In one aspect, the apparatus includes a voltage controlled oscillator (VCO), a phase frequency detector (PFD) providing a phase comparison operation, a loop filter providing a control voltage to lock the VCO to a desired operating frequency, and a charge pump configured to provide an output signal to the loop filter in response to at least one of an UP pulse and a DOWN pulse. The apparatus further includes a sampling switch, coupled between an input of the loop filter, an output of the charge pump, and characterized by a sampling interval. A sampling switch controller is configured to adaptively control the width of the sampling interval in order to mitigate the effects of leakage current from the charge pump by closing the sampling switch in advance of the phase comparison operation and opening the sampling switch when the phase comparison operation is completed. 
+

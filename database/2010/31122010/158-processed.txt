@@ -1,0 +1,22 @@
+Application number  =>  4143/KOLNP/2010 A 
+
+Date of filing of application number  =>  03/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  MODULAR RING-SHAPED CORE 
+
+Name of applicant  =>  1)ABB TECHNOLOGY AG 
+
+Name of inventor  =>  1)JOHNSON, CHARLES W. 2)LEANDER, JAN 3)BILEK, KAREL 4)WEBER, BENJAMIN 
+
+International Classification  =>  H01F 30/16 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/EP2008/003826 
+
+International Publication Number  =>  WO 2009/138101 
+
+Abstract  =>  The invention relates to a ring-shaped core for a power transformer (18), wherein the ring-shaped core extends about an imaginary center axis (70) in the form of a closed toroidal structure and is constituted of a plurality of adjacent layers of sheet metal. The ring- shaped core, along the length of the toroidal structure, is constituted of at least three core section modules (11) that can be connected to and detached from each other, the core section modules being interconnected by an overlap of individual sheet layers and/or sheet layer sections. The invention also relates to the arrangement of ring-shaped cores having winding modules (100). The latter can be arranged in a common connecting structure and every ring core having winding modules (101-103, 111-113, 121 -123) arranged therein can be separately introduced into the connecting structure and removed therefrom in a non- destructive manner. 
+

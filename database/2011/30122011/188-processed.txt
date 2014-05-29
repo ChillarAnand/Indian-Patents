@@ -1,0 +1,22 @@
+Application number  =>  1118/MUMNP/2011 A 
+
+Date of filing of application number  =>  01/06/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  SEMICONDUCTOR LAYER AND METHOD FOR FORMING SAME 
+
+Name of applicant  =>  1)SHARP KABUSHIKI KAISHA 
+
+Name of inventor  =>  1)Hiroaki FURUKAWA 
+
+International Classification  =>  H01L 29/786 
+
+Priority Doc No  =>  2008-297296 
+
+International Application Number  =>  PCT/JP2009/005824 
+
+International Publication Number  =>  WO/2010/058528 
+
+Abstract  =>  A semiconductor layer (100) includes an upper surface (100o), a lower surface (100u), and a side surface (100s). In the vicinity of the boundary between the side surface (100s) and the upper surface (100o) on the side surface (100s), the tangent (T1) of the boundary is inclined with respect to the normal of the lower surface (100u). At a portion of the side surface (100s) apart from the upper surface (100o) as compared to the vicinity of the boundary, the angle defined by the tangent (T2) of that portion and the plane defined by the lower surface (100u) is greater than the angle defined by the tangent (T1) in the vicinity of the boundary and the plane defined by the lower surface (100u). 
+

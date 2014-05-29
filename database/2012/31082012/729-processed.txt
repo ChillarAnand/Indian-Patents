@@ -1,0 +1,22 @@
+Application number  =>  847/MUMNP/2012 A 
+
+Date of filing of application number  =>  04/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  ENDOTRACHEAL TUBE APPARATUS 
+
+Name of applicant  =>  1)MEDTRONIC-XOMED, INC. 
+
+Name of inventor  =>  1)HACKER, DAVID 2)STANISLAUS, CHARLES 3)LI, WENJENG 4)LITTLE, DAVE 5)YAMASAKI, SUNNY 6)PAGOTTO, CARLA 
+
+International Classification  =>  A61N 1/05 
+
+Priority Doc No  =>  61/248,294 
+
+International Application Number  =>  PCT/US2010/051145 
+
+International Publication Number  =>  WO/2011/041690 
+
+Abstract  =>  An apparatus for monitoring EMG signals of a patients laryngeal muscles includes an endotracheal tube having an exterior surface and a first location configured to be positioned at the patients vocal folds. A first electrode is formed on the exterior surface of the endotracheal tube substantially below the first location. A second electrode is formed on the exterior surface of the endotracheal tube substantially above the first location. The first and second electrodes are configured to receive the EMG signals from the laryngeal muscles when the endotracheal tube is placed in a trachea of the patient. 
+

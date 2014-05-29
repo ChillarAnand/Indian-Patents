@@ -1,0 +1,49 @@
+ 
+The Patent Office Journal 31/08/2012 
+14125
+(12) PATENT APPLICATION PUBLICATION (21) Application No.4469/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :23/06/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : ROTATING ELECTRIC MACHINE AND STATOR THEREOF  
+  
+(51) International classification  :H02K1/32, H02K3/487  
+(31) Priority Document No  :2008-301924  
+(32) Priority Date  :27/11/2008 
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date 
+:PCT/JP2009/006397
+:26/11/2009 
+(87) International Publication No  :WO 2010/061611 A1  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)KABUSHIKI KAISHA TOSHIBA  
+      Address of Applicant :1-1, SHIBAURA 1-CHOME, 
+MINATO-KU, TOKYO Japan 
+(72)Name of Inventor : 
+   1)KABATA, YASUO 
+   2)FUJITA, MASAFUMI 
+   3)MATSUYAMA, KOJI 
+   4)GUNJI, YUUICHIRO  
+(57) Abstract : 
+Multiple radially extending inner spacers (4T, 4S) are provided in a stator core (l) at a distance from each other in the circumferential 
+direction at intervals between a prescribed number of stacked magnetic steel plates, and ventilation ducts (5a, 5b) for cooling gas flow 
+are formed in the radial direction. The perimeter of each ventilation duct (5a, 5b) is defined by the inner spacers (4T, 4S) and a 
+magnetic steel plate (9) separated by the inner spacers. The cooling gas, which flows in the rotor direction of rotation, is split laterally 
+to both sides of a rotor coil (7) and directed toward the outer circumference. Portions of the shoulder parts of a wedge (8) are cut off 
+such that the width of the shoulder parts of the wedge (8) at positions corresponding to the ventilation ducts (5a, 5b) roughly matches 
+the slot width. As a result, pressure loss in the ventilation ducts of the stator core is reduced, and the stator coil and the stator core can 
+be cooled efficiently. 
+  
+  
+No. of Pages : 51 No. of Claims : 13 

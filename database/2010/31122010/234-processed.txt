@@ -1,0 +1,22 @@
+Application number  =>  4286/KOLNP/2010 A 
+
+Date of filing of application number  =>  15/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  BULK FEEDING STORAGE DEVICES TO STORAGE DEVICE TESTING SYSTEMS 
+
+Name of applicant  =>  1)TERADYNE, INC. 
+
+Name of inventor  =>  1)NOBEL, SCOTT 2)GARCIA, EDWARD 3)POLYAKOV, EVGENY 4)TRUEBENBACH, ERIC, L. 5)MERROW, BRIAN, S. 
+
+International Classification  =>  G01R 31/02 
+
+Priority Doc No  =>  12/104,869 
+
+International Application Number  =>  PCT/US2009/040796 
+
+International Publication Number  =>  WO 2009/129383 
+
+Abstract  =>  A method of supplying storage devices (500) to a storage device testing system (100) includes placing a storage device tote (600), carrying multiple storage devices (500), in a presentation position accessible to an automated transporter (200) of the storage device testing system. The method includes actuating the automated transporter to retrieve one of the storage devices from the storage device tote, and actuating the automated transporter to deliver the retrieved storage device to a test slot (310) of the storage device testing system and insert the storage device in the test slot. 
+

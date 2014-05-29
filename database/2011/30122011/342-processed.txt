@@ -1,0 +1,22 @@
+Application number  =>  994/CHENP/2011 A 
+
+Date of filing of application number  =>  11/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  SPECTRAL IMAGING 
+
+Name of applicant  =>  1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+
+Name of inventor  =>  1)PROKSA Roland 
+
+International Classification  =>  A61B6/00 
+
+Priority Doc No  =>  61/081752 
+
+International Application Number  =>  PCT/IB2009/052672 
+
+International Publication Number  =>   
+
+Abstract  =>  A method includes concurrently modulating administration of at least two different contrast agents to a subject during an imaging procedure based on a modulation profile. The at least two different contrast agents exhibit different spectral characteristics. The method further includes performing a spectral decomposition of data indicative of the at least two different contrast agents, determining concentrations of the at least two different contrast agents based on the spectral reconstruction, and determining a perfusion parameter based on a ratio of the concentrations and the modulation profile. Fig.1 
+

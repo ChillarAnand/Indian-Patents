@@ -1,0 +1,22 @@
+Application number  =>  1092/MUMNP/2011 A 
+
+Date of filing of application number  =>  27/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  CODING SCHEME SELECTION FOR LOW-BIT-RATE APPLICATIONS 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)GUPTA Alok Kumar 2)KANDHADAI Ananthapadmanabhan A. 
+
+International Classification  =>  G10L 19/14 
+
+Priority Doc No  =>  12/261,815 
+
+International Application Number  =>  PCT/US2009/062559 
+
+International Publication Number  =>  WO/2010/059374 
+
+Abstract  =>  Systems, methods, and apparatus for low-bit-rate coding of transitional speech frames are disclosed. 
+

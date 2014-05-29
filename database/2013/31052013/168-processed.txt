@@ -1,0 +1,22 @@
+Application number  =>  9953/CHENP/2011 A 
+
+Date of filing of application number  =>  29/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  MOBILE STATION APPARATUS BASE STATION APPARATUS RADIO COMMUNICATION METHOD AND COMMUNICATION PROGRAM 
+
+Name of applicant  =>  1)SHARP KABUSHIKI KAISHA 
+
+Name of inventor  =>  1)SUZUKI, SHOICHI 2)YAMADA, SHOHEI 3)UEMURA, KATSUNARI 4)NAKASHIMA, DAIICHIRO 
+
+International Classification  =>  H04W52/08 
+
+Priority Doc No  =>  2009-142874 
+
+International Application Number  =>  PCT/JP2010/058750 
+
+International Publication Number  =>  WO 2010/146972A1 
+
+Abstract  =>  Transmission power of a plurality of uplink carrier components used for radio communication by a mobile station device and a base station device is efficiently controlled. The mobile station device communicates by radio with the base station device using a plurality of component carriers. The mobile station device receives, from the base station device, downlink control information that-includes information indicating radio resource assignment to a downlink shared channel disposed in any of downlink component carriers of a downlink control channel and a TPC command to an uplink control channel in an uplink component carrier in which ACK/NACK to the downlink shared channel is transmitted. 
+

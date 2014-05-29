@@ -1,0 +1,22 @@
+Application number  =>  2048/CHE/2011 A 
+
+Date of filing of application number  =>  16/06/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  INFORMATION PROCESSING DEVICE, INFORMATION PROCESSING METHOD, AND PROGRAM 
+
+Name of applicant  =>  1)SONY CORPORATION 
+
+Name of inventor  =>  1)MOTOKI KATO 
+
+International Classification  =>  H04N5/93, H04N9/80 
+
+Priority Doc No  =>  P2010-142864 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  An information processing device includes: a processor determining whether a basic stream that can be reproduced singly and an extended stream used for reproduction with the basic stream forming a video stream of contents to be copied are interleaved with respect to each data in a predetermined unit and recorded in a first recording medium based on control information recorded in the first recording medium; and a recording controller, in the case of a determination that the basic and extended streams are interleaved with respect to each data in the predetermined unit and recorded, designating a first file among the first file that manages the basic stream and allowing copying of the basic stream to a second recording medium, and designating a second file that manages the extended stream and allowing copying of the extended stream to the second recording medium. 
+

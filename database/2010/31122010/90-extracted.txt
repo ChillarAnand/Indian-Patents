@@ -1,0 +1,48 @@
+The Patent Office Journal 31/12/2010 
+ 
+5356
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1761/MUMNP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :18/08/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : METHOD FOR SECURING MESSAGES TRANSMITTED BY A TRANSMITTING TERMINAL TO A
+REMOTE RECEIVING TERMINAL  
+  
+(51) International classification  :H04N7/16  
+(31) Priority Document No  :08 51652  
+(32) Priority Date  :14/03/2008 
+(33) Name of priority country  :France 
+(86) International Application No 
+        Filing Date 
+:PCT/EP2009/053008
+:13/03/2009 
+(87) International Publication No  :WO2009/112580A2 
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)VIACCESS  
+      Address of Applicant :LES COLLINES DE I'ARCHE, TOUR 
+OPERA C, 92057 PARIS LA DEFENSE CEDEX, FRANCE   
+(72)Name of Inventor : 
+   1)CHEVALLIER, ANTHONY 
+   2)PHIRMIS, MATHIEU  
+(57) Abstract : 
+The invention relates to a method for securing a number n greater than or equal to 1 of messages MUi (i= 1 to n) transmitted by a 
+transmitting terminal to a receiving terminal in which, Before  transmitting,  the  transmitting terminal, a- generating an ordered 
+sequence comprising N data blocks Bj, (j= 1 to N), where N is an integer number greater than or equal to n; b- for each message 
+MUi (i= 1 to n), calculating a position pi in said ordered sequence of N blocks using a function F; c- encapsulating each message MUi 
+(i= 1 to n) in block Bj located in position pi, and; d- transmitting  the  ordered  sequence  comprising messages MUi to said receiving 
+terminal; and on reception, the receiving terminal; e- recalculating the positions pi (i = 1 to n) of blocks Bj encapsulating 
+messages MUi using said function F; f- extracting blocks Bj located at positions pi (i= 1 to n) in the received ordered sequence; g- 
+extracting the messages MUi encapsulated in said blocks  Bj. 
+  
+ 
+No. of Pages : 29 No. of Claims : 17 

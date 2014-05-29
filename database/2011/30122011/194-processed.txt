@@ -1,0 +1,22 @@
+Application number  =>  1121/MUMNP/2011 A 
+
+Date of filing of application number  =>  01/06/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  HYBRID ENGINE SYSTEM 
+
+Name of applicant  =>  1)ECOMOTORS INTERNATIONAL INC. 
+
+Name of inventor  =>  1)HOFBAUER Peter 
+
+International Classification  =>  B60K 6/00 
+
+Priority Doc No  =>  61/201,884 
+
+International Application Number  =>  PCT/US2009/067709 
+
+International Publication Number  =>  WO/2010/077782 
+
+Abstract  =>  A hybrid engine and coupling system for use with a vehicle or other load which employs a motor/generator unit connected through controllable couplers to a kinetic energy storage device and to one or more internal combustion engine modules in a programmed manner. Several embodiments provide varying configurations to satisfy various power and packaging design requirements. 
+

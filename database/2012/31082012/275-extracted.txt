@@ -1,0 +1,53 @@
+ 
+The Patent Office Journal 31/08/2012 
+14117
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3181/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :09/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : SPIRO-5,6-DIHYDRO-4H-2,3,5,10B-TETRAAZA-BENZO[E]AZULENES  
+  
+(51) International classification  
+:C07D487/10, 
+A61K31/4196, 
+A61K31/435  
+(31) Priority Document No  :08169028.1  
+(32) Priority Date  :13/11/2008 
+(33) Name of priority country  :EPO 
+(86) International Application No 
+        Filing Date 
+:PCT/EP09/064565
+:04/11/2009 
+(87) International Publication No  :WO 2010/054961 A1  
+(61) Patent of Addition to Application Number 
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)F. HOFFMANN-LA ROCHE AG 
+      Address of Applicant :124 GRENZACHERSTRASSE, CH-
+4070 BASEL Switzerland 
+(72)Name of Inventor : 
+   1)BISSANTZ, CATERINA 
+   2)GOETSCHI, ERWIN 
+   3)JAKOB-ROETNE, ROLAND 
+   4)MASCIADRI, RAFFAELLO 
+   5)PINARD, EMMANUEL 
+   6)RATNI, HASANE 
+   7)ROGERS-EVANS, MARK 
+   8)SCHNIDER, PATRICK  
+(57) Abstract : 
+The present invention is concerned with spiro-dihydrotetraazabenzoazulene derivatives, i.e. spiro-5,6-dihydro-4H-2,3,5,10b-tetraaza-
+benzo[e]azulene derivatives of formula I wherein R1, R2, R3, X, Y, Z, m and n are as described herein. The compounds according to 
+the invention act as Via receptor modulators and are useful as therapeutics acting peripherally and centrally in the conditions of 
+dysmenorrhea, male or female sexual dysfunction, hypertension, chronic heart failure, inappropriate secretion of vasopressin, liver 
+cirrhosis, nephrotic syndrome, anxiety, depressive disorders, obsessive compulsive disorder, autistic spectrum disorders, 
+schizophrenia, and aggressive behavior. 
+  
+  
+No. of Pages : 74 No. of Claims : 28 

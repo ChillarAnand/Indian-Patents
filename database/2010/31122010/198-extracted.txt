@@ -1,0 +1,45 @@
+The Patent Office Journal 31/12/2010 
+ 
+5464
+(12) PATENT APPLICATION PUBLICATION (21) Application No.4208/KOLNP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :09/11/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : METHOD FOR TRANSMITTING UPLINK SIGNALS  
+  
+(51) International classification  :H04B 7/26  
+(31) Priority Document No  :61/075,322  
+(32) Priority Date  :24/06/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/KR2009/003400
+:24/06/2009 
+(87) International Publication No  :WO 2009/157709  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)LG ELECTRONICS INC. 
+      Address of Applicant :20, YEOUIDO-DONG, 
+YEONGDEUNGPO-GU, SEOUL 150-721 REPUBLIC OF 
+KOREA. 
+(72)Name of Inventor : 
+   1)LEE, DAE WON 
+   2)KIM, KI JUN 
+   3)AHN, JOON KUI  
+(57) Abstract : 
+A method of transmitting uplink signals is disclosed. The method includes transmitting, by a user equipment, periodic control 
+information on a Physical Uplink Control Channel (PUCCH) at a predetermined period, dropping the periodic control information and 
+multiplexing uplink signals except the periodic control information when the user equipment is operating in subframe bundling 
+transmission mode where the uplink signals are transmitted in a plurality of consecutive sub frames, and transmitting the multiplexed 
+uplink signals on a Physical Uplink Shared Channel (PUSCH).  
+ 
+No. of Pages : 46 No. of Claims : 16 

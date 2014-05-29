@@ -1,0 +1,30 @@
+#! /usr/bash
+
+python extract.py database/2013/15022013/official_journal_15022013_part_i.pdf
+python extract.py database/2013/15032013/official_journal_15032013_part_i.pdf
+python extract.py database/2013/15112013/official_journal_15112013_part_i.pdf
+python extract.py database/2013/16082013/official_journal_16082013_part_i.pdf
+python extract.py database/2013/17052013/official_journal_17052013_part_i.pdf
+python extract.py database/2013/18012013/official_journal_18012013_part_i.pdf
+python extract.py database/2013/18102013/official_journal_18102013_part_i.pdf
+python extract.py database/2013/19042013/official_journal_19042013_part_i.pdf
+python extract.py database/2013/19072013/official_journal_19072013_part_i.pdf
+python extract.py database/2013/20092013/official_journal_20092013_part_i.pdf
+python extract.py database/2013/20122013/official_journal_20122013_part_i.pdf
+python extract.py database/2013/21062013/official_journal_21062013_part_i.pdf
+python extract.py database/2013/22022013/official_journal_22022013_part_i.pdf
+python extract.py database/2013/22032013/official_journal_22032013_part_i.pdf
+python extract.py database/2013/22112013/official_journal_22112013_part_i.pdf
+python extract.py database/2013/23082013/official_journal_23082013_part_i.pdf
+python extract.py database/2013/24052013/official_journal_24052013_part_i.pdf
+python extract.py database/2013/25012013/official_journal_25012013_part_i.pdf
+python extract.py database/2013/25102013/official_journal_25102013_part_i.pdf
+python extract.py database/2013/26042013/official_journal_26042013_part_i.pdf
+python extract.py database/2013/26072013/official_journal_26072013_part_i.pdf
+python extract.py database/2013/27092013/official_journal_27092013_part_i.pdf
+python extract.py database/2013/27122013/official_journal_27122013_part_i.pdf
+python extract.py database/2013/28062013/official_journal_28062013_part_i.pdf
+python extract.py database/2013/29032013/official_journal_29032013_part_i.pdf
+python extract.py database/2013/29112013/official_journal_29112013_part_i.pdf
+python extract.py database/2013/30082013/official_journal_30082013_part_i.pdf
+python extract.py database/2013/31052013/official_journal_31052013_part_i.pdf

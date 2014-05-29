@@ -1,0 +1,42 @@
+ 
+The Patent Office Journal 31/08/2012 
+13848
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1459/CHE/2009 A 
+(19) INDIA  
+(22) Date of filing of Application :22/06/2009 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : METHOD AND SYSTEM TO GENERATE SECURITY THREAT REPORT IN A PLANT  
+  
+(51) International classification  :H04L 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA
+:NA 
+(87) International Publication No  : NA 
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA
+:NA  
+  
+(71)Name of Applicant :  
+   1)Yokogawa Electric Corporation 
+      Address of Applicant :9-32  2-chome  Nakacho  Musashino-
+shi  Tokyo  180-8750 Japan   
+(72)Name of Inventor : 
+   1)JOTHI BASKARAN KALIAMOORTHY  
+(57) Abstract : 
+ The present disclosure provides for a method and a system to generate security threat report in the area of Industrial Automation. This 
+includes configuring a scheduler 107 for selected or all Human Interface Stations 102 in a plant data network. Further, the security 
+threat data is collected from the Human Interface Station(s) 102 of the network based on predetermined constrains assigned by the 
+scheduler 107. Once the data is collected, it is stored into a storage unit 106 to obtain key performance index (KPI) by performing 
+index calculation on the stored data. These KPIs are later used to generate security threat reports.   
+  
+  
+No. of Pages : 20 No. of Claims : 10 

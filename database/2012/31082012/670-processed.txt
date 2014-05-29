@@ -1,0 +1,22 @@
+Application number  =>  736/MUMNP/2012 A 
+
+Date of filing of application number  =>  22/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  WASTE WATER PURIFICATION PLANT AND METHOD FOR PURIFYING WASTE WATER 
+
+Name of applicant  =>  1)HARTWIG, PETER 
+
+Name of inventor  =>  1)HARTWIG, PETER 
+
+International Classification  =>  C02F 3/30 
+
+Priority Doc No  =>  102009039316.1 
+
+International Application Number  =>  PCT/EP2010/005310 
+
+International Publication Number  =>  WO/2011/023408 
+
+Abstract  =>  The invention relates to a waste wafer purification plant having a) an intake mixing tank (3), b) a combined reaction and sedimentation tank (1, 2) having a first and a second tank section, c) wherein d) a first connection point (11) is arranged between the intake mixing tank (3) and the first tank section (1) in the lower tank region of the first tank section (1), c2) a first pump (12) is arranged at the first connection point (i 1) and can be actuated to convey return sludge from the first tank section (1) into the intake mixing tank.(3), c3) a first clarified water drain point (13) is arranged k the upper tank.region of the first tank section (I), and d) wherein di) a second connection point (21) is arranged between the intake mixing tank (3) and the second tank section (2) in the lower tank region of the second tank section (2), d2) a second pump (22) is arranged at the second connection point (21) and can be actuated to convey return sindge from the second tank section into the intake mixing tank (3), and d3) a second clarified water drain point (23) is arranged in. the upper tank region of the second tank section (2). The invention also relaies to a method for purifying waste water, in particular for the biological purification of waste water according to the activated sludge process, and to a method for after-treating the activated sludge. 
+

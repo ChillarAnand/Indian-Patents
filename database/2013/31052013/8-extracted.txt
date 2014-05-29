@@ -1,0 +1,53 @@
+The Patent Office Journal 31/05/2013 11979
+Early Publication:
+The following patent applications have been published under section 11A (2) of The Patents (Amendment) Act 2005 and
+rule 24A of The Patents (Amendment) Rules, 2006. Any person may file representation by way of opposition to the
+Controller of Patents at the appropriate office against the grant of the patent in the prescribed manner under section 25(1)
+of the Patents (Amendment) Act 2005 read with the rule 55 of The Patents (Amendment) Rules, 2006:
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1234/DEL/2013 A
+(19) INDIA
+(22) Date of filing of Application :26/04/2013 (43) Publication Date : 31/05/2013
+(54) Title of the invention : SLOTTED HOLES MESH FILTERED STEEL PILE
+(51) International classification :E02D
+(31) Priority Document No :NA
+(32) Priority Date :NA
+(33) Name of priority country :NA
+(86) International Application No
+Filing Date
+:NA
+:NA
+(87) International Publication No : NA
+(61) Patent of Addition to Application Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)NARESH KUMAR
+Address of Applicant :ASSISTANT, PROFESSOR, CIVIL
+ENGG. DEPTT. DELHI TECHNOLOGICAL UNIVERSITY
+OPPOSITE SECTOR-17 ROHINI, NEAR VILLAGE
+SHAHABAD DAULATPUR, BAWANA ROAD, DELHI-42
+India
+(72)Name of Inventor :
+1)NARESH KUMAR
+2)ASHUSTOSH TRIVEDI
+(57) Abstract :
+Described herein is a Slotted Holes Mesh- Filtered Steel Pile that can be used in a variety of soil conditions as well as apparatus
+and associated methods. Slotted holes helps in increase of effective stresses in soil-steel pile surface interaction by draining out
+extra buildup of pore water pressure in the immediate and longer run of time. As the potential flow of water will not be outwards
+but inwards to inside of steel pile through slotted holes of steel pile. It relieves of chances of buildup of excess pore water pressure
+for liquefaction of soils in the radially stressed zones of interaction of soil-steel pile. As effective stresses are directly proportional
+to shear strength of the soil mass, thereby, it will lead to increase of side-resistance on soil-steel pile surfaces. The side-resistance
+which is a part of load carrying capacity of steel piles will be increased to a large extent due to increase of effective stresses on
+soil-steel pile interface. This will be further increased due to presence of slotted holes on the outer lateral surface of the steel pile
+which not only drains out pore water to inside of the steel pile through mesh filter but also increase frictional forces due to
+roughness of the surface. In totality, it leads to increase in load carrying capacity of the pile, increase in the density of adjoining
+soil mass, consolidation of the soft soil and improved safety factor for designed loads of super-structures. The dewatering unit
+attached through a pipe from the top-most slotted hole of the steel pile shall act to remove the drained out water collected in-side
+the slotted hole steel pile. This special feature of slotted hole is provided throughout the vertical wall to accelerate the drainage in
+the entire zone of influence. A fine wire mesh of a designed sieve size is placed inside the slotted steel pile.
+No. of Pages : 23 No. of Claims : 17

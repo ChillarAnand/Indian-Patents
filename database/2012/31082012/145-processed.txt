@@ -1,0 +1,22 @@
+Application number  =>  3003/CHENP/2011 A 
+
+Date of filing of application number  =>  03/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  CIRCUIT FOR MEASURING THE EFFICIENT CURRENT OF A SIGNAL TO BE MONITORED 
+
+Name of applicant  =>  1)VALEO SYSTEMES DE CONTROLE MOTEUR 
+
+Name of inventor  =>  1)LUIS DE SOUSA 2)DOMINIQUE DUPUIS 
+
+International Classification  =>  G01R19/02, G06G 7/12 
+
+Priority Doc No  =>  0806210 
+
+International Application Number  =>  PCT/EP2009/064705 
+
+International Publication Number  =>  WO 2010/052278 A1 
+
+Abstract  =>  A circuit (22) for measuring the effective current (ieff(t)) of a signal to be monitored (i(t)) characterized in that it comprises means for slaving a DC reference signal (iDC(t)) to the signal to be monitored (i(t)) in such a way that the effective current (iDCeff(t)) of the DC reference signal (iDC(t) } is equal to the effective current (ieff(t)) of the signal to be monitored (i(t)). 
+

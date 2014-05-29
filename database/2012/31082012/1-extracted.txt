@@ -1,0 +1,46 @@
+ 
+The Patent Office Journal 31/08/2012 
+13843
+              CONTINUED FROM PART-1  
+ 
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1169/CHE/2009 A 
+(19) INDIA  
+(22) Date of filing of Application :21/05/2009 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : QUEUED COOPERATIVE WIRELESS NETWORKS CONFIGURATION USING RATELESS CODES 
+  
+(51) International classification  :H04L 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA
+:NA 
+(87) International Publication No  : NA 
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA
+:NA  
+  
+(71)Name of Applicant :  
+   1)Indian Institute of Science 
+      Address of Applicant :Bangalore  Karnataka   India 
+(72)Name of Inventor : 
+   1)Neelesh B. Mehta 
+   2)Vinod Sharma 
+   3)Gaurav Bansal  
+(57) Abstract : 
+A system using cooperative communication with rateless codes is presented that uses communication transmission aspects of 
+cooperative communication with rateless codes over Rayleigh fading channels and queuing aspects for buffering messages at 
+intermediate relays. The system transmits a subsequent message while a current message is en route to the destination by receiving 
+and buffering the current message in queues at intermediate relays. A relay with a best instantaneous communication link to the source 
+may receive a message first and forward the received message to the destination. Alternatively, if inter-relay communication links are 
+strong, all relays may cooperate simultaneously. 
+  
+  
+No. of Pages : 49 No. of Claims : 10 

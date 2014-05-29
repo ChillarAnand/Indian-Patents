@@ -1,0 +1,22 @@
+Application number  =>  2142/DELNP/2011 A 
+
+Date of filing of application number  =>  22/03/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  ADAPTIVE INTERPOLATION FILTER FOR VIDEO CODING 
+
+Name of applicant  =>  1)MEDIATEK INC. 
+
+Name of inventor  =>  1)FU, CHIH-MING 2)GUO, XUN 3)ZHANG, KAI 4)HUANG, YU-WEN 5)LEI, SHAW-MIN 
+
+International Classification  =>  H04N 7/32 
+
+Priority Doc No  =>  61/099,981 
+
+International Application Number  =>  PCT/CN2009/072191 
+
+International Publication Number  =>  WO 2010/034204 
+
+Abstract  =>  A video encoder that utilizes adaptive interpolation filtering for coding video data includes a prediction unit, a reconstruction unit, a reference picture buffer, a filter parameter estimator for estimating filter parameters according to the original video data and the predicted samples, and an adaptive interpolation filter for utilizing the stored filter parameters to perform filtering on the reconstructed video data. 
+

@@ -1,0 +1,47 @@
+ 
+The Patent Office Journal 31/08/2012 
+14044
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3095/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :05/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : CO-EXTRUDED, MULTILAYERED POLYOLEFIN-BASED BACKSHEET FOR ELECTRONIC 
+DEVICE MODULES  
+  
+(51) International classification  :B32B27/32  
+(31) Priority Document No  :61/112,011  
+(32) Priority Date  :06/11/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/063199
+:03/11/2009 
+(87) International Publication No  :WO 2010/053936 A1 
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)DOW GLOBAL TECHNOLOGIES LLC 
+      Address of Applicant :2040 DOW CENTER, MIDLAND, 
+MICHIGAN 48674 U.S.A. 
+(72)Name of Inventor : 
+   1)CHU, LIH-LONG  
+   2)NAUMOVITZ, JOHN 
+   3)NICKEL, NICHOLE, E.  
+(57) Abstract : 
+Multilayer structures useful as a backsheet for an electronic device, e.g., a photovoltaic cell, comprise (A) a top layer comprising a 
+polyolefin resin, e.g., ethylene vinyl acetate, and having n top facial surface and a bottom facial surface, (B) u tie layer comprising an 
+adhesive, e.g., an ethylene glycidyl methacrylate, having a top facial surface and a bottom facial surface, the top facial surface in 
+adhering contact with the bottom facial surface of the top layer, and (C) a bottom layer comprising a polyolefin having at least one 
+melting peak greater than 125°C, e.g., a polypropylene, and having a top facial layer and a bottom facial surface, the top facial surface 
+in adhering contact with the bottom facial surface of the tie layer 
+  
+  
+No. of Pages : 29 No. of Claims : 10 

@@ -1,0 +1,22 @@
+Application number  =>  3452/DEL/2011 A 
+
+Date of filing of application number  =>  30/11/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  Management of Security Associations in a Communication Session 
+
+Name of applicant  =>  1)Huawei Telecommunications (India) Co. Pvt. Ltd. 
+
+Name of inventor  =>  1)Syed Ajim Hussain 2)Giriraj G S 3)Sumit Agarwal 4)Vivek A. 
+
+International Classification  =>  H04L 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The present disclosure relates to management of security associations over a communication network particularly in an IPSEC protocol. Some embodiments of the present disclosure illustrate a system for managing security associations over a communication network. Such a system comprises a session allocation unit and a plurality of session processing units coupled to the session allocation unit. The session allocation unit may be configured to allocate an incoming IKE/data packet to one of the session processing unit based on current processing load at initiation of a session and to a previously allocated session processing unit for a continuing session. The session allocation unit may be configured further to identify the previously allocated session processing unit using a session processing index contained in the incoming lKE/data packet. 
+

@@ -1,0 +1,38 @@
+The Patent Office Journal 31/05/2013 12148
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9966/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :29/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : METHODS AND APPARATUS TO REGISTER WITH EXTERNAL NETWORKS IN WIRELESS
+NETWORK ENVIRONMENTS
+(51) International classification :H04W 60/00
+(31) Priority Document No :61/226,208
+(32) Priority Date :16/07/2009
+(33) Name of priority country :U.S.A.
+(86) International Application No
+Filing Date
+:PCT/IB2010/053248
+:16/07/2010
+(87) International Publication No : NA
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)Research In Motion Limited
+Address of Applicant :295 Phillip Street Waterloo Ontario
+N2L 3W8 Canada
+(72)Name of Inventor :
+1)MONTEMURRO Michael
+2)MCCANN Stephen
+(57) Abstract :
+Example methods and apparatus to register with external networks in wireless network environments are disclosed. A disclosed
+example method involves sending a registration request from the device to a network entity and receiving a registration response
+at the device. The registration response indicates one or more registration plans. The example method also involves selecting a
+registration plan from the one or more registration plans and sending registration information associated with the device to the
+network entity. The registration information is selected based on the selected registration plan.
+No. of Pages : 58 No. of Claims : 89

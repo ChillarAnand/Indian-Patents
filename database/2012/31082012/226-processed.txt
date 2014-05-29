@@ -1,0 +1,22 @@
+Application number  =>  3120/CHENP/2011 A 
+
+Date of filing of application number  =>  06/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHODS AND SYSTEMS FOR ARQ FEEDBACK MESSAGE IMPROVEMENT 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)QUANZHU DUAN 2)CHUN WOO LEE 3)JONG RO PARK 
+
+International Classification  =>  H04L1/16 
+
+Priority Doc No  =>  61/112,147 
+
+International Application Number  =>  PCT/US2009/063184 
+
+International Publication Number  =>  WO 2010/053929 A1 
+
+Abstract  =>  Certain embodiments of the present disclosure propose techniques for improving automatic repeat request (ARQ) feedback messages to reduce unnecessary transmissions by notifying the transmitter of the last acknowledged block in the ARQ feedback message. 
+

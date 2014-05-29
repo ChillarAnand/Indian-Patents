@@ -1,0 +1,49 @@
+ 
+The Patent Office Journal 31/08/2012 
+13586
+(12) PATENT APPLICATION PUBLICATION (21) Application No.473/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :24/02/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : MODIFICATION OF RECOMBINANT ADENOVIRUS WITH IMMUNOGENIC PLASMODIUM 
+CIRCUMSPOROZOITE PROTEIN EPITOPES  
+  
+(51) International classification  :A61K 39/015  
+(31) Priority Document No  :PCT/US2009/054212
+(32) Priority Date  :18/08/2009 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2010/045952
+:18/08/2010 
+(87) International Publication No  :WO/2011/022522  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)THE ROCKEFELLER UNIVERSITY 
+      Address of Applicant :1230 YORK AVENUE, NEW YORK, 
+NY 10065 UNITED STATES OF AMERICA. 
+(72)Name of Inventor : 
+   1)SHIRATSUCHI, TAKAYUKI 
+   2)TSUJI, MORIYA  
+(57) Abstract : 
+The present disclosure relates to adenovirus protein modifications to augment immune response to a transgene of a recombinant 
+adenovirus and to circumvent pre-existing anti-adenovirus immunity. Some embodiments are directed to a recombinant adenovirus 
+derived from a recombinant adenovirus plasmid vector, wherein the recombinant adenovirus plasmid vector comprises a nucleotide 
+sequence encoding a Plasmodium circumsporozoite protein, or antigenic portion thereof, operably linked to a heterologous promoter 
+and a modified capsid or core protein, wherein an immunogenic epitope of Plasmodium circumsporozoite is inserted into or replaces 
+at least part of a capsid or core protein. Other embodiments are directed to a pharmaceutical composition or a malaria vaccine 
+composition comprising a recombinant adenovirus according to the above embodiments. Further embodiments include a method of 
+treating, preventing, or diagnosing malaria, comprising administering a therapeutic amount of the pharmaceutical composition or 
+malaria vaccine composition in accordance with the above embodiment. 
+  
+  
+No. of Pages : 171 No. of Claims : 28 

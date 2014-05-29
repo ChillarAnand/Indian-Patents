@@ -1,0 +1,44 @@
+ 
+The Patent Office Journal 31/08/2012 
+13624
+(12) PATENT APPLICATION PUBLICATION (21) Application No.538/MUM/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :28/02/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : AN IMPROVED DRAW-OUT MECHANISM FOR CIRCUIT BREAKERS AND SWITCHBOARDS  
+  
+(51) International classification  :H02B11/00 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)LARSEN & TOUBRO LIMITED 
+      Address of Applicant :L & T House  Ballard Estate  Mumbai 
+400 001  State of Maharashtra  India. 
+(72)Name of Inventor : 
+   1)RANGARAJU  Dhanabal; 
+   2)RAMASAMY  Saminathan;  
+(57) Abstract : 
+The present invention relates to an improved draw-out mechanism for circuit breakers and/or switchboards. In the mechanism, 
+plurality of plate means (8) securing said circuit breaker (3) on its both sides such that the circuit breaker (3) is movable on the plate 
+means (8). A shaft means (14) is operatively engaged to the rail means (13). A bracket arrangement (4) is tightly engaged to the circuit 
+breaker (3) and is fitted to the rail means (13) so as to move the circuit breaker (3) during draw-out operation. Plurality of link means 
+(12) adapted to provide operative linkage between the rails (13) and the shaft means (14) such that rotational movement of the shaft 
+means (14) provides corresponding linear movement of the rail means (13).   
+  
+  
+No. of Pages : 17 No. of Claims : 10 

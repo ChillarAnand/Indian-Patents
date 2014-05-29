@@ -1,0 +1,22 @@
+Application number  =>  1998/MUMNP/2010 A 
+
+Date of filing of application number  =>  21/09/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  STRIP CASTING APPARATUS WITH CASTING ROLL POSITIONING 
+
+Name of applicant  =>  1)NUCOR CORPORATION 2)SIEMENS AKTIENGESELLSCHAFT 
+
+Name of inventor  =>  1)REES Harold Bradley 2)GRUESS Ansgar 3)EDWARDS James D 
+
+International Classification  =>  B22D11/06 
+
+Priority Doc No  =>  61/037,714 
+
+International Application Number  =>  PCT/IB2009/000368 
+
+International Publication Number  =>   
+
+Abstract  =>  An apparatus and method for continuously casting thin steel strip includes a pair of counter-rotatable casting rolls laterally positioned to form a nip there between through which thin cast strip can be cast, an actuator for moving each casting roll independently toward and away from a reference location as desired, location sensors for sensing the location of the casting rolls relative to the given reference location and producing electrical signals indicative of each casting roll position and a control system for receiving the electrical signals and causing the actuator to move the casting rolls as desired. Force sensors may be provided for sensing the forces exerted on the strip and producing electrical signals indicative of the sensed forces, and the control system may receive the electrical signals indicative of the sensed forces and cause actuators to vary the position of the casting rolls responsive to the electrical signals as desired. 
+

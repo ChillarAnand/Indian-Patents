@@ -1,0 +1,46 @@
+ 
+The Patent Office Journal 31/08/2012 
+13653
+(12) PATENT APPLICATION PUBLICATION (21) Application No.570/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :07/03/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : SEARCH AND RESCUE USING ULTRAVIOLET RADIATION  
+  
+(51) International classification  :B63C 9/20,G01S 1/70  
+(31) Priority Document No  :12/554,527  
+(32) Priority Date  :04/09/2009 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2010/046285
+:23/08/2010 
+(87) International Publication No  :WO/2011/028463  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)RAYTHEON COMPANY 
+      Address of Applicant :870 WINTER STREET WALTHAM, 
+MA 02451-1449 UNITED STATES OF AMERICA. 
+(72)Name of Inventor : 
+   1)WITZEL, JOHN GEORGE 
+   2)DOLGIN, BENJAMIN, P. 
+   3)COTTEN, STEVEN 
+   4)BRENNAN, MICHAEL, ANDREW 
+   5)GUTIERREZ, JORGE 
+   6)SULIGA, WILLIAM  
+(57) Abstract : 
+A system for search and rescue includes a rescue beacon including a radiation source to emit radiation, at least a portion of which 
+includes ultraviolet c-band radiation, and an ultraviolet c-band detector to detect the ultraviolet c-band radiation to enable locating of 
+the rescue beacon. 
+  
+  
+No. of Pages : 23 No. of Claims : 22 

@@ -1,0 +1,22 @@
+Application number  =>  4097/CHENP/2010 A 
+
+Date of filing of application number  =>  01/07/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  ISOLATION OF CONTENT BY PROCESSES IN AN APPLICATION 
+
+Name of applicant  =>  1)MICROSOFT CORPORATION 
+
+Name of inventor  =>  1)PRAITIS, EDWARD, J 2)WOODS, SHAWN M 3)RUZYSKI, DAVID, M 
+
+International Classification  =>  G06F17/00 
+
+Priority Doc No  =>  12/014,744 
+
+International Application Number  =>  PCT/US2009/030184 
+
+International Publication Number  =>  WO 2009/091628 A1 
+
+Abstract  =>  Isolation of extension code by processes in an application is described. In an implementation, execution of one or more processes is managed that contain content received via a network by another process of a single application that includes the one or more processes. The management includes terminating the one or more processes when not responsive. Execution of the one or more processes is isolated from the other process such that when the one or more processes are not responsive the other process remains responsive. The content in the terminated one or more processes is then recovered. fig.1 
+

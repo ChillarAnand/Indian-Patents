@@ -1,0 +1,53 @@
+ 
+The Patent Office Journal 31/08/2012 
+13782
+(12) PATENT APPLICATION PUBLICATION (21) Application No.878/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :09/04/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : EXTENDIBLE COILED TUBE  
+  
+(51) International classification  :F16L 11/16  
+(31) Priority Document No  :102009042755.4  
+(32) Priority Date  :25/09/2009 
+(33) Name of priority country  :Germany 
+(86) International Application No 
+        Filing Date 
+:PCT/EP10/064134
+:24/09/2010 
+(87) International Publication No  :WO/2011/036245 
+(61) Patent of Addition to Application Number 
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)WESTFALIA METALLSCHLAUCHTECHNIK GMBH 
+& CO. KG 
+      Address of Applicant :AM SCHWANENWEIHER 1, 57271 
+HILCHENBACH, GERMANY. 
+(72)Name of Inventor : 
+   1)WEISS, MATTHIAS 
+   2)MUENKER, KARL-HEINZ 
+   3)BAUMHOFF, DIETMAR 
+   4)GERHARD, ANDREAS 
+   5)SCHENK, KARSTEN 
+   6)SELTER, OLIVER 
+   7)HAUCK, STEFAN 
+   8)HENKELMANN, MICHAEL  
+(57) Abstract : 
+The invention relates to a stretchable wound tube (200) comprising at least two helically wound strips (210, 220) which, in 
+longitudinal section, has at least three telescopic sections (TA1, TA2, TA3). Said telescopic sections are arranged so as to overlap 
+axially in the compressed state of the wound tube, are arranged axially next to one another in the stretched state of the wound tube, 
+and are hooked with one another in relation to an axial extension. The wound tube can achieve an elongation of over 100%. Its axial 
+length in the compressed state is determined substantially by one of the two strips, and its axial length in the stretched state is 
+determined by all the strips which are contained in the tube geometry. In order to achieve this, the different profiles move into one 
+another telescopically during the compression and stretching. The wound tube is used, for example, in exhaust gas systems for 
+insulating pipes with small bending radii.   
+  
+  
+No. of Pages : 30 No. of Claims : 10 

@@ -1,0 +1,22 @@
+Application number  =>  2896/CHENP/2011 A 
+
+Date of filing of application number  =>  28/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHODS AND SYSTEMS FOR SELECTIVE DATA COMMUNICATIONS FOR MULTI-MODE DEVICES 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)STEVEN D. CHENG 2)TOM CHIN 
+
+International Classification  =>  H04W48/18, H04W36/14 
+
+Priority Doc No  =>  12/260,341 
+
+International Application Number  =>  PCT/US2009/033283 
+
+International Publication Number  =>  WO 2010/051046 A1 
+
+Abstract  =>  A method and apparatus for selectively utilizing short-range radio access technologies (RATs) when available to connect a multi- mode wireless device to a network are provided. 
+

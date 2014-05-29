@@ -1,0 +1,51 @@
+The Patent Office Journal 30/12/2011 
+ 
+25565
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1046/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :15/02/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : METHOD AND APPARATUS FOR THE OBJECTIVE DETECTION OF AUDITIVE DISORDERS  
+  
+(51) International classification  :A61B5/12  
+(31) Priority Document No  :2008-0141  
+(32) Priority Date  :24/07/2008 
+(33) Name of priority country  :Cuba 
+(86) International Application No 
+        Filing Date 
+:PCT/CU2009/000005
+:24/07/2009 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)CENTRO DE NEUROCIENCIAS DE CUBA 
+      Address of Applicant :Avenida 25 No 15208 Cubanacan  
+Playa  Ciudad de la Habana  Cuba   
+(72)Name of Inventor : 
+   1)PEREZ ABALO  Maria Cecilia 
+   2)RODRIGUEZ DAVILA  Ernesto Luis 
+   3)SANCHEZ CASTILLO  Manuel 
+   4)SOTERO DAZ  Roberto Carlos 
+   5)TORRES FORTUNY  Alejandro 
+   6)SANTOS FEBLES  Elsa  
+(57) Abstract : 
+The invention relates to a method and apparatus for the objective detection of auditive disorders, by recording arising potentials of a 
+stable state with simultaneous acoustic stimulation via the bones or the air way, to be used in new borns. The apparatus comprises the 
+necessary means for the independent generation of two different sound stimuli presented to the subject simultaneously via osseous and 
+air way electroacoustic transducers, the synchronous recording of the cerebral electrical activity of the subject, the continuous 
+evaluation of the contact of the electrodes, the interactive measurement of the levels of ambient noise, and the wireless digital 
+transmission of the bioelectric activity towards a computer. The method according to the invention statistically processes and detects 
+the potentials provoked by the osseous-air way stimulation, automatically providing a categorical final result, according to the 
+presence or absence of auditive sensitivity disorders, the type of disorder (conductive or sensorineural), and the validity of the result. 
+  
+  
+No. of Pages : 15 No. of Claims : 9 

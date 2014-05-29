@@ -1,0 +1,22 @@
+Application number  =>  714/KOL/2010 A 
+
+Date of filing of application number  =>  01/07/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  DEVICE FOR TESTING SUBSTRATES 
+
+Name of applicant  =>  1)GMG GRAFISCHE MASCHINEN GESELLSCHAFT MBH 
+
+Name of inventor  =>  1)MEYER, GERHARD 
+
+International Classification  =>  B65G23/19 
+
+Priority Doc No  =>  10 2009 032 928.5 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The invention relates to a device for testing substrates featuring magnetic elements, in particular printed products printed with magnetic printing ink. The device has a powered suction belt (2) travelling around it which transports the substrates under a measuring device (3) and is assigned to the top of at least one extractable air space (4). At least one suction fan (9) assigned to the suction belt (2) is connected to the air space (4). At least the suction belt (2) is made of non- ferromagnetic material. Each suction fan (9) assigned to the suction belt (2) takes the form of a motorless fan which is connected to a remote power source (11) via a transmission. 
+

@@ -1,0 +1,42 @@
+The Patent Office Journal 31/05/2013 12065
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9770/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :23/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : N SUBSTITUTED CYCLIC AMINO DERIVATIVE
+(51) International classification :C07D401/12
+(31) Priority Document No :2009-150382
+(32) Priority Date :24/06/2009
+(33) Name of priority country :Japan
+(86) International Application No
+Filing Date
+:PCT/JP2010/060716
+:24/06/2010
+(87) International Publication No :WO 2010/150840A1
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)DAINIPPON SUMITOMO PHARMA CO., LTD.
+Address of Applicant :6-8, DOSHO-MACHI 2-CHOME,
+CHUO-KU, OSAKA-SHI, OSAKA 541-8524 Japan
+(72)Name of Inventor :
+1)SUETSUGU, SATOSHI
+2)FUKUDA, NOBUHISA
+3)NAKAI, YOSHIO
+4)TAKADA, TAKASHI
+5)IKUMA, YOHEI
+6)NAKAHIRA, HIROYUKI
+(57) Abstract :
+The present invention provides a compound of formula (I): wherein Rla is optionally substituted C\-.6 alkyl, etc.; Rlm is hydrogen
+atom, etc.; G1, G2, G3 and G4 are (i), etc. ((i) G1 is -N(Rlb)-, G2 is -CO-, G3 is -C(Rlc)(Rld)-, and G4 is oxygen, etc.); Rlb is
+optionally substituted C1-6 alkyl, etc.; Rlc and Rld are each independently optionally substituted Cue alkyl, etc.; R2 is optionally
+substituted d.6 alkyl, etc.; R3a, R3b, R3c, and R3d are each independently a group: -A-B (A is a single bond, etc., B is hydrogen
+atom, etc.), etc.; n is 1, etc.; R5 is C1-4 alkoxycarbonyl, etc., or a pharmaceutically acceptable salt thereof, which is useful as a
+renin inhibitor.
+No. of Pages : 351 No. of Claims : 57

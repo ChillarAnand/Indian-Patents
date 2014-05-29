@@ -1,0 +1,22 @@
+Application number  =>  9972/CHENP/2011 A 
+
+Date of filing of application number  =>  30/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  USING LO SHIFTING TO PREVENT A LOCAL TRANSCEIVER FROM INTERFERING WITH AN FM RADIO 
+
+Name of applicant  =>  1)QUALCOMM Incorporated 
+
+Name of inventor  =>  1)TRIKHA Pushp K. 2)BLESSENT Luca 3)LI Xiaoyong 4)APTE Rahul A. 
+
+International Classification  =>  H04B 1/10 
+
+Priority Doc No  =>  61/224,382 
+
+International Application Number  =>  PCT/US2010/041435 
+
+International Publication Number  =>   
+
+Abstract  =>  A cellular telephone includes cellular telephone circuitry and an FM receiver. An FM signal being received is downconverted by a mixer. The downconverted signal is processed to generate an FM signal that is supplied to a digital IF filter. If a blocker emitted by the cellular telephone circuitry would interfere with receiving of the FM signal due to interaction of an LO harmonic with the blocker if a conventional LO frequency were used then a different LO frequency is used. Subsequent processing of the downconverted FM signal (for example by a digital complex conjugate selector and an IF rotator) results in the signal supplied to the digital IF filter having the same center frequency as the digital IF filter despite the use of the different LO frequency. In some embodiments the LO is shifted by different amounts depending on cellular telephone mode and on the FM signal. 
+

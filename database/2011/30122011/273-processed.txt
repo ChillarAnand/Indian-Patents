@@ -1,0 +1,22 @@
+Application number  =>  1254/CHENP/2011 A 
+
+Date of filing of application number  =>  23/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  A MEDIUM ACCESS CONTROL FORWARDING PROTOCOL 
+
+Name of applicant  =>  1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+
+Name of inventor  =>  1)ZHAI Hongqiang 
+
+International Classification  =>  H04W40/22 
+
+Priority Doc No  =>  61/084067 
+
+International Application Number  =>  PCT/IB2009/052973 
+
+International Publication Number  =>   
+
+Abstract  =>  A method (300) for improving quality of service of a wireless link between a source device and a destination device by forwarding frames on an alternate path between the source device and destination device. The method comprises selecting by the source device at least one forwarding device to be included on the alternate forwarding path; constructing a medium access control (MAC) forwarding frame (200) to include at least an address of the at least one forwarding device (S310); and transmitting the MAC forwarding frame to a forwarding device next to the source device (S320). Fig.1 
+

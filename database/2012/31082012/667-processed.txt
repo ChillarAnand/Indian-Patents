@@ -1,0 +1,22 @@
+Application number  =>  721/MUMNP/2012 A 
+
+Date of filing of application number  =>  21/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  HYDRAULIC CYLINDER 
+
+Name of applicant  =>  1)SCHAEFFLER TECHNOLOGIES AG & CO. KG 
+
+Name of inventor  =>  1)CHEVET, ALEXANDRE 2)DUBAS, RICHARD 
+
+International Classification  =>  B60R 13/08 
+
+Priority Doc No  =>  102009052065.1 
+
+International Application Number  =>  PCT/DE2010/001218 
+
+International Publication Number  =>  WO/2011/054330 
+
+Abstract  =>  The invention relates to a hydraulic cylinder, in particular a master cylinder (1), comprising a device (7L, 7R) for fastening in an opening provided in the firewall (11)/chassis of a vehicle and elements for fastening in an opening of a wall of a pedal box (12), wherein the remaining opening between the master cylinder and the firewall is sealed by an elastic sealing element (7B). According to the invention, the distance between the opening in the firewall and the opening in the wall of the pedal box, in which the master cylinder is accommodated, and the position of said openings with respect to each other are compensated by means of the device, which is fastened to the master cylinder in a positionally fixed manner. 
+

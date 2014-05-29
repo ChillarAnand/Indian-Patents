@@ -1,0 +1,22 @@
+Application number  =>  999/CHENP/2011 A 
+
+Date of filing of application number  =>  11/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  AN OPTICAL ELEMENT FOR A LIGHT EMITTING DEVICE AND A METHOD OF MANUFACTURING THEREOF 
+
+Name of applicant  =>  1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+
+Name of inventor  =>  1)CILLESSEN Johannes F. M. 2)VAN HAL Henricus A. M. 3)JAGT Hendrik J. B. 4)STEIGELMANN Oliver J. 
+
+International Classification  =>  H01L33/00 
+
+Priority Doc No  =>  08160876.2 
+
+International Application Number  =>  PCT/IB2009/053064 
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention relates to an optical element for a light emitting device, wherein the optical element comprises a sintered ceramic body comprising a wavelength converting layer and a scattering layer, and to a method of manufacturing thereof. More specifically, the invention relates to an optical element, comprising a sintered ceramic body of a first layer and a second layer arranged on the first layer, wherein the first layer comprises a wavelength converting material, the porosity of the second layer is higher than the porosity of the first layer, and pores in the second layer are arranged to provide scattering of a light beam. The method for manufacturing of the optical element comprises providing a green body comprising a first layer of a first material and a second layer of a second material; and co-sintering said layers into a sintered ceramic body; Fig. 1 
+

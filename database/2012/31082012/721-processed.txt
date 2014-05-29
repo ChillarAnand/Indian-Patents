@@ -1,0 +1,22 @@
+Application number  =>  803/MUMNP/2012 A 
+
+Date of filing of application number  =>  30/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD OF MAKING BARREL-SHAPED WORM-LIKE TOOL. 
+
+Name of applicant  =>  1)MITSUBISHI HEAVY INDUSTRIES, LTD. 
+
+Name of inventor  =>  1)YANASE, YOSHIKOTO 2)OCHI, MASASHI 
+
+International Classification  =>  B24B 53/085 
+
+Priority Doc No  =>  2009-234953 
+
+International Application Number  =>  PCT/JP2010/067503 
+
+International Publication Number  =>  WO/2011/043358 
+
+Abstract  =>  Provided is a method of making a barrel-shaped worm-like tool whereby a barrel-shaped worm-like tool capable of efficiently performing grinding without unequal wear can easily be made. The aforementioned method comprises making the barrel-shaped worm-like tool (12) by using a dressing gear (11) to dress the barrel-shaped worm-like tool (12), which is used for machining an internal gear and has a diameter that gradually increases from the ends (12b, 12c) to the center (12a) in the axial direction. On the basis of data wherein the number of teeth is less than that of the internal gear to be machined, the dressing gear (11) and the barrel- shaped worm-like tool (12) are engaged with each other at the same axial intersection angle as during gear-machining performed by the barrel-shaped worm-like tool (12). 
+

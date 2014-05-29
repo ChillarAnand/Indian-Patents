@@ -1,0 +1,22 @@
+Application number  =>  929/CHENP/2011 A 
+
+Date of filing of application number  =>  09/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  DEVICE AND METHOD FOR CONTROLLING WIND TURBINE 
+
+Name of applicant  =>  1)MITSUBISHI HEAVY INDUSTRIES, LTD. 
+
+Name of inventor  =>  1)BABA, MITSUYA 
+
+International Classification  =>  F03D7/04 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/JP10/058905 
+
+International Publication Number  =>  WO 2011/148471 
+
+Abstract  =>  In a conventional technique, a shutdown sequence indicating a sequential operation from a start of the feathering of a wind turbine to the stop is started in response to an alert signal caused by an external factor. In the present invention, when the alert is called off during the shutdown sequence, the shutdown sequence is stopped, and the recovery control by which the pitch angle of the wind turbine blade is controlled toward the fine state is performed. By such a control, the stop period of the wind turbine under the shutdown can be shortened, so that the decrease in the operating rate of the wind farm can be suppressed. 
+

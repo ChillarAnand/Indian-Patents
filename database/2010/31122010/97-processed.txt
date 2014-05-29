@@ -1,0 +1,22 @@
+Application number  =>  4045/CHENP/2010 A 
+
+Date of filing of application number  =>  30/06/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  PROCESS FOR POLYMERIZING OLEFIN-BASED POLYMERS 
+
+Name of applicant  =>  1)DOW GLOBAL TECHNOLOGIES INC 
+
+Name of inventor  =>  1)JORGENSEN, ROBERT 2)WAGNER, BURKHARD 3)TURNER, MICHAEL 
+
+International Classification  =>  C08F10/14 
+
+Priority Doc No  =>  61/017,986 
+
+International Application Number  =>  PCT/US08/087581 
+
+International Publication Number  =>  WO/2009/088701 A1 
+
+Abstract  =>  A process for producing an olefin-based polymer, said process comprising polymerizing at least one monomer, in the gas phase, or in a slurry process, in the presence of at least the following components: A) at least one catalyst; B) at least one cocatalyst; C) a composition comprming at least one compound selected from formula (I), and/or at least one compound selected from formula (11): (RICO2)2 A1OH (I), (R2)xN(R3OH)y(II); wherein R1 is a hydrocarbon radical containing from 13 to 25 carbons; R2 is a hydrocarbon radical containing from 14 to 26 carbons; R3 is a hydrocarbon radical containing from 1 to 4 carbons; and x + y = 3, and x has a value of 1 or 2. A process for producing an olefin-based polymer, said process comprising polymerizing at least one monomer in the presence of at least the following components: A) a Ziegler Natta type catalyst comprising at least two transition metals; B) a trialkylaluminum compound; C) optionally a composition comprising at least one compound selected from formula (I), and/or at least one compound selected from formula (II): (RICO2)2 AIOH (I), (R2)xN(R3OH)y(II); wherein R1 is a hydrocarbon radical containing from 13 to 25 carbons; R2 is a hydrocarbon radical containing from 14 to 26 carbons; R3 is a hydrocarbon radical containing from 1 to 4 carbons; and x + y = 3, and x has a value of 1 or 2. 
+

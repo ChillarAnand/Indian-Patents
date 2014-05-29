@@ -1,0 +1,22 @@
+Application number  =>  9966/CHENP/2011 A 
+
+Date of filing of application number  =>  29/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  METHODS AND APPARATUS TO REGISTER WITH EXTERNAL NETWORKS IN WIRELESS NETWORK ENVIRONMENTS 
+
+Name of applicant  =>  1)Research In Motion Limited 
+
+Name of inventor  =>  1)MONTEMURRO Michael 2)MCCANN Stephen 
+
+International Classification  =>  H04W 60/00 
+
+Priority Doc No  =>  61/226,208 
+
+International Application Number  =>  PCT/IB2010/053248 
+
+International Publication Number  =>   
+
+Abstract  =>  Example methods and apparatus to register with external networks in wireless network environments are disclosed. A disclosed example method involves sending a registration request from the device to a network entity and receiving a registration response at the device. The registration response indicates one or more registration plans. The example method also involves selecting a registration plan from the one or more registration plans and sending registration information associated with the device to the network entity. The registration information is selected based on the selected registration plan. 
+

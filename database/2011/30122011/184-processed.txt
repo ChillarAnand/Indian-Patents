@@ -1,0 +1,22 @@
+Application number  =>  1114/MUMNP/2011 A 
+
+Date of filing of application number  =>  31/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  ROTATING BLADE AND AIR FOIL WITH STRUCTURE FOR INCREASING FLOW RATE 
+
+Name of applicant  =>  1)OH Myung Soo 
+
+Name of inventor  =>  1)OH Myung Soo 2)PYO Soo Ho 
+
+International Classification  =>  F04D 29/38 
+
+Priority Doc No  =>  10-2008-0109618 
+
+International Application Number  =>  PCT/KR2009/006530 
+
+International Publication Number  =>  WO/2010/053317 
+
+Abstract  =>  According to one embodiment of the present invention, a rotating blade, having a collision face that collides with fluid and is rotated by the flow of said fluid, has at least one flow path that has been caved in from said colliding face; said flow path is located forward with respect to said rotation direction so that it is located in the rear with respect to the inlet wherein said flow is introduced and said rotation direction, and it has an outlet from which said fluid exits. Here, the cross-sectional area of said inlet may be greater than the cross-sectional area of said outlet. In addition, the cross-sectional area of said inlet may gradually decrease toward said outlet. 
+

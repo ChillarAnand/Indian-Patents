@@ -1,0 +1,22 @@
+Application number  =>  4248/KOLNP/2010 A 
+
+Date of filing of application number  =>  11/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  RADIO BASE STATION AND COMMUNICATION CONTROL METHOD 
+
+Name of applicant  =>  1)NTT DOCOMO, INC. 
+
+Name of inventor  =>  1)ISHII HIROYUKI 2)UMESH, ANIL 
+
+International Classification  =>  H04W 72/04 
+
+Priority Doc No  =>  2008-120789 
+
+International Application Number  =>  PCT/JP2009/058588 
+
+International Publication Number  =>  WO 2009/133954 
+
+Abstract  =>  A radio base station includes: a measurement unit which measures a resource use amount in each time frame within predetermined period; a downlink persistent allocation signal transmission unit which transmits to a mobile station, a persistent allocation signal indicating a radio resource allocation start moment; and a uplink communication unit which receive uplink data using uplink radio resource starting at the radio resource allocation start moment. The downlink persistent allocation signal transmission unit decides the radio resource allocation start moment in accordance with a resource use amount in each time frame. 
+

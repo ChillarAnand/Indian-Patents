@@ -1,0 +1,22 @@
+Application number  =>  1002/MUMNP/2012 A 
+
+Date of filing of application number  =>  20/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  PROCESS FOR THE PREPARATION OF 4-SULFINYL-PYRAZOLE DERIVATIVES 
+
+Name of applicant  =>  1)BASF SE 
+
+Name of inventor  =>  1)KORTE, ALEXANDER 2)HORNUNG, PAUL 
+
+International Classification  =>  C07D 231/44 
+
+Priority Doc No  =>  09174558.8 
+
+International Application Number  =>  PCT/EP2010/066162 
+
+International Publication Number  =>  WO/2011/051284 
+
+Abstract  =>  The present invention relates to a novel process for the preparation of a compound of formula (I), wherein R1, R2, R3, R4 and R5 are each independently selected from hydrogen, halogen, C1-C4-alkyl, C1-C4-haloalkyl, C1-C4-alkoxy, C1-C4-haloalkoxy, nitro, cyano, and pentafluorothio; R6 is C1-C4-alkyl, or C1-C4-haloalkyl; by oxidation of a compound of formula (II) with an oxidation agent selected from trifluoroperacetic acid and trichloroperacetic acid in the presence of a catalyst selected from hydroxides, oxides, sulfates, acetates or trifluoroacetates of lithium, magnesium, calcium, strontium, barium, titanium (IV), zinc (II) and manganese (II). 
+

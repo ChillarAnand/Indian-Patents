@@ -1,0 +1,22 @@
+Application number  =>  613/MUMNP/2012 A 
+
+Date of filing of application number  =>  13/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  POLYCONDENSATION CATALYST FOR PRODUCING POLYESTER AND METHOD FOR PRODUCING POLYESTER USING THE SAME 
+
+Name of applicant  =>  1)SAKAI CHEMICAL INDUSTRY CO., LTD. 
+
+Name of inventor  =>  1)TABATA KEIICHI 2)KAMON AKIHIRO 3)NAITO JUN 4)IKEGAWA KEIICHI 
+
+International Classification  =>  C08G 63/82 
+
+Priority Doc No  =>  2009-212938 
+
+International Application Number  =>  PCT/JP2010/066107 
+
+International Publication Number  =>  WO/2011/034156 
+
+Abstract  =>  Disclosed is a polycondensation catalyst for the production of polyesters by an esterification reaction or a transesterification reaction between dicarboxylic acid or an ester-forming derivative of the same, and glycol. In order to obtain the polycondensation catalyst a water-soluble titanium compound is hydrolyzed, in the absence of a water-soluble alkali, in an aqueous slurry having solid base particles dispersed therein, and a coating layer is formed on the surfaces of the solid base particles. The coating layer comprises, in terms of TiO2, 0.1-50 parts by weight of titanic acid per 100 parts by weight of solid bases. Also disclosed are a method for producing the polycondensation catalyst, and polyesters obtained using the polycondensation catalyst. 
+

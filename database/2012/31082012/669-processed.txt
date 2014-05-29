@@ -1,0 +1,22 @@
+Application number  =>  735/MUMNP/2012 A 
+
+Date of filing of application number  =>  22/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  PHARMACY WASTE IDENTIFICATION LABELING AND DISPOSAL SYSTEM AND RELATED METHOD OF USING 
+
+Name of applicant  =>  1)AVERY DENNISON CORPORATION 
+
+Name of inventor  =>  1)DEHLINGER, ANNE, M. 2)BECKER, WILLIAM 
+
+International Classification  =>  A61B 19/00 
+
+Priority Doc No  =>  61/244,270 
+
+International Application Number  =>  PCT/US2010/049563 
+
+International Publication Number  =>  WO/2011/035277 
+
+Abstract  =>  The present invention is directed to a tag and labeling system that is used in connection with the disposal of pharmaceutical waste materials that are created in a health care treatment facility. The tag uses a RFID device with an alterable parameter in order to selectively actuate a disposal system to receive a particular type of waste material. 
+

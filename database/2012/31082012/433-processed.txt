@@ -1,0 +1,22 @@
+Application number  =>  1036/MUMNP/2012 A 
+
+Date of filing of application number  =>  24/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD FOR PRODUCING METALLIC-SODIUM-FILLED ENGINE VALVE 
+
+Name of applicant  =>  1)MITSUBISHI HEAVY INDUSTRIES, LTD. 2)YOSHIMURA COMPANY 
+
+Name of inventor  =>  1)MORII HIROKAZU 2)YOSHIMURA HYOJI 
+
+International Classification  =>  F01L 3/14 
+
+Priority Doc No  =>  2010-041408 
+
+International Application Number  =>  PCT/JP2010/065465 
+
+International Publication Number  =>  WO/2011/104912 
+
+Abstract  =>  Disclosed is a methodfor producing an engine valve (V) filled with metallic sodium (Na) within by means of: forming a stem section (S), which has a hollow section (H), at an intended size by successively drawing the stem section (S) using dies (D1, D2, Dx, Dx+1, Dn) in a manner so as to causing the size of the outer diameter and the inner diameter of the stem section (S) to contract in a stepwise fashion; and inserting metallic sodium (Na) into the hollow section (H) of the stem section (S)wherein after drawing the stem section (S) until the inner diameter of the hollow section (H) of the stem section (S) has become a prescribed size (steps S11-S15) and then inserting the block-shaped solid metallic sodium (Na) into the hollow section (H) of the stem section (S) (step S16), the stem section (S) is further drawn (steps S17 and S18). 
+

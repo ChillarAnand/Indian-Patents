@@ -1,0 +1,22 @@
+Application number  =>  827/MUMNP/2012 A 
+
+Date of filing of application number  =>  03/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  VANE PUMP 
+
+Name of applicant  =>  1)IXETIC BAD HOMBURG GMBH 
+
+Name of inventor  =>  1)SCHULZ-ANDRES, HEIKO 2)BOEHM, CHRISTIAN 
+
+International Classification  =>  F04C 2/344 
+
+Priority Doc No  =>  102009049532.0 
+
+International Application Number  =>  PCT/EP2010/005540 
+
+International Publication Number  =>  WO/2011/042105 
+
+Abstract  =>  The invention relates to a vane pump, comprising an upper vane pump, which is associated with a first load, and a lower vane pump, which has a lower vane pressure area and a lower vane suction area, which is connected to the upper vane pump. The invention is characterized in that the lower vane pressure area is separated from the lower vane suction area and is associated with a second load. 
+

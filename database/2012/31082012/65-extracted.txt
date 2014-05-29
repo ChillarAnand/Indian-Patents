@@ -1,0 +1,49 @@
+ 
+The Patent Office Journal 31/08/2012 
+13907
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2899/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :28/04/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : PROVISIONED PROVIDER LINK STATE BRIDGING (PLSB) WITH ROUTED BACK-UP  
+  
+(51) International classification  :H04L29/14, H04L12/56  
+(31) Priority Document No  :12/259,560  
+(32) Priority Date  :28/10/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/CA09/001505 
+:26/10/2009 
+(87) International Publication No  :WO 2010/048697 A1  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)NORTEL NETWORKS LIMITED 
+      Address of Applicant :5945 AIROPORT ROAD, SUITE 360, 
+MISSISSAUGA, ONTARIO, L4V 1R9 Canada 
+(72)Name of Inventor : 
+   1)DAVID ALLAN 
+   2)NIGEL BRAGG 
+   3)HADI NASRALLAH 
+   4)PREBEN HUNNERUP  
+(57) Abstract : 
+A method of managing traffic flow in a packet network, the method comprising: providing a working sub-network comprising one or 
+more provisioned static working paths between at least one source node and one or more destination nodes in the network, and 
+associating a service instance with the working sub-network; providing a dynamic backup sub-network comprising one or more 
+dynamically maintained protection paths between the at least one source node and the one or more destination nodes, and associating 
+the service instance with the dynamic backup sub-network; during a normal operation of the network, forwarding subscriber traffic 
+associated with the service instance through the network using the working sub-network; and following detection of a network failure 
+affecting the service instance, switching the subscriber traffic associated with the service instance for forwarding through the network 
+using the dynamic backup sub-network. 
+  
+  
+No. of Pages : 18 No. of Claims : 12 

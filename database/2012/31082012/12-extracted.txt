@@ -1,0 +1,47 @@
+ 
+The Patent Office Journal 31/08/2012 
+13854
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2049/CHE/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :16/06/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : INFORMATION PROCESSING APPARATUS, INFORMATION PROCESSING METHOD, AND 
+PROGRAM  
+  
+(51) International classification  :G09G5/00 
+(31) Priority Document No  :P2010-142461  
+(32) Priority Date  :23/06/2010
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)SONY CORPORATION 
+      Address of Applicant :1-7-1 KONAN, MINATO-KU, 
+TOKYO Japan 
+(72)Name of Inventor : 
+   1)MITSURU NISHIBE 
+   2)KOICHI KAWASAKI 
+   3)TSUYOSHI ISHIKAWA 
+   4)KENJI HISANAGA  
+(57) Abstract : 
+An apparatus and method provide logic for formatting electronic content. In one implementation, an apparatus includes a generation 
+unit configured to generate a signal for displaying content to a user on a display screen, and a receiving unit configured to receive 
+information associated with a selection by the user of the displayed content. An identification unit is configured to identify a content 
+element corresponding to the displayed content selection, based on at least the received information, and a formatting unit configured 
+to format the identified content element by applying a formatting structure to the identified content element. The generation unit 
+generates a signal for displaying the formatted content element on the display screen. 
+  
+  
+No. of Pages : 66 No. of Claims : 20 

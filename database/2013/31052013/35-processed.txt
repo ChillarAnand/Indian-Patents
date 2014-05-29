@@ -1,0 +1,22 @@
+Application number  =>  3433/DEL/2011 A 
+
+Date of filing of application number  =>  29/11/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  DYNAMICALLY ENTERING LOW POWER STATES DURING ACTIVE WORKLOADS 
+
+Name of applicant  =>  1)INTEL CORPORATION 
+
+Name of inventor  =>  1)WANG, REN 2)FLEMING, BRUCE, L. 3)TSAI, JR-SHIAN 4)MURALIDHAR, RAJEEV, D. 5)SESHADRI, HARINARAYANAN 6)TAI, TSUNG-YUAN, C. 7)ERGIN, MESUT, A. 8)IYER, PRAKASH, N. 
+
+International Classification  =>  G05G 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  Systems and methods may provide for identifying runtime information associated with an active workload of a platform, and making an active idle state determination for the platform based on at least in part the runtime information. In addition, a low power state of a shared resource on the platform may be controlled concurrently with an execution of the active workload based on at least in part the active idle state determination. 
+

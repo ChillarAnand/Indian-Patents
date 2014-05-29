@@ -1,0 +1,22 @@
+Application number  =>  1274/CHENP/2011 A 
+
+Date of filing of application number  =>  23/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  CONTROLLING DATA FLOW THROUGH A DATA COMMUNICATIONS LINK 
+
+Name of applicant  =>  1)International Business Machines Corporation 
+
+Name of inventor  =>  1)BAUMAN Ellen 2)SCHIMKE Timothy 3)SENDELBACH Lee 
+
+International Classification  =>  H04L12/56 
+
+Priority Doc No  =>  12/184,541 
+
+International Application Number  =>  PCT/EP2009/059742 
+
+International Publication Number  =>   
+
+Abstract  =>  Controlling data flow through a data communications link, the link operating according to a data communications protocol in which a receiver of data communications on the link can suspend data communications on the link for a period of time determined by the receiver, including specifying for the sender a duration for flow control periods; specifying for the sender a number of corrupt communications control packets to be transmitted from the sender to the receiver during a flow control period; determining by the sender whether a flow control message is received from the receiver during a flow control period; altering, in dependence upon whether a flow control message is received from the receiver during a flow control period, the number of corrupt communications control packets; and transmitting, among normal data communications during a subsequent flow control period, the altered number of corrupt communications control packets from the sender to the receiver. 
+

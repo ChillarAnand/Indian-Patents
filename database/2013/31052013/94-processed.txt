@@ -1,0 +1,22 @@
+Application number  =>  9770/CHENP/2011 A 
+
+Date of filing of application number  =>  23/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  N SUBSTITUTED CYCLIC AMINO DERIVATIVE 
+
+Name of applicant  =>  1)DAINIPPON SUMITOMO PHARMA CO., LTD. 
+
+Name of inventor  =>  1)SUETSUGU, SATOSHI 2)FUKUDA, NOBUHISA 3)NAKAI, YOSHIO 4)TAKADA, TAKASHI 5)IKUMA, YOHEI 6)NAKAHIRA, HIROYUKI 
+
+International Classification  =>  C07D401/12 
+
+Priority Doc No  =>  2009-150382 
+
+International Application Number  =>  PCT/JP2010/060716 
+
+International Publication Number  =>  WO 2010/150840A1 
+
+Abstract  =>  The present invention provides a compound of formula (I): wherein Rla is optionally substituted C\-.6 alkyl, etc.; Rlm is hydrogen atom, etc.; G1, G2, G3 and G4 are (i), etc. ((i) G1 is -N(Rlb)-, G2 is -CO-, G3 is -C(Rlc)(Rld)-, and G4 is oxygen, etc.); Rlb is optionally substituted C1-6 alkyl, etc.; Rlc and Rld are each independently optionally substituted Cue alkyl, etc.; R2 is optionally substituted d.6 alkyl, etc.; R3a, R3b, R3c, and R3d are each independently a group: -A-B (A is a single bond, etc., B is hydrogen atom, etc.), etc.; n is 1, etc.; R5 is C1-4 alkoxycarbonyl, etc., or a pharmaceutically acceptable salt thereof, which is useful as a renin inhibitor. 
+

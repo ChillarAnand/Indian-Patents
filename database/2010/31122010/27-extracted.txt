@@ -1,0 +1,48 @@
+The Patent Office Journal 31/12/2010 
+ 
+5293
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3778/CHE/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :10/12/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : OPTIMIZATION OF VORTEX GENERATOR FOR 'SEDAN' CAR MODEL FOR REDUCTION OF 
+AERODYNAMIC DRAG  
+  
+(51) International classification  :B61D17/00 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)REGISTRAR, ANNA UNIVERSITY CHENNAI. 
+      Address of Applicant :THE DIRECTOR, CENTRE FOR 
+INTELLECTUAL PROPERTY RIGHTS, CPDE BUILDING, 
+ANNA UNIVERSITY CHENNAI, SARDAR PATEL ROAD, 
+GUINDY, CHENNAI - 600 025 Tamil Nadu India 
+(72)Name of Inventor : 
+   1)K.M. PARAMMASIVAM 
+   2)S. SENTHILKUMAR 
+   3)G. SIVARAJ  
+(57) Abstract : 
+The reduction of aerodynamic drag using vortex generators help to reduce both drag force and the lift force and can be applied in 
+automobile industry in race cars and high speed cars. The main cause of pressure drag is the separation of air flow at the top surface of 
+the car, which can be delayed by using different shapes of vortex generator. The drag coefficient of the car was reduced by keeping 
+the vortex generators in various locations of the car. The analysis was performed on BLWT carried under simulated wind with 
+relatively low turbulence, while the computational analysis was carried out using standard computational software. The pressure 
+measurement was obtained using pressure scanners when the wind was flowing parallel to the length of the car with and without 
+vortex generators. 
+  
+No. of Pages : 19 No. of Claims : 10 

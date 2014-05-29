@@ -1,0 +1,45 @@
+ 
+The Patent Office Journal 31/08/2012 
+13461
+(12) PATENT APPLICATION PUBLICATION (21) Application No.5359/DELNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :12/07/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : SYSTEM FOR PRODUCING ENERGY THROUGH THE ACTION OF WAVES  
+  
+(51) International classification  :F03B 13/10  
+(31) Priority Document No  :12/316,772  
+(32) Priority Date  :15/12/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/059531
+:05/10/2009 
+(87) International Publication No  :WO 2010/071706  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)GWAVE LLC 
+      Address of Applicant :71 STEVENS ROAD, HANOVER, NH 
+03755 USA. U.S.A. 
+(72)Name of Inventor : 
+   1)BEANE GLENN L.  
+(57) Abstract : 
+A system and method for generating energy from the tuning masses relative to a ground plane and an external force In some 
+embodiments the external force is the action of the waves The system has a first mass movable relative to the ground plane, wherein 
+the external force induces an oscillation in the first mass relative to the ground plane A second movable mass is carried by and 
+movable relative to the first movable mass The second movable mass creates kinetic energy as the result of varying the position of the 
+second movable mass relative to the first mass The system adjusts or tunes the frequency of various components in relation to the 
+natural frequency of the waves The second mass can move relative to the first mass by various methods The energy created by the 
+relative motion can be converted to various forms of energy including electrical energy 
+  
+  
+No. of Pages : 57 No. of Claims : 23 

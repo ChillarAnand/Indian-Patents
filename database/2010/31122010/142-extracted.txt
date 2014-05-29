@@ -1,0 +1,50 @@
+The Patent Office Journal 31/12/2010 
+ 
+5408
+(12) PATENT APPLICATION PUBLICATION (21) Application No.4108/KOLNP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :01/11/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : METHOD AND APPARATUS FOR THE FORMATION OF TISSUE FOLDS  
+  
+(51) International classification  :A61B 17/04  
+(31) Priority Document No  :12/113,633  
+(32) Priority Date  :01/05/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/042326
+:30/04/2009 
+(87) International Publication No  :WO 2009/135012  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)ETHICON ENDO-SURGERY, INC 
+      Address of Applicant :4545 CREEK ROAD, CINCINNATI, 
+OH 45242 OHIO CORPORATION, UNITED STATES OF 
+AMERICA. 
+(72)Name of Inventor : 
+   1)ZEINER, MARK, S. 
+   2)STOKES, MICHAEL, J. 
+   3)HARRIS, JASON, L. 
+   4)YOUNG, WAYNE 
+   5)SPIVEY, JAMES, T.  
+(57) Abstract : 
+A suture anchoring device includes a fastener body composed of a tube and a spool is mounted within the tube for rotation relative to 
+the tube. Suture material is wrapped about the spool such that pulling of the suture material causes rotation of the spool within the 
+tube. A one-way locking mechanism allows the spool to rotate freely in a first direction and prevents rotation in an opposite direction. 
+A method for creating a tissue fold includes deploying a first suture anchoring device within the tissue with suture material extending 
+proximally from the first suture anchoring device, deploying a second suture anchoring device within the tissue with a distal portion of 
+the suture material extending between the first suture anchoring device and a proximal portion of the suture material extending 
+proximally from the second suture anchoring device, and applying tension to the suture material to draw portions of the tissue together 
+to form a tissue fold.  
+  
+No. of Pages : 34 No. of Claims : 10 

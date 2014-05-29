@@ -1,0 +1,22 @@
+Application number  =>  2010/MUMNP/2010 A 
+
+Date of filing of application number  =>  23/09/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  METHOD AND APPARATUS FOR POSITION DETERMINATION WITH HYBRID SPS ORBIT DATA 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)BIACS Zoltan F. 2)SHEYNBLAT Leonid 3)GUM Arnold Jason 
+
+International Classification  =>  G01S1/00 
+
+Priority Doc No  =>  61/045,221 
+
+International Application Number  =>  PCT/US2009/040722 
+
+International Publication Number  =>   
+
+Abstract  =>  A method and system for a mobile station to determine its position (or velocity) and time using a hybrid combination of satellite orbit data. In one aspect, the mobile station combines predicted orbit data from one satellite and real-time orbit data from another satellite in the determination of a fix. The combination can be made to the satellites in the same or different satellite systems. The mobile station can use the real-time orbit data of a satellite at one time period and the predicted orbit data of the same satellite at another time period. In another aspect, the mobile station can use the real-time orbit data to correct the clock bias in the predicted orbit data. The correction to the clock bias can be made to the same satellite that provides the real-time orbit data, or to a different satellite in the same or in another satellite system. 
+

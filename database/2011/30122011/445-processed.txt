@@ -1,0 +1,22 @@
+Application number  =>  865/KOL/2010 A 
+
+Date of filing of application number  =>  05/08/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  DRILLING APPARATUS AND METHOD FOR WORKING THE GROUND 
+
+Name of applicant  =>  1)BAUER MASCHINEN GMBH 
+
+Name of inventor  =>  1)BAUER, SEBASTIAN 
+
+International Classification  =>  E02F5/20 
+
+Priority Doc No  =>  09011061.0/EP 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The invention relates to a drilling apparatus for working the ground comprising a drill drive for driving a drill string in a rotating manner and a rotary feedthrough for passing a construction material from a construction material hose into the interior of the drill string, whereby the rotary feedthrough has a first line connection for the construction material hose and a second line connection, rotatable relative to the first line connection, for the drill string. In accordance with the invention provision is made for the rotary feedthrough to have a rotary device for actively rotating the second line connection relative to the first line connection. The invention also relates to a method for working the ground, which can be carried out, in particular, by means of a drilling apparatus according to the invention. 
+

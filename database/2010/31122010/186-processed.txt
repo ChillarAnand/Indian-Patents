@@ -1,0 +1,22 @@
+Application number  =>  4193/KOLNP/2010 A 
+
+Date of filing of application number  =>  08/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  SYSTEM AND METHOD FOR LIQUID DELIVERY EVALUATION USING SOLUTIONS WITH MULTIPLE LIGHT ABSORBANCE SPECTRAL FEATURES 
+
+Name of applicant  =>  1)ARTEL, INC. 
+
+Name of inventor  =>  1)MCNALLY, CEARA, J. 2)BRADSHAW, JOHN, THOMAS 3)CURTIS, RICHARD, H. 4)EWING, CHARLES, A. 5)ALBERT, KEITH, J. 6)KNAIDE, TANYA, R. 7)ROGERS, ALEXIS, L. 
+
+International Classification  =>  G01N 1/00 
+
+Priority Doc No  =>  12/098,875 
+
+International Application Number  =>  PCT/US2009/002089 
+
+International Publication Number  =>  WO 2009/126224 
+
+Abstract  =>  A system and related method for improved liquid delivery evaluation using a solution containing one or more dyes such that the solution exhibits multiple distinct detectable light absorbance spectral features for calibrating or testing over extended volume or dilution ranges are described. The system includes: a photometric instrument capable of measuring optical absorbance at multiple wavelengths; one or more sample solutions to be dispensed using the liquid delivery system whose performance is being tested or calibrated; and vessels optionally pre-filled, or filled by the user, with diluent solution. The sample solutions contain one or more dyes, chosen so that multiple distinct detectable light absorbance spectral features, such as peaks and/or valleys and/or plateaus of the solution can be distinguished for volume or dilution ranges of interest. The concentrations of the dyes may be chosen so that a large volume delivery device is calibrated using a spectral feature in the solution with a low absorbance per unit pathlength, while a small volume delivery device is calibrated with the same sample solution but using a different spectral feature with a high absorbance per unit pathlength. 
+

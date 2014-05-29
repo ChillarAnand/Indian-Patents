@@ -1,0 +1,22 @@
+Application number  =>  2591/CHENP/2012 A 
+
+Date of filing of application number  =>  21/03/2012 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  APPARATUS AND METHOD FOR PROVIDING MULTICAST SERVICE IN A COMMUNICATION SYSTEM 
+
+Name of applicant  =>  1)ALCATEL LUCENT 
+
+Name of inventor  =>  1)CHAO, HUA 2)WANG, HE 3)HU, ZHONGJI 
+
+International Classification  =>  H04L29/06 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/CN2009/001071 
+
+International Publication Number  =>  WO 2011/035454 A1 
+
+Abstract  =>  A method for providing a multicast service in a communication system and an apparatus for implementing the method are provided in the present invention. The communication system comprises at least one user equipment and a server for providing a service to the at least one user equipment. The method comprises steps of: determining, by the server, an MBMS multicast group to provide a multicast service; transmitting, by the server, MBMS service control information required to provide an MBMS service to user equipments within the MBMS multicast group, to a BM-SC in an e-MBMS network; determining, by the BM-SC, an MBMS service area and triggering in the MBMS service area an MBMS bearer setup procedure for user equipments within the MBMS multicast group, based on the received MBMS service control information; forwarding, by the server, data to provide a service to the BM-SC; and distributing, by the BM-SC, the data to each of the user equipments within, the MBMS multicast group, via the set up MBMS bearer. The method according to the present invention enables to perform multicast within an MBMS multicast group in case that the multicast is not supported by a radio network. 
+

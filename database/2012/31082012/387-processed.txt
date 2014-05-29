@@ -1,0 +1,22 @@
+Application number  =>  5347/DELNP/2011 A 
+
+Date of filing of application number  =>  12/07/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  PX OXIDATION REACTOR FOR PRODUCING TEREPHTHALIC ACID 
+
+Name of applicant  =>  1)CHINA NATIONAL PETROLEUM CORPORATION 2)CHINA TEXTILE INDUSTRIAL ENGINEERING INSTITUTE 
+
+Name of inventor  =>  1)WENDE LUO 2)HUATANG ZHOU 3)RUIKUI YAO 4)CHUN ZHANG 5)LIJUN LI 6)YINGZHI WANG 7)XIANGZHI XIE 8)YADAN ZHANG 9)GUORUI LAO 10)HAO ZHENG 11)XIANGYI CHEN 
+
+International Classification  =>  B01J 8/22 
+
+Priority Doc No  =>  200910076703.1 
+
+International Application Number  =>  PCT/CN09/075384 
+
+International Publication Number  =>  WO 2010/081358 
+
+Abstract  =>  A PX oxidation reactor for producing terephthalic acid comprises a reactor shell (1). The reactor shell (1) is in a tower shape and has a ratio of height to diameter of 2.8-5. A distributed-type air intake device and a cyclonic-type air intake device are disposed at the bottom of the reactor shell (1). The distributed-type air intake device comprises outer ring air distributing tube (4) and inner ring air distributing tube (5), wherein the air distributing tubes (2) are in circle shape. The cyclonic-type air intake device comprises multiple cyclonic air intake tubes (3) which are distributed around the vessel wall uniformly. Adopting combined air intake revolving device can force the fluid at the bottom of the reactor to rotate by adequate quantity of air, and the reactor has good air dispersion thus maintaining materials in normal suspension state. Moreover, adopting a ratio of height to diameter between that of high temperature reactor and that of low temperature reactor can both avoid maldistribution phenomenon occurring in low temperature reactor with a high ratio of height to diameter and have less power consumption superior to high temperature reactor. 
+

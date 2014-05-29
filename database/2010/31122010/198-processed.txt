@@ -1,0 +1,22 @@
+Application number  =>  4208/KOLNP/2010 A 
+
+Date of filing of application number  =>  09/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  METHOD FOR TRANSMITTING UPLINK SIGNALS 
+
+Name of applicant  =>  1)LG ELECTRONICS INC. 
+
+Name of inventor  =>  1)LEE, DAE WON 2)KIM, KI JUN 3)AHN, JOON KUI 
+
+International Classification  =>  H04B 7/26 
+
+Priority Doc No  =>  61/075,322 
+
+International Application Number  =>  PCT/KR2009/003400 
+
+International Publication Number  =>  WO 2009/157709 
+
+Abstract  =>  A method of transmitting uplink signals is disclosed. The method includes transmitting, by a user equipment, periodic control information on a Physical Uplink Control Channel (PUCCH) at a predetermined period, dropping the periodic control information and multiplexing uplink signals except the periodic control information when the user equipment is operating in subframe bundling transmission mode where the uplink signals are transmitted in a plurality of consecutive sub frames, and transmitting the multiplexed uplink signals on a Physical Uplink Shared Channel (PUSCH). 
+

@@ -1,0 +1,22 @@
+Application number  =>  217/DELNP/2011 A 
+
+Date of filing of application number  =>  11/01/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  MESSAGE ROUTING PLATFORM 
+
+Name of applicant  =>  1)3RD BRAND PTE. LTD. 
+
+Name of inventor  =>  1)UNDERWOOD, JOHN ANTHONY 2)KEYS, CHRISTOPHER EDWARD 3)KERO, MARKKU 4)LEINONEN, RAINER 5)DELAGON, ALVIN 
+
+International Classification  =>  H04L 12/56 
+
+Priority Doc No  =>  200805997-4 
+
+International Application Number  =>  PCT/SG2009/000266 
+
+International Publication Number  =>  WO 2010/019105 
+
+Abstract  =>  A system and method for routing messages in a communication network is disclosed. The system include a plurality of nodes for receiving a packet for delivery to an intended recipient wherein the system is adapted to determine if the intended recipient is connected to a first selected node within the plurality of nodes; and if the recipient is connected to the first selected node, deliver the packet; and if the recipient is determined not to be connected to the first selected node within the plurality of nodes, the system is further adapted to determine which node from the plurality of nodes the intended recipient is connected and forward the packet to the node to which the intended recipient is connected. 
+

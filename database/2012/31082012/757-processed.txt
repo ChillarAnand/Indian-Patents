@@ -1,0 +1,22 @@
+Application number  =>  945/MUMNP/2012 A 
+
+Date of filing of application number  =>  17/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD OF FORMING AN ARTICLE FROM NON-MELT PROCESSIBLE POLYMERS AND ARTICLES FORMED THEREBY 
+
+Name of applicant  =>  1)SAINT-GOBAIN PERFORMANCE PLASTICS CORPORATION 
+
+Name of inventor  =>  1)SINGH, ROJENDRA 2)PUJARI, VIMAL, K.; 3)RUSHKIN, ILYA, L. 
+
+International Classification  =>  B29C 43/22 
+
+Priority Doc No  =>  61/244,358 
+
+International Application Number  =>  PCT/US2010/049523 
+
+International Publication Number  =>  WO/2011/035258 
+
+Abstract  =>  A method of preparing an article includes compressing a polymeric material to form a body and hot isostatic pressing (HIP) the body in an inert atmosphere at a pressure of at least 3 ksi without an encapsulant. The body may optionally be sintered prior to hot isostatic pressing (HIP). The body may have a porosity of not greater than 8 % prior to hot isostatic pressing (HIP). The polymer material may be a non-melt processible polymer. 
+

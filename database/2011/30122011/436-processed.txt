@@ -1,0 +1,22 @@
+Application number  =>  838/KOL/2010 A 
+
+Date of filing of application number  =>  29/07/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  PARALLEL GEAR UNIT FOR A GEARBOX FOR A WIND TURBINE 
+
+Name of applicant  =>  1)HANSEN TRANSMISSIONS INTERNATIONAL, NAAMLOZE VENNOOTSCHAP 
+
+Name of inventor  =>  1)LEIMANN, DIRK-OLAF 2)VAN EYNDHOVEN, ERWIN 
+
+International Classification  =>  F16H9/00 
+
+Priority Doc No  =>  09447041.6 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention provides a parallel gear unit (20) for a gearbox (30) for a wind turbine. The parallel gear unit (20) comprises at least two parallel shafts (21, 22), at least one of the shafts (21, 22) being supported by roller bearings (24) and each shaft (21, 22) comprising a gear (23, 25) with helical teeth, the gears (23, 25) of each shaft (21, 22) being adapted for meshing with each other. The parallel gear unit (20) furthermore comprises a thrust collar (26) on at least one of the shafts (21, 22). In a parallel gear unit (20) according to embodiments of the invention the bearings (24) supporting the gear do not suffer from high axial forces or at least suffer less from such axial forces than prior art bearings. The present invention also provides a gearbox (30) comprising a parallel gear unit (20) according to embodiments of the invention and a wind turbine comprising such a gearbox (30). 
+

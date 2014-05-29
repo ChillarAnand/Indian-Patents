@@ -1,0 +1,22 @@
+Application number  =>  517/MUM/2011 A 
+
+Date of filing of application number  =>  24/02/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  A DRAFT SENSING, SELECTING AND INDICATING SYSTEM FOR OFF-ROAD VEHICLE SUCH AS TRACTOR 
+
+Name of applicant  =>  1)MAHINDRA & MAHINDRA LTD. 
+
+Name of inventor  =>  1)MR. KOTHARKAR VINOD CHIMANRAY 2)MR. LATTO PRAKASH KRISHNARAO 3)MR. GOMES MAXSON CASTER 
+
+International Classification  =>  A01B63/00 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention relates to draft sensing and indicating system for off-road vehicles such as tractors to accurately sense draft, select and indicate best draft to the operator with the aid of tailored controller yet offer flexibility to select drafts from a wide range obviating mechanical linkages for draft sensing. The synergistic combination and configuration of the draft sensing assembly, draft setting system and valve block with the controller wherein the draft sensing and draft setting potentiometer governed by the microprocessor based controller work in tandem to provide signal to the solenoid so as to divert hydraulic flow to the cylinder to lift or lower the implement facilitates accurate sensing of the draft and enables the operator to set and select draft from the wide range resulting in obviating problems associated with damage of implement in varied field conditions and achieving consistent productivity. 
+

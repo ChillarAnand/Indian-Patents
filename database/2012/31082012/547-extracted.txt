@@ -1,0 +1,46 @@
+ 
+The Patent Office Journal 31/08/2012 
+13606
+(12) PATENT APPLICATION PUBLICATION (21) Application No.516/MUM/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :24/02/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : AN ENERGY EFFICIENT HYDRAULIC SYSTEM FOR EFFECTIVE ROUTING OF HYDRAULIC 
+FLUID INOFF-ROAD VEHICLE SUCH AS TRACTOR  
+  
+(51) International classification  :E02F 9/22 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA
+:NA 
+(87) International Publication No  :N/A 
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA
+:NA  
+  
+(71)Name of Applicant :  
+   1)MAHINDRA & MAHINDRA LTD 
+      Address of Applicant :GATEWAY BUILDING, APOLLO 
+BUNDER, MUMBAI - 400001. Maharashtra India 
+(72)Name of Inventor : 
+   1)MR. KOTHARKAR VINOD CHIMANRAY 
+   2)MR. LATTO PRAKASH KRISHNARAO 
+   3)MR. GOMES MAXSON CASTER  
+(57) Abstract : 
+The present invention relates to a system for effectively routing hydraulic fluid flow, controlled lowering of the implement using 
+hydraulic system and obviating problems associated with leakages of hydraulic fluid inside the valve body, to enhance effectiveness 
+and efficiency of the hydraulic system and thereby performance of the off-road vehicle such as tractor. The system comprises a valve 
+block assembly, a microprocessor based controller, a double acting cylinder configured with a check valve and pilot piston valve, 
+wherein said valve block assembly comprises of position control and draft control solenoid valve those are electronically configured 
+with the said controller and hydraulically configured with a hitch pump and a steering pump. 
+  
+  
+No. of Pages : 30 No. of Claims : 12 

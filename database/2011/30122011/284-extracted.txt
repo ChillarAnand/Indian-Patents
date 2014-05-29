@@ -1,0 +1,46 @@
+The Patent Office Journal 30/12/2011 
+ 
+25621
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1260/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :23/02/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : DEVICE WITH LIGHT-EMITTING DIODE CIRCUITS  
+  
+(51) International classification  :H05B33/08  
+(31) Priority Document No  :08104922.3  
+(32) Priority Date  :30/07/2008 
+(33) Name of priority country  :EPO 
+(86) International Application No 
+        Filing Date 
+:PCT/IB2009/053178
+:22/07/2009 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+      Address of Applicant :GROENEWOUDSEWEG 1 
+EINDHOVEN  5621 BA  NETHERLANDS   
+(72)Name of Inventor : 
+   1)RADERMACHER  Harald  J.  G.  
+(57) Abstract : 
+Devices (1) have branches (20,30) for receiving AC voltages. First branches (20) comprise first light-emitting diode circuits (21) and 
+first arrangements for phase-shifting first currents flowing through the first light-emitting diode circuits (21) with respect to the AC 
+voltages. Second branches (30) comprise second light-emitting diode circuits (31) and do not comprise second arrangements for 
+phase-shifting second currents flowing through the second light-emitting diode circuits (31) with respect to the AC voltages. As a 
+result, an overall flicker index of the device (1) will be smaller than individual flicker indices of the light-emitting diode circuits 
+(21,31). The first arrangements may comprise capacitors (22) coupled serially to the first light-emitting diode circuits (21). The 
+branches (20,30) may further comprise resistors (23,33) coupled serially to or forming part of the light-emitting diode circuits (21,31). 
+Fig. 1 
+  
+ 
+No. of Pages : 18 No. of Claims : 15 

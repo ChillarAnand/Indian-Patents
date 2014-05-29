@@ -1,0 +1,22 @@
+Application number  =>  799/KOL/2010 A 
+
+Date of filing of application number  =>  22/07/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  DYNAMIC ENTITLEMENT MANAGER 
+
+Name of applicant  =>  1)BANK OF AMERICA CORPORATION 
+
+Name of inventor  =>  1)RICHARDS, PHILLIP L. 2)ANDERSEN, DAVID L. 3)RENFRO, CHADWICK R. 4)HIGGINS, CHRISTOPHER P. 
+
+International Classification  =>  G06F21/00 
+
+Priority Doc No  =>  12/509,244 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  Embodiments of the invention are directed to systems, methods, and computer program products configured to calculate an indicator of the likelihood that an entitlement exists in a first community relative to a second community. The calculated indicator is then used to determine the appropriateness of entitlements within the first community or after a transfer of a person from the first community to the second. 
+

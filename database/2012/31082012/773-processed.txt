@@ -1,0 +1,22 @@
+Application number  =>  973/MUMNP/2012 A 
+
+Date of filing of application number  =>  18/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  SHAFT END SEALING DEVICE AND CONCRETE MIXER PROVIDED WITH THE SAME 
+
+Name of applicant  =>  1)HUNAN SANY INTELLIGENT CONTROL EQUIPMENT CO., LTD 2)SANY HEAVY INDUSTRY CO., LTD 
+
+Name of inventor  =>  1)ZOU, XIANG 2)CHEN, MINGLIN 3)TAN, XUEJUN 
+
+International Classification  =>  B28C 5/08 
+
+Priority Doc No  =>  CN 200920219891.4 
+
+International Application Number  =>  PCT/CN2010/074653 
+
+International Publication Number  =>  WO/2011/047557 
+
+Abstract  =>  shaft end sealing device and a concrete mixer provided with the same are provided. The shaft end sealing device comprises a wearable ring (31) connected to the mixing tank wall (30) of the concrete mixer, a dust cap (32) connected to a main shaft (21) of the concrete mixer and rotating with the main shaft synchronously, a first clearance (34) formed between the dust cap (32) and the wearable ring (31) and communicated with lubricating oil cavity, a sealing ring (33) arranged between the tank wall (30) and the main shaft (21), and a second clearance (35) formed between the sealing ring (33) and the main shaft (21) to constitute a labyrinth seal and communicated with the first clearance (34). The device can prevent slurry from directly seeping in an oil circuit and leaking out so as to increase the tightness and reliability of the device. 
+

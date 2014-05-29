@@ -1,0 +1,22 @@
+Application number  =>  9809/CHENP/2011 A 
+
+Date of filing of application number  =>  26/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  METHOD OF AND APPARATUS FOR DESIGNING AN OPTICAL LENS• 
+
+Name of applicant  =>  1)ESSILOR INTERNATIONAL (COMPAGNIE GENERALE DOPTIQUE) 
+
+Name of inventor  =>  1)ALLIONE Pascal 2)CALIXTE Laurent 3)GUILLOUX Cyril 
+
+International Classification  =>  G02C 7/06 
+
+Priority Doc No  =>  09305632.3 
+
+International Application Number  =>  PCT/EP2010/059234 
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention relates to a method of and an apparatus for designing an optical lens surface for the manufacture of the optical lens, the method comprising the steps of providing a reference surface Sref, the reference surface Sref being defined by a plurality of surface points Pi each surface point Pi having a mean sphere Sph (Pi) and a cylinder CyI(Pi); providing at least one modifying surface layer SLmod(ξ1,..., ξN, x,y) the modifying surface layer SLmod being determined as a function of N adjustment parameters ξ1, ξ..., ξN; wherein N≥1 and the N adjustment parameters ξ1, ξ4,..., ξN are selected according to the desired optical properties of the optical target; combining the modifying surface layer SLmod with the reference surface Sref to obtain a target optical surface Star(x,y) according to the expression: Star(x,y) = Sref(x,y) + SLmod (ξ1,..., ξN, x,y); such that the value of surface parameter of at least one surface point Pi at a first region of the reference surface Sref is modified without modifying a surface parameter of at least one surface point Pi at a second region of the reference surface Sref, distanced from the first region. 
+

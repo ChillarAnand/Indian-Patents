@@ -1,0 +1,22 @@
+Application number  =>  1208/CHENP/2011 A 
+
+Date of filing of application number  =>  21/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD AND APPARATUS OF TELECOMMUNICATIONS 
+
+Name of applicant  =>  1)Huawei Technologies Co. Ltd. 
+
+Name of inventor  =>  1)BERGGREN Fredrik 
+
+International Classification  =>  H03M7/00 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/CN2008/071936 
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention relates to telecommunications, and particularly, to technology of generating codewords and determining an information symbol from a codeword for transmission in a telecommunication system. The method and apparatus provided by the embodiments of the invention allow up to a maximum number of codewords to be generated given the code alphabet size. Embodiments of the invention also provide method and apparatus for determining an information symbol from a codeword. 
+

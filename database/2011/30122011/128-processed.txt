@@ -1,0 +1,22 @@
+Application number  =>  1015/MUMNP/2011 A 
+
+Date of filing of application number  =>  19/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  APPARATUS AND METHODS FOR ADAPTIVE THREAD SCHEDULING ON ASYMMETRIC MULTIPROCESSOR 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)MORROW Michael William 2)GARG Manish 
+
+International Classification  =>  G06F 1/32,G06F 9/50 
+
+Priority Doc No  =>  12/333,063 
+
+International Application Number  =>  PCT/US2009/067654 
+
+International Publication Number  =>  WO/2010/068855 
+
+Abstract  =>  Techniques for adaptive thread scheduling on a plurality of cores for reducing system energy are described. In one embodiment, a thread scheduler receives leakage current information associated with the plurality of cores. The leakage current information is employed to schedule a thread on one of the plurality of cores to reduce system energy usage. On chip calibration of the sensors is also described. 
+

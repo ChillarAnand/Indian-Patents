@@ -1,0 +1,22 @@
+Application number  =>  1041/CHENP/2011 A 
+
+Date of filing of application number  =>  14/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  BASE STATION SYNCHRONIZATION 
+
+Name of applicant  =>  1)QUALCOMM Incorporated 
+
+Name of inventor  =>  1)PALANKI Ravi 2)XIAO Lei 3)AGASHE Parag A. 
+
+International Classification  =>  H04W56/00 
+
+Priority Doc No  =>  61/091,089 
+
+International Application Number  =>  PCT/US2009/054688 
+
+International Publication Number  =>   
+
+Abstract  =>  Systems and methodologies are described that facilitate synchronizing base stations in a wireless communication environment. A base station can receive a synchronization signal sent via a low reuse channel, which can be shared by a group of base stations. Further, the base station can align a clock associated therewith to the received synchronization signal. Moreover, the base station can coarsely align the clock to a first synchronization signal received upon a first subset of resources of the low reuse channel, and finely align the clock to a second synchronization signal received upon a second subset of resources (e.g., of the low reuse channel, of a separate channel, ¦), where the second subset of resources can be reserved for transmission from at least one base station with at least a predetermined level of synchronous accuracy. 
+

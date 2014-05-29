@@ -1,0 +1,22 @@
+Application number  =>  1279/CHENP/2011 A 
+
+Date of filing of application number  =>  24/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD AND SYSTEM FOR SIGNAL TRANSMISSION AND RECEPTION 
+
+Name of applicant  =>  1)Centre of Excellence in Wireless Technology 
+
+Name of inventor  =>  1)Kiran Kumar KUCHI 2)Deviraj Klutto Milleth JENISTON 3)Vinod RAMASWAMY 4)Baskaran DHIVAGAR 5)Krishnamurthi GIRIDHAR 6)Bhaskar RAMAMURTHI 7)Padmanabhan Madampu SURYASARMAN 
+
+International Classification  =>  H04B7/00 
+
+Priority Doc No  =>  1931/CHE/2008 
+
+International Application Number  =>  PCT/IN2009/000391 
+
+International Publication Number  =>   
+
+Abstract  =>  Embodiments herein disclose a digitally precoded SC-FDMA scheme with low PAPR, where the scheme applies a constellation rotation to the M-ary input data sequence, before circularly convolving the rotated data sequence with a polynomial decoder. The data is then transformed to the frequency domain and then mapped. An N-point IIFT is then applied to the data to produce time domain samples. 
+

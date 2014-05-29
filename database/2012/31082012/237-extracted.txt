@@ -1,0 +1,45 @@
+ 
+The Patent Office Journal 31/08/2012 
+14079
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3121/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :06/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : DELTA COMPRESSION AFTER IDENTITY DEDUPLICATION  
+  
+(51) International classification  :G06F7/00  
+(31) Priority Document No  :12/291,998  
+(32) Priority Date  :14/11/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US09/005429
+:02/10/2009 
+(87) International Publication No  :WO 2010/056265 A1  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)DATA DOMAIN LLC 
+      Address of Applicant :2421 MISSION COLLEGE BLVD., 
+SANTA CLARA, CA 95054 U.S.A. 
+(72)Name of Inventor : 
+   1)MARK HUANG, EDWARD K. LEE 
+   2)KAI LI 
+   3)PHILIP SHILANE  
+   4)GRANT WALLACE  
+   5)MING BENJAMIN ZHU  
+(57) Abstract : 
+Delta compression after identity deduplication is disclosed. A first data segment is determined to be identical to a first previous data 
+segment. A second data segment, not determined to be identical to a second previous data segment, is then determined to be similar to 
+a third previous data segment. 
+  
+  
+No. of Pages : 27 No. of Claims : 55 

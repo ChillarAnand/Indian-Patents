@@ -1,0 +1,46 @@
+The Patent Office Journal 30/12/2011 
+ 
+25501
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1074/MUMNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :26/05/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : SYSTEM AND METHOD TO SELECTIVELY COMBINE IMAGES  
+  
+(51) International classification  :G06T 5/50  
+(31) Priority Document No  :12/340,522  
+(32) Priority Date  :19/12/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/068842
+:18/12/2009 
+(87) International Publication No  :WO/2010/071841  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)QUALCOMM INCORPORATED 
+      Address of Applicant :Attn: International IP Administration  
+5775 Morehouse Drive  San Diego  California 92121-1714  
+United States of America  
+(72)Name of Inventor : 
+   1)ATANASSOV  Kalin  M. 
+   2)LI  Hsiang-Tsun 
+   3)HWANG  Hau  
+(57) Abstract : 
+Systems and methods to selectively combine images are disclosed. In a particular embodiment, an apparatus includes a registration 
+circuit configured to generate a set of motion vector data based on first image data corresponding to a first image and second image 
+data corresponding to a second image. The apparatus includes a combination circuit to selectively combine the first image data and 
+adjusted second image data that corresponds to the second image data adjusted according to the motion vector data. The apparatus 
+further includes a control circuit to control the combination circuit to generate third image data. 
+  
+ 
+No. of Pages : 51 No. of Claims : 27 

@@ -1,0 +1,45 @@
+ 
+The Patent Office Journal 31/08/2012 
+13771
+(12) PATENT APPLICATION PUBLICATION (21) Application No.828/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :03/04/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : METHOD AND SYSTEM FOR PROVIDING GROUP DIRECTORY SERVICES FOR MOBILE 
+COMMUNICATION DEVICES  
+  
+(51) International classification  :H04W 4/08  
+(31) Priority Document No  :61/312,996  
+(32) Priority Date  :11/03/2010 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2011/027661
+:09/03/2011 
+(87) International Publication No  :WO/2011/112659  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)OMNI SYMMETRY, LLC 
+      Address of Applicant :5600 TENNYSON, SUITE 120, 
+PLANO, TEXAS 75024, UNITED STATES OF AMERICA. 
+   2)BROTHERS, SUE, E 
+(72)Name of Inventor : 
+   1)PATTERSON, JAMES, D 
+   2)BROTHERS, SUE, E  
+(57) Abstract : 
+A method of providing group directory services for mobile communication devices includes the steps of maintaining a registry of user 
+profiles established and maintained by mobile communication device users, wherein each user profile includes data representative of a 
+user s name and preferred contact method; and permitting a group administrator to access the registry and create a group directory 
+consisting of at least some members who have user profiles in the registry by linking the members user profiles to the group directory.
+  
+  
+No. of Pages : 86 No. of Claims : 19 

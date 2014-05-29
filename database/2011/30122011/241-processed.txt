@@ -1,0 +1,22 @@
+Application number  =>  1137/CHENP/2011 A 
+
+Date of filing of application number  =>  17/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  A SYSTEM AND METHOD FOR MANAGING DIGITAL DISPLAY CONTENT IN A QUICK SERVICE RESTAURANT ENVIRONMENT 
+
+Name of applicant  =>  1)EMN8 INC. 
+
+Name of inventor  =>  1)J. PATRICK RAVENEL 2)TREVOR CHONG 3)JOHN SILVA 
+
+International Classification  =>  G06F17/00 
+
+Priority Doc No  =>  61/082, 409 
+
+International Application Number  =>  PCT/US2009/051309 
+
+International Publication Number  =>   
+
+Abstract  =>  Embodiments disclosed herein are directed to systems and methods for managing digital media content within a quick service restaurant environment to provide a consistent visual experience and accurate, timely data across various digital media displays to QSR customers. In some embodiments, a digital media management appliance (DMMA) is used to manage the distribution of digital media data which is used to drive various display devices present in the QSR environment. The DMMA may be configured to extract data from a point of sale (POS) system and/or other data sources within the QSR environment in order to generate display data for the digital media devices in the store. 
+

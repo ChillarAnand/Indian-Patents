@@ -1,0 +1,22 @@
+Application number  =>  2178/CHE/2011 A 
+
+Date of filing of application number  =>  28/06/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  ELECTRIC CONNECTION DEVICE BETWEEN THE FOOT OF A BIMETAL STRIP AND A TERMINAL STRIP IN AN ELECTRIC SWITCHGEAR APPARATUS, AND CIRCUIT BREAKER COMPRISING ONE SUCH DEVICE 
+
+Name of applicant  =>  1)SCHNEIDER ELECTRIC INDUSTRIES SAS 
+
+Name of inventor  =>  1)BURRIAL, MAURICE 
+
+International Classification  =>  H01H71/16, H01H7/08, H01H7/74 
+
+Priority Doc No  =>  1002800 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention relates to a device for electric connection between the foot of a bimetal strip and a contact strip in an electric switchgear apparatus, said bimetal strip being able to be moved by means of an adjustment screw so as to perform thermal adjustment of the bimetal strip, this device being characterized in that it comprises a flattened conductive part (6) fixed on the one hand on the contact strip (1) and on the other hand on the bimetal strip (2), said part being formed by at least one continuous conductive element wound and then flattened so as to give the latter both a length corresponding substantially to the distance separating the foot of the bimetal strip and the contact strip and a semi-rigid structure enabling it to deform under the effect of adjustment of the adjustment screw (7) so as to allow movement of the bimetal strip (2) while at the same time being sufficiently rigid to ensure relative placement of the foot of the bimetal strip with respect to the contact strip. 
+

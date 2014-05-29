@@ -1,0 +1,22 @@
+Application number  =>  1354/DEL/2010 A 
+
+Date of filing of application number  =>  10/06/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  HERMETIC SEALING ASSEMBLY AND ELECTRICAL DEVICE INCLUDING THE SAME 
+
+Name of applicant  =>  1)GENERAL ELECTRIC COMPANY 
+
+Name of inventor  =>  1)JOHNSON CURTIS ALAN 2)PETERSON II MYLESS STANDISH 3)VANDAM JEREMY DANIEL 4)YOSENICK TIMOTHY JAMES 5)WEEBER KONRAD ROMAN 6)YAGIELSKI JOHN RUSSELL 7)HASZ WAYNE CHARLEZ 8)MORRA MARTIN MATHEW 
+
+International Classification  =>  B65B1/00; 
+
+Priority Doc No  =>  12/491,326 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  Disclosed herein is a system 10 including a motor 20 comprising a rotor 30, a stator 40 and a sealing assembly 100 having at least one joint and a monolithic ceramic separator 110. Each joint of the sealing assembly 100 is a chemical bond joint, and the monolithic ceramic separator 110 is disposed in a gap 50 between the rotor 30 and the stator 40 of the motor 20 such that the sealing assembly 100 hermetically isolates the rotor 30 and the stator 40. 
+

@@ -1,0 +1,22 @@
+Application number  =>  2858/CHENP/2011 A 
+
+Date of filing of application number  =>  27/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD AND SYSTEM FOR OPTIMIZING A COOLING MODEL OF A DATA CENTER 
+
+Name of applicant  =>  1)AMERICAN POWER CONVERSION CORPORATION 
+
+Name of inventor  =>  1)CHRISTOPHER HLASNY 2)JAMES W. VANGILDER 3)HENRIK DAAE 4)KRESTEN PETER VESTER 
+
+International Classification  =>  G06F17/50, H05K 7/20 
+
+Priority Doc No  =>  12/259,214 
+
+International Application Number  =>  PCT/US2009/062113 
+
+International Publication Number  =>  WO 2010/062567 A3 
+
+Abstract  =>  A method for presenting a cooling model of a data center, the model including representations of at least one cooling provider, at least one cooling consumer and at least one perforated tile, the at least one cooling consumer having cooling requirements, the method comprising: segmenting the model into a plurality of layers, the plurality of layers having a first layer that includes the at least one perforated tile and a second layer that includes the at least one cooling consumer; receiving an indication to reposition the first layer relative to the second layer; determining, in response to the indication, at least one new position for the at least one perforated tile relative to the at least one cooling consumer; determining a cooling metric measuring the ability of the at least one cooling provider to meet the cooling requirements of the at least one cooling consumer via the at least one perforated tile in the at least one new position; and displaying the model on a computer system, the at least one cooling consumer including an indication of the cooling metric. 
+

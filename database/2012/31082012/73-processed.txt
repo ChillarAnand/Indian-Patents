@@ -1,0 +1,22 @@
+Application number  =>  2920/CHENP/2011 A 
+
+Date of filing of application number  =>  29/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  LIGHT EXTRACTION FILM WITH HIGH INDEX BACKFILL LAYER AND PASSIVATION LAYER 
+
+Name of applicant  =>  1)3M INNOVATIVE PROPERTIES COMPANY 
+
+Name of inventor  =>  1)LAMANSKY, SERGEY, A. 2)HAO, ENCAI 3)LE, HA, T., T. 4)STEGALL, DAVID, B. 5)WANG, DING 6)LU, YI 7)SMITH, TERRY, L. 8)ZHANG, JUN-YING 9)WU, JUNG-SHENG 10)THORSON, JAMES, E. 
+
+International Classification  =>  G02B5/00, H05B33/10 
+
+Priority Doc No  =>  12/262,393 
+
+International Application Number  =>  PCT/US2009/061819 
+
+International Publication Number  =>  WO 2010/051229 A2 
+
+Abstract  =>  A multifunctional optical film for enhancing light extraction includes a flexible substrate, a structured layer, a high index backfill layer, and an optional passivation layer. The structured layer effectively uses microreplicated diffractive or scattering nanostructures located near enough to the light generation region to enable extraction of an evanescent wave from an organic light emitting diode (OLED) device. The backfill layer has a material having an index of refraction different from the index of refraction of the structured layer. The backfill layer also provides a planarizing layer over the structured layer in order to conform the light extraction film to a layer of an OLED display device. The film may have additional layers added to or incorporated within it to an emissive surface in order to effect additional functionalities beyond improvement of light extraction efficiency. 
+

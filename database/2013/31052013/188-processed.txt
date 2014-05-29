@@ -1,0 +1,22 @@
+Application number  =>  9986/CHENP/2011 A 
+
+Date of filing of application number  =>  30/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  RESOLUTION ALGORITHMS FOR MULTI-RADIO COEXISTENCE 
+
+Name of applicant  =>  1)QUALCOMM Incorporated 
+
+Name of inventor  =>  1)MANTRAVADI Ashok 2)KADOUS Tamer A. 
+
+International Classification  =>  H04W 88/06 
+
+Priority Doc No  =>  61/224,327 
+
+International Application Number  =>  PCT/US2010/041611 
+
+International Publication Number  =>   
+
+Abstract  =>  Systems and methodologies are described herein that facilitate resolution between respective radios associated with a multi-radio wireless device. As described herein various techniques can be utilized with a multi-radio coexistence manager and/or other suitable mechanisms associated with a wireless device to perform joint resolution for multiple associated radios thereby providing performance enhancements over conventional piecewise radio resolution schemes. Various exhaustive decoupled and progressive radio resolution algorithms are provided herein by which respective sets of parameters (e.g. transmit powers interference targets frequency sub-bands radio frequency knob settings etc.) can be selected for respective potentially conflicting radios to enable such radios to operate in coexistence. Further techniques are provided herein for utilizing a graph theoretic algorithm for progressive radio resolution. In addition a generic power resolution algorithm can be modified to provide support for multi-transmitter interference mechanisms by employing modifications such as joint power resolution and/or one-pass or iterative interference partitioning. 
+

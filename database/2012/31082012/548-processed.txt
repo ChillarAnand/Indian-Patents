@@ -1,0 +1,22 @@
+Application number  =>  524/MUMNP/2009 A 
+
+Date of filing of application number  =>  16/03/2009 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  A METHD AND AN APPARATUS FOR A COMMUNICATION SESSION 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)LIOY Marcello 2)WANG Jun 3)SHIROTA Masakazu 4)HSU Raymond Tah-Sheng 5)VEEREPALLI Sivaramakrishna 
+
+International Classification  =>  H04L 29/06 
+
+Priority Doc No  =>  60/592, 470 
+
+International Application Number  =>  PCT/US2005/027069 
+
+International Publication Number  =>   
+
+Abstract  =>  A communication session between a node seeking network access and a NAS (Network Access Server) is established by having only few exchanges of messages. Upon detecting a physical link between the node and the NAS, the NAS immediately sends an authentication request message to the node. In response, the node sends a request message which includes all parameters options, in addition to responding to the authentication request message, for link configuration and network access control. The NAS then picks and chooses the parameter options and sends back the selected options in a reply message to the node. If the selected options in the reply message meet a threshold, the node straightforwardly transmits user data for network access via the NAS. 
+

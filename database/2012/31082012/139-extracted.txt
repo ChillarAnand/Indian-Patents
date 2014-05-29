@@ -1,0 +1,49 @@
+ 
+The Patent Office Journal 31/08/2012 
+13981
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3005/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :03/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : METHOD AND DEVICE FOR REDUCING ELECTROMAGNETIC EMISSIONS DURING 
+SWITCHING-ON OF POWER SEMICONDUCTOR  
+  
+(51) International classification  :H03K17/16, H03K 17/567  
+(31) Priority Document No  :10 2008 042 895.7  
+(32) Priority Date  :16/10/2008 
+(33) Name of priority country  :Germany 
+(86) International Application No 
+        Filing Date 
+:PCT/EP2009/060709
+:19/08/2009 
+(87) International Publication No  :WO 2010/043437 A1  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)ROBERT BOSCH GMBH 
+      Address of Applicant :POSTFACH 30 02 20, 70442 
+STUTTGART Germany 
+(72)Name of Inventor : 
+   1)HEIMBURGER, STEFAN  
+(57) Abstract : 
+The present subject matter relates to a method for reducing electromagnetic emissions during a switching-on operation of a power 
+semiconductor (16) by means of a current pilot controller (25). The power semiconductor (16) controls a load (12) in such a way that 
+after the switching-on operation, a load current (IL, ID,3, ID,4) flows through the load (12) and the power semiconductor (16). 
+Further, a saturation value (ID.SAT.3, ID SA I I) of the load current (II, ID,3, ID,4) defines an operating point of the power 
+semiconductor (16). Different operating points of the power semiconductor (16) result for different saturation values (ID,SAT,3, 
+ID,SAT,4 ) of the load current (IL, ID,3, ID,4)- According to the present subject matter a control current (Is , IG,3, IG,4) 
+predetermined by the current pilot controller (25) is divided in substantially at least two consecutive half-waves (44, 46). Further, for 
+an operating point of the power semiconductor (16), which corresponds to a highest saturation value (ID,sat,3) of the load current 
+(ID,3), A further half-wave (46) follows a first half-wave (44) when the load current (II, ID,3) has approximately reached a maximum 
+value (ID,max,3) thereof.    
+  
+  
+No. of Pages : 18 No. of Claims : 10 

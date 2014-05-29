@@ -1,0 +1,41 @@
+ 
+The Patent Office Journal 31/08/2012 
+13999
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3026/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :03/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : SECURITY DOCUMENT AND METHODS OF PRODUCING IT  
+  
+(51) International classification  :B42D15/10  
+(31) Priority Document No  :  
+(32) Priority Date  :04/11/2008 
+(33) Name of priority country  :EPO 
+(86) International Application No 
+        Filing Date 
+:PCT/EP09/063483
+:15/10/2009 
+(87) International Publication No  :WO 2010/052106 A2  
+(61) Patent of Addition to Application Number 
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)AGFA GEVAERT NV 
+      Address of Applicant :SEPTESTRAAT 27, B-2640 
+MORTSEL Belgium 
+(72)Name of Inventor : 
+   1)UYTTENDAELE, CARLO  
+(57) Abstract : 
+A security document having in order a) a first laser markable layer, present as a self-supporting layer or as a layer on a support; b) at 
+least one polymeric overlay; and c) a second laser markable layer; wherein the second laser markable layer exhibits a higher laser 
+sensitivity than a non-laser marked area of the first laser markable layer but produces a smaller maximum optical density or a smaller 
+gloss on laser marking. Methods for manufacturing the security document are also disclosed. 
+  
+  
+No. of Pages : 29 No. of Claims : 15 

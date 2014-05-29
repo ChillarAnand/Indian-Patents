@@ -1,0 +1,22 @@
+Application number  =>  949/CHENP/2011 A 
+
+Date of filing of application number  =>  10/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHODS, APPARATUSES AND COMPUTER PROGRAM PRODUCTS FOR PROVIDING TEMPORAL INFORMATION 
+
+Name of applicant  =>  1)NOKIA CORPORATION 
+
+Name of inventor  =>  1)Gabor Bajko 
+
+International Classification  =>  H04W48/16 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/US2008/070238 
+
+International Publication Number  =>   
+
+Abstract  =>  An apparatus for providing temporal information may include a processor. The processor may be configured to provide a request for receipt of temporal information associated with a wireless communication access point, and receive a response to the request prior to either or both of authentication of a device providing the request by the wireless communication access point or association of the device with the wireless communication access point in which the response includes the temporal information. FIG. 2 
+

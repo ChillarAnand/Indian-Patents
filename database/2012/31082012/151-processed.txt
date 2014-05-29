@@ -1,0 +1,22 @@
+Application number  =>  3019/CHENP/2011 A 
+
+Date of filing of application number  =>  03/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  WELLHEAD VALVE SYSTEM FOR ADJUSTING THE FLOW WITH INTEGRATED MULTIPHASE FLOW RATE MEASURING ABILITY 
+
+Name of applicant  =>  1)ENI S.P.A. 
+
+Name of inventor  =>  1)ROTA, VITTORIO 2)DI LULLO, ALBERTO, GIULIO 
+
+International Classification  =>  E21B33/03, E21B 34/02, E21B43/12 
+
+Priority Doc No  =>  MI2008A 001770 
+
+International Application Number  =>  PCT/EP2009/007275 
+
+International Publication Number  =>  WO 2010/040544 A1 
+
+Abstract  =>  The present invention refers to a wellhead valve system for adjusting the flow, for example, of hydrocarbon, comprising a hydraulic control valve (10) for opening the wellhead made up of a valve body (11) provided with a pipe (14,15) for the passage of a flow (F) of fluids, having an inlet opening (12) and an outlet opening (13), interposed between the inlet opening (12) and the outlet opening (13) being an adjustable orifice (16); an actuator (24) adapted to command the valve (10) to close and open, in which the actuator (24) operates on opening and closing means (20) of the adjustable orifice (16); and a position gauge (17) adapted to determine the degree of opening of the adjustable orifice (16), and is characterized in that the position gauge (17) is integral with the opening and closing means (20) of the adjustable orifice (16). Thanks to the accurate measurements carried out by the position gauge (17), it is possible to determine the gas/liquid monophase and/or biphase flow rate value accurately and instantly, based upon data measured by a plurality of fluid and/or flow parameters sensors (22, 23), comprising pressure sensors (22) and temperature sensors (23), preferably positioned integral with the valve body (11). 
+

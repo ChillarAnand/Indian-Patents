@@ -1,0 +1,22 @@
+Application number  =>  762/KOL/2010 A 
+
+Date of filing of application number  =>  13/07/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  OIL MIST SEPARATOR 
+
+Name of applicant  =>  1)MAHLE FILTER SYSTEMS JAPAN CORPORATION 
+
+Name of inventor  =>  1)WATANABE, TATSUYA 2)MUSHA, SHINICHI 
+
+International Classification  =>  F01M13/04 
+
+Priority Doc No  =>  2009-284631 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  An oil mist separator including a tubular volume chamber into which a gas is introduced, a tubular valve body that is so disposed as to slidably move relative to one axial end portion of the volume chamber, a plurality of communication passages defined by the one axial end portion of the volume chamber and the valve body, and an impact wall disposed in an opposed relation to the communication passages such that the gas flowed out through the communication passages is impacted against the impact wall, wherein the communication passages are configured such that as the pressure of the gas flowing into the volume chamber is increased, a sectional area of each of the communication passages becomes larger. 
+

@@ -1,0 +1,22 @@
+Application number  =>  1061/MUMNP/2011 A 
+
+Date of filing of application number  =>  25/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  HIGH DYNAMIC RANGE IMAGE COMBINING 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)ATANASSOV Kalin M. 2)VELARDE Ruben M. 3)LI Hsiang-Tsun 4)HWANG Hau 
+
+International Classification  =>  G06T 5/40,G06T 5/50 
+
+Priority Doc No  =>  12/340,474 
+
+International Application Number  =>  PCT/US2009/068834 
+
+International Publication Number  =>  WO/2010/071839 
+
+Abstract  =>  Systems and methods of high dynamic range image combining are disclosed. In a particular embodiment, a device includes a global mapping module configured to generate first globally mapped luminance values within a region of an image, a local mapping module configured to generate second locally mapped luminance values within the region of the image, and a combination module configured to determine luminance values within a corresponding region of an output image using a weighted sum of the first globally mapped luminance values and the second locally mapped luminance values. A weight of the weighted sum is at least partially based on a luminance variation within the region of the image. 
+

@@ -1,0 +1,42 @@
+The Patent Office Journal 30/12/2011 
+ 
+25572
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1076/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :16/02/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : MACHINE FOR DISPENSING BEVERAGES  
+  
+(51) International classification  :A47J31/52, G07F7/10  
+(31) Priority Document No  :FI2008A000141  
+(32) Priority Date  :25/07/2008 
+(33) Name of priority country  :Italy 
+(86) International Application No 
+        Filing Date 
+:PCT/IT2009/000297
+:07/07/2009 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+      Address of Applicant :GROENEWOUDSEWEG 1 
+EINDHOVEN  5621 BA  NETHERLANDS   
+(72)Name of Inventor : 
+   1)CASTELLANI Andrea 
+   2)PILONE  Ciro  Adelmo  
+(57) Abstract : 
+The machine (1) comprises: at least one infusion unit (29) for preparing coffee, a user interface (9) and an electronic programmable 
+control unit (15). The control unit is associated with a recognition system (11) for recognizing a user, and is programmed to actuate at 
+least one function of the machine based upon the recognition of the user. Fig. 1 
+  
+ 
+No. of Pages : 27 No. of Claims : 20 

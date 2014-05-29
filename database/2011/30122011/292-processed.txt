@@ -1,0 +1,22 @@
+Application number  =>  1321/CHENP/2011 A 
+
+Date of filing of application number  =>  25/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  SYSTEMS, METHODS, AND COMPUTER READABLE MEDIA FOR TRIGGERLESS MOBILE LOCATION BASED ROUTING / SCREENING 
+
+Name of applicant  =>  1)Tekelec 
+
+Name of inventor  =>  1)MCCANN Thomas M. 2)NAS Petrus Wilhelmus Adrianus Jacobus Maria 3)MARSICO Peter Joseph 
+
+International Classification  =>  H04W40/04, H04W8/02 
+
+Priority Doc No  =>  61/085,666 
+
+International Application Number  =>  PCT/US2009/052604 
+
+International Publication Number  =>   
+
+Abstract  =>  Methods, systems, and computer readable media for performing triggerless mobile location-based screening and routing are disclosed. According to one aspect, the subject matter described herein includes a method for performing triggerless mobile location-based screening and routing. A telecommunications network element receives a mobility management message associated with a mobile subscriber, extracts from the mobility management message information identifying the mobile subscriber and location information associated with the mobile subscriber, and stores the extracted location information associated with the mobile subscriber. The network element receives a call setup message associated with a call from the mobile subscriber, extracts from the call setup message information identifying the mobile subscriber, retrieves the stored location information associated with the mobile subscriber, and performs a screening or routing function based on the location information associated with the mobile subscriber. 
+

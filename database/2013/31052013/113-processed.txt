@@ -1,0 +1,22 @@
+Application number  =>  9815/CHENP/2011 A 
+
+Date of filing of application number  =>  27/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  SYSTEM COMPATIBILITY METHOD AND APPARATUS 
+
+Name of applicant  =>  1)Huawei Technologies Co. Ltd. 
+
+Name of inventor  =>  1)LV Yongxia 2)WANG Xuehuan 3)XIONG Xin 4)MO Junxian 5)ZHAO Qiyong 
+
+International Classification  =>  H04W 16/00 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/CN2009/072261 
+
+International Publication Number  =>   
+
+Abstract  =>  A system compatibility method and device are provided. The method involves sending information carried by a downlink resource according to a downlink resource configured in the new frame structure of the first system wherein the information carried by the downlink resource includes downlink resource carrier information which is compatible with the second system (110); receiving information carried by the uplink resource according to the uplink resource configured in the new frame structure of the first system wherein the information carried by the downlink resource includes uplink resource carrier information which is compatible with the second system (120). The invention reduces interference between systems enables compatibility between different systems and maximizes resource utility and system capacity. 
+

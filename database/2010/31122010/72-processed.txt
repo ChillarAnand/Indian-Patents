@@ -1,0 +1,22 @@
+Application number  =>  1500/MUM/2009 A 
+
+Date of filing of application number  =>  24/06/2009 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  TENSION ADJUSTMENT STRUCTURE FOR FABRIC WINDING MACHINE 
+
+Name of applicant  =>  1)PAILUNG MACHINERY MILL CO., LTD 
+
+Name of inventor  =>  1)SHIN-CHI CHEN 
+
+International Classification  =>  G10D3/00 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A tension adjustment structure for fabric winding machine includes a driving mechanism (20), a roller (30), a fabric pressing mechanism (40) and an adjustment mechanism. The roller (30) and the driving mechanism (20) have corresponding transmission wheels (101, 102) strode by a belt (103). The driving mechanism (20) drives the roller (30) to roll up a fabric (90). The fabric pressing mechanism (40) has an action arm (41) and a-fabric pressing bar (42) located on the action arm (41). The fabric pressing bar (42) has a first position without in contact with the fabric (90) and a second position in contact with the fabric (90) and lifted by the fabric. The adjustment mechanism is butted by the action arm (41) when the fabric pressing bar (42) is at the first position to butt the belt (103) and increase initial rolling force of the roller (30). The action arm (41) releases the belt (103) while the fabric pressing bar (42) is at the second position so that fabric rolling tightness can be controlled. 
+

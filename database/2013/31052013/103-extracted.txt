@@ -1,0 +1,43 @@
+The Patent Office Journal 31/05/2013 12074
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9781/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :26/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : FLIP FLOP SHIFT REGISTER DISPLAY DRIVE CIRCUIT DISPLAY APPARATUS AND
+DISPLAY PANEL
+(51) International classification :H03K 3/356
+(31) Priority Document No :2009-144746
+(32) Priority Date :17/06/2009
+(33) Name of priority country :Japan
+(86) International Application No
+Filing Date
+:PCT/JP2010/002196
+:26/05/2010
+(87) International Publication No :WO 2010/146756A1
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)SHARP KABUSHIKI KAISHA
+Address of Applicant :22-22, NAGAIKE-CHO, ABENO-
+KU, OSAKA-SHI, OSAKA 545-8522 Japan
+(72)Name of Inventor :
+1)YUHICHIROH MURAKAMI
+2)SHIGE FURUTA
+3)YASUSHI SASAKI
+4)MAKOTO YOKOYAMA
+5)TAKAHIRO YAMAGUCHI
+(57) Abstract :
+A flip-flop includes: a first (P), second (N), third (P), and fourth (N) transistors; input terminals; and first and second output
+terminals, the first and second transistors constituting a first CMOS circuit such that gate terminals are connected and drain
+terminals are connected, the third and fourth transistors constituting a second CMOS circuit such that gate terminals are connected
+and drain terminals are connected, the first output terminal connected to a gate side of the first CMOS circuit and a drain side of
+the second CMOS circuit, the second output terminal connected to a gate side of the second CMOS circuit and a drain side of the
+first CMOS circuit, at least one input transistor included in the group of the first through fourth transistors, a source terminal of the
+input transistor being connected to one of the input terminals. This can provide a further compact flip-flop.
+No. of Pages : 164 No. of Claims : 39

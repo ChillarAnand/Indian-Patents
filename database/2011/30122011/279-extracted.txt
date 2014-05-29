@@ -1,0 +1,44 @@
+The Patent Office Journal 30/12/2011 
+ 
+25616
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1257/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :23/02/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : A PANEL DISPLAY SUSPENSION SYSTEM AND A PANEL DISPLAY PROVIDED WITH A 
+PANEL DISPLAY SUSPENSION SYSTEM  
+  
+(51) International classification  :F16M11/10, A47B95/00  
+(31) Priority Document No  :08161245.9  
+(32) Priority Date  :28/07/2008 
+(33) Name of priority country  :EPO 
+(86) International Application No 
+        Filing Date 
+:PCT/IB2009/053197 
+:23/07/2009 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+      Address of Applicant :GROENEWOUDSEWEG 1 
+EINDHOVEN  5621 BA  NETHERLANDS   
+(72)Name of Inventor : 
+   1)DELVA  Pieter  J. 
+   2)VERDIN  Maxime  L.  M.  J.  
+(57) Abstract : 
+A panel display suspension system comprising a first mounting part and a second mounting part. In order to be able to easily adjust the 
+horizontal position of a suspended panel display (7) the first mounting part is provided with a supporting rail-shaped body (1) and the 
+second mounting part is provided with supporting movers (3) for cooperation with the rail-shaped body. One of the mounting parts is 
+configured for securing to the panel display and the other mounting part is configured for securing to a wall. Fig. 1 
+  
+ 
+No. of Pages : 14 No. of Claims : 12 

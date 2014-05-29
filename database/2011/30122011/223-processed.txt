@@ -1,0 +1,22 @@
+Application number  =>  1025/CHENP/2011 A 
+
+Date of filing of application number  =>  14/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  CORE LAYER STRUCTURE HAVING VOLTAGE SWITCHABLE DIELECTRIC MATERIAL 
+
+Name of applicant  =>  1)Shocking Technologies Inc. 
+
+Name of inventor  =>  1)KOSOWSKY Lex 2)FLEMING Robert 
+
+International Classification  =>  H05K1/02 
+
+Priority Doc No  =>  61,091,288 
+
+International Application Number  =>  PCT/US2009/054062 
+
+International Publication Number  =>   
+
+Abstract  =>  A core layer structure is provided for substrate and packed devices. The core layer structure includes a first layer, a second layer combined with the first layer. A layer of voltage switchable dielectric (VSD) material provided in between the first layer and second layer. 
+

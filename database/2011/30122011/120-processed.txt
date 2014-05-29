@@ -1,0 +1,22 @@
+Application number  =>  1003/MUMNP/2011 A 
+
+Date of filing of application number  =>  18/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  POWER MANAGEMENT IN A MOBILE DEVICE 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)CASKEY Mark Stirling 
+
+International Classification  =>  H04W 68/00 
+
+Priority Doc No  =>  12/334,162 
+
+International Application Number  =>  PCT/US2009/067677 
+
+International Publication Number  =>  WO/2010/068869 
+
+Abstract  =>  Apparatuses, systems and methods for reducing power consumption during standby operation of a mobile device are disclosed. A page decoding algorithm can be stored in nonvolatile memory during standby. The page decoding algorithm can be executed from the nonvolatile memory, when the mobile device is awakened from a sleep state to determine if there is any activity such as an incoming call. No power is required for the nonvolatile memory to maintain storage of the algorithm so that the power requirement during standby of the mobile device is reduced. 
+

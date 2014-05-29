@@ -1,0 +1,43 @@
+The Patent Office Journal 31/05/2013 12089
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9834/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :27/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : IMAGE ENCODING DEVICE, IMAGE DECODING DEVICE, IMAGE ENCODING METHOD,
+AND IMAGE DECODING METHOD
+(51) International classification :H04N7/32
+(31) Priority Document No :2009-130433
+(32) Priority Date :29/05/2009
+(33) Name of priority country :Japan
+(86) International Application No
+Filing Date
+:PCT/JP2010/003553
+:27/05/2010
+(87) International Publication No :WO 2010/137324A1
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)MITSUBISHI ELECTRIC CORPORATION
+Address of Applicant :7-3, MARUNOUCHI 2-CHOME,
+CHIYODA-KU, TOKYO 100-8310 Japan
+(72)Name of Inventor :
+1)SEKIGUCHI, SHUNICHI
+2)SUGIMOTO, KAZUO
+3)ITANI, YUSUKE
+4)MINEZAWA, AKIRA
+5)KATO, YOSHIAKI
+(57) Abstract :
+Disclosed is an image encoding device including a predicting unit 4 for adaptively determining the size of each motion prediction
+unit block according to color component signals, and for dividing each motion prediction unit block into motion vector allocation
+regions to search for a motion vector, and a variable length encoding unit 8 for, when a motion vector is allocated to the whole of
+each motion prediction unit block, performing encoding in mc_skip mode if the motion vector is equal to an estimated vector and
+a prediction error signal 5 does not exist, and for, when each motion vector allocation region has a size equal to or larger than a
+predetermined size and a motion vector is allocated to the whole of each motion vector allocation region, performing encoding in
+sub_mc_skip mode if the motion vector is equal to an estimated vector and a prediction error signal 5 does not exist.
+No. of Pages : 82 No. of Claims : 4

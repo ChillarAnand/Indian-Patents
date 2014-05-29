@@ -1,0 +1,43 @@
+The Patent Office Journal 31/05/2013 12032
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2593/CHENP/2012 A
+(19) INDIA
+(22) Date of filing of Application :21/03/2012 (43) Publication Date : 31/05/2013
+(54) Title of the invention : RELIABILITY CALCULATION FOR SUBSTATION AUTOMATION SYSTEMS
+(51) International classification :G05B23/02
+(31) Priority Document No :09171343.8
+(32) Priority Date :25/09/2009
+(33) Name of priority country :EPO
+(86) International Application No
+Filing Date
+:PCT/EP2010/063363
+:13/09/2010
+(87) International Publication No :WO 2011/036067A1
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)ABB RESEARCH LTD.
+Address of Applicant :AFFOLTERNSTRASSE 44, CH-
+8050 ZURICH Switzerland
+(72)Name of Inventor :
+1)FREI, CHRISTIAN
+2)TOURNIER, JEAN-CHARLES
+3)WERNER, THOMAS
+4)WIMMER, WOLFGANG
+(57) Abstract :
+The present invention automatically extracts, to a maximum extent, reliability-relevant information from a Substation
+Configuration Description (SCD) file describing a electric power transmission or distribution substation. In particular, the
+information present in the SCD file is used to identify the physical topology of a communication network of the Substation
+Automation (SA) system, as well as all dataflow relating to a given SA functionality or Logical Node (LN). An LN reliability
+measure for the latter is calculated, involving reliability indications specific to each element or device participating in said
+dataflow. Finally, a number of LN reliability measures are consolidated to produce an overall reliability for the SA system
+architecture or communication network topology considered. The proposed invention minimizes the engineering effort required to
+perform a reliability calculation, and thus allows comparing the reliability of different SA architectures with minimal effort and
+intervention of a reliability engineer.
+No. of Pages : 17 No. of Claims : 7

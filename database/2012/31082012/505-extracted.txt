@@ -1,0 +1,47 @@
+ 
+The Patent Office Journal 31/08/2012 
+13564
+(12) PATENT APPLICATION PUBLICATION (21) Application No.431/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :21/02/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : INTERNAL GEAR MACHINING METHOD AND INTERNAL GEAR MACHINING DEVICE  
+  
+(51) International classification  :B23F 5/04  
+(31) Priority Document No  :2009-192770  
+(32) Priority Date  :24/08/2009 
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date 
+:PCT/JP2010/063351
+:06/08/2010 
+(87) International Publication No  :WO/2011/024626  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)MITSUBISHI HEAVY INDUSTRIES, LTD. 
+      Address of Applicant :16-5, KONAN 2-CHOME, MINATO-
+KU, TOKYO 1088215, JAPAN. 
+(72)Name of Inventor : 
+   1)YANASE YOSHIKOTO 
+   2)OCHI, MASASHI  
+(57) Abstract : 
+Provided are an internal gear machining method and an interna] gear machining device, by which a precise tooth profile grinding can 
+be realized by correcting a tooth profile error when grinding of a tooth profile of an internal gear is performed using a barrel-shaped 
+threaded grinding wheel. An NC device (31) which functions as a tooth profile error correction means in an internal gear grinding 
+machine (internal gear machining device) reduces a measured pressure angle error (∆faL ∆faR) of a workpiece (W) (internal gear) at a 
+tooth face by correcting the radial position/ the lateral position of the grinding wheel, the turning angle of the grinding wheel, and the 
+helical motion; reduces a measured error (∆L) in the direction of a tooth trace of the workpiece (W) at a tooth face by correcting the 
+helical motion; and reduces a measured tooth thickness error (Ath) of the workpiece (W) at a tooth face by correcting the radial 
+position, the lateral position of the grinding wheel, and the helical motion. 
+  
+  
+No. of Pages : 45 No. of Claims : 8 

@@ -1,0 +1,22 @@
+Application number  =>  2138/DELNP/2011 A 
+
+Date of filing of application number  =>  22/03/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  PROPYLENE-BASED BLOCK COPOLYMER, COMPOSITION CONTAINING THE COPOLYMER, AND MOLDED PRODUCTS OBTAINED THEREFROM 
+
+Name of applicant  =>  1)MITSUI CHEMICALS, INC., 
+
+Name of inventor  =>  1)KAZUHISA MATSUNAGA 2)KEITA ITAKURA 
+
+International Classification  =>  C08F 29/08 
+
+Priority Doc No  =>  2008-242799 
+
+International Application Number  =>  PCT/JP2009/066274 
+
+International Publication Number  =>  WO 2010/032793 
+
+Abstract  =>  To provide a propylene-based block copolymer which has high melt viscoelasticity, excellent balance between rigidity and impact resistance and good molding processablility and is extremely excellent in its molded product appearance, a composition containing the copolymer and molded products obtained therefrom. The propylene-based block copolymer comprises 5 to 80% by weight of a room temperature n-decane-soluble portion (Dsol) and 20 to 95% by weight of a room temperature n-decane-insoluble portion (Dinsol), with the proviso that the total amount of the Dsol and the Dinsol is 100% by weight, and satisfies the following requirements [1] to [3] at the same time: [1] the molecular weight distribution (Mw/Mn) of the Dsol is not less than 7. 0 but not more than 30, [2] the molecular weight distribution (Mw/Mn) of the Dinsol is not less than 7.0 but not more than 30, and Mz/Mw thereof is not less than 6.0 but not more than 20, and [3] the pentad fraction (mmmm) of the Dinsol is not less than 93%. 
+

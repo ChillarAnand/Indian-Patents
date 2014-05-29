@@ -1,0 +1,47 @@
+The Patent Office Journal 30/12/2011 
+ 
+25743
+(12) PATENT APPLICATION PUBLICATION (21) Application No.760/KOL/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :12/07/2010 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : METHOD AND APPARATUS FOR GENERATING RANGING PREAMBLE CODE IN WIRELESS 
+COMMUNICATION SYSTEM  
+  
+(51) International classification  :H04W68/02 
+(31) Priority Document No  :61/225,212 
+(32) Priority Date  :14/07/2009
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)LG ELECTRONICS INC. 
+      Address of Applicant :20, YEOUIDO-DONG, 
+YEONGDEUNGPO-GU, SEOUL REPUBLIC OF KOREA 
+(72)Name of Inventor : 
+   1)LEE, HYUN WOO 
+   2)KWON, YEONG HYEON 
+   3)CHO, HAN GYU 
+   4)KWAK, JIN SAM 
+   5)HAN, SEUNG HEE  
+(57) Abstract : 
+A method and apparatus of generating a ranging preamble code in a wireless communication system is provided. A mobile station 
+(MS) receives ranging channel information, and generates the ranging preamble code by selecting one of a plurality of candidate 
+ranging preamble codes based on the ranging channel information. The plurality of candidate ranging preamble codes are based on a 
+Zadoff-Chu (ZC) sequence of which a length is NRP and a root index is rp, and The ranging channel information comprises at least 
+one of a start root index r0 among root indices of the plurality of candidate ranging preamble codes and a control parameter y 
+indicating the start root index.  
+ 
+No. of Pages : 63 No. of Claims : 20 

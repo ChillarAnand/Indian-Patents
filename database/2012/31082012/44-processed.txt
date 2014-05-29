@@ -1,0 +1,22 @@
+Application number  =>  2851/CHENP/2011 A 
+
+Date of filing of application number  =>  27/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  MOBILE COMMUNICATION SYSTEM 
+
+Name of applicant  =>  1)MITSUBISHI ELECTRIC CORPORATION 
+
+Name of inventor  =>  1)MAEDA, MIHO 2)MOCHIZUKI, MITSURU 3)SAEGUSA, TAIGA 4)IWANE, YASUSHI 5)KAKEHI, YUJI 6)NAKAZAWA, MASAYUKI 7)SUEMITSU, TAISEI 
+
+International Classification  =>  H04W48/14, H04W48/16, H04W84/10 
+
+Priority Doc No  =>  2008-283004 
+
+International Application Number  =>  PCT/JP09/005622 
+
+International Publication Number  =>  WO 2010/052843 A1 
+
+Abstract  =>  A closed subscriber group (CSG) cell is a cell that allows use of subscribers. In order to receive the service by the CSG cell, a CSG-ID is required to be notified to a user equipment, which cannot be obtained in a situation outside the reach of radio waves from a non- CSG cell. In a mobile communication system including base stations respectively provided to a CSG cell and a non-CSG cell in which access is made to the CSG cell with the use of a CSG-ID issued in a case where use of the CSG cell is allowed, the base station provided in the CSG cell refers to the notified identification information of a user equipment and then transmits a tracking area update request from the user equipment to a core network, and the core network determines whether the user equipment is allowed to use the CSG cell and, in the case where the use is allowed, transmits a signal for allowing assignment of radio resources to the user equipment and the CSG-ID. The user equipment accesses the CSG cell with the use of the CSG-ED. 
+

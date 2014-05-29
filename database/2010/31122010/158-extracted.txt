@@ -1,0 +1,47 @@
+The Patent Office Journal 31/12/2010 
+ 
+5424
+(12) PATENT APPLICATION PUBLICATION (21) Application No.4143/KOLNP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :03/11/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : MODULAR RING-SHAPED CORE  
+  
+(51) International classification  :H01F 30/16  
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date 
+:PCT/EP2008/003826
+:13/05/2008 
+(87) International Publication No  :WO 2009/138101  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)ABB TECHNOLOGY AG 
+      Address of Applicant :AFFOLTERNSTRASSE 44 CH-8050 
+ZÜRICH SWITZERLAND. 
+(72)Name of Inventor : 
+   1)JOHNSON, CHARLES W. 
+   2)LEANDER, JAN 
+   3)BILEK, KAREL 
+   4)WEBER, BENJAMIN  
+(57) Abstract : 
+The invention relates to a ring-shaped core for a power transformer (18), wherein the ring-shaped core extends about an imaginary 
+center axis (70) in the form of a closed toroidal structure and is constituted of a plurality of adjacent layers of sheet metal. The ring- 
+shaped core, along the length of the toroidal structure, is constituted of at least three core section modules (11) that can be connected 
+to and detached from each other, the core section modules being interconnected by an overlap of individual sheet layers and/or sheet 
+layer sections. The invention also relates to the arrangement of ring-shaped cores having winding modules (100). The latter can be 
+arranged in a common connecting structure and every ring core having winding modules (101-103, 111-113, 121 -123) arranged 
+therein can be separately introduced into the connecting structure and removed therefrom in a non- destructive manner.  
+  
+No. of Pages : 19 No. of Claims : 14 

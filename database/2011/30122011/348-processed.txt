@@ -1,0 +1,22 @@
+Application number  =>  970/CHENP/2011 A 
+
+Date of filing of application number  =>  10/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  INTER-SECTOR CONTROL CHANNEL TRANSMISSION 
+
+Name of applicant  =>  1)QUALCOMM Incorporated 
+
+Name of inventor  =>  1)JULIAN David 2)GORE Dhananjay 
+
+International Classification  =>  H04W16/02 
+
+Priority Doc No  =>  12/199,413 
+
+International Application Number  =>  PCT/US2009/055179 
+
+International Publication Number  =>   
+
+Abstract  =>  Provided is a more efficient manner of transmitting a control message to reach into a neighboring sector (e.g., inter-sector) of a wireless network environment. The control message can be utilized for purposes such as handoff, indicating an amount of interference, inter-sector power control for managing inter-sector interference, sector loading, or other control messages. The control message can be placed on a set of resources utilizing planned reuse and/or statistical reuse. Statistical reuse includes selecting a subcarrier set for carrying the control message. According to some aspects, the control message can be sent over a backhaul channel. 
+

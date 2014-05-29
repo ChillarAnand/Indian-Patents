@@ -1,0 +1,22 @@
+Application number  =>  1160/MUMNP/2011 A 
+
+Date of filing of application number  =>  07/06/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  HYDROGEN GENERATOR AND METHOD FOR OPERATING THE SAME 
+
+Name of applicant  =>  1)PANASONIC CORPORATION 
+
+Name of inventor  =>  1)NAKAMURA Akinari 2)URATA Takayuki 3)YASUDA Shigeki 4)YUKIMASA Akinori 
+
+International Classification  =>  C01B 3/38 
+
+Priority Doc No  =>  2009-139745 
+
+International Application Number  =>  PCT/JP2010/003333 
+
+International Publication Number  =>  WO/2010/143358 
+
+Abstract  =>  A hydrogen generator of the present invention includes: a reformer (1) including a reforming catalyst (1A) containing nickel and configured to generate a hydrogen-rich fuel gas by using a raw material and steam; a temperature detector (12) configured to detect a temperature of the reforming catalyst (1A); a purge gas supplying device (7) configured to supply a purge gas to the reformer (1); and a controller (13). When the temperature detected by the temperature detector (12) is a first predetermined temperature or higher, the controller (13) purges the reformer (1) with the purge gas supplied from the purge gas supplying device (7). 
+

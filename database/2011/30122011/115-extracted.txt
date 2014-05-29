@@ -1,0 +1,48 @@
+The Patent Office Journal 30/12/2011 
+ 
+25452
+(12) PATENT APPLICATION PUBLICATION (21) Application No.218/DELNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :11/01/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : NOVEL COMPOUNDS, USE THEREOF AS MEDICAMENTS, AND METHOD FOR THE 
+PREPARATION THEREOF  
+  
+(51) International classification  :C07C 257/14  
+(31) Priority Document No  :08/03940  
+(32) Priority Date  :10/07/2008 
+(33) Name of priority country  :France 
+(86) International Application No 
+        Filing Date 
+:PCT/FR2009/051388 
+:10/07/2009 
+(87) International Publication No  :WO 2010/004231  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)UNIVERSITE HENRI POINCARE NANCY 1 
+      Address of Applicant :24-30, RUE LIONNOIS, F-54003 
+NANCY CEDEX FRANCE.  
+(72)Name of Inventor : 
+   1)DUVAL RAPHAEL EMMANUEL 
+   2)GRARE MARION 
+   3)MOURER MAXIME 
+   4)REGNOUF-DE-VAINS JEAN-BERNARD  
+(57) Abstract : 
+The invention relates to novel compounds of the following formula (I):in which: n represents an integer from 1 to 12, in particular 
+from 1 to 8, m and m' represent, independently of one another, integers from 0 to 8. q and q' represent, independently of one another, 
+integers from 0 to 2, p and p' represent, independently of one another, integers from 0 to 4, A and A' represent, independently of one 
+another, a CH2 group, (particular case of amidines) an NH group or an NR group, in which R is a linear or branched alkyl group with 
+1 to 3 carbon atoms, B and B' represent, independently of one another, an oxygen atom or a CH2 group, R and R' are, independently 
+of one another, a halogen, such as chlorine, bromine, iodine or fluorine atoms, or a linear or branched alkyl group with 1 to 3 carbon 
+atoms.use thereof as medicaments and the method of preparation thereof.  
+  
+No. of Pages : 97 No. of Claims : 27 

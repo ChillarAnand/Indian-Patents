@@ -1,0 +1,22 @@
+Application number  =>  1288/KOL/2010 A 
+
+Date of filing of application number  =>  15/11/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD AND SYSTEM FOR CONTROLING AN ENGINE DURING DIESEL PARTICULATE FILTER REGENERATION WARM-UP 
+
+Name of applicant  =>  1)GM GLOBAL TECHNOLOGY OPERATIONS, INC. 
+
+Name of inventor  =>  1)JULIAN C. TAN 2)JOHN ZEILSTRA 3)CHRISTOPH THOELE 4)GUSTAVO TEPEDINO 
+
+International Classification  =>  F01N9/00 
+
+Priority Doc No  =>  12/683,048 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A method and control system for controlling an engine during diesel particulate filter regeneration includes a diesel particulate filter (DPF) regeneration request module that generates a DPF regeneration request signal. The control system also includes a DPF regeneration control module that controls the oxygen level in the exhaust based on an oxygen level signal corresponding to an oxygen level in the exhaust and a DPF inlet temperature signal corresponding to the DPF inlet temperature. 
+

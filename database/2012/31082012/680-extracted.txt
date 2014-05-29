@@ -1,0 +1,54 @@
+ 
+The Patent Office Journal 31/08/2012 
+13739
+(12) PATENT APPLICATION PUBLICATION (21) Application No.757/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :26/03/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : ENDOTRACHEAL TUBE APPARATUS  
+  
+(51) International classification  :A61N 1/05  
+(31) Priority Document No  :61/248,294  
+(32) Priority Date  :02/10/2009 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US10/051132
+:01/10/2010 
+(87) International Publication No  :WO/2011/041684 
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)MEDTRONIC-XOMED, INC. 
+      Address of Applicant :6743 SOUTHPOINT DRIVE, NORTH, 
+JACKSONVILLE, FLORIDA 32216-0980 UNITED STATES OF 
+AMERICA. 
+(72)Name of Inventor : 
+   1)HACKER, DAVID 
+   2)STANISLAUS, CHARLES 
+   3)LI, WENJENG 
+   4)YAMASAKI, SONNY 
+   5)BRUNNETT, WILLIAM 
+   6)MCFARLIN, KEVIN 
+   7)HISSONG, BRITT 
+   8)VACCARO, ROB 
+   9)MURPHY, JOHN 
+   10)PAGOTTO, CARLA 
+   11)SCHULER, TINO  
+(57) Abstract : 
+An apparatus lor monitoring EMG signals of a patients laryngeal muscles includes an endotracheal tube having an exterior surface. 
+Conductive ink electrodes are fonned on the exterior surface of the endotracheal tube. The conductive ink electrodes are configured to 
+receive the EMG signals from the laryngeal muscles when the endotracheal tube is placed in a trachea of the patient. At least one 
+conductor is coupled to the conductive ink electrodes and is configured to carry die EMG signals received by the conductive ink 
+electrodes to a processing apparatus. 
+  
+  
+No. of Pages : 65 No. of Claims : 21 

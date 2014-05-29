@@ -1,0 +1,22 @@
+Application number  =>  904/MUMNP/2012 A 
+
+Date of filing of application number  =>  11/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  HUMAN SECURITY AND SURVIVAL SYSTEM 
+
+Name of applicant  =>  1)ROCHET, JEAN-LUC 
+
+Name of inventor  =>  1)ROCHET, JEAN-LUC 
+
+International Classification  =>  G06Q 10/00 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/EP2009/007166 
+
+International Publication Number  =>  WO/2011/042033 
+
+Abstract  =>  The invention relates to a method and system of filling and maintaining a database containing geo-localized user data comprising the following steps: - receiving registration data from users, - generating a personalized user-environment like a dynamically generated personal WebPage; - requesting and storing of HSS-data of the registered user by means of the personal WebPage using the Internet; - maintaining the database by checking the HSS-data each time the user makes direct or indirect contact with the personal WebPage. 
+

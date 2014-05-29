@@ -1,0 +1,22 @@
+Application number  =>  2885/CHENP/2011 A 
+
+Date of filing of application number  =>  28/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  COMPOSITIONS AND METHODS FOR FUNCTIONALIZING OR CROSSLINKING LIGANDS ON NANOCRYSTAL SURFACES 
+
+Name of applicant  =>  1)LIFE TECHNOLOGIES CORPORATION 
+
+Name of inventor  =>  1)TULSKY, ERIC 2)HUANG, WENXI 3)GOODWIN, JAMES 4)ZHAO, WEIWEN 
+
+International Classification  =>  B82B3/00 
+
+Priority Doc No  =>  61/102,666 
+
+International Application Number  =>  PCT/US2009/059409 
+
+International Publication Number  =>  WO 2010/040074 A3 
+
+Abstract  =>  This disclosure provides novel ways to modify/functionalize, including crosslink, ligands in the surface coating or molecules in other coatings on a nanoparticle, by using radical addition reactions to add a reactant group onto a ligandimolecule of a nanoparticle. Examples include using a functionalized benzophenone that can be attached or crosslinked to a ligand in the surface coating of a nanocrystal by photochemically-initiated radical addition. 
+

@@ -1,0 +1,22 @@
+Application number  =>  4188/KOLNP/2010 A 
+
+Date of filing of application number  =>  08/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  CHIP CARD HAVING TRANSMITTING AND RECEIVING DEVICE, AND ANTENNA FOR RADIO TRANSMISSIONS 
+
+Name of applicant  =>  1)DEUTSCHE TELEKOM AG 
+
+Name of inventor  =>  1)WALTER KELLER 
+
+International Classification  =>  G06K 19/07 
+
+Priority Doc No  =>  10 2008 018 896.4 
+
+International Application Number  =>  PCT/EP2009/000472 
+
+International Publication Number  =>  WO 2009/127279 
+
+Abstract  =>  The invention relates to a SIM card (21) or chip card (20), particularly for authenticating at least one mobile terminal, wherein the SIM card (21) comprises at least one processor (1) and contact areas (22) for connecting the SIM card (21) to a mobile terminal, wherein the SIM card (21) comprises an antenna (15, 23) or comprises further contact areas (14, 24) for connecting to an antenna (15, 23), and that the SIM card (21) comprises a radio interface (200) for establishing and maintaining a short-range radio connection. 
+

@@ -1,0 +1,22 @@
+Application number  =>  416/DEL/2010 A 
+
+Date of filing of application number  =>  24/02/2010 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  SYSTEM FOR ADJUSTING TEMPERATURE OF FLUE GAS IN WASTE HEAT RECOVERY (WHR) BOILER OUTLET OF PRE HEATER IN CEMENT KILN 
+
+Name of applicant  =>  1)Dalian East New Energy Development Co. Ltd 
+
+Name of inventor  =>  1)Tang Jinquan 
+
+International Classification  =>  F28C 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A system for adjusting temperature of flue gas at the outlet of a waste heat recovery boiler of a pre-heater in a cement kiln is described herein. The system includes a conditioning tower, a waste heat boiler, and at least one low pressure steam boiler provided at the outlet of the waste heat boiler. The conditioning tower conditions the flue gas coming from a pre-heater of the cement kiln, the waste heat boiler condenses flue gases coming from the pre-heater, thereby producing steam, and the low pressure steam boiler adjusts the pressure of the flue gas coming out of the waste heat boiler. REFER FIGURE I 
+

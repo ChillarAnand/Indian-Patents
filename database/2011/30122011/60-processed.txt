@@ -1,0 +1,22 @@
+Application number  =>  2126/DELNP/2011 A 
+
+Date of filing of application number  =>  21/03/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  INTERRELATED ITEM SEARCH 
+
+Name of applicant  =>  1)SATYA REDDY 
+
+Name of inventor  =>  1)SATYA REDDY 
+
+International Classification  =>  G06F 7/00 
+
+Priority Doc No  =>  61/090,893 
+
+International Application Number  =>  PCT/US2009/054701 
+
+International Publication Number  =>  WO 2010/022378 
+
+Abstract  =>  Systems and methods to search in response to query consisting of a plurality of keywords, by processing for relevance of all possible valid relations among keywords in the query The overall space of all possible valid relations among all of the keywords in the underlying documents are pre-computed based on transitivity rules using common property items in associated ontologies The query keyword are substituted by considering each keyword as well as valid groups as a whole, based on all reachable valid keywords along every relation computed in the overall merged ontologies Building the knowledgebase with the classification of keywords in different ontologies, fundamentals of building hierarchical part-of graph augmented with same-as and kind. 
+

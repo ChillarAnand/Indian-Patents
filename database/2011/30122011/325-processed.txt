@@ -1,0 +1,22 @@
+Application number  =>  1773/CHE/2010 A 
+
+Date of filing of application number  =>  23/06/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  TESTING COMPATIBILITY OF A COMPUTER APPLICATION 
+
+Name of applicant  =>  1)HEWLETT-PACKARD DEVELOPMENT COMPANY L.P. 
+
+Name of inventor  =>  1)Nitin Harvadan NAGORIA 2)Shiva Sm PRAKASH 
+
+International Classification  =>  G06F 11/25 ; G06F 11/34 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  Presented is a method, system, computer readable instructions executable code and computer storage medium for testing compatibility between a computer application and a target computer platform. Configuration parameters of a computer application are provided to a computer system for comparison against a database to determine whether the configuration parameters of the computer application and the configuration parameters of a target computer platform are compatible or incompatible. FIG. 1 
+

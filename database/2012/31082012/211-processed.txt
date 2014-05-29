@@ -1,0 +1,22 @@
+Application number  =>  3092/CHENP/2011 A 
+
+Date of filing of application number  =>  05/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  PROCESS FOR PREPARING ISOCYANATES 
+
+Name of applicant  =>  1)BASE SE 
+
+Name of inventor  =>  1)MATTKE, TORSTEN 2)KNOSCHE, CARSTEN 
+
+International Classification  =>  C07C263/10, C07C265/00 
+
+Priority Doc No  =>  08168617.2 
+
+International Application Number  =>  PCT/EP09/064578 
+
+International Publication Number  =>  WO 2010/052230 A2 
+
+Abstract  =>  The invention relates to a process for preparing isocyanates by reacting the corresponding amines with phosgene in the gas phase, if appropriate in the presence of an inert medium, in which the amine and the phosgene are first mixed and converted to the isocyanate in a reactor, by cooling a reaction gas which comprises isocyanate and hydrogen chloride and leaves the reactor in a quench by adding a liquid quench medium to obtain a mixture of reaction gas and quench medium. The amount of quench medium added is such that the temperature of the mixture of reaction gas and quench medium which is established in the quench is above the dew point of the gas present in the quench. 
+

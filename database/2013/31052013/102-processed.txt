@@ -1,0 +1,22 @@
+Application number  =>  9780/CHENP/2011 A 
+
+Date of filing of application number  =>  26/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  COMMUNICATION TERMINAL• ( 
+
+Name of applicant  =>  1)PANASONIC CORPORATION 
+
+Name of inventor  =>  1)Takahisa AOYAMA 2)Jun HIRANO 3)Takashi TAMURA 
+
+International Classification  =>  H04W 36/00 
+
+Priority Doc No  =>  2009-147778 
+
+International Application Number  =>  PCT/JP2010/003501 
+
+International Publication Number  =>   
+
+Abstract  =>  A communication terminal is capable of simultaneously communicating through a plurality of carriers by carrier aggregation and the communication terminal comprises: a quality measurement unit for measuring the reception quality of a radio wave transmitted through a plurality of carriers from a base station of a connected cell to obtain a measured value; a primary carrier storage unit storing information specifying a primary carrier chosen from the plurality of carriers; a comparator for comparing a measured value of the primary carrier measured by the quality measurement unit to a threshold value; and a cell search unit for searching for another cell when the measured value of the primary carrier is less than or equal to the threshold value. Consequently a search threshold value for carrier aggregation can be appropriately determined to perform a cell search and a quality measurement. 
+

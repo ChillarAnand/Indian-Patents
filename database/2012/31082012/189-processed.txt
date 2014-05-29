@@ -1,0 +1,22 @@
+Application number  =>  3064/CHENP/2011 A 
+
+Date of filing of application number  =>  04/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  FINE-GRAINED FILLER SUBSTANCES FOR PHOTOMETRIC REACTION FILMS 
+
+Name of applicant  =>  1)F. HOFFMANN-LA ROCHE AG 
+
+Name of inventor  =>  1)HILLER, BERND 2)LEHR, URSULA 3)ZIMMER, VOLKER 4)PETRICH, WOLFGANG 5)BEDON-GOMEZ, LUIS DAVID 6)KNAPPE, WOLFGANG-REINHOLD 
+
+International Classification  =>  G01N33/52, B01L 3/00, G01N 21/86 
+
+Priority Doc No  =>  08168666.9 
+
+International Application Number  =>  PCT/EP09/064757 
+
+International Publication Number  =>  WO 2010/052306 A1 
+
+Abstract  =>  There is proposed a diagnostic test element (110) for detecting an analyte in a sample (126) of a body fluid, more particularly in whole blood. The diagnostic test element (110) comprises at least one test field (116) having at least one detection reagent, wherein the detection reagent is set up to pass through at least one detectable change in the presence of the analyte, more particularly an optical change. The test field (116) has at least one detection layer (118) which comprises the detection reagent and which comprises particles (137). At least 90% of all particles (137) of the detection layer (118) have an actual particle size of less than 10 micrometers. 
+

@@ -1,0 +1,22 @@
+Application number  =>  1078/MUMNP/2011 A 
+
+Date of filing of application number  =>  26/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  SYSTEM AND METHOD OF SWITCHING FROM STREAMING CONTENT TO LOCAL CONTENT 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)YAMAKAWA Devender 2)KEATING Virginia Walker 3)PARK Jee 
+
+International Classification  =>  H04L 29/06 
+
+Priority Doc No  =>  12/344,567 
+
+International Application Number  =>  PCT/US2009/065917 
+
+International Publication Number  =>  WO/2010/074880 
+
+Abstract  =>  A method of receiving streaming music at a wireless device is provided. The method includes receiving a music stream from a server, emitting music from the music stream, and playing a locally stored song, when a network interruption is detected. The method may further include accessing a playlist and determining whether the playlist includes at least one of a user favorite song, a same artist song, or a same genre song. Moreover, the method may also include determining that a network connection is re-established, finishing playback of the locally stored song, receiving another music stream from the server, and emitting music from the other music stream. 
+

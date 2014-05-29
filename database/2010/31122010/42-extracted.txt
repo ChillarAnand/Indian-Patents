@@ -1,0 +1,46 @@
+The Patent Office Journal 31/12/2010 
+ 
+5308
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1452/DEL/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :22/06/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : MULTISTAGE PRESSURE CONDENSER  
+  
+(51) International classification  :F28B7/00; 
+(31) Priority Document No  :2009-150041  
+(32) Priority Date  :24/06/2009
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  :NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)KABUSHIKI KAISHA TOSHIBA. 
+      Address of Applicant :1-1, SHIBAURA 1-CHOME, 
+MINATO-KU, TOKYO 105-8001, JAPAN.   
+(72)Name of Inventor : 
+   1)SHUN YADORIHARA 
+   2)KOICHI YOSHIMURA 
+   3)TAKAAKI KEZUKA   
+(57) Abstract : 
+According to one embodiment, there is provided a multistage-pressure condenser, including a first condenser, a second condenser and 
+a third condenser, which are arranged in increasing order of internal pressure, the first condenser and the second condenser each 
+including a first partition in which perforations from which condensate obtained by condensing turbine steam by cooling water drops 
+are formed on a cooling water inflow side of the condenser rather than at a central part thereof, and a second partition which partitions 
+a reheating room for reheating condensate dropping from the perforations in a direction perpendicular to an inflow direction of the 
+cooling water, and a heating-steam flow path which supplies heated steam from the third condenser to the reheating room partitioned 
+by the first partition and the second partition. 
+  
+  
+No. of Pages : 29 No. of Claims : 11 

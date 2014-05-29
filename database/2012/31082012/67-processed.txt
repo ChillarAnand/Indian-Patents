@@ -1,0 +1,22 @@
+Application number  =>  2893/CHENP/2011 A 
+
+Date of filing of application number  =>  28/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  AUTOMATICALLY SUPPLYING A PRESSURIZING UNIT OF A MEDICAL INJECTION DEVICE WITH FLUID 
+
+Name of applicant  =>  1)ACIST MEDICAL SYSTEMS, INC. 
+
+Name of inventor  =>  1)HAJICEK, DAVID 2)OFTEDAHL, RICHARD 
+
+International Classification  =>  A61M5/00, A61M5/145 
+
+Priority Doc No  =>  12/261,713 
+
+International Application Number  =>  PCT/US09/062384 
+
+International Publication Number  =>  WO 2010/056528 A1 
+
+Abstract  =>  In general, this disclosure relates to techniques for automatically supplying a pressurizing unit (e.g., syringe) that is used with a powered medical fluid injection device with fluid. An example medical fluid injection device includes a first pressurizing unit and an injector head that is configured to obtain operational state information of the device (501) and use the operational state information to determine whether a fluid replenishment operation is per miffed for the first pressurizing unit (502), the operational state information including information other than a fluid delivery amount for a subsequent injection procedure. If the fluid replenishment operation is permitted, the medical fluid injection device supplies the first pressurizing unit with an amount of medical fluid (506). 
+

@@ -1,0 +1,50 @@
+ 
+The Patent Office Journal 31/08/2012 
+13633
+(12) PATENT APPLICATION PUBLICATION (21) Application No.539/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :05/03/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : MULTIPLEXED BIOMETRIC IMAGING AND DUAL-IMAGER BIOMETRIC SENSOR  
+  
+(51) International classification  :G06K 9/00,G06K 9/20  
+(31) Priority Document No  :61/237,189  
+(32) Priority Date  :26/08/2009 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2010/046852
+:01/01/1900 
+(87) International Publication No  :WO2011/028620  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)LUMIDIGM, INC. 
+      Address of Applicant :801 UNIVERSITY BLVD SE, SUITE 
+302 ALBUGUERQUE, NEW MEXICO 87106, UNITED 
+STATES OF AMERICA. 
+(72)Name of Inventor : 
+   1)MARTIN, RYAN 
+   2)ROWE, ROBERT, K. 
+   3)CORCORAN, STEVE, P. 
+   4)ROGERS, GARY  
+(57) Abstract : 
+Some embodiments disclose systems and methods for a multiplexed multispectral imaging, object discrimination, background 
+discrimination, and/or object identification. In some embodiments, a multispectral sensor is provided that includes at least two 
+illumination sources and an imager with a color filter array. The two illumination sources can illuminate a platen with light having 
+distinct illumination angles and distinct characteristics. The color filter array, which may be integral with the imager or separate 
+therefrom, can filter light based on specific distinctions between the two illumination sources. A single image of an object at the platen 
+can be acquired. Individual pixels of the image will then be highly associated with one or the other illumination source. Because of the 
+filtering by the color filter array, this image will include information about the illumination angle. Some embodiments disclose a dual-
+imager biometric sensor. The two imagers may include a direct imager and a TIR imager. 
+  
+  
+No. of Pages : 69 No. of Claims : 74 

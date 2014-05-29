@@ -1,0 +1,22 @@
+Application number  =>  4236/KOLNP/2010 A 
+
+Date of filing of application number  =>  11/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  OIL SEPARATOR FOR INTERNAL COMBUSTION ENGINE 
+
+Name of applicant  =>  1)MGI COUTIER 
+
+Name of inventor  =>  1)MARTINENGO, HERVÉ 2)GUERRY, PASCAL 3)NOLLEVAUX, ANTONY 
+
+International Classification  =>  F01M 13/00 
+
+Priority Doc No  =>  08.02609 
+
+International Application Number  =>  PCT/FR2009/050824 
+
+International Publication Number  =>  WO 2009/147336 
+
+Abstract  =>  The invention relates to an oil separator (1) for an internal combustion engine, for at least partially separating the oil from the gases exiting the crankcase of an internal combustion engine, which separator comprises a casing (10) containing therein: an inlet chamber (2) for the oil-laden gases; an outlet chamber (3) for the cleaned gases; at least one intermediate suction chamber (41, 42, 43); and an oil recovery chamber (5) with an opening (50) for returning the separated oil to the engine. The communication interface (53) between the oil recovery chamber (5) and the gas outlet chamber (3) is sized (L1) in such a way that the pressures in each of the chambers (3, 5) are substantially equal during the use of the separator regardless of the gas flow rate inside said separator (1). The invention can be used in the field of motor vehicles. 
+

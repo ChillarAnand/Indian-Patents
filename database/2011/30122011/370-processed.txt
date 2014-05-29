@@ -1,0 +1,22 @@
+Application number  =>  1321/KOL/2010 A 
+
+Date of filing of application number  =>  23/11/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD AND SYSTEM FOR CONTROLLING AN ENGINE DURING DIESEL PARTICULATE FILTER REGENERATION AT IDLE CONDITIONS 
+
+Name of applicant  =>  1)GM GLOBAL TECHNOLOGY OPERATIONS, INC. 
+
+Name of inventor  =>  1)JULIAN C. TAN 2)JOHN ZEILSTRA 3)CHRISTOPH THOELE 4)GUSTAVO TEPEDINO 
+
+International Classification  =>  F02D41/00 
+
+Priority Doc No  =>  12/713,328 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A method and control system for controlling an engine during diesel particulate filter regeneration includes a diesel particulate filter (DPF) regeneration request module that generates a DPF regeneration request signal and an idle condition module that generates an idle condition signal when the engine is at an idle condition. A DPF regeneration control module initiates a timer in response to the DPF regeneration request signal and the idle condition signal. The DPF regeneration control module controls the engine oxygen level to a second level less than a first level corresponding to a non-idle speed level, and after a time period, controls the engine to generate oxygen at a third level greater than the second level. 
+

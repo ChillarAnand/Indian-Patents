@@ -1,0 +1,49 @@
+ 
+The Patent Office Journal 31/08/2012 
+13878
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2858/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :27/04/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : METHOD AND SYSTEM FOR OPTIMIZING A COOLING MODEL OF A DATA CENTER  
+  
+(51) International classification  :G06F17/50, H05K 7/20  
+(31) Priority Document No  :12/259,214  
+(32) Priority Date  :27/10/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/062113
+:26/10/2009 
+(87) International Publication No  :WO 2010/062567 A3 
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)AMERICAN POWER CONVERSION CORPORATION
+      Address of Applicant :132 FAIRGROUNDS ROAD, WEST 
+KINGSTON, RI 02892 U.S.A. 
+(72)Name of Inventor : 
+   1)CHRISTOPHER HLASNY 
+   2)JAMES W. VANGILDER 
+   3)HENRIK DAAE 
+   4)KRESTEN PETER VESTER  
+(57) Abstract : 
+A method for presenting a cooling model of a data center, the model including representations of at least one cooling provider, at least 
+one cooling consumer and at least one perforated tile, the at least one cooling consumer having cooling requirements, the method 
+comprising: segmenting the model into a plurality of layers, the plurality of layers having a first layer that includes the at least one 
+perforated tile and a second layer that includes the at least one cooling consumer; receiving an indication to reposition the first layer 
+relative to the second layer; determining, in response to the indication, at least one new position for the at least one perforated tile 
+relative to the at least one cooling consumer; determining a cooling metric measuring the ability of the at least one cooling provider to 
+meet the cooling requirements of the at least one cooling consumer via the at least one perforated tile in the at least one new position; 
+and displaying the model on a computer system, the at least one cooling consumer including an indication of the cooling metric. 
+  
+  
+No. of Pages : 47 No. of Claims : 23 

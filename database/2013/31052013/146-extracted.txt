@@ -1,0 +1,45 @@
+The Patent Office Journal 31/05/2013 12117
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9889/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :28/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : METHOD AND DEVICE OF HOST WITH IPV4 APPLICATION FOR PERFORMING
+COMMUNICATION
+(51) International classification :H04L12/56
+(31) Priority Document No :200910085886.3
+(32) Priority Date :03/06/2009
+(33) Name of priority country :China
+(86) International Application No
+Filing Date
+:PCT/CN2010/000793
+:03/06/2010
+(87) International Publication No :WO 2010/139194 A1
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)CHINA MOBILE COMMUNICATIONS
+CORPORATION
+Address of Applicant :29, JINRONG AVE.,XICHENG
+DISTRICT, BEIJING 100032. China
+(72)Name of Inventor :
+1)HUANG, BILL
+2)CHEN, GANG
+3)DENG, HUI
+4)WEI, BING
+5)WANG, XIAOYUN
+(57) Abstract :
+Provided are a method and a device of a host with IPv4 application for performing communication. The method of the host with
+IPv4 application for performing data communication includes the following steps: the IPv4 application generates an IPv4 packet
+sent to a communication end; when confirming the type of the network the host is located in is an IPv6 network, the host
+transforms the IPv4 packet head of the IPv4 packet to an IPv6 packet header, and sends it to the communication end via the IPv6
+network. With this invention, it can be accomplished that according to the type of the network the host is located in, the host with
+IPv4 application communicates with a communication end; the processing load of the system is lightened; the probability that
+invalidation occurs at a single node is reduced; the smooth migration and transition from original IPv4 application to IPv6 system
+are facilitated.
+No. of Pages : 53 No. of Claims : 32

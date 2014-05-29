@@ -1,0 +1,50 @@
+ 
+The Patent Office Journal 31/08/2012 
+14115
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3169/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :09/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : RIGHT-ANGLE CONNECTOR HAVING A SHIELDING AND METHOD FOR PRODUCING THE 
+SHIELDING OF THE RIGHT-ANGLE CONNECTOR  
+  
+(51) International classification  :H01R13/658  
+(31) Priority Document No  :10 2008 056 586.5 
+(32) Priority Date  :10/11/2008 
+(33) Name of priority country  :Germany 
+(86) International Application No 
+        Filing Date 
+:PCT/DE09/001483 
+:22/10/2009 
+(87) International Publication No  :WO 2010/051791 A1  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)ERNI ELECTRONICS GMBH 
+      Address of Applicant :SEESTRASSE 9, 73099 ADELBERG 
+Germany 
+(72)Name of Inventor : 
+   1)LAPPOHN, JURGEN  
+(57) Abstract : 
+The invention relates to a right-angle connector (20a, 20b), comprising a plurality of contact elements (50a, 50b) which are arranged 
+next to one another and provided at the back of the right-angle connector (20a, 20b) for soldering to conductors of a printed circuit 
+board (4), comprising an upper shielding (22a, 22b) ranged at least one the upper side of the right-angle connector (20a, 20b) and a 
+lower shielding (34a, 34b) arranged on the lower side. The right-angle (20a, 20b) according to the invention is characterized in that the 
+lower shielding (34a, 34b) contains a lower shielding element (36a, 36b) on the connector side, the shielding surface (37a, 37b) of said 
+element being oriented in the connecting direction (28), the lower shielding (34a, 34b) furthermore contains a separate, rear lower 
+shielding element (38a, 38b), and the lower shielding elements (36a, 36b, 38a, 38b) are electrically connected to each other. The 
+method according to the invention for producing the right-angle connector (20a, 20b) uses a laser weld connection for at least the two 
+lower shielding elements (36a, 36b, 38a, 38b). The right-angle connector (20a, 20b) according to the invention allows high-frequency 
+signals to be conducted with high signal quality and high signal integrity. The shielding of the right angle connector (20a, 20b) 
+according to the invention can be produced in a cost-effective manner with the method according to the invention. 
+  
+  
+No. of Pages : 41 No. of Claims : 18 

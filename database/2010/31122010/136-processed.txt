@@ -1,0 +1,22 @@
+Application number  =>  4083/CHENP/2010 A 
+
+Date of filing of application number  =>  01/07/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  LED LAMP REPLACEMENT OF LOW POWER INCANDESCENT LAMP 
+
+Name of applicant  =>  1)GOEKEN GROUP CORP 
+
+Name of inventor  =>  1)JANIK, RAYMOND G. 2)SCIANNA, CARLO 
+
+International Classification  =>  H05B33/02 
+
+Priority Doc No  =>  61/020,326 
+
+International Application Number  =>  PCT/US09/030741 
+
+International Publication Number  =>  WO 2009/089529 A1 
+
+Abstract  =>  An LED lamp that can take the place o incandescent lamps. An elecated light source is positioned above a screw type base. A first plurality of LEDs is connected in a series on one side of a flat substrate and a second plurality of LEDs, equal in number to the first, is connected in series on an apposite side of the substrate, Each LED of the first and second plurality o LEDs is mounted proximate a heat sink and a drive circuit is provided or the LEDs with the drive circuit being located proximate and electrically connected to the screw base. 
+

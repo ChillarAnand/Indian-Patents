@@ -1,0 +1,22 @@
+Application number  =>  3648/MUM/2012 A 
+
+Date of filing of application number  =>  27/12/2012 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  SYSTEMS AND METHOD FOR DATA INTEROPERABILITY ACROSS INTERACTIVE VOICE RESPONSE SYSTEM(IVRS) 
+
+Name of applicant  =>  1)INCIGHTS MOBILE SOLUTIONS PVT. LTD. 2)VINAY MODI 3)VARUN CHANDRA 
+
+Name of inventor  =>  1)VINAY MODI 
+
+International Classification  =>  H04M7/00,H04M3/493 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  This invention relates to a system and method by which data exchange and analytics can be built over communication channels in general and Interactive Voice Response Systems (IVRS) in specific. IVR systems are available commonly for variety of purposes such as banking transaction, railway inquiry, complaint registration, automated appointment and so on. There is no logic built inside these systems to differentiate or identify the similarity of the input and output of the data. This nature makes these IVR systems unintelligent. The data collected by these IVR systems doesnt carry the essential meta data associated with it (that is the semantics of the data) and because of this, IVR generated data is not interoperable. This invention provides a new type of machines where an intelligence layer is built into the IVR systems for interoperability of the services and adds very high commercial as well as personal benefits to its users. 
+

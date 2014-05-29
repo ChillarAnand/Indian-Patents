@@ -1,0 +1,22 @@
+Application number  =>  1036/MUMNP/2011 A 
+
+Date of filing of application number  =>  23/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  MULTI-ORIFICE EXTRUSION DIE AND METHOD FOR OBTAINING UNIFORM FLOW 
+
+Name of applicant  =>  1)FRITO-LAY NORTH AMERICA INC. 
+
+Name of inventor  =>  1)KELLER Lewis Conrad 2)TATSCH Donald Joe 
+
+International Classification  =>  A23P 1/12,A21C 11/16 
+
+Priority Doc No  =>  12/273,355 
+
+International Application Number  =>  PCT/US2009/064024 
+
+International Publication Number  =>  WO/2010/059478 
+
+Abstract  =>  A method for normalizing the exit velocity of multiple extrudate strands from a multiple die extruder and apparatus for producing the same. The invention describes utilizing a die with individual channels, and installing metering assembly on each individual channel. The metering assembly can then be adjusted to independently increase or decrease the velocity of product through an orifice. By independently adjusting individual velocities of extrudate strands, after successive iterations of adjusting, measuring, and readjusting, a plurality of extrudate stands can be produced having substantially uniform velocity. Further the invention can comprise a single extruder or a co-extruder used to make a co-extruded product wherein uniform velocity becomes more desirable. 
+

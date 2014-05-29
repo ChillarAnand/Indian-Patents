@@ -1,0 +1,22 @@
+Application number  =>  9685/CHENP/2011 A 
+
+Date of filing of application number  =>  22/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  METHOD AND DEVICE FOR DOWNLOADING 
+
+Name of applicant  =>  1)TENCENT TECHNOLOGY (SHENZHEN) COMPANY LIMITED 
+
+Name of inventor  =>  1)CHEN, LIANGHUA 
+
+International Classification  =>  H04L1/00 
+
+Priority Doc No  =>  200910091701.X 
+
+International Application Number  =>  PCT/CN2010/075531 
+
+International Publication Number  =>  WO 2011/023049 A1 
+
+Abstract  =>  Embodiments of the invention provide a downloading method and a downloading device. The downloading method includes: determining, by a downloader, a piece of data in a downloading process, according to downloading information about piece of data stored, with reference to the piece of data in the downloading process, determining, by the downloader, a small piece of data un-downloaded, according to downloading information about small piece of data stored; and downloading, by the downloader, the small piece of data un-downloaded. The downloading device includes: a storing module, configured to store downloading information about piece and small piece of data; a determining module, configured to determine a piece of data in a downloading process, according to the downloading information about piece of data stored in the storing module, with reference to the piece of data in the downloading process, the determining module is further configured to determine a small piece of data un-downloaded, according to the stored downloading information about small piece of data; and a downloading module, configured to download the small piece of data un-downloaded, which is determined by the determining module. By adopting the above technical solution, network transmission resources may be saved, and downloading efficiency may be improved. 
+

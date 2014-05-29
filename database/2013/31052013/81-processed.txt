@@ -1,0 +1,22 @@
+Application number  =>  9698/CHENP/2011 A 
+
+Date of filing of application number  =>  22/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  METHOD AND DEVICE FOR IMPLEMENTING GROUP INTELLIGENT SERVICE OF MOBILE VIRTUAL PRIVATE NETWORK• 
+
+Name of applicant  =>  1)ZTE CORPORATION 
+
+Name of inventor  =>  1)HOU Zhirong 2)ZHENG Song 
+
+International Classification  =>  H04W 4/08 
+
+Priority Doc No  =>  200910143467.0 
+
+International Application Number  =>  PCT/CN2009/073754 
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention discloses implementing group intelligent service of Mobile Virtual Private Network (MVPN). The method includes configuring on Service Management Point a corresponding relationship between a group™s number and a module number of the Service Control Point (SCP) on which the group is distributed and configuring relevant data information of the group in the service database of each SCP on which the group is distributed; uniformly managing relevant data information of the group distributed on different SCP; performing the judging the controlling and the billing for a call when user triggers a service. The device includes configuration module management module and service execution module. The cross-SCP VPN group users are provided with all service features that non-cross-SPC VPN group users have which fully utilizes the existing intelligent network devices reduces hardware cost and also provide flexibility and convenience for managing and maintaining relevant data information of a group. 
+

@@ -1,0 +1,22 @@
+Application number  =>  2148/DELNP/2011 A 
+
+Date of filing of application number  =>  22/03/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  SYSTEM AND METHOD FOR DYNAMIC AUTOMATIC COMMUNICATION PATH SELECTION, DISTRIBUTED DEVICE SYNCHRONIZATION AND TASK DELEGATION 
+
+Name of applicant  =>  1)JUMPSTART WIRELESS CORPORATION 
+
+Name of inventor  =>  1)BONAR, JEFFREY, G. 2)TAFEL, BRYAN 3)PEKAREK, ADRIAN 4)CHHIBBER, SUBIR 5)TOMAZIN, KENNETH, G. 6)GINTER, KARL 7)BARTMAN, MICHAEL 
+
+International Classification  =>  H04W 40/02 
+
+Priority Doc No  =>  61/098,886 
+
+International Application Number  =>  PCT/US2009/057691 
+
+International Publication Number  =>  WO 2010/033919 
+
+Abstract  =>  Systems, software, and apparatuses that provide wired and wireless telecommunications under conditions where signal strength is poor or intermittent, the coordination and synchronization of data and workflows across various communication links under such conditions, especially intermittent or unreliable communications links, and the management of wireless mobile applications in such environments. The present invention technology herein relates to the fields of computer science, telecommunications, and data management. 
+

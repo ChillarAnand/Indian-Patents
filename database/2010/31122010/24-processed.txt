@@ -1,0 +1,22 @@
+Application number  =>  2741/CHE/2010 A 
+
+Date of filing of application number  =>  20/09/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  ECOLOGICAL POWER GENERATION FROM ELEVATOR 
+
+Name of applicant  =>  1)PRINCIPAL 
+
+Name of inventor  =>  1)DR.DINESH P.A. 2)MR.HARSHAVARDHAN S 3)MR.DEEPAK V.R. 4)MR.NAGENDRA B.R. 
+
+International Classification  =>  H02K7/00 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  This invention relates to a scheme for generating electricity by three different methods using rotational movement of the main shaft and the guide rollers and upward or downward movement of the car-body of the elevator. The first and the second method uses few sets of gears and pinions interlinked with the main shaft and guide rollers of the elevator respectively. In both the methods, the rotational motion of the gears is transmitted to a secondary shaft, which in turn is made to rotate at a greater speed. This movement is subjected/ transmitted to a dynamo thus generating electricity. The third method utilizes a bellow which sucks air from the reservoir when the elevator is lifted; and while descending, the compressed air is subjected to turbine blades thus generating useful electricity. The above three methods are an attempt to convert the kinetic energy available due to the rotational or linear movement of the elevator parts into useful electrical energy in an economical and ecological manner. 
+

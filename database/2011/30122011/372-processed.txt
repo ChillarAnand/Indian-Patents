@@ -1,0 +1,22 @@
+Application number  =>  1322/KOL/2010 A 
+
+Date of filing of application number  =>  23/11/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  HYDRAULIC CIRCUIT FOR A POWER TRANSMISSION DEVICE 
+
+Name of applicant  =>  1)GM GLOBAL TECHNOLOGY OPERATIONS, INC. 
+
+Name of inventor  =>  1)JOHN C. SCHULTZ 2)NORMAN SCHOENEK 3)KEVIN MICHAEL DOUGAN 4)EDWIN T. GROCHOWSKI 5)DARYL A. WILTON 6)EDWARD W. MELLET 
+
+International Classification  =>  F03D1/00 
+
+Priority Doc No  =>  12/689,295 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A hydraulic fluid circuit for a power transmission device includes a first hydraulic circuit segment fluidly decoupled from a second hydraulic circuit segment. A hydraulic pump includes a first fluidic pumping element and a second fluidic pumping element. The first fluidic pumping element fluidly communicates with the first hydraulic circuit segment. The second fluidic pumping element fluidly communicates with the second hydraulic circuit segment. The first fluidic pumping element is controllable to a first pump operating point to achieve a preferred high fluidic flow rate in the first hydraulic circuit segment. The second fluidic pumping element is controllable to a second pump operating point to achieve a preferred high fluidic pressure in the second hydraulic circuit segment. 
+

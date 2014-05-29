@@ -1,0 +1,22 @@
+Application number  =>  1166/CHENP/2011 A 
+
+Date of filing of application number  =>  19/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  EVENT MANAGEMENT SYSTEM FOR CREATING A SECOND EVENT 
+
+Name of applicant  =>  1)HEWLETT-PACKARD DEVELOPMENT COMPANY L.P. 
+
+Name of inventor  =>  1)Ted BEERS 2)Jon A. BREWSTER 3)Michael D. DEROCHER 4)Mark E. GORZYNSKI 5)Lonnie D. MANDIGO 6)April S. MITCHELL 7)Kenton OHARA 
+
+International Classification  =>  H04N7/15 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/US2008/077898 
+
+International Publication Number  =>   
+
+Abstract  =>  An event management system is configured to host a first event that includes a first set of event endpoints that provides first and second sets of media streams to respective first and second sets of attendees during the first event. The event management system is configured to, while hosting the first event, create a second event that includes a second set of event endpoints that provide a third set of media streams to at least one of the first set of attendees and a fourth set of media streams during the second event. At least one of the second set of event endpoints is sufficiently separated from each of the first set of event endpoints so that the second event does not substantially interfere with the first event. (Figure 4) 
+

@@ -1,0 +1,46 @@
+ 
+The Patent Office Journal 31/08/2012 
+14017
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3059/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :04/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : POLYNUCLEOTIDES AND POLYPEPTIDES INVOLVED IN PLANT FIBER DEVELOPMENT AND 
+METHODS OF USING SAME  
+  
+(51) International classification  :C12N15/29, C12N 15/11  
+(31) Priority Document No  :60/578,833  
+(32) Priority Date  :14/06/2004 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/IL05/00627 
+:14/06/2005 
+(87) International Publication No  :WO 2005/121364 
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filed on 
+:158/CHENP/2007 
+:14/06/2005  
+  
+(71)Name of Applicant :  
+   1)EVOGENE LTD. 
+      Address of Applicant :13 GAD FINSTEIN STREET, 76121 
+REHOVOT Israel 
+(72)Name of Inventor : 
+   1)RONEN, GIL 
+   2)GOLD, EVGENIA 
+   3)YELIN, RODRIGO 
+   4)MEISSNER, RAFAEL 
+   5)KARCHI, HAGAI 
+   6)AYAL, SHARON  
+(57) Abstract : 
+The present invention relates to an isolated polynucleotide comprising a nucleic acid sequence encoding a polypeptide having an 
+amino acid sequence at least 80 % homologous to SEQ ID NO: 113, 106, 107, 108, 109, 110, 111, 112, 114, 115, 116, 117, 118, 119, 
+120, 122, 123, 124, 125, 126, 95, 96, 121, or 26, wherein said polypeptide is capable of regulating cotton fiber development. 
+  
+  
+No. of Pages : 145 No. of Claims : 16 

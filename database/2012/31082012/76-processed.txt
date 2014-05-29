@@ -1,0 +1,22 @@
+Application number  =>  2905/CHENP/2011 A 
+
+Date of filing of application number  =>  28/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  PROVIDING A DOWNLINK CONTROL STRUCTURE IN A FIRST CARRIER TO INDICATE CONTROL INFORMATION IN A SECOND,DIFFERENT CARRIER 
+
+Name of applicant  =>  1)NORTEL NETWORKS LIMITED 
+
+Name of inventor  =>  1)LAI-KING TEE 2)YI SONG 3)JUN LI 4)YUQIANG TANG 5)NENG WANG 
+
+International Classification  =>  H04W48/08, H04W64/00, H04W72/04 
+
+Priority Doc No  =>  61/111,034 
+
+International Application Number  =>  PCT/US2009/063266 
+
+International Publication Number  =>  WO 2010/053984 A2 
+
+Abstract  =>  A mobile station receives a downlink control structure in a first carrier, where the downlink control structure indicates that control information for the mobile station is on a second, different carrier. The mobile station decodes the control information in the second carrier, where the control information specifies resource allocation of a wireless link for the mobile station. More specifically, according to some implementations, the control channel in the first carrier specifies the resource allocation for an extended control channel in the second carrier, where the extended control channel specifies the resource allocation for traffic data of a wireless link for the mobile station. 
+

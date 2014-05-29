@@ -1,0 +1,22 @@
+Application number  =>  412/MUMNP/2012 A 
+
+Date of filing of application number  =>  17/02/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  TAMPERING DETECTION METHOD 
+
+Name of applicant  =>  1)VOLVO LASTVAGNAR AB 
+
+Name of inventor  =>  1)PAULI, JOAKIM 
+
+International Classification  =>  G06F 21/22 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/SE2009/000394 
+
+International Publication Number  =>  WO/2011/025416 
+
+Abstract  =>  The present invention relates to a method for detecting use of unauthorized software in an engine control unit provided in a vehicle, said method comprising the steps of: calculating CVN each time the engine is started, comparing a last calculated CVN with a last stored CVN in a list of a plurality of CVN entries, storing said last calculated CVN if said last calculated CVN is different to the last stored CVN together with a date of an entry in said list of CVN and/or the current odometer status, removing entries in the list of CVN according to FIFO principle when said list of CVN is full, and to present this upon request from an on-board or off-board tool. 
+

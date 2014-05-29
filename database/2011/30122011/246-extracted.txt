@@ -1,0 +1,45 @@
+The Patent Office Journal 30/12/2011 
+ 
+25583
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1138/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :17/02/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : A LITHOGRAPHIC PROCESS USING A NANOWIRE MASK, AND NANOSCALE DEVICES 
+FABRICATED USING THE PROCESS  
+  
+(51) International classification  :H01L21/335, H01L21/336  
+(31) Priority Document No  :12/221,068  
+(32) Priority Date  :29/07/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/FI2009/050536 
+:18/06/2009 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)NOKIA CORPORATION 
+      Address of Applicant :Keilalahdentie 4  FIN-02150 Espoo  
+Finland  
+(72)Name of Inventor : 
+   1)Alan Colli  
+(57) Abstract : 
+The disclosure pertains to a method for making a nanoscale field effect transistor structure on a semiconductor substrate (120). The 
+method comprises disposing a mask on a semiconductor upper layer (122) of a multi-layer substrate, and removing areas of the upper 
+layer (122) not covered by the mask in a nanowire lithography process. The mask includes two conductive terminals (132, 134) 
+separated by a distance, and a nanowire (110) in contact with the conductive terminals (132, 134) across the distance. The nanowire 
+lithography may be carried out using a deep-reactive-ion-etching, which results in an integration of the nanowire mask (1 10, 132, 
+134) and the underlying semiconductor layer (122) to form a nanoscale semiconductor channel for the field effect transistor. FIG. 4B 
+  
+ 
+No. of Pages : 21 No. of Claims : 13 

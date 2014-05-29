@@ -1,0 +1,22 @@
+Application number  =>  1256/CHENP/2011 A 
+
+Date of filing of application number  =>  23/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  USE OF INPAINTING TECHNIQUES FOR IMAGE CORRECTION 
+
+Name of applicant  =>  1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+
+Name of inventor  =>  1)BERRETTY Robert-Paul M. 2)MAGALHAES Jose P. 3)KLEIN GUNNEWIEK Reinier B. M. 4)BARENBRUG Bart G. B. 5)SHAO Ling 
+
+International Classification  =>  G06T5/00, H04N7/26 
+
+Priority Doc No  =>  08161240.0 
+
+International Application Number  =>  PCT/IB2009/053167 
+
+International Publication Number  =>   
+
+Abstract  =>  A method of processing an image signal comprising image and depth information is provided. The method is configured to perform segmentation on an image based on depth/disparity information present in the image signal comprising said image, and subsequently inpaint background for correction of the errors in the image around the foreground objects into a region that extends beyond the segment boundary of the foreground object and/or inpaint foreground for correction of errors in the image into a region that extends inside the segment boundary of the foreground object. In this way compression and other artifacts may be reduced. Fig. 2 
+

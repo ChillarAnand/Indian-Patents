@@ -1,0 +1,46 @@
+ 
+The Patent Office Journal 31/08/2012 
+14023
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3074/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :05/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : METHODS AND SYSTEMS USING SAME BASE STATION CARRIER HANDOFF FOR 
+MULTICARRIER SUPPORT  
+  
+(51) International classification  :H04W36/00, H04L27/26  
+(31) Priority Document No  :61/115,015  
+(32) Priority Date  :14/11/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/064323
+:13/11/2009 
+(87) International Publication No  :WO 2010/056949 A2 
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)QUALCOMM INCORPORATED 
+      Address of Applicant :ATTN: INTERNATIONAL IP 
+ADMINISTRATION, 5775 MOREHOUSE DRIVE, SAN 
+DIEGO, CALIFORNIA 92121-1714 U.S.A. 
+(72)Name of Inventor : 
+   1)MIGUEL GRIOT 
+   2)AYMAN FAWZY NAGUIB  
+(57) Abstract : 
+Certain embodiments of the present disclosure provide a method for switching radio frequency (RF) carriers that serve communication 
+between a base station (BS) and a mobile station (MS). The switching of carriers can be viewed as a handoff procedure between two 
+different RF carriers within the same BS. A simplified handoff procedure for switching of RF carriers can be applied when the MS 
+switches its physical connection from a primary RF carrier to a secondary RF carrier, as well as in the case when the BS decides to 
+move the MS from one primary RF carrier to another primary RF carrier. 
+  
+  
+No. of Pages : 33 No. of Claims : 64 

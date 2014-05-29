@@ -1,0 +1,42 @@
+ 
+The Patent Office Journal 31/08/2012 
+13808
+(12) PATENT APPLICATION PUBLICATION (21) Application No.936/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :16/04/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : A NON-MOVING PART OR STATIC ELECTRIC GENERATOR  
+  
+(51) International classification  :H02K 53/00  
+(31) Priority Document No  :2009904423  
+(32) Priority Date  :14/09/2009 
+(33) Name of priority country  :Australia 
+(86) International Application No 
+        Filing Date 
+:PCT/AU2010/000031 
+:14/01/2010 
+(87) International Publication No  :WO/2011/029123  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)JASBIR SINGH 
+      Address of Applicant :C/O. PEGASUS IP; P.O. BOX 160 
+TOOWONG, QUEENSLAND 4066, AUSTRALIA. 
+(72)Name of Inventor : 
+   1)JASBIR SINGH  
+(57) Abstract : 
+A static or non-moving part electric power generator achieved by a changing (fluctuating) magnetic field (flux) by passing a pulsating 
+direct current (DC) through a coil of wire wound on either a magnet or any material capable of producing a magnetic field, which in 
+turn induces an alternating current (AC) in an adjacent secondary coil winding, and wherein a portion of the AC produced is used in 
+recharging a DC source. 
+  
+  
+No. of Pages : 33 No. of Claims : 30 

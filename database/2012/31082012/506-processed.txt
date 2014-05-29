@@ -1,0 +1,22 @@
+Application number  =>  447/MUMNP/2012 A 
+
+Date of filing of application number  =>  22/02/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  TIRE VULCANIZER 
+
+Name of applicant  =>  1)MITSUBISHI HEAVY INDUSTRIES, LTD. 
+
+Name of inventor  =>  1)HIDEKI FUKUDA 2)KUNIO MATSUNAGA 3)JOJI YUSA 
+
+International Classification  =>  B29C33/02, B29C35/02, B29D30/06 
+
+Priority Doc No  =>  2011-040726 
+
+International Application Number  =>  PCT/JP2011/060715 
+
+International Publication Number  =>   
+
+Abstract  =>  To provide a tire vulcanizer which is configured to slide back a lifting/sliding mechanism to a waiting position, and which is featured in being capable of making uniform the squeezing force applied by the upper metal mold at the time of vulcanization. The tire vulcanizer (1A), in which a green tire is put into a metal mold capable of being separated into a lower metal mold (3) and an upper metal mold (4) and is then heated and pressurized so as to be finished into a shape of a cured tire, is featured by including a slide back mechanism configured such that the upper metal mold (4) separated and lifted from the lower metal mold (3) installed to be fixed to a base (2) is moved by an operation of a movable carriage (14) so as to reciprocate between a vulcanization position at which the upper metal mold (4) is pressed toward the lower metal mold (3), and a waiting position at which the green tire can be carried in the lower metal mold (3) and at which the cured tire can be carried out from the lower metal mold (3), and is featured in that the upper metal mold (4) is attached below, via a squeezing cylinder mechanism (30), to a beam (11) integrated with a tie rod (13) which is vertically moved by an operation of a lifting/lowering cylinder (12) along a guide hole provided in the movable carriage (14). 
+

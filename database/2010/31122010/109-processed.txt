@@ -1,0 +1,22 @@
+Application number  =>  4081/CHENP/2010 A 
+
+Date of filing of application number  =>  01/07/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  CONTROL DEVICE FOR WIND POWER SYSTEMS HAVING POWER FAILURE DETECTION 
+
+Name of applicant  =>  1)REPOWER SYSTEMS AG 
+
+Name of inventor  =>  1)KRUEGER, THOMAS 
+
+International Classification  =>  F03D7/04 
+
+Priority Doc No  =>  10 2007 060 958.4 
+
+International Application Number  =>  PCT/EP/08/010312 
+
+International Publication Number  =>  WO 2009/077089 A3 
+
+Abstract  =>  The invention relates to a wind power system control deviec and an operating method thr wind power systems having a wind rotor (12) and a generator (13) driven by the wind rotor (12), comprising a torque control unit (5) for a torque of the generator (13). According to the invention, an auxiliary controller comprises a detector (71) tor detecting a. grid failure and the end thereof; a residual moment indicator (72) providing a default value for a torque of the generator (13) afier detecting the grid failure, and an initializer initializing a component of the torque control unit (5) to the deihult value after detecting the grid failure. According to the invention, the vibration behavior of the wind power system upon return of grid power can be significantly improved by initializing the torqne control unit (5) at the end of the grid failure to a predetermined torque value. Overload of the drivetrain upon return of grid voltage can he reduced to 1/4 in a simple manner. 
+

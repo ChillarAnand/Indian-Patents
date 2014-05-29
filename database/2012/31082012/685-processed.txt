@@ -1,0 +1,22 @@
+Application number  =>  772/MUMNP/2012 A 
+
+Date of filing of application number  =>  27/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  DEVICE FOR PUSHING GLASS OBJECTS ONTO A CONVEYOR BELT 
+
+Name of applicant  =>  1)HEYE INTERNATIONAL GMBH 
+
+Name of inventor  =>  1)FELGENHAUER, BENEDIKT 2)HUEBNER, MATTHIAS 
+
+International Classification  =>  B65G 47/82 
+
+Priority Doc No  =>  102010025168.2 
+
+International Application Number  =>  PCT/EP11/001496 
+
+International Publication Number  =>  WO/2011/160739 
+
+Abstract  =>  Device for pushing glass objects onto a conveyor belt A device for pushing glass objects onto a conveyor belt consists of a pusher (5), which is supported on a crank arm (6) in such a way that it can be swiveled about an axis (7), which crank arm is in driving engagement with a first electric motor (1) by means of a shaft (12) and a spur-gear transmission. A second electric motor (2) is in driving engagement with a sleeve (20) by means of a cantilever (18), in which sleeve the shaft (12) is mounted, wherein the shaft (12) can be swiveled about a central stationary axis (19). A third electric motor (3) is in driving engagement by means of a further spur- gear transmission by means of a hollow shaft (8), which within the sleeve (20), supporting the shaft (12) [sic], with an annular element (28) on which one end of a push rod is supported in such a way that it can be swiveled about an axis, the other end of the push rod is supported on the pusher (5) in such a way that it can be swiveled about an axis, so that a rotational motion of the said third electric motor (3) can be converted into a swivel motion of the pusher (5) about the axis (7). All transmission components are in the pot-like upper part (33) of a housing (4), and specifically below the plane of a dead plate. The low number of transmission stages results in a design that is very simple, compact and protected against environmental influences and thus results in particular suitability for use under the operating conditions of a glassworks. 
+

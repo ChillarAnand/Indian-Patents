@@ -1,0 +1,22 @@
+Application number  =>  753/MUMNP/2012 A 
+
+Date of filing of application number  =>  26/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  ORGANIC PHOTOVOLTAIC CELL STRUCTURE 
+
+Name of applicant  =>  1)POWNALL-RYAN, CHARLES V 
+
+Name of inventor  =>  1)POWNALL-RYAN, CHARLES V 
+
+International Classification  =>  H01L 31/04 
+
+Priority Doc No  =>  61/237,824 
+
+International Application Number  =>  PCT/CA2010/001316 
+
+International Publication Number  =>  WO/2011/022825 
+
+Abstract  =>  The present invention provides a photovoltaic (PV) cell structure for enabling the conversion of incident light to potential electrical energy. The PV cell comprises at least one energy guiding means for converting incident light to potential electrical energy. The energy guiding means includes at least one electron donor and at least one electron acceptor adapted to be linked to a load therebetween. The electron donor is operable to release electrons based on absorption of photons and the electron acceptor may be operable to accelerate photons towards the electron donor and attract electrons released by the electron donor. The electron donor may include at least one photon receptor adapted to have a surface disposed at an angle normal to a range of incident photon angles. 
+

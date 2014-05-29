@@ -1,0 +1,22 @@
+Application number  =>  3140/CHENP/2011 A 
+
+Date of filing of application number  =>  06/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  IP BROADCAST RECEIVER APPARATUS 
+
+Name of applicant  =>  1)SHARP KABUSHIK KAISHA 
+
+Name of inventor  =>  1)YAMADA, HAJIME 2)SHIMIZU, TOSHINORI 3)WATANABE, RYUHSUKE 
+
+International Classification  =>  H04N7/173 
+
+Priority Doc No  =>  2008-265671 
+
+International Application Number  =>  PCT/JP09/067463 
+
+International Publication Number  =>  WO 2010/044362 A1 
+
+Abstract  =>  There is provided an IP broadcast receiver apparatus capable of, even when the input of a stream is delayed, determining whether a stream is to be inputted later and displaying a picture when a stream is inputted. When the content providing side makes a request to set a streamstatus attribute to play in a display using BML, the IP broadcast receiver apparatus determines whether channel information has been acquired from an IP broadcast server. The IP broadcast receiver apparatus sets the streamstatus attribute to play if channel information has been acquired from the IP broadcast server and sets the streamstatus attribute to stop if channel information has not been acquired from the IP broadcast server. 
+

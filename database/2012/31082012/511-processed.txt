@@ -1,0 +1,22 @@
+Application number  =>  454/MUMNP/2012 A 
+
+Date of filing of application number  =>  23/02/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  VERTICAL AXIS WIND TURBINE GENERATOR 
+
+Name of applicant  =>  1)SUTTISILTUM, APICHAT 
+
+Name of inventor  =>  1)SUTTISILTUM, APICHAT 
+
+International Classification  =>  F03D 3/04,F03D 11/00 
+
+Priority Doc No  =>  0901004039 
+
+International Application Number  =>  PCT/TH2010/000033 
+
+International Publication Number  =>  WO/2011/031245 
+
+Abstract  =>  The present invention relates to a vertical axis wind turbine generator comprising one turbine. The turbine comprises a plurality of V- shape longitudinal cup type blades mounted horizontally in one or more circulars around a rotor to received the wind mass and push the turbine to rotate, a step-up gear to increase the turbine shaft rotation speed, a generator is to be rotated by the drive shaft of step-up gear, a lift-up equipment for eliminating friction loss at the bearings while the turbine rotation to make it rotate similarly; freely floated in the air, and a set of wind velocity accelerating tunnel to increase wind mass blowing from any directions to a higher velocity than the natural instantaneous wind speed when approaching blades front. The turbine set is installed on a tower structure. 
+

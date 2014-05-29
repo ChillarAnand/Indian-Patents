@@ -1,0 +1,22 @@
+Application number  =>  1988/MUMNP/2010 A 
+
+Date of filing of application number  =>  21/09/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  A SECURE KEYPAD SYSTEM 
+
+Name of applicant  =>  1)BBS DENMARK A/S 
+
+Name of inventor  =>  1)CHRISTOFFERSEN Per 
+
+International Classification  =>  G06F3/041,G06F1/16,G06F3/048,H05K5/02 
+
+Priority Doc No  =>   
+
+International Application Number  =>  PCT/DK2009/050071 
+
+International Publication Number  =>   
+
+Abstract  =>  A secure keypad system has a touch sensitive screen (11) with a plurality of distinct fields (12) on a surface, where each field (12) has an associated input value. A plurality of force sensors (16, 17) are coupled to the screen (11) and arranged at individual force sensor locations to sense individual forces in response to the screen (11) being touched and to generate corresponding individual force signals. Identification means are provided for identifying a field (12) being touched based on the force signals, and generating means are provided for generating the input value associated with the field (12) being touched. An electrically conductive, force transmissive casing (20) encloses the force sensors, the identification means and the generating means. 
+

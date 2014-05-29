@@ -1,0 +1,47 @@
+The Patent Office Journal 31/12/2010 
+ 
+5406
+(12) PATENT APPLICATION PUBLICATION (21) Application No.4106/KOLNP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :01/11/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : HYDRAULIC CYLINDER  
+  
+(51) International classification  :F15B 15/14  
+(31) Priority Document No  :2009-004385  
+(32) Priority Date  :13/01/2009 
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date 
+:PCT/JP2010/050188
+:05/01/2010 
+(87) International Publication No  :WO 2010/082550  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)KAYABA INDUSTRY CO., LTD. 
+      Address of Applicant :WORLD TRADE CENTER BLDG., 4-
+1,HAMAMATSU-CHO 2-CHOME, MINATO-KU, TOKYO 
+105-6111, JAPAN. 
+(72)Name of Inventor : 
+   1)HIROSHI FUNATO 
+   2)TAKAHIKO HARA  
+(57) Abstract : 
+A hydraulic cylinder that expands and contracts in accordance with supply and discharge of a working fluid includes: a piston unit that 
+is defined in an interior of a cylinder tube to be free to perform a sliding motion within the cylinder tube; and a piston rod in which the 
+piston unit is fixed to one end thereof and the other end thereof projects from the cylinder tube, wherein the piston unit is inserted into 
+a small diameter portion of the piston rod such that an end surface thereof fixedly contacts a shoulder end surface of the piston rod, a 
+round portion is formed as an annular concave in a base end portion outer periphery of the small diameter portion of the piston rod, a 
+tapered portion is formed on an inner periphery of the piston unit from the end surface in alignment with an concave portion formed 
+by concaving the small diameter portion, and a length of the tapered portion in a piston unit axial direction is equal to or greater than a 
+length of the concave portion in a piston rod axial direction.  
+  
+No. of Pages : 23 No. of Claims : 2 

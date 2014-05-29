@@ -1,0 +1,22 @@
+Application number  =>  433/MUMNP/2012 A 
+
+Date of filing of application number  =>  21/02/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD FOR CONTROLLING DELIVERY QUANTITY AND RECIPROCATING COMPRESSOR HAVING DELIVERY QUANTITY CONTROL 
+
+Name of applicant  =>  1)BURCKHARDT COMPRESSION AG 
+
+Name of inventor  =>  1)ALLENSPACH, ANDREAS 2)AIGNER, ROLAND 
+
+International Classification  =>  F04B39/08,F04B49/24 
+
+Priority Doc No  =>  PCT/EP2009/059528 
+
+International Application Number  =>  PCT/EP2010/060545 
+
+International Publication Number  =>  WO/2011/009879 
+
+Abstract  =>  The invention relates to a method for the delivery quantity control of a reciprocating compressor, wherein the motion of a closing organ (5b) of an automatic suction valve (5) is influenced during at least one part of a cycle of the crankshaft by means of a retraction gripper (6) driven by a control device (2), wherein the method comprises a continuously variable return flow control, wherein the retraction gripper (6) contacts the closing organ (5b) and prevents the same from closing during a first partial segment (K1) of the cycle of the crankshaft, and wherein the retraction gripper (6) is retracted during a second partial segment (K2) of the cycle of the crankshaft and the closing organ (5b) is closed, and wherein the method comprises an interruption control, wherein the retraction gripper (6) prevents the closing organ (5b) from closing during an entire cycle of the crankshaft, wherein the delivery quantity is controlled at least by a combination of continuously variable return flow control and interruption control, and wherein the closing organ (5b) is influenced by the control device (2) and the retraction gripper (6) such that a closing organ (8b) of a pressure valve (8) of the reciprocating compressor is opened at least during a prescribed total opening angle (Kv) of a crankshaft. 
+

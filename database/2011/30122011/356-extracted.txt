@@ -1,0 +1,47 @@
+The Patent Office Journal 30/12/2011 
+ 
+25693
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1276/KOL/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :11/11/2010 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : REAL-TIME RUN-TIME SYSTEM AND FUNCTIONAL MODULE FOR SUCH A RUN-TIME 
+SYSTEM  
+  
+(51) International classification  :G06F9/48  
+(31) Priority Document No  :102009047025.5-55  
+(32) Priority Date  :23/11/2009 
+(33) Name of priority country  :Germany 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)BECKHOFF AUTOMATION GMBH 
+      Address of Applicant :EISERSTRASSE 5, 33415 VERL, 
+GERMANY 
+(72)Name of Inventor : 
+   1)DIRK JANSSEN 
+   2)GERD HOPPE 
+   3)JAN LÜMKEMANN  
+(57) Abstract : 
+A real-time run-time system comprises a plurality of functional modules and an administration module. The plurality of functional 
+modules is configured to log on to the administration module by means of an assigned module identification during a transitional state 
+between initialization and pre-operation and to log off during a transitional state between pre-operation and initialization. At least one 
+of the plurality of functional modules is configured to establish communication connections with further functional modules via the 
+administration module during the transitional state between pre-operation and trial operation, to break down the communication 
+connections during the transitional state between trial operation and pre-operation, to log on to the further functional modules during 
+the transitional state between trial operation and real-time operation and to log off during the transitional state between real-time 
+operation and trial operation.  
+ 
+No. of Pages : 28 No. of Claims : 26 

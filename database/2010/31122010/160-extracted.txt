@@ -1,0 +1,40 @@
+The Patent Office Journal 31/12/2010 
+ 
+5426
+(12) PATENT APPLICATION PUBLICATION (21) Application No.4146/KOLNP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :03/11/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : PRINTED WIRING BOARD AND METHOD FOR MANUFACTURING THE SAME  
+  
+(51) International classification  :H05K 3/46  
+(31) Priority Document No  :61/071,790  
+(32) Priority Date  :19/05/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/JP2008/073344
+:22/12/2008 
+(87) International Publication No  :WO 2009/141928  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)IBIDEN CO., LTD. 
+      Address of Applicant :2-1, KANDA-CHO, OGAKI-SHI, 
+GIFU 503-8604 JAPAN. 
+(72)Name of Inventor : 
+   1)TAKAHASHI, MICHIMASA  
+(57) Abstract : 
+A printed wiring board has a first substrate (10) with multiple wiring layers, and a second substrate (20) with wiring layers whose 
+conductor density is set higher than that of the first substrate (10). The first substrate (10) and the second substrate (20) are electrically 
+connected through each wiring layer, and the second substrate (20) is embedded in an accommodation section (100a).  
+  
+No. of Pages : 33 No. of Claims : 15 

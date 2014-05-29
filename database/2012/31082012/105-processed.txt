@@ -1,0 +1,22 @@
+Application number  =>  2966/CHENP/2011 A 
+
+Date of filing of application number  =>  02/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  AMPLIFIER WITH IMPROVED ESD PROTECTION CIRCUITRY 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)EUGENE R. WORLEY 
+
+International Classification  =>  H03F1/52,H03F3/195,H03F3/45, H01L27/02 
+
+Priority Doc No  =>  12/260,901 
+
+International Application Number  =>  PCT/US2009/062409 
+
+International Publication Number  =>  WO 2010/053791 A1 
+
+Abstract  =>  An amplifier (e.g., an LNA) with improved ESD protection circuitry is described. In one exemplary design, the amplifier includes a transistor, an inductor, and a clamp circuit. The transistor has a gate coupled to a pad and provides signal amplification for the amplifier. The inductor is coupled to a source of the transistor and provides source degeneration for the transistor. The clamp circuit is coupled between the gate and source of the transistor and provides ESD protection for the transistor. The clamp circuit may include at least one diode coupled between the gate and source of the transistor. The clamp circuit conducts current through the inductor to generate a voltage drop across the inductor when a large voltage pulse is applied to the pad. The gate-to- source voltage (Vgs) of the transistor is reduced by the voltage drop across the inductor, which may improve the reliability of the transistor. 
+

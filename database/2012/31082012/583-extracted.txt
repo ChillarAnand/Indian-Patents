@@ -1,0 +1,47 @@
+ 
+The Patent Office Journal 31/08/2012 
+13642
+(12) PATENT APPLICATION PUBLICATION (21) Application No.544/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :05/03/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : FILTER FOR FILTERING FLUIDS  
+  
+(51) International classification  :B01D 46/52  
+(31) Priority Document No  :10 2009040202.0  
+(32) Priority Date  :07/09/2009 
+(33) Name of priority country  :Germany 
+(86) International Application No 
+        Filing Date 
+:PCT/EP2010/063133
+:07/09/2010 
+(87) International Publication No  :WO/2011/027001  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)MANN+HUMMEL GMBH 
+      Address of Applicant :HINDENBURGSTR. 45, 71638 
+LUDWIGSBURG, GERMANY. 
+(72)Name of Inventor : 
+   1)MBADINGA-MOUANDA, GELASE 
+   2)GEHWOLF, KLAUS  
+(57) Abstract : 
+The invention relates to a filter for filtering fluids, in particular gases, more particularly intake air, fuel, urea solution or engine oil, 
+particularly of an internal combustion engine, particularly of a motor vehicle, or ambient air for introduction into ventilation systems 
+of buildings or vehicles, comprising a filter element (1) made of a filter medium (106) pleated in a zigzag manner, with a raw side 
+(105) and a clean side (104). On the raw side (105), a plurality of elongated depressions (656) are formed in the filter medium (14; 
+106), which extend between raw-side pleat tips (102a) and raw-side pleat bases (103a) approximately perpendicular to pleat edges (F) 
+of the filter medium (106) and implement corresponding elevations (658) on the clean side (104) such that, in a raw-side pleat 
+intermediate space (148a), in each case, two depressions (656) on the two medium sections (120) delimiting the pleat intermediate 
+space (148a) are located directly opposite of each other and each form a flow channel (660). 
+  
+  
+No. of Pages : 59 No. of Claims : 10 

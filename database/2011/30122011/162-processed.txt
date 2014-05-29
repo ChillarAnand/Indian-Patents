@@ -1,0 +1,22 @@
+Application number  =>  1071/MUMNP/2011 A 
+
+Date of filing of application number  =>  26/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  IMAGE PROCESSING METHOD AND SYSTEM OF SKIN COLOR ENHANCEMENT 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)HUNG Szepo R. 2)JIANG Xiaoyun 3)LI Hsiang-Tsun 
+
+International Classification  =>  H04N 1/62 
+
+Priority Doc No  =>  12/340,580 
+
+International Application Number  =>  PCT/US2009/066486 
+
+International Publication Number  =>  WO/2010/071738 
+
+Abstract  =>  Image processing methods and systems are disclosed. In a particular embodiment, a method is disclosed that includes receiving image data. The image data includes color component data representing a location of a pixel in a color space. The method further includes performing a linear transformation of the location of the pixel in the color space when the location is identified as within a skin color region of the color space. The linear transformation is performed by mapping the location of the pixel at a first portion of the skin color region to a second portion of the skin color region based on a position of the pixel within the skin color region and based on the proximity of the position of the pixel to a boundary of the skin color region. The color space remains substantially continuous at the boundary of the skin color region after applying the linear transformation. 
+

@@ -1,0 +1,43 @@
+The Patent Office Journal 31/12/2010 
+ 
+5435
+(12) PATENT APPLICATION PUBLICATION (21) Application No.4160/KOLNP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :04/11/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : NETWORK CODED DATA COMMUNICATION  
+  
+(51) International classification  :H04L 1/00  
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date 
+:PCT/SE2008/050413
+:11/04/2008 
+(87) International Publication No  :WO 2009/126079  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)TELEFONAKTIEBOLAGET LM ERICSSON (PUBL) 
+      Address of Applicant :S-164 83 STOCKHOLM, SWEDEN. 
+(72)Name of Inventor : 
+   1)BEN SLIMANE, SLIMANE 
+   2)MANSSOUR, JAWAD 
+   3)OSSEIRAN, AFIF  
+(57) Abstract : 
+A data communication involves selecting a group (15) of M multiple source nodes (12, 16) among N multiple source nodes (10, 12, 
+14, 16) present in a communication system (1) and having data destined for a destination node (30), where 2 ≤ M < N , A relay node 
+(20) network codes data from the selected group (15) of M nodes (12, 16) to form combined, network coded data. This resulting data 
+is sent to towards the destination node (30). The purposeful selection of source nodes (10, 12, 14, 16) in connection with network 
+coding substantially increases the throughput of the communication system (1).  
+  
+No. of Pages : 40 No. of Claims : 26 

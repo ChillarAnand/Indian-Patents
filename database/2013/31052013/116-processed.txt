@@ -1,0 +1,22 @@
+Application number  =>  9818/CHENP/2011 A 
+
+Date of filing of application number  =>  27/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  METHOD APPARATUS AND SYSTEM FOR TRANSMITTING CHANNEL STATE INFORMATION 
+
+Name of applicant  =>  1)Huawei Technologies Co. Ltd. 
+
+Name of inventor  =>  1)ZHANG Gong 2)LONG Yi 3)HE Cheng 4)CHENG Yong 5)LIU Jianneng 
+
+International Classification  =>  H04B 7/02 
+
+Priority Doc No  =>  200910171411.6 
+
+International Application Number  =>  PCT/CN2010/076441 
+
+International Publication Number  =>   
+
+Abstract  =>  A method device and system for transmitting channel state information (CSI) are provided which belong to the field of communications and solve the problem that it is difficult to transmit CSI information in a cooperative multiple-input multiple- output (MIMO) system in the prior art. The technical solution provided in the invention includes: obtaining the channel state information between a mobile terminal and more than two cooperative base stations; according to a preset single cell code book between the mobile terminal and each base station of the more than two cooperative base stations respectively quantifying the channel state information and obtaining a combined codeword index of the quantified channel state information in the single cell code book; transmitting the combined codeword index of the quantified channel state information in the single cell code book. The implements in the present invention can be applied in the cooperative MIMO system. 
+

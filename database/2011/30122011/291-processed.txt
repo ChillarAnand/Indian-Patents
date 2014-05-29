@@ -1,0 +1,22 @@
+Application number  =>  1313/CHENP/2011 A 
+
+Date of filing of application number  =>  24/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  PLANTS HAVING MODIFIED GROWTH CHARACTERISTICS AND A METHOD FOR MAKING THE SAME 
+
+Name of applicant  =>  1)BASF PLANT SCIENCE GMBH 2)VIB VZW 3)UNIVERSITEIT GENT 
+
+Name of inventor  =>  1)HIMANEN Kristiina 2)VAN LIJSEBETTENS Maria 3)REUZEAU Christophe 4)BOCCARDI Tommaso Matteo 
+
+International Classification  =>  C12N15/82, A01H5/00 
+
+Priority Doc No  =>  61/085046 
+
+International Application Number  =>  PCT/EP2009/059790 
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention relates generally to the field of molecular biology and concerns a method for improving various economically important growth characteristics in plants. More specifically, the present invention concerns inter alia a method for modifying growth characteristics in plants by modulating expression in a plant of a nucleic acid encoding a HUB1 (Histone Monoubiquitination 1) polypeptide or encoding another protein useful in the methods of the present invention. The modified growth characteristics comprise a modification of light regulated phenotypes, such as modified circadian clock and/or circadian clock responses, or modified plant architecture. 
+

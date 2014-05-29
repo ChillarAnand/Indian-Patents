@@ -1,0 +1,22 @@
+Application number  =>  2025/CHE/2011 A 
+
+Date of filing of application number  =>  15/06/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  INTERNAL PRESSURE ENGINE 
+
+Name of applicant  =>  1)N. RAMESH 
+
+Name of inventor  =>  1)N. RAMESH 
+
+International Classification  =>  F01B 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The invention is a hydraulic system. This system input power from electric motor. When it received power, the crank shafts rotate. Top and bottom pressure cylinder created pressure on the crank shaft since the crank shaft are modeled on angle method. So top and bottom cylinder are started to work automatically through the internal pressure now the crank shaft rotate continuously. The created pressure is received as the output power crank shaft. 
+

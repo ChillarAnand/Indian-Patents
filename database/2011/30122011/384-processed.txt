@@ -1,0 +1,22 @@
+Application number  =>  707/KOL/2010 A 
+
+Date of filing of application number  =>  30/06/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD AND APPARATUS FOR ALLOCATING RANGING CHANNEL IN WIRELESS COMMUNICATION SYSTEM 
+
+Name of applicant  =>  1)LG ELECTRONICS INC. 
+
+Name of inventor  =>  1)LEE, HYUN WOO 2)CHO, HAN GYU 3)KWAK, JIN SAM 4)KWON, YEONG HYEON 
+
+International Classification  =>  H04W24/00 
+
+Priority Doc No  =>  61/222,919 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A method and apparatus of allocating a ranging channel in a wireless communication system is provided. A base station (BS) allocates at least one first ranging channel, having a first structure, and at least one second ranging channel, having a second structure, to a ranging subframe. The first structure or the second structure can be one of the ranging channel structures of an IEEE 802.16e system. A number of orthogonal frequency division multiplexing (OFDM) symbols included in the first structure and a number of OFDM symbols included in the second structure differs from each other. And a guard time including at least one OFDM symbol is allocated between the at least one first ranging channel and the at least one second ranging channel. 
+

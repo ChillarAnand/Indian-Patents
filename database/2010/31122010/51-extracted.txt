@@ -1,0 +1,71 @@
+The Patent Office Journal 31/12/2010 
+ 
+5317
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1428/DEL/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :18/06/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : METHOD AND APPARATUS FOR MONITORING AND SELECTIVELY CONTROLLING A LOAD 
+IN A POWER SYSTEM  
+  
+(51) International classification  :H04B7/005; 
+(31) Priority Document No  :12/491,488 
+(32) Priority Date  :25/06/2009
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  :NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)GENERAL ELECTRIC COMPANY 
+      Address of Applicant :1 RIVER ROAD, SCHENECTADY, 
+NEW YORK 12345 U.S.A.   
+(72)Name of Inventor : 
+   1)THOMSON MATTHEW B.  
+(57) Abstract : 
+A monitoring and control device (26) for a power system (10), the power system including a plurality of electrical loads and a control 
+unit is provided. The monitoring and control device (26) includes a load monitoring module (56) configured to determine an amount 
+of electrical power transmitted to at least one of the plurality of electrical loads, the load monitoring module further configured to 
+transmit a value representing the determined quantity of electrical power to the power system, and a load control module (58) 
+configured to control an amount of electrical power transmitted to the at least one of the plurality of electrical loads. The load control 
+module is further configured to receive a power control command from the power system, and transmit a power control 
+acknowledgement to the power system. 
+  
+  
+No. of Pages : 19 No. of Claims : 10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

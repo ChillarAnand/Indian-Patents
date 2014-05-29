@@ -1,0 +1,22 @@
+Application number  =>  9720/CHENP/2011 A 
+
+Date of filing of application number  =>  23/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  METHOD AND APPARATUS FOR PROVIDING A COLLABORATIVE REPLY OVER AN AD- HOC MESH NETWORK 
+
+Name of applicant  =>  1)NOKIA CORPORATION 
+
+Name of inventor  =>  1)Kari Leppanen 2)Mika Kasslin 3)Mikko Tirronen 4)Markku T.Turunen 5)Sami Virtanen 
+
+International Classification  =>  H04W 84/18 
+
+Priority Doc No  =>  12/475,351 
+
+International Application Number  =>  PCT/IB2010/052406 
+
+International Publication Number  =>   
+
+Abstract  =>  An approach is provided for providing a collaborative reply to a flooding message over an ad-hoc mesh network. A reply message to a flooding message is received by a wireless node within the ad-hoc network. The wireless node monitors for an acknowledgement of receipt of the reply message according to a routing table and initiates a scheduled transmission of the reply message based on the monitoring. 
+

@@ -1,0 +1,22 @@
+Application number  =>  2007/MUMNP/2010 A 
+
+Date of filing of application number  =>  23/09/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  POWER MANAGEMENT USING AT LEAST ONE OF A SPECIAL PURPOSE PROCESSOR AND MOTION SENSING 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)SHEYNBLAT Leonid 2)WOLF Thomas G. 
+
+International Classification  =>  H04W52/02 
+
+Priority Doc No  =>  12/101,930 
+
+International Application Number  =>  PCT/US2009/039630 
+
+International Publication Number  =>   
+
+Abstract  =>  A power management device useable in a mobile station includes a main processor configured to execute applications including signal processing applications and further configured to enter a sleep mode in response to predetermined criteria. The device further includes a circuit configured to operate when the main processor is in the sleep mode comprising at least one of a low power processor and a sensor to monitor at least one of signals, commands, inputs, and changes in environment, the circuit waking up the main processor responsive to one of the low power processor and the sensor. The device may operate a method and may execute instructions based on a machine readable medium. 
+

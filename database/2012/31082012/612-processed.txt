@@ -1,0 +1,22 @@
+Application number  =>  575/MUMNP/2012 A 
+
+Date of filing of application number  =>  07/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  DEVICE FOR PRODUCING CONTAINERS FOR LIQUID 
+
+Name of applicant  =>  1)KRONES AG 
+
+Name of inventor  =>  1)CHRISTOPH KLENK 
+
+International Classification  =>  B67C 7/00 
+
+Priority Doc No  =>  10 2009 041 160.7 
+
+International Application Number  =>  PCT/EP2010/063202 
+
+International Publication Number  =>  WO/2011/029856 
+
+Abstract  =>  The invention relates to a device for producing containers for liquid (10) comprising a shaping unit (2), for shaping plastic preforms (10) into plastic containers (20), and a filling unit (4) for filling the plastic containers with a liquid medium, wherein the filling unit (4) lies downstream in a transport direction (R) of the plastic containers relative to the shaping unit (2). The shaping unit (2) has a feeding region (22) for feeding the plastic preforms (10) and a discharging region (24) in order to discharge the plastic containers (20) from the shaping unit (2). The filling unit (4) has a feeding region (42) for feeding the plastic containers to the filling unit (4) and a discharging region (44) for discharging the plastic containers from the shaping unit (4), wherein at least one transporting device (30), which is used as an interface, lies between the discharging region (24) of the shaping unit (2) and the feeding region (42) of the filling unit (4), said transporting device transporting plastic containers at least along some sections and individually between the shaping unit (2) and the filling unit (4). The transporting device (30) is designed such that at least one further unit (6, 7) for manipulating the containers into the device can be inserted between the shaping unit (2) and the filling unit (4). Said further unit (6, 7) can be connected to the transporting device (30) such that the transport flow of the containers (20) between the shaping unit (2) and the filling unit runs via the additional unit (32). 
+

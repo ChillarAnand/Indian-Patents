@@ -1,0 +1,22 @@
+Application number  =>  2059/CHE/2011 A 
+
+Date of filing of application number  =>  17/06/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  INFORMATION PROCESSING DEVICE, INFORMATION PROCESSING METHOD, AND PROGRAM 
+
+Name of applicant  =>  1)SONY CORPORATION 
+
+Name of inventor  =>  1)HIROSHI KUNO 2)KENJIRO UEDA 3)TAKAMICHI HAYASHI 4)MUNETAKE EBIHARA 5)KOJI YOSHIMURA 
+
+International Classification  =>  G06F12/14, H04L9/32 
+
+Priority Doc No  =>  P2010-143361 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  An information processing device includes: a memory having a protected area which is a data recording area in which access restriction is set; and a data processing unit that determines accessibility in response to a request for accessing the protected area from an access requesting device, wherein the data processing unit verifies a device certificate received from the access requesting device and determines accessibility to the protected area based on access control information recorded in the device certificate. 
+

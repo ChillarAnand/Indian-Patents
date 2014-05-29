@@ -1,0 +1,22 @@
+Application number  =>  1367/MUM/2012 A 
+
+Date of filing of application number  =>  02/05/2012 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  A RAIN SENSOR 
+
+Name of applicant  =>  1)KORE SHANTANU SHRIKANT 
+
+Name of inventor  =>  1)KORE SHANTANU SHRIKANT 
+
+International Classification  =>  G01N27/02 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention discloses a rain sensor. The rain sensor has a predetermined geometry which causes the rain water drops to form a film or column on the sensor surface. This film or column of water causes a change in the impedance of the sensor. This change in impedance of the sensor is used for automatically varying the rate of rotation of the windshield wiper. 
+

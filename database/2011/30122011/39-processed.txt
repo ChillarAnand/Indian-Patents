@@ -1,0 +1,22 @@
+Application number  =>  1577/DEL/1997 A 
+
+Date of filing of application number  =>  12/06/1997 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  SYSTEM FOR MONITORING DIAPHRAGM PUMP FAILURE 
+
+Name of applicant  =>  1)TEXACO DEVELOPMENT CORPORATION 
+
+Name of inventor  =>  1)STEVEN R. GREEN 2)DAVID L. POWELL JR., 
+
+International Classification  =>  F04B 43/00 
+
+Priority Doc No  =>  60/020,838 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A diaphragm failure monitoring system for detecting leakage in a diaphragm of a diaphragm pump. The system includes a pump having an operating chamber containing a working fluid and a pumping chamber for pumping material into and out of the pump and a diaphragm separating the operating and pumping chambers. A first optic fiber is joined to the operating chamber for transmitting an optic signal across the working fluid. A second optic fiber is joined to the operating chamber for receiving the optic signal from the first optic fiber. An electric signal establishing device establishes a first electrical signal when the optic signal from the first optic fiber to the second optic fiber passes through uncontarninated working fluid. The electric signal establishing device establishes a second electrical signal when the optic signal from the first optic fiber to the second optic fiber passes through contaminated working fluid, whereby leakage of a contaminating material through the diaphragm into the operating chamber can be detected when the second electrical signal is established. 
+

@@ -1,0 +1,50 @@
+ 
+The Patent Office Journal 31/08/2012 
+14010
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3020/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :03/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : TRAY FOR IMAGE READING DEVICE  
+  
+(51) International classification  :G01N21/85  
+(31) Priority Document No  :2008-262366  
+(32) Priority Date  :09/10/2008 
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date 
+:PCT/JP09/005064 
+:01/10/2009 
+(87) International Publication No  :WO 2010/041388 A1  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)SATAKE CORPORATION 
+      Address of Applicant :7-2, SOTOKANDA 4-CHOME, 
+CHIYODA-KU, TOKYO, 101-0021 Japan 
+(72)Name of Inventor : 
+   1)HARA, MASAZUMI 
+   2)ISHIZUKI, HIROKI 
+   3)TAKEUCHI, HIROAKI 
+   4)OCHI, TATSUHIKO 
+   5)HIRANO, SHUICHI 
+   6)ZHENG, JUN  
+(57) Abstract : 
+A tray for granular materials allows, with the use of an image reading device such as a scanner, the dimensions in the three-axis 
+directions, that is, the length, width, and thickness, of the granular materials to be measured inexpensively and easily. A tray used to 
+place granular materials on a reading surface of an image reading device has provided thereto a transparent bottom plate, a 
+background vertically upstanding relative to the bottom plate, and reflective elements arranged at predetermined intervals parallel to 
+the background. In order to enable an imaging means of the image reading device to receive a side view image of the granular 
+materials in the thickness direction thereof with the granular materials placed on the bottom plate of the tray, the tray is provided with 
+a technical means for bending and guiding, by the reflective elements, light from the granular materials in the thickness direction 
+thereof to the direction of the optical axis of the imaging means. 
+  
+  
+No. of Pages : 46 No. of Claims : 4 

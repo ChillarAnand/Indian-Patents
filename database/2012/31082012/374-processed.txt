@@ -1,0 +1,22 @@
+Application number  =>  5296/DELNP/2011 A 
+
+Date of filing of application number  =>  08/07/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  DEVICE FOR DRIVING A SHUTTLE IN THE REED OF A CIRCULAR LOOM WITHOUT CONTACT 
+
+Name of applicant  =>  1)STARLINGER & CO GESELLSCHAFT M.B.H. 
+
+Name of inventor  =>  1)WAGNER Nikolaus 
+
+International Classification  =>  D03D 
+
+Priority Doc No  =>  A 0108/2009 
+
+International Application Number  =>  PCT/EP2010/050398 
+
+International Publication Number  =>   
+
+Abstract  =>  The invention relates to a device for driving a shuttle (1, 1) that can be moved in the reed (17) of a circular loom along a circular orbit (16) without contact, comprising at least one permanent magnet (29, 29) on the shuttle (1, 1) and at least one magnet (22, 22) that is operatively connected to the at least one permanent magnet (29, 29) of the shuttle (1, 1) and that is arranged on a drive element (10) that can be moved concentrically to the orbit (16) of the shuttle, wherein an air gap (11) is formed between the shuttle (1, 1) and the drive element (10). The at least one permanent magnet (29, 29) of the shuttle (1, 1) and the at least one magnet (22, 22) of the drive element (10) are polarized in such a way that the at least one permanent magnet of the shuttle and the at least one magnet of the drive element mutually attract each other by means of magnetic forces and thus form a magnetic attraction section (14). 
+

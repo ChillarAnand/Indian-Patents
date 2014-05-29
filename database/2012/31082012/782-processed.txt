@@ -1,0 +1,22 @@
+Application number  =>  999/MUMNP/2012 A 
+
+Date of filing of application number  =>  20/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  IMPROVED NON-ROUND FLUID FILLED LENS OPTIC 
+
+Name of applicant  =>  1)ADLENS BEACON, INC. 
+
+Name of inventor  =>  1)GUPTA, AMITAVA 2)SCHNELL, URBAN 3)HAROUD, KARIM 4)JAEGER, HANS 5)NIBAUER, LISA 6)LOSER, PASCAL 7)EGAN, WILLIAM 
+
+International Classification  =>  G02B 1/06 
+
+Priority Doc No  =>  61/251,155 
+
+International Application Number  =>  PCT/US2010/052362 
+
+International Publication Number  =>  WO/2011/046956 
+
+Abstract  =>  An optical and mechanical design of a sealed, non-round fluid-filled lens capable of providing variation of optical power. The fluid lens includes at least three optical components: at least one mostly rigid optical disc, at least one mostly flexible optical membrane and a layer of a transparent fluid that is in communication via a fluid channel with a reservoir of excess fluid contained in a reservoir that can be accessed to augment the fluid volume inside the fluid lens to change the power of the fluid lens. The fluid lens is capable of providing correction of spherical and astigmatic errors, and utilizes contoured membranes to minimize image aberrations. 
+

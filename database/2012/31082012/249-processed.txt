@@ -1,0 +1,22 @@
+Application number  =>  3137/CHENP/2011 A 
+
+Date of filing of application number  =>  06/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>   
+
+Name of applicant  =>  1)BLACK HAWK ENERGY PRODUCTS LLC 
+
+Name of inventor  =>  1)JOHNSON, JERRY, B. 
+
+International Classification  =>  H02J3/00, H02J3/01 
+
+Priority Doc No  =>  61/196,036 
+
+International Application Number  =>  PCT/US09/060666 
+
+International Publication Number  =>  WO 2010/045349 A2 
+
+Abstract  =>  A system for conditioning the three-phase alternating current electric power, including a first phase, a second phase, a third phase, and a neutral line, supplied to a load includes a plurality of first surge arresters, a plurality of second surge arresters, a plurality of third surge arresters, a three-phase surge suppressor, and a plurality of capacitors. The surge arresters minimize the amount by which the voltage between two phases and the neutral line exceeds a rated value. The three-phase surge suppressor minimizes the amount by which the voltage between the three phases and the neutral line exceeds a rated value, The capacitors minimize the amount by which the voltage between two phases falls below a rated value. 
+

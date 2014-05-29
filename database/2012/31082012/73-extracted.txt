@@ -1,0 +1,54 @@
+ 
+The Patent Office Journal 31/08/2012 
+13915
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2920/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :29/04/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : LIGHT EXTRACTION FILM WITH HIGH INDEX BACKFILL LAYER AND PASSIVATION LAYER 
+  
+(51) International classification  :G02B5/00, H05B33/10  
+(31) Priority Document No  :12/262,393  
+(32) Priority Date  :31/10/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/061819
+:23/10/2009 
+(87) International Publication No  :WO 2010/051229 A2 
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)3M INNOVATIVE PROPERTIES COMPANY  
+      Address of Applicant :3M CENTER, POST OFFICE BOX 
+33427, SAINT PAUL, MINNESOTA 55133-3427 U.S.A. 
+(72)Name of Inventor : 
+   1)LAMANSKY, SERGEY, A. 
+   2)HAO, ENCAI 
+   3)LE, HA, T., T. 
+   4)STEGALL, DAVID, B. 
+   5)WANG, DING 
+   6)LU, YI 
+   7)SMITH, TERRY, L. 
+   8)ZHANG, JUN-YING 
+   9)WU, JUNG-SHENG 
+   10)THORSON, JAMES, E.  
+(57) Abstract : 
+A multifunctional optical film for enhancing light extraction includes a flexible substrate, a structured layer, a high index backfill 
+layer, and an optional passivation layer. The structured layer effectively uses microreplicated diffractive or scattering nanostructures 
+located near enough to the light generation region to enable extraction of an evanescent wave from an organic light emitting diode 
+(OLED) device. The backfill layer has a material having an index of refraction different from the index of refraction of the structured 
+layer. The backfill layer also provides a planarizing layer over the structured layer in order to conform the light extraction film to a 
+layer of an OLED display device. The film may have additional layers added to or incorporated within it to an emissive surface in 
+order to effect additional functionalities beyond improvement of light extraction efficiency. 
+  
+  
+No. of Pages : 40 No. of Claims : 10 

@@ -1,0 +1,41 @@
+The Patent Office Journal 31/05/2013 12073
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9780/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :26/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : COMMUNICATION TERMINAL•
+( 1) International classification :H04W 36/00
+(31) Priority Document No :2009-147778
+(32) Priority Date :22/06/2009
+(33) Name of priority country :Japan
+(86) International Application No
+Filing Date
+:PCT/JP2010/003501
+:25/05/2010
+(87) International Publication No : NA
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)PANASONIC CORPORATION
+Address of Applicant :1006 Oaza Kadoma Kadoma-shi
+Osaka 571-8501 Japan
+(72)Name of Inventor :
+1)Takahisa AOYAMA
+2)Jun HIRANO
+3)Takashi TAMURA
+(57) Abstract :
+A communication terminal is capable of simultaneously communicating through a plurality of carriers by carrier aggregation and
+the communication terminal comprises: a quality measurement unit for measuring the reception quality of a radio wave
+transmitted through a plurality of carriers from a base station of a connected cell to obtain a measured value; a primary carrier
+storage unit storing information specifying a primary carrier chosen from the plurality of carriers; a comparator for comparing a
+measured value of the primary carrier measured by the quality measurement unit to a threshold value; and a cell search unit for
+searching for another cell when the measured value of the primary carrier is less than or equal to the threshold value.
+Consequently a search threshold value for carrier aggregation can be appropriately determined to perform a cell search and a
+quality measurement.
+No. of Pages : 74 No. of Claims : 13

@@ -1,0 +1,22 @@
+Application number  =>  1277/CHENP/2011 A 
+
+Date of filing of application number  =>  23/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD AND APPARATUS FOR IMPLEMENTING AN OPTICAL INTERFACE WITH A PLURALITY OF VELOCITIES 
+
+Name of applicant  =>  1)ZTE CORPORATION 
+
+Name of inventor  =>  1)FENG LIU 
+
+International Classification  =>  H04B10/08 
+
+Priority Doc No  =>  200810133768.0 
+
+International Application Number  =>  PCT/CN2009/072614 
+
+International Publication Number  =>   
+
+Abstract  =>  A method and an apparatus for implementing an optical interface with a plurality of velocities are provided, wherein the method, at the receiving side of the optical interface, comprises: recovering clock and data of an input data stream wherein the recovering data is embodied as recovering serial data into parallel data (S202); carrying out velocity detection and data detection on the recovered data stream, and adjusting the system into a normal operation state according to the results of the velocity detection and the data detection (S204); and at the transmitting side of the optical interface comprises: configuring transmission velocity according to the velocity of the system in the normal operation state (S206); and recovering the transmitted data from parallel data to serial data, and transmitting the recovered serial data (S208). 
+

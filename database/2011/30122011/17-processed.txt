@@ -1,0 +1,22 @@
+Application number  =>  1053/DELNP/2005 A 
+
+Date of filing of application number  =>  17/03/2005 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  A METHOD FOR CALCULATING A NUMBER OF DATA PACKETS IN A COMMUNICATION NETWORK 
+
+Name of applicant  =>  1)SAMSUNG ELECTRONIC CO., LTD. 
+
+Name of inventor  =>  1)SUNG, WON-LEE 
+
+International Classification  =>  H04L 12/56 
+
+Priority Doc No  =>  26142/2001 
+
+International Application Number  =>  PCT/KR02/00898 
+
+International Publication Number  =>  WO 02/093847 
+
+Abstract  =>  Disclosed is an apparatus and method for controlling packet data transmission between a base station controller (BSC) and a base transceiver system (BTS) in a mobile communication network. The BSC transmits as much packet data as an amount that can be actually stored in a buffer of the BTS. The BTS has the buffer for temporarily storing the packet data to be transmitted to a mobile station, received from the BSC. 
+

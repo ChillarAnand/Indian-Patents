@@ -1,0 +1,22 @@
+Application number  =>  9948/CHENP/2011 A 
+
+Date of filing of application number  =>  29/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  PERSONAL STATUS COMMUNICATIONS MANAGER 
+
+Name of applicant  =>  1)ROCKSTAR BIDCO, LP 
+
+Name of inventor  =>  1)JOHN STORRIE 2)MICHAEL MENTZ 3)PAUL SKIDMORE 4)LYDIA CHUNG 
+
+International Classification  =>  H04Q3/78 
+
+Priority Doc No  =>  12/458,108 
+
+International Application Number  =>  PCT/CA2010/000826 
+
+International Publication Number  =>  WO 2011/000076 A1 
+
+Abstract  =>  A user status may be updated at one of a plurality of network entities associated with a user. Through communication between the network entity on which the update has been made and a central server, an indication of the status update may be transmitted, by the central server, to the other network entities associated with the user. 
+

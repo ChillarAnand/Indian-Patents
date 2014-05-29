@@ -1,0 +1,22 @@
+Application number  =>  2974/CHENP/2011 A 
+
+Date of filing of application number  =>  02/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  ENHANCED DATA ACCESS FOR INFORMATION SYSTEMS 
+
+Name of applicant  =>  1)CASSIDIAN FINLAND OY 
+
+Name of inventor  =>  1)SAVUNEN, TAPIO 2)SALOVUORI, HEIKKI 3)LAHTINEN, OLLI-PEKKA 
+
+International Classification  =>  G06F17/30 
+
+Priority Doc No  =>  08165999.7 
+
+International Application Number  =>  PCT/FI09/050780 
+
+International Publication Number  =>  WO 2010/040895 A3 
+
+Abstract  =>  An information system that comprises a data source that transmits a data item to a group of database instances using a packet-switched communication protocol in which retransmission of the data item to a data base instance is independent from reception of an acknowledgement to the transmitted data item from the database instance. A database instance receives the data item from the data source, stores it as a present data Item and opens access to the present data item. A data consumer queries information on the present data item from the database instance and is provided with means to detect whether the Information included In a response to the query Is valid or not. If the information Is not valid, the data consumer initiates a new query from another destination. 
+

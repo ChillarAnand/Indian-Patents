@@ -1,0 +1,53 @@
+ 
+The Patent Office Journal 31/08/2012 
+14040
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3089/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :05/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : REVERSE-CONDUCTING SEMICONDUCTOR DEVICE  
+  
+(51) International classification  
+:H01L29/08, 
+H01L21/331, 
+H01L29/739  
+(31) Priority Document No  :08168332.8  
+(32) Priority Date  :05/11/2008 
+(33) Name of priority country  :EPO 
+(86) International Application No 
+        Filing Date 
+:PCT/EP09/64626
+:04/11/2009 
+(87) International Publication No  :WO 2010/052245 A2 
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)ABB TECHNOLOGY AG 
+      Address of Applicant :AFFOLTERNSTRASSE 44, CH-8050 
+ZURICH Switzerland 
+(72)Name of Inventor : 
+   1)KOPTA, ARNOST 
+   2)RAHIMO, MUNAF  
+(57) Abstract : 
+A reverse-conducting semiconductor device (200) is provided, which comprises a freewheeling diode and an Insulated gate bipolar 
+transistor on a common wafer (100), part of which wafer (100) forms a base layer (101) with a base layer thickness (102). The 
+Insulated gate bipolar transistor comprises a collector side (103) and an emitter side (104), whereas the collector side (103) Is arranged 
+opposite of the emitter side (104) of the wafer (100). A first layer (1) of a first conductivity type and a second layer (2) of a second 
+conductivity type are alternately arranged on the collector side (103). The first layer (1) comprises at least one first region (10) with a 
+first region width (11) and at least one first pilot region (12) with a first pilot region width (13). The second layer (2) comprises at least 
+one second region (20) with a second region width (21) and at least one second pilot region (22) with a second pilot region width (23). 
+The RC-IGBT is designed in such a way that the following geometrical rules are fulfilled: Each second region width (21) is the equal 
+to or larger than the base layer thickness (102), whereas each first region width (11) is smaller than the base layer thickness (102). 
+Each second pilot region width (23) is larger than each first pilot region width (13). Each first pilot region width is the equal to or 
+larger than two times the base layer thickness (102) and the sum of the areas of the second pilot regions (22) is larger than the sum of 
+the areas of the first pilot regions (12).   
+  
+  
+No. of Pages : 22 No. of Claims : 13 

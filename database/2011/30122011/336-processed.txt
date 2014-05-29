@@ -1,0 +1,22 @@
+Application number  =>  956/CHENP/2006 A 
+
+Date of filing of application number  =>  20/03/2006 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  NON-LEACHING ADHESIVE SYSTEM AND ITS USE IN A LIQUID IMMERSION OBJECTIVE 
+
+Name of applicant  =>  1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+
+Name of inventor  =>  1)VERSTEGEN, Emile, J., K. 2)KLOOSTERBOER, Johan, G. 3)STAPERT, Hendrik, R. 4)NEIJZEN, Jacobus, H., M. 5)VAN SANTEN, Helmar 
+
+International Classification  =>  C09J4/06 
+
+Priority Doc No  =>  03102607.3 
+
+International Application Number  =>  PCT/IB2004/051397 
+
+International Publication Number  =>  WO 2005/019365 
+
+Abstract  =>  A non-leaching adhesive system and its use in a liquid immersion objective for immersion-writing of masters for optical discs are disclosed. The adhesive system comprises at least one monomer, selected from among the group of acrylate and methacrylate monomers, allylic monomers, norbornene monomers, hybrid monomers thereof, containing chemically different polymerizable groups, and multifunctional thiol monomers, provided that said thiol is used in combination with at least one of said non-thiol monomers; and a polymerization initiator. At least one of said monomers, not being a thiol, is provided with at least two functional polymerizable groups to obtain a crosslinked polymer network. The polymerization initiator is preferably an initiator that can be activated both thermally and with UV radiation. The adhesive system may further contain a reactive diluent. Further the use of the present adhesive system in mounting a liquid immersion objective is disclosed. 
+

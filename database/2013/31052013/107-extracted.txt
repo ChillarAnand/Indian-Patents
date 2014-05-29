@@ -1,0 +1,44 @@
+The Patent Office Journal 31/05/2013 12078
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9809/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :26/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : METHOD OF AND APPARATUS FOR DESIGNING AN OPTICAL LENS•
+(51) International classification :G02C 7/06
+(31) Priority Document No :09305632.3
+(32) Priority Date :30/06/2009
+(33) Name of priority country :EPO
+(86) International Application No
+Filing Date
+:PCT/EP2010/059234
+:29/06/2010
+(87) International Publication No : NA
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)ESSILOR INTERNATIONAL (COMPAGNIE
+GENERALE DOPTIQUE)
+Address of Applicant :147 rue de Paris F-94220 Charenton
+Le Pont France
+(72)Name of Inventor :
+1)ALLIONE Pascal
+2)CALIXTE Laurent
+3)GUILLOUX Cyril
+(57) Abstract :
+The present invention relates to a method of and an apparatus for designing an optical lens surface for the manufacture of the
+optical lens, the method comprising the steps of providing a reference surface Sref, the reference surface Sref being defined by a
+plurality of surface points Pi each surface point Pi having a mean sphere Sph (Pi) and a cylinder CyI(Pi); providing at least one
+modifying surface layer SLmod(ξ1,..., ξN, x,y) the modifying surface layer SLmod being determined as a function of N
+adjustment parameters ξ1, ξ..., ξN; wherein N≥1 and the N adjustment parameters ξ1, ξ4,..., ξN are selected according to the
+desired optical properties of the optical target; combining the modifying surface layer SLmod with the reference surface Sref to
+obtain a target optical surface Star(x,y) according to the expression: Star(x,y) = Sref(x,y) + SLmod (ξ1,..., ξN, x,y); such that the
+value of surface parameter of at least one surface point Pi at a first region of the reference surface Sref is modified without
+modifying a surface parameter of at least one surface point Pi at a second region of the reference surface Sref, distanced from the
+first region.
+No. of Pages : 42 No. of Claims : 11

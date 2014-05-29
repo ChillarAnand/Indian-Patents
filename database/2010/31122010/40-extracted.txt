@@ -1,0 +1,48 @@
+The Patent Office Journal 31/12/2010 
+ 
+5306
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1354/DEL/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :10/06/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : HERMETIC SEALING ASSEMBLY AND ELECTRICAL DEVICE INCLUDING THE SAME  
+  
+(51) International classification  :B65B1/00; 
+(31) Priority Document No  :12/491,326 
+(32) Priority Date  :25/06/2009
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  :NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)GENERAL ELECTRIC COMPANY 
+      Address of Applicant :1 RIVER ROAD, SCHENECTADY, 
+NEW YORK 12345 U.S.A.   
+(72)Name of Inventor : 
+   1)JOHNSON CURTIS ALAN 
+   2)PETERSON II MYLESS STANDISH 
+   3)VANDAM JEREMY DANIEL 
+   4)YOSENICK TIMOTHY JAMES 
+   5)WEEBER KONRAD ROMAN 
+   6)YAGIELSKI JOHN RUSSELL 
+   7)HASZ WAYNE CHARLEZ  
+   8)MORRA MARTIN MATHEW   
+(57) Abstract : 
+Disclosed herein is a system 10 including a motor 20 comprising a rotor 30, a stator 40 and a sealing assembly 100 having at least one 
+joint and a monolithic ceramic separator 110. Each joint of the sealing assembly 100 is a chemical bond joint, and the monolithic 
+ceramic separator 110 is disposed in a gap 50 between the rotor 30 and the stator 40 of the motor 20 such that the sealing assembly 
+100 hermetically isolates the rotor 30 and the stator 40. 
+  
+  
+No. of Pages : 27 No. of Claims : 12 

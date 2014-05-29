@@ -1,0 +1,22 @@
+Application number  =>  2204/CHENP/2012 A 
+
+Date of filing of application number  =>  09/03/2012 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  TELECOMMUNICATIONS NETWORK NODE AND METHODS 
+
+Name of applicant  =>  1)ALCATEL LUCENT 
+
+Name of inventor  =>  1)HO, LESTER, T.W. 2)CLAUSSEN, HOLGER 
+
+International Classification  =>  H04W52/34 
+
+Priority Doc No  =>  09360042.7 
+
+International Application Number  =>  PCT/EP2010/004750 
+
+International Publication Number  =>  WO 2011/029503A1 
+
+Abstract  =>  A telecommunications network node and methods are disclosed. The method is for generating, by genetic programming, evolved algorithms for adjusting base station transmission power to control coverage of a cell to assist in providing desired base station operating characteristics. The method comprises the steps of: generating, using predetermined functions and terminals defined in a functions and terminals list, a plurality of evolved algorithms each of which determine whether, for any particular base station operating conditions, to adjust said base station transmission power; determining a fitness level indicative of each evolved algorithm's ability to adjust base station transmission power to control coverage to achieve said desired base station operating characteristics under expected operating conditions; and iteratively performing said steps of generating and determining to generate further evolved algorithms using at least one of said evolved algorithms determined to have achieved a particular fitness level. In this way, it can be seen that algorithms can be assembled and then tested to see how suitable they are at controlling base station power to achieve particular operating characteristics under particular operating conditions. Those algorithms which are determined to be the best at achieving those characteristics under those particular operating conditions may then be used to generate further algorithms which, in turn, are also then assessed. Hence, those individual algorithms which are suited to the operating characteristics and the operating conditions can rapidly be generated thereby avoiding the need to manually design new algorithms which are specialised to particular environments. 
+

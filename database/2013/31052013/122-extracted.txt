@@ -1,0 +1,45 @@
+The Patent Office Journal 31/05/2013 12093
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9760/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :23/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : PROTEIN
+(51) International classification :C12N9/18
+(31) Priority Document No :61/220288
+(32) Priority Date :25/06/2009
+(33) Name of priority country :U.S.A.
+(86) International Application No
+Filing Date
+:PCT/IB2010/052868
+:23/06/2010
+(87) International Publication No :WO 2010/150213A1
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)DANISCO A/S
+Address of Applicant :LANGERBROGADE 1, P O BOX
+17, DK 1001 COPENHAKEN K Denmark
+(72)Name of Inventor :
+1)MIASNIKOV, ANDREI
+2)BOTT, RICHARD, R.
+3)SORENSEN, JENS, FRISBAEK
+(57) Abstract :
+The present invention relates to a method for preparing a variant lipolytic enzyme comprising expressing in a host organism a
+nucleotide sequence which has at least 90% identity with a nucleotide sequence encoding a fungal lipolytic enzyme and comprises
+at least one modification at a position which corresponds in the encoded amino acid sequence to a) the introduction of at least one
+glycosylation site (or one additional glycosylation site) in the amino acid sequence compared with the original fungal lipolytic
+enzyme; b) the introduction of at least one amino acid at a surface position on the polypeptide and at a location in an external loop
+distal to the active site (catalytic triad) of the enzyme which is more hydrophilic (compared with the original amino acid); or c) a
+substitution or insertion at one or more of positions 33, 63, 78, 190, 305, 306 or 320 or a deletion at one or more positions 311-312
+or 307-319, wherein each amino acid position corresponds to the position of the amino acid sequence when aligned with SEQ ID
+No. 2; wherein when the nucleotide sequence has at least 90% identity with a nucleotide sequence encoding the fungal lipolytic
+enzyme shown in SEQ ID No. 22 or SEQ ID No. 23 the modification is not a substitution at position 63 and the deletion is not at
+position 311-312. Preferably the nucleotide sequence has at least 90% identity with SEQ ID No. 1. The invention also relates to
+polypeptide produced by the method and to novel nucleic acids.
+No. of Pages : 156 No. of Claims : 59

@@ -1,0 +1,22 @@
+Application number  =>  797/MUMNP/2012 A 
+
+Date of filing of application number  =>  29/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD AND APPARATUS FOR MANUFACTURING A COMPOSITE OF A CONTINUOUS SHEET FOR AN ABSORBENT ARTICLE 
+
+Name of applicant  =>  1)UNI-CHARM CORPORATION 
+
+Name of inventor  =>  1)OGASAWARA, YOSHIKAZU 2)MIYAZAKI, KAZUYO 
+
+International Classification  =>  A61F 13/15 
+
+Priority Doc No  =>  2009-240709 
+
+International Application Number  =>  PCT/JP2010/067619 
+
+International Publication Number  =>  WO/2011/048954 
+
+Abstract  =>  A method for manufacturing a composite of continuous sheets by dividing a first continuous sheet into strip sheets which have a predetermined length and then applying the strip sheets to a second continuous sheet in the direction of the continuation thereof at predetermined application pitches. The method involves (1) continuously supplying the first continuous sheet to the outer peripheral surface of a roller at a first speed which is lower than the circumferential speed of the roller and holding the first continuous sheet on the outer peripheral surface while causing the first continuous sheet to slide on the outer peripheral surface, (2) forming the strip sheets by causing a cutter, which is disposed at a predetermined position of the roller in the circumferential direction so as to face the outer peripheral surface, to divide the first continuous sheet when a cutter receiving blade, which is provided to the outer peripheral surface, passes through the position of the cutter, (3) conveying the formed strip sheets in the circumferential direction at the circumferential speed while holding the formed strip sheets on the outer peripheral surface, (4) selecting, as the second continuous sheet, one of continuous sheets including a continuous sheet which is conveyed at a second speed which is higher than the peripheral speed, and also including a continuous sheet which is conveyed at a third speed which is higher than or equal to the peripheral speed and lower than the second speed, and (5) supplying the selected continuous sheet toward the outer peripheral surface of the roller, which rotates at the circumferential speed, and applying the strip sheets, which are on the outer peripheral surface, to the selected continuous sheet. 
+

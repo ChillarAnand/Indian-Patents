@@ -1,0 +1,22 @@
+Application number  =>  2133/DELNP/2011 A 
+
+Date of filing of application number  =>  22/03/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  DEVICE TO INDICATE PRIMING OF AN INFUSION LINE 
+
+Name of applicant  =>  1)BAXTER INTERNATIONAL INC. 2)BAXTER HEALTHCARE S.A. 
+
+Name of inventor  =>  1)SHMUEL STERNBERG 2)SIDDHARTH B. DESAI 3)LARRY BLACK 4)ROBIN G. PAULEY 
+
+International Classification  =>  A61M 5/38 
+
+Priority Doc No  =>  61/095,339 
+
+International Application Number  =>  PCT/US2009/056231 
+
+International Publication Number  =>  WO 2010/030602 
+
+Abstract  =>  A priming indicator for a fluid infusion system includes a luer cap or other component of the infusion system having an indicator surface covered by a membrane. The membrane exhibits a first visual characteristic, such as being opaque, when dry and exhibits a second characteristic, such as becoming less opaque, when wet. Once the membrane becomes wet, indicia on the surface, which may be provided on a rod at least partially covered by the membrane, becomes visible, thereby indicating an intravenous tube to which the luer cap is secured has been primed or is nearly primed. The indicator may alternately be employed at an upstream end of an infusion set, such as at the port of a medical bag providing a supply of fluid, to indicate a low level of fluid in the medical bag. 
+

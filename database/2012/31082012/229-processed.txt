@@ -1,0 +1,22 @@
+Application number  =>  3125/CHENP/2011 A 
+
+Date of filing of application number  =>  06/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  CLOSED-LOOP RATE CONTROL FOR A MULTI-CHANNEL COMMUNICATION SYSTEM 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)WALLACE, MARK, S. 2)WALTON, J., RODNEY 3)HOWARD, STEVEN, J. 4)KETCHUM, JOHN, W. 
+
+International Classification  =>  H04B7/04, H04B7/06, H04B7/08 
+
+Priority Doc No  =>  60/421,309 
+
+International Application Number  =>  PCT/US03/034570 
+
+International Publication Number  =>  WO/2004/038986 
+
+Abstract  =>  Closed-loop control for data transmission on multiple parallel channels is provided. An inner loop estimates the channel conditions for a communication link and selects a suitable data rate for each of the multiple parallel channels based on the channel estimates. For each parallel channel, a received SNR is computed based on the channel estimates, an operating SNR is computed based on the received SNR and an SNR offset for the parallel channel, and the data rate is selected based on the operating SNR for the parallel channel and a set of required SNRs for a set of data rates supported by the system. An outer loop estimates the quality of data transmissions received on the multiple parallel channels and adjusts the operation of the inner loop. For example, the SNR offset for each parallel channel is adjusted based on the status of packets received on that parallel channel. 
+

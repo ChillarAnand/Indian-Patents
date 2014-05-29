@@ -1,0 +1,22 @@
+Application number  =>  4077/CHENP/2010 A 
+
+Date of filing of application number  =>  01/07/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  METHOD AND SYSTEM OF PATHFINDING ON MAP 
+
+Name of applicant  =>  1)TENCENT TECHNOLOGY (SHENZHEN) COMPANY LIMITED 
+
+Name of inventor  =>  1)PENG, CHAO 
+
+International Classification  =>  G06F17/30 
+
+Priority Doc No  =>  200810056378.8 
+
+International Application Number  =>  PCT/CN09/070182 
+
+International Publication Number  =>  WO 2009/092327 A1 
+
+Abstract  =>  The embodiments of the present invention disclose a method of pathfinding on a map, including: dividing a plane map into at least two areas of the same size in advance, and determining a path point on a border of the areas; finding a path by taking the area as an unit when the path needs to be found, and obtaining an area path; and performing pathfinding based on a triangular facet in each area according to the area path, and generating an ultimate path. 
+

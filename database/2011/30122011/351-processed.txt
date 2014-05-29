@@ -1,0 +1,22 @@
+Application number  =>  950/CHENP/2011 A 
+
+Date of filing of application number  =>  10/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD FOR PRODUCING AQUEOUS COMPATIBLE NANOPARTICLES 
+
+Name of applicant  =>  1)NANOCO TECHNOLOGIES LTD 
+
+Name of inventor  =>  1)PICKETT Nigel 2)MARK Christopher McCairn 
+
+International Classification  =>  C01G9/08, C01G11/00 
+
+Priority Doc No  =>  0813273.0 
+
+International Application Number  =>  PCT/GB2009/001777 
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention relates to a method for producing aqueous compatible nanoparticles. More particularly, the present invention provides a method for producing aqueous compatible semiconductor nanoparticles by binding pre- modified ligands to the nanoparticles without the need for further post-binding modification to render the nanoparticles aqueous compatible. Nanoparticles modified in this way can exhibit enhanced fluorescence and stability compared to aqueous compatible nanoparticles producing using prior art methods requiring post-binding modification processes. 
+

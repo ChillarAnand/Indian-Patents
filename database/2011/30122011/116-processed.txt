@@ -1,0 +1,22 @@
+Application number  =>  2196/DELNP/2011 A 
+
+Date of filing of application number  =>  24/03/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  PD-1 ANTAGONISTS AND METHODS OF USE THEREOF 
+
+Name of applicant  =>  1)AMPLIMMUNE, INC. 
+
+Name of inventor  =>  1)SOLOMON LANGERMAN 2)LINDA LIU 
+
+International Classification  =>  A61K 38/18 
+
+Priority Doc No  =>  61/091,694 
+
+International Application Number  =>  PCT/US09/054971 
+
+International Publication Number  =>  WO 2010/027828 
+
+Abstract  =>  Compositions and methods for enhancing and/or prolonging the activation of T cells (i.e., increasing antigen-specific proliferation of T cells, enhancing cytokine production by T cells, stimulating differentiation ad effector functions of T cells and/or promoting T cell survival) or overcoming T cell exhaustion and/or anergy are provided. Suitable compositions include PD-1 receptor antagonists that bind to and block the endogenous PD-1 receptor without triggering inhibitory signals from PD-1, or bind to and block PD-1 receptor ligands and preventing them from interacting with PD-1 receptors. Methods for using the PD-1 receptor antagonists to enhance immune responses in subjects in need thereof are provided. 
+

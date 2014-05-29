@@ -1,0 +1,22 @@
+Application number  =>  3410/MUM/2011 A 
+
+Date of filing of application number  =>  05/12/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  MULTI LEVEL LOW FREQUENCY TECHNOLOGY FOR INCITING MINERALS IN WATER TO PREVENT HARD SCALE & COMBO EFFECT OF ULTRA SOUND WITH METAL IONS IMPLEMENTATION TO PREVENT BIO FOULING 
+
+Name of applicant  =>  1)MR.SUBODH SAWANT 
+
+Name of inventor  =>  1)MR. SUBODH SAWANT 
+
+International Classification  =>  C02F1/48 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  Equipment for Water treatment using multilevel low frequency technology for inciting minerals in water to prevent hard scale and effect of ultrasound with metal ions implementation to prevent Bio fouling. An equipment for auto ascendancy and prevention bio foulness in still and unclear water is in non-chemical way, the said equipment comprises of: 1) Power unit 2) Bio- fouling control unit 3) Descaling unit 4) Reservoir which includes microprocessor based multi frequency circuit wherein, said circuit includes: a) set of metal electrodes immersed in a cooling lower sump and electrically connected to 110/230V AC wherein when current passes through the metal electrodes ionization takes place and minor amount of metal parts are released in water for prevention of bacteria, algae. b)the set of inductors coils immersed in a cooling lower sump connected electrically to i 10/230 V AC here in current passes through inductor coil to generate low level frequencies in water because of which there is less precipitation of chemicals like calcium and magnesium salt on the reservoir body. 
+

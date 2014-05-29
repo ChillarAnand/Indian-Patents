@@ -1,0 +1,22 @@
+Application number  =>  2975/CHENP/2011 A 
+
+Date of filing of application number  =>  02/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  VALVES HAVING REMOVABLE INTERNAL ACTUATION MECHANISMS 
+
+Name of applicant  =>  1)EMERSON PROCESS MANAGEMENT REGULATOR TECHNOLOGIES INC. 
+
+Name of inventor  =>  1)LIN, CHUN 2)NGUYEN, TUNG, KIM 3)PELFREY, ROY, RONALD 
+
+International Classification  =>  F16K39/02, F16K 1/12 
+
+Priority Doc No  =>  12/247,839 
+
+International Application Number  =>  PCT/US2009/054624 
+
+International Publication Number  =>  WO 2010/042277 A1 
+
+Abstract  =>  Internal valve apparatus are described. An example internal valve includes a body (102) having a valve seat (202) disposed between an inlet (206) and an outlet (208). A flow control member (110) operatively coupled to the body moves between a first position in which the flow control member engages the valve seat to restrict the flow of fluid through the valve and a second position in which the flow control member is spaced from the valve seat to allow the flow of fluid through the valve. The example internal valve further includes a removable actuation member (114) disposed within the body and responsive to a fluid pressure to cause the flow control member to move between the first and second positions. 
+

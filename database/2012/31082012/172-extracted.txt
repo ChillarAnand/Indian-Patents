@@ -1,0 +1,49 @@
+ 
+The Patent Office Journal 31/08/2012 
+14014
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3049/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :04/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : TRANSMIT POWER CONTROL BASED ON RECEIVER GAIN SETTING IN A WIRELESS 
+COMMUNICATION NETWORK  
+  
+(51) International classification  :H04W52/04, H04W 52/52  
+(31) Priority Document No  :12/264,679  
+(32) Priority Date  :04/11/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/061283
+:20/10/2009 
+(87) International Publication No  :WO 2010/053688 A1 
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)QUALCOMM INCORPORATED 
+      Address of Applicant :INTERNATIONAL IP 
+ADMINISTRATION, 5775 MOREHOUSE DRIVE, SAN 
+DIEGO, CALIFORNIA 92121-1714 U.S.A. 
+(72)Name of Inventor : 
+   1)JUNYI LI 
+   2)YING WANG 
+   3)ALEKSANDAR JOVICIC  
+(57) Abstract : 
+Techniques for performing transmit power control based on receiver gain setting in a wireless communication network are described. 
+In an aspect, a terminal A may estimate pathloss to another terminal B, e.g., based on a peer discovery signal received from terminal 
+B. Terminal A may then determine a transmit power level for a peer-to-peer (PTP) signal (e.g., a paging signal) based on the estimated 
+pathloss, a receiver gain setting at terminal B, and a target received power level for the PTP signal. Terminal A may send the PTP 
+signal at. the determined transmit power level to terminal B. In another aspect, terminal B may use different receiver gain settings in 
+different time intervals to receive PTP signals from other terminals. Terminal A may then select a suitable time interval to send the 
+PTP signal based on the pathloss and the different receiver gain settings used by terminal B. 
+  
+  
+No. of Pages : 33 No. of Claims : 30 

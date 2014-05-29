@@ -1,0 +1,22 @@
+Application number  =>  499/MUMNP/2012 A 
+
+Date of filing of application number  =>  29/02/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  SYNCHRONIZING RING ASSEMBLY AND METHOD FOR FORMING THE FRICTION LININGS OF A SYNCHRONIZING RING 
+
+Name of applicant  =>  1)OTTO FUCHS KG 
+
+Name of inventor  =>  1)GUMMERT, HERMANN 2)RECHTERN, HANS-JURGEN 
+
+International Classification  =>  F16D 23/02 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/EP2009/062381 
+
+International Publication Number  =>  WO/2011/035806 
+
+Abstract  =>  A Synchronizing ring assembly (1) comprises at least tow synchronizing rings (2,3,4). The latter each have a frictional surface (7,8; 15,16) which can be placed into operative connection to one another to form a friction pairing. At least one of the two synchronizing rings is manufactured from a steel material and the other from a brass material. The brass-material synchronizing ring has a structure in which harder particles P are incorporated into a softer crystalline base material. The frictional surface (8, 15) of the friction pairing of the steel-material synchronizing ring (3), which frictional surface is complementary to the other frictional surface, is formed by a friction lining (13, 14) consisting of an organic binder with filler particles incorporated therein, wherein the filler particles are harder then binder. A method for forming the friction linings of a synchronizing ring (3) having two frication lining (13, 14) arranged concentrically with respect to each other is defined in that use is made of an injection-mouldable and/or transfer-mouldable plastics compound and the latter is applied by means of a plastics injection-moulding or transfer-moulding method from one side of the rings section (9) which is to be coated, and the friction liking compound is guided through apertures (11, 12) in the ring section (9) from the casting side onto the ring section surfaces which are provided for forming the frictional surface (13, 14). 
+

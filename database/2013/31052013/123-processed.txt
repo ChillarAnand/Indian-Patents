@@ -1,0 +1,22 @@
+Application number  =>  982/CHENP/2012 A 
+
+Date of filing of application number  =>  31/01/2012 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  ELECTRICAL INSTALLATION ARRANGEMENT 
+
+Name of applicant  =>  1)EATON INDUSTRIES (AUSTRIA) GMBH 
+
+Name of inventor  =>  1)KOCH, MICHAEL 
+
+International Classification  =>  H02H 1/00 
+
+Priority Doc No  =>  A 1234/2009 
+
+International Application Number  =>  PCT/AT2010/000193 
+
+International Publication Number  =>  WO 2011/014895 A1 
+
+Abstract  =>  An arc detector comprises an analysis unit for evaluating the first measurement signal according to at least one first evaluation scheme for detecting an arc or at least one electrical effect of the arc on the electrical load network (2), wherein the electrical installation arrangement (1) further comprises at least one first tripping unit (6), which switches off the first switch (3) and disconnects the load (4) (2) in such a way if an arc is detected by the arc detector (31), wherein in order to reduce first tripping events, a second analysis and/or evaluation scheme is provided, the false evaluation scheme has a higher sensitivity than the second evaluation scheme, the second evaluation scheme is provided if a first living being of a specifiable type is present in a specifiable first surrounding area around the first load (4), and the first evaluation scheme is provided if the first living being is present in the first surrounding area. 
+

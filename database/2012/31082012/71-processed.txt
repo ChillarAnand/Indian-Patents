@@ -1,0 +1,22 @@
+Application number  =>  2907/CHENP/2011 A 
+
+Date of filing of application number  =>  28/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD FOR TESTING FUNCTIONAL SOUNDNESS OF AT LEAST ONE INJECTION VALVE 
+
+Name of applicant  =>  1)ROBERT BOSCH GMBH 
+
+Name of inventor  =>  1)ZEIDLER, JOHANNES 2)PEISCHL, STEFFEN 
+
+International Classification  =>  F02D41/22 
+
+Priority Doc No  =>  10 2008 042 605.9 
+
+International Application Number  =>  PCT/EP2009/062732 
+
+International Publication Number  =>  WO 2010/040676 A1 
+
+Abstract  =>  The present subject matter relates to a method and a device (2) for testing a functional soundness of at least one injection valve (10) of an internal combustion engine (8). The device (2) carries out a test of at least the functional soundness of a lambda probe (12) adapted to determine a state of the at least one injection valve (10). For this, a steady- state operating condition of the internal combustion engine (8) is established and a test is performed to see whether at least one signal of the lambda probe (12) is stable for the established steady-state operating condition. Furthermore, depending on whether the signal of the lambda probe (12) is stable or not, a lambda value for the at least one injection valve (10) is measured by means of the lambda probe (12) at the established steady-state operating condition. 
+

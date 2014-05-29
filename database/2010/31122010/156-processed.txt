@@ -1,0 +1,22 @@
+Application number  =>  4135/KOLNP/2010 A 
+
+Date of filing of application number  =>  03/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  LOCK 
+
+Name of applicant  =>  1)ASSA AB 
+
+Name of inventor  =>  1)ERIKSSON, KJELL 2)HERRMANN, JONAS 
+
+International Classification  =>  E05B 1/00 
+
+Priority Doc No  =>  08445016.2 
+
+International Application Number  =>  PCT/SE2009/050348 
+
+International Publication Number  =>  WO 2009/123558 
+
+Abstract  =>  The invention relates to a lock comprising a housing (14, 55), a key operated lock cylinder (13, 51), which is arranged rotatable in the lock housing and a lock catch (11, 60), which is connected to the lock cylinder and rotatable between a locking position and a releasing position. The lock is arranged to be selectively set in a key operated mode, wherein the lock catch is rotatable with the lock cylinder, or in a push button operated mode, wherein the lock catch is movable by axial displacement of the lock cylinder. 
+

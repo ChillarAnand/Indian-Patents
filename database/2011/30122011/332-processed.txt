@@ -1,0 +1,22 @@
+Application number  =>  947/CHENP/2011 A 
+
+Date of filing of application number  =>  09/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  PROVISIONING FEMTOCELL DEPLOYMENT INFORMATION 
+
+Name of applicant  =>  1)QUALCOMM Incorporated 
+
+Name of inventor  =>  1)DESHPANDE Manoj M. 2)YOON Young C. 3)BALASUBRAMANIAN Srinivasan 4)CHEN Jen Mei 5)TINNAKORNSRISUPHAP Peerapol 
+
+International Classification  =>  H04W48/16 
+
+Priority Doc No  =>  61/091,230 
+
+International Application Number  =>  PCT/US2009/054686 
+
+International Publication Number  =>   
+
+Abstract  =>  Systems and methodologies are described that facilitate provisioning cell information to mobile devices via provisioning mechanisms. The cell information relates to cell characteristics within a wireless communication network. The cell information can be stored on the mobile devices and employed to detect the cell characteristics and adjust the handoff behavior based at least in part on characteristics of signals received from one or more base stations. 
+

@@ -1,0 +1,22 @@
+Application number  =>  3112/CHENP/2011 A 
+
+Date of filing of application number  =>  06/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  FURNACE INSIDE MONITORING DEVICE 
+
+Name of applicant  =>  1)IHI INSPECTION AND INSTRUMENTATION CO., LTD. 2)NIPPON STEEL CORPORATION 
+
+Name of inventor  =>  1)KURATA, TAKAO 2)NITTA, MICHIO 
+
+International Classification  =>  G01N21/27 
+
+Priority Doc No  =>  2008-287489 
+
+International Application Number  =>  PCT/JP2009/069052 
+
+International Publication Number  =>  WO 2010/053177 A1 
+
+Abstract  =>  A furnace inside monitoring device 21 which monitors a furnace inside where radiation light is emitted, includes a laser irradiation device 100 which irradiates a furnace wall surface in a furnace with laser light, and a light receiving device 200 which receives the laser light reflected by the furnace wall surface. The light receiving device 200 includes an optical filter 15 which transmits the laser light and light in a predetermined wavelength range in a wavelength region corresponding to red among the three primary colors, and an image generation device 8 which generates an image of the furnace wall surface on the basis of light including the reflected laser light having passed through the optical filter 15. 
+

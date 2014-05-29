@@ -1,0 +1,50 @@
+ 
+The Patent Office Journal 31/08/2012 
+13604
+(12) PATENT APPLICATION PUBLICATION (21) Application No.521/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :02/03/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : COMPOSITION FOR INHIBITING GENE EXPRESSION AND USES THEREOF  
+  
+(51) International classification  :C12N 15/113  
+(31) Priority Document No  :61/275,252  
+(32) Priority Date  :27/08/2009 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2010/046781
+:26/08/2010 
+(87) International Publication No  :WO/2011/031520  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)IDERA PHARMACEUTICALS, INC. 
+      Address of Applicant :167 SIDNEY STREET, CAMBRIDGE, 
+MA 02319 UNITED STATES OF AMERICA. 
+(72)Name of Inventor : 
+   1)AGRAWAL, SUDHIR 
+   2)KANDIMALLA, EKAMBAR 
+   3)PUTTA, MILLIKARJUNA 
+   4)LAN, TAO 
+   5)BHAGAT, LAKSHMI 
+   6)WANG, DAQING 
+   7)YU, DONG  
+(57) Abstract : 
+The inventors have examined the means for providing more efficacious gene expression blocking compounds. The inventors have 
+discovered new structural features that surprisingly improve the efficacy of gene expression blocking molecules. These features 
+include the presence of multiple 3 ends and a linker at the 5 ends. Surprisingly, these features improve the efficacy of the gene 
+expression blocking compounds in a manner that decreases the compounds biologic instability. Even more surprisingly, this effect has 
+been found to be applicable to both DNA and RNA oligonucleotide -based compounds and to have application in traditional antisense 
+and RNAi technologies. 
+  
+  
+No. of Pages : 107 No. of Claims : 68 

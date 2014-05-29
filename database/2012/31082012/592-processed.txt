@@ -1,0 +1,22 @@
+Application number  =>  580/MUMNP/2012 A 
+
+Date of filing of application number  =>  09/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  A CURVE OF MAXIMUM ALLOWABLE ENGINE TORQUE FOR CONTROLLING A COMBUSTION ENGINE 
+
+Name of applicant  =>  1)VOLVO LASTVAGNAR AB 
+
+Name of inventor  =>  1)HEDMAN, ANDERS 2)SUNDIN, LARS 
+
+International Classification  =>  F02D 41/02 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/SE2009/000404 
+
+International Publication Number  =>  WO/2011/031191 
+
+Abstract  =>  A curve (2, 3, 4) of maximum allowable engine torque as a function of engine rotational speed for controlling a combustion engine, where a combustion engine control unit is arranged to control output torque and engine rotational speed as not to exceed said curve, and where said curve is defined by a torque build up range (n0 to ni), constant power range (n2 to 113) and a torque ramp down range (n3 to n4). Said torque ramp down range is defined so that the engine rotational speed at high engine power is reduced, while high engine rotational speeds are allowed at low engine power. 
+

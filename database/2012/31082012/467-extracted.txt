@@ -1,0 +1,48 @@
+ 
+The Patent Office Journal 31/08/2012 
+13526
+(12) PATENT APPLICATION PUBLICATION (21) Application No.193/MUM/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :25/01/2010 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention :  DOCUMENT ANALYSIS COMMENTING, AND REPORTING SYSTEM  
+  
+(51) International classification  :G06F17/27 
+(31) Priority Document No  :12/558,483 
+(32) Priority Date  :11/09/2009
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)ACCENTURE GLOBAL SERVICES LIMITED 
+      Address of Applicant :3 GRAND CANAL PLAZA, GRAND 
+CANAL STREET UPPER, DUBLIN 4 IRELAND. 
+(72)Name of Inventor : 
+   1)Kunal Verma 
+   2)Alex Kass 
+   3)Reymonrod G. Vasquez  
+(57) Abstract : 
+A document analysis, commenting, and reporting system provides tec-is that automate quality assurance analysis tailored to specific 
+document types, As one example, She specific document type may be a requirements specification and the system may tag different 
+parts of requirements, including actors, entities, modes, and a remainder. The system atso includes teois- for visualizing the 
+relationships between entities in a requirements specification and for Identifying whether the requirements specification provides for 
+attributes specified by a fieri-functional attribute glossary, . The system facilitates the visuafealion of interactions of indi vidua I 
+entries, of a system of entities, or entities Identified for a specific use. The different types of visualizations distinguish between 
+interacting and non-interacting entities, and highlight where H set of requirements may be deficient wiih resped to the non-interacting 
+entities. However, the flexibility Of the system permits analysis of any other document typo, such as instruction manuals and best 
+practices guides. 
+  
+  
+No. of Pages : 149 No. of Claims : 18 

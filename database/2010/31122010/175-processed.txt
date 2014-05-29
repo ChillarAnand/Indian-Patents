@@ -1,0 +1,22 @@
+Application number  =>  4172/KOLNP/2010 A 
+
+Date of filing of application number  =>  04/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  FLUID FLOW CONTROL DEVICE WITH RETRACTABLE CANNULA 
+
+Name of applicant  =>  1)RETRACTABLE TECHNOLOGIES, INC. 2)SHAW, THOMAS, J. 
+
+Name of inventor  =>  1)SHAW, THOMAS, J. 2)SMALL, MARK 3)ZHU, NI 
+
+International Classification  =>  A61M 5/00 
+
+Priority Doc No  =>  12/136,462 
+
+International Application Number  =>  PCT/US2009/037742 
+
+International Publication Number  =>  WO 2009/151704 
+
+Abstract  =>  A device having a housing; a cannula projecting fon/vardly from the housing; a connector useful for attaching the device to a fluid source or receptacle; a fluid flow path establishing fluid communication between the cannula and the connector; a retraction mechanism biasing the cannula away from its projecting position; and an actuator supported by the housing and configured to modify the fluid flow path so as to terminate fluid flow through the device, seal off the fluid flow path, and release the retraction mechanism to retract the cannula into the housing. The subject device is particularly preferred for use in the medical field, for example, as part of an infusion set or as a collection device for blood, or other fluids or flowable matter. 
+

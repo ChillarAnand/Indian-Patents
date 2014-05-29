@@ -1,0 +1,22 @@
+Application number  =>  451/MUMNP/2012 A 
+
+Date of filing of application number  =>  22/02/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  BIO-FUEL CELL SYSTEM 
+
+Name of applicant  =>  1)THE UNIVERSITY OF WESTERN ONTARIO 
+
+Name of inventor  =>  1)KARAMANEV, DIMITRE GUEORGUIEV 2)PUPKEVICH, VICTOR R. 3)HOJJATI, HOSSEIN 
+
+International Classification  =>  H01M 8/16 
+
+Priority Doc No  =>  12/461,340 
+
+International Application Number  =>  PCT/CA2010/001210 
+
+International Publication Number  =>  WO/2011/014953 
+
+Abstract  =>  The present invention discloses a new type of bio-fuel cell, based on the microbial regeneration of the oxidant, ferric ions. The bio- fuel cell is based on the cathodic reduction of ferric to ferrous ions, coupled with the microbial regeneration of ferric ions by the oxidation of ferrous ions, at a pH less than about 1.2, with fuel (such as hydrogen) oxidation on the anode electrode. The microbial regeneration of ferric ions is achieved by microorganisms such as Leptospirillum ferriphilum. Electrical generation is coupled with the consumption of carbon dioxide from atmosphere and its transformation into microbial cells, which can be used as a single-cell protein. 
+

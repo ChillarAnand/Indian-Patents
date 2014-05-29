@@ -1,0 +1,22 @@
+Application number  =>  1170/CHENP/2011 A 
+
+Date of filing of application number  =>  21/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  AUTOMATIC CLEANING AIR IDLER 
+
+Name of applicant  =>  1)HEWLETT-PACKARD DEVELOPMENT COMPANY L.P. 
+
+Name of inventor  =>  1)Timothy BOUMA 2)Timothy SOUZA 
+
+International Classification  =>  B41F35/00, B41F13/02 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/US2008/079594 
+
+International Publication Number  =>   
+
+Abstract  =>  A system and method for self cleaning an air idler are provided. An air idler non-contactingly guides printable media using a flow of fluid through a porous surface portion. Rotation of the air idler results in rubbing contact with one or more wipers, during which debris is removed from the porous surface portion. A cleaning solution is used to remove ink and/or paper residue from the porous surface portion. The cleaning solution can wet one or more of the wipers. The cleaning solution can circulate through a reservoir disposed in contact with a portion of the air idler. [FIG. 1] 
+

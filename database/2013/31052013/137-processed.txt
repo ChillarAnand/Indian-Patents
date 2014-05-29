@@ -1,0 +1,22 @@
+Application number  =>  9866/CHENP/2011 A 
+
+Date of filing of application number  =>  27/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  MULTIMODE TERMINAL AVOIDING COLLISIONS BETWEEN TRANSCEIVERS 
+
+Name of applicant  =>  1)QUALCOMM Incorporated 
+
+Name of inventor  =>  1)KADOUS Tamer A. 2)MANTRAVADI Ashok 
+
+International Classification  =>  H04W 72/12 
+
+Priority Doc No  =>  61/221,263 
+
+International Application Number  =>  PCT/US2010/040449 
+
+International Publication Number  =>   
+
+Abstract  =>  Systems and methodologies are described herein that facilitate filtering or clustering of radios and/or other transceivers associated with a communication environment. As described herein potentially conflicting transceivers supported by a communications device can be managed in an expedited fashion by filtering the transceivers into respective groups or clusters of transceivers that exhibit potential collisions. For example clusters can be generated such that respective transceivers are associated with a single cluster and respective transceivers associated with a given cluster do not exhibit potential collisions with transceivers not associated with the given cluster. Clustering can be performed graphically as further described herein by generating and analyzing a graph that includes nodes corresponding to respective transceivers and edges representing potential conflicts therebetween. Additionally resolution tables can be generated using substantially all combinations of conflicting transceivers within a set of transceivers as determined based on an initial clustering and/or in any other suitable manner. 
+

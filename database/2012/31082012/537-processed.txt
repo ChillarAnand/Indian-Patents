@@ -1,0 +1,22 @@
+Application number  =>  469/MUMNP/2012 A 
+
+Date of filing of application number  =>  24/02/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  TERMINAL STATION APPARATUS, BASE STATION APPARATUS, TRANSMISSION METHOD AND CONTROL METHOD 
+
+Name of applicant  =>  1)PANASONIC CORPORATION 
+
+Name of inventor  =>  1)OGAWA, YOSHIHIKO 2)NISHIO, AKIHIKO 3)IWAI, TAKASHI 4)NAKAO, SEIGO 5)IMAMURA, DAICHI 6)SUMASU, ATSUSHI 
+
+International Classification  =>  H04J 99/00 
+
+Priority Doc No  =>  2009-229649 
+
+International Application Number  =>  PCT/JP2010/005893 
+
+International Publication Number  =>  WO/2011/040034 
+
+Abstract  =>  A terminal apparatus is disclosed wherein even in a case of applying SU-MIMO and MU-MIMO at the same time, the inter-sequence interference in a plurality of pilot signals used by the same terminal can be suppressed to a low value, while the inter-sequence interference in pilot signal between terminals can be reduced. In this terminal apparatus (200): a pilot information deciding unit (204) decides, based on allocation control information, Walsh sequences of the respective ones of first and second stream groups at least one of which includes a plurality of streams; and a pilot signal generating unit (205) forms a transport signal by using the decided Walsh sequences to spread the streams included in the first and second stream groups. During this, Walsh sequences orthogonal to each other are established in the first and second stream groups, and users are allocated on a stream group-by-stream group basis. 
+

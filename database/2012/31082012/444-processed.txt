@@ -1,0 +1,22 @@
+Application number  =>  1063/MUMNP/2012 A 
+
+Date of filing of application number  =>  26/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD FOR PRODUCING HOLLOW ENGINE VALVE 
+
+Name of applicant  =>  1)MITSUBISHI HEAVY INDUSTRIES, LTD. 2)YOSHIMURA COMPANY 
+
+Name of inventor  =>  1)MORII HIROKAZU 2)YOSHIMURA HYOJI 
+
+International Classification  =>  F01L 3/20,F01L 3/14 
+
+Priority Doc No  =>  2010-041410 
+
+International Application Number  =>  PCT/JP2010/066479 
+
+International Publication Number  =>  WO/2011/104916 
+
+Abstract  =>  Provided is a method for producing a hallow engine valve which can easily produce a hallow engine valve in which strength is improved and weight is reduced. Specifically, provided is a method for producing a hallow engine valve which involves gradually reducing the size of the outer diameter and inner diameter of a hallow shaft of a semi-finished product (10a), sequentially inserting the hallow shaft into a plurality of molding holes (M1, M2, M(m-1), Mm, M(n-1), Mn) having different hole shapes so as to gradually extend the length of the hallow shaft, and forming the hallow shaft into a predetermined shape by sequentially performing said drawing process, wherein the semi-finished product (10a) is subjected to heat treatment such that the hardness thereof is equal to or less than a predetermined hardness, and the maximum thickness (t2) between the hallow shaft and an umbrella portion connected to the bottom edge of the hallow shaft is formed to be thicker than the thickness (t2) of the hallow shaft by means of molding hole (M2) of a die (Di2) which is adjusted to have a specific length (L2) and maximum inner diameter (D2). 
+

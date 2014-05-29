@@ -1,0 +1,42 @@
+The Patent Office Journal 31/05/2013 12007
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3434/DEL/2011 A
+(19) INDIA
+(22) Date of filing of Application :29/11/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : 'POWER MANAGEMENT USING RELATIVE ENERGY BREAK-EVEN TIME
+(51) International classification :G05G
+(31) Priority Document No :NA
+(32) Priority Date :NA
+(33) Name of priority country :NA
+(86) International Application No
+Filing Date
+:NA
+:NA
+(87) International Publication No :NA
+(61) Patent of Addition to Application Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)INTEL CORPORATION
+Address of Applicant :2200 MISSION COLLEGE BLVD.,
+M/S: RNB 4-150, SANTA CLARA, CALIFORNIA 95052,
+UNITED STATES OF AMERICA
+(72)Name of Inventor :
+1)WANG, REN
+2)MACIOCCO, CHRISTIAN
+3)TSAI, JR-SHIAN
+4)MURALIDHAR, RAJEEV, D.
+5)SESHADRI, HARINARAYANAN
+6)TAI, TSUNG-YUAN, C.
+7)ERGIN, MESUT, A.
+8)MIN, ALEXANDER, W.
+(57) Abstract :
+Systems and methods may provide for determining an absolute energy break-even time for a first low power state with respect to a
+current state of a system. A relative energy break-even time may also be determined for the first low power state with respect to a
+second low power state based on at least in part the absolute energy break-even time. In additibn, an operating state may be
+selected for the system based on at least in part the relative energy break-even time.
+No. of Pages : 21 No. of Claims : 29

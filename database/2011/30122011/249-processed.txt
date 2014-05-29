@@ -1,0 +1,22 @@
+Application number  =>  1140/CHENP/2011 A 
+
+Date of filing of application number  =>  18/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  DIFFERENTIAL ON-LINE TERMINATION 
+
+Name of applicant  =>  1)HEWLETT-PACKARD DEVELOPMENT COMPANY L.P. 
+
+Name of inventor  =>  1)Dennis Sean CARR 2)Lidia WARNES 3)Dan VU 4)Teddy LEE 5)Michael Bozich CALHOUN 
+
+International Classification  =>  G11C7/10, G11C11/4093 
+
+Priority Doc No  =>  12/262,051 
+
+International Application Number  =>  PCT/US2009/057898 
+
+International Publication Number  =>   
+
+Abstract  =>  Memory devices and systems incorporate on-die termination for signal lines. A memory device comprises an integrated circuit die. The integrated circuit die comprises a pair of input signal pins that supply a pair of input signals, and an on-die termination circuit coupled between the pair of input signal pins that differentially terminates the pair of input signals. [FIG. 1A] 
+

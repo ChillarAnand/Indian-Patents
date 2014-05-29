@@ -1,0 +1,22 @@
+Application number  =>  9849/CHENP/2011 A 
+
+Date of filing of application number  =>  27/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  LIGHT GUIDE PLATE HAVING EMBEDDED IMPURITIES AND METHOD FOR THE PRODUCTION THEREOF 
+
+Name of applicant  =>  1)Evonik Rhm GmbH 
+
+Name of inventor  =>  1)SCHMIDT Jann 2)ROTH Christian 
+
+International Classification  =>  G02B 6/00 
+
+Priority Doc No  =>  10 2009 027 288.7 
+
+International Application Number  =>  PCT/EP2010/057108 
+
+International Publication Number  =>   
+
+Abstract  =>  The invention relates to light guide plates which are suitable for backlighting LCD monitors as well as informati¬on and advertising signs and which are illuminated at the edges and re-emit the light fed at the edges via at least one of the two surfaces located perpendicular to the edges. For the light of a light source that is fed at the edges to be able to leave the light guide plate again via one of the surfaces by overcoming total reflection the light rays in the light guide plate have to be deliberately de¬flected. At one of the two surfaces of the light guide plate the light guide plates are provided with optical impurities (2) which are protected against damage by a film (5). Furthermore a method for the simplified application of said impurities is provided. 
+

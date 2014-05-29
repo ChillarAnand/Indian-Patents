@@ -1,0 +1,50 @@
+ 
+The Patent Office Journal 31/08/2012 
+13858
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2012/CHE/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :14/06/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : AM/PM DISPLAY DEVICE FOR A TIMEPIECE  
+  
+(51) International classification  
+:G04B19/20,
+G04B19/22, 
+G04B19/26 
+(31) Priority Document No  :10166358.1 
+(32) Priority Date  :17/06/2010
+(33) Name of priority country  :EPO 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)COMPAGNIE DES MONTRES LONGINES, 
+FRANCILLON S.A. 
+      Address of Applicant :2610, ST-IMIER Switzerland 
+(72)Name of Inventor : 
+   1)OLIVIER MAHLER 
+   2)RAPHAEL LOEFFEL  
+(57) Abstract : 
+The invention concerns an AM/PM display disc (1), rotating in one day about an axis of rotation (2), including two different 
+juxtaposed surfaces (3,4). It is characterized in that the surfaces are delimited, between a hub (5) and the periphery (6) of said disc (1) 
+by two boundary curves (7, 8), each tangential to said periphery (6) and having a single concavity from said periphery (6) towards said 
+hub (5), the concavities of said curves (7, 8) having the same direction relative to the direction of rotation (A) of said disc (1), and any 
+radial line originating from said axis (2) intersecting, in succession, one of said two surfaces, then the other, and only passing through 
+one of said curves between said hub (5) and said periphery (6). The invention also concerns an AM/PM display device (100) including 
+an aperture (20) and a disc of this type (1), characterized in that said axis (2) is external to said aperture (20) which is symmetrical 
+relative to an axis of symmetry (22) passing through said axis of rotation (2). The invention also concerns a timepiece incorporating a 
+device (100) of this type.   
+  
+  
+No. of Pages : 16 No. of Claims : 11 

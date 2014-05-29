@@ -1,0 +1,46 @@
+ 
+The Patent Office Journal 31/08/2012 
+13622
+(12) PATENT APPLICATION PUBLICATION (21) Application No.534/MUM/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :26/02/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : A THERMOPLASTIC COMPONENT FOR SWITCHGEARS AND A METHOD OF 
+MANUFACTURING THERMOPLASTIC COMPONENTS  
+  
+(51) International classification  :H01B3/30,H01H9/02
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)LARSEN & TOUBRO LIMITED 
+      Address of Applicant :L & T House  Ballard Estate  Mumbai 
+400 001  State of Maharashtra  India. 
+(72)Name of Inventor : 
+   1)VAIRAGI  Prashant  B.; 
+   2)MAJUMDAR  Vikas  M.;  
+(57) Abstract : 
+The various embodiments of the present invention provide a thermoplastic material to a preset level to avoid melting during an 
+application of normal operating pressure and at normal operating temperature. The present inventions also provide a method of 
+manufacture of thermoplastic components for switch gears. The method includes molding a thermoplastic component to a preset level 
+using a thermal injection molding process and placing the molded thermoplastic component in a carton. The method further includes 
+passing the carton through an irradiation chamber to provide an exposure to gamma radiation or electron beam radiation for cross 
+linking one or more thermoplastic components.   
+  
+  
+No. of Pages : 25 No. of Claims : 32 

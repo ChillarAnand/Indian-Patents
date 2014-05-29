@@ -1,0 +1,44 @@
+ 
+The Patent Office Journal 31/08/2012 
+13951
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2883/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :28/04/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : INSTRUMENT AND SYSTEM FOR PRODUCING A SAMPLE OF A BODY LIQUID AND FOR 
+ANALYSIS THEREOF  
+  
+(51) International classification  :A61B5/155, A61B5/00  
+(31) Priority Document No  :08018873.3  
+(32) Priority Date  :29/10/2008 
+(33) Name of priority country  :EPO 
+(86) International Application No 
+        Filing Date 
+:PCT/EP09/007042
+:01/10/2009 
+(87) International Publication No  :WO 2010/049048 A1  
+(61) Patent of Addition to Application Number 
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)F. HOFFMANN-LA ROCHE AG 
+      Address of Applicant :124 GRENZACHERSTRASSE, CH-
+4070 BASEL Switzerland 
+(72)Name of Inventor : 
+   1)HOERAUF, CHRISTIAN   
+(57) Abstract : 
+Instrument for producing a sample of body liquid for analysis by piercing the skin with a lancing element (12) having a skin piercing 
+tip. The instrument (11) has a housing (13) and a lancing drive (14) for driving a lancing element (12) connected thereto in a 
+puncturing movement. A pressure ring (1) surrounds a skin contact opening (4) and is adapted for pressing against the skin. The skin 
+contact opening (4) has an opening area corresponding to a circle with a diameter of at least 1.5 mm and at most 4 mm, and the 
+instrument comprises a pressing force control device (37) for controlling the pressing force between the pressure ring (1) and the skin 
+(3) at the time of triggering the puncturing movement, to be at least 3 N.   
+  
+  
+No. of Pages : 35 No. of Claims : 15 

@@ -1,0 +1,50 @@
+ 
+The Patent Office Journal 31/08/2012 
+13537
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2378/MUMNP/2009 A 
+(19) INDIA  
+(22) Date of filing of Application :22/12/2009 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : AXIAL GAP TYPE ROTATING MACHINE  
+  
+(51) International classification  :H02K1/27  
+(31) Priority Document No  :2007-170122  
+(32) Priority Date  :28/06/2007 
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date 
+:PCT/JP2008/061707
+:27/06/2008 
+(87) International Publication No  :WO 2009/001917A1  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)SHIN-ETSU CHEMICAL CO., LTD 
+      Address of Applicant :6-1,OTEMACHI, 2-CHOME 
+CHIYODA-KU, TOKYO 1000004, JAPAN.   
+(72)Name of Inventor : 
+   1)MIYATA, KOJI 
+   2)WATANABE, NAOKI 
+   3)HONSHIMA, MASAKATSU  
+(57) Abstract : 
+An axial gap type rotating machine rigidly fixing the permanent magnets without reducing the magnetic flux and having a high output 
+is provided. An axial gap type rotating machine having: a housing 19; a rotating shaft 11 rotatably supported in the housing; two rotors 
+(15a, 15b), having rotating disks (12a, 12b) rotatable integrally with the rotating shaft 11 as the central axis, and permanent magnets 
+(13a, 13b) arranged concentrically in spaced relation to each other on at least one side of the surfaces of the rotating disks, wherein the 
+surfaces having the permanent magnets face each other in spaced relation; and a stator 18 that is arranged between the rotors facing 
+each other, the stator is spaced from the rotor, and fixed to the housing, the stator having a plurality of coils 16 disposed concentrically 
+around said rotating shaft in spaced relation to each other; wherein magnetic flux generated from the permanent magnets of the rotors 
+intermittently penetrates the interior of each of the coils 16 disposed concentrically around said rotating shaft 11 as it rotates, wherein 
+the rotating disk has a concave portion 21 in the surface facing the stator and the permanent magnets are disposed at the concave 
+portions so as to protrude above the surface of the rotating disk. 
+  
+  
+No. of Pages : 32 No. of Claims : 8 

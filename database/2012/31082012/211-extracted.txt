@@ -1,0 +1,43 @@
+ 
+The Patent Office Journal 31/08/2012 
+14053
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3092/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :05/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : PROCESS FOR PREPARING ISOCYANATES  
+  
+(51) International classification  :C07C263/10, C07C265/00  
+(31) Priority Document No  :08168617.2  
+(32) Priority Date  :07/11/2008 
+(33) Name of priority country  :EPO 
+(86) International Application No 
+        Filing Date 
+:PCT/EP09/064578
+:04/11/2009 
+(87) International Publication No  :WO 2010/052230 A2  
+(61) Patent of Addition to Application Number 
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)BASE SE 
+      Address of Applicant :67056, LUDWIGHSHAFEN Germany 
+(72)Name of Inventor : 
+   1)MATTKE, TORSTEN 
+   2)KNOSCHE, CARSTEN  
+(57) Abstract : 
+The invention relates to a process for preparing isocyanates by reacting the corresponding amines with phosgene in the gas phase, if 
+appropriate in the presence of an inert medium, in which the amine and the phosgene are first mixed and converted to the isocyanate in 
+a reactor, by cooling a reaction gas which comprises isocyanate and hydrogen chloride and leaves the reactor in a quench by adding a 
+liquid quench medium to obtain a mixture of reaction gas and quench medium. The amount of quench medium added is such that the 
+temperature of the mixture of reaction gas and quench medium which is established in the quench is above the dew point of the gas 
+present in the quench. 
+  
+  
+No. of Pages : 12 No. of Claims : 9 

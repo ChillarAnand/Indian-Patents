@@ -1,0 +1,22 @@
+Application number  =>  974/CHE/2009 A 
+
+Date of filing of application number  =>  28/04/2009 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  COMMUNICATING CONFIDENTIAL INFORMATION BETWEEN AN APPLICATION AND A DATABASE 
+
+Name of applicant  =>  1)HEWLETT-PACKARD DEVELOPMENT COMPANY, L.P. 
+
+Name of inventor  =>  1)SHAMIK MAJUMDAR 2)ANKIT KUMAR KATIYAR 
+
+International Classification  =>  G06F,H04L 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  Disclosed is a system and method for communicating confidential information in a resource friendly manner between an application and a database using an application programming interface, API. The method establishes first and second socket connections between the application and the database in an API connection between the application and the database. The first socket connection is arranged to be secure and the second socket connection is arranged to be non-secure. Information is then communicated through the first or second socket connection based on whether the information is identified as being confidential information or not. The evaluation of confidentiality may be undertaKen at the client side of a JDBC or ODBC layer without putting any extra pressure on the database server side. 
+

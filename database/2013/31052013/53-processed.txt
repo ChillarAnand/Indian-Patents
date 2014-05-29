@@ -1,0 +1,22 @@
+Application number  =>  2294/CHENP/2012 A 
+
+Date of filing of application number  =>  13/03/2012 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  METHOD FOR CONTROL OF A GEARBOX 
+
+Name of applicant  =>  1)SCANIA CV AB 
+
+Name of inventor  =>  1)FREDRIK SWARTLING 2)MIKAEL WAGBERG 
+
+International Classification  =>  F16H61/02 
+
+Priority Doc No  =>  0901182-6 
+
+International Application Number  =>  PCT/SE2010/050981 
+
+International Publication Number  =>  WO 2011/031230A1 
+
+Abstract  =>  The present invention relates to a system for control of a gearbox, comprising at least one control unit intended to control said gearbox in a motor vehicle provided with an engine connected to, in order to drive, said gearbox, such that said system is adapted to effecting a downshift in said gearbox from a first gear for which said vehicle's acceleration a is negative to a second gear for which the acceleration a is positive or zero, said downshift involves at least one intermediate gear step between said first and second gears, and the highest engine speed at each intermediate gear step is as -high as, or higher than, the highest engine speed at preceding intermediate gear steps. The invention relates also to a method, a motor vehicle, a computer programme and a computer programme product thereof 
+

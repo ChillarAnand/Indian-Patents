@@ -1,0 +1,22 @@
+Application number  =>  1038/MUMNP/2012 A 
+
+Date of filing of application number  =>  24/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  SURFACE PROTECTIVE COATING AND METHODS OF USE THEREOF 
+
+Name of applicant  =>  1)MOMENTIVE PERFORMANCE MATERIALS INC. 
+
+Name of inventor  =>  1)LIAO, WEN, P. 2)MORDHORST, STEVEN, R. 3)TAN, LAI. N. 
+
+International Classification  =>  C09D 183/14 
+
+Priority Doc No  =>  12/607,413 
+
+International Application Number  =>  PCT/US2010/054182 
+
+International Publication Number  =>  WO/2011/056615 
+
+Abstract  =>  A coating composition suitable for providing a thermoformable hardcoat is disclosed. The composition contains a silane-containing oligomer (A), a silane (B) having the general formula R3cSiX(4-d) wherein each occurrence of R3 is independently a C1-C8 alkyl, C2-C8 alkenyl or C6-C20 aryl, each occurrence of X is a halogen atom, C1-C6 alkoxy, C1-C6 acyloxy, C1-C6 alkenoxy or hydroxide; d is 0, 1 or 2, a metal oxide (C) and a condensation catalyst (D) wherein components (A), (B) and (C) are hydrolytically condensed in the presence of component (D) to achieve a T3 to T2 ratio of from about 0.3 to about 2.5. 
+

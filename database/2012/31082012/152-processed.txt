@@ -1,0 +1,22 @@
+Application number  =>  2968/CHENP/2011 A 
+
+Date of filing of application number  =>  02/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  INTERFACE FOR WIRELESS COMMUNICATION DEVICES 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)HAIM M. WEISSMAN 
+
+International Classification  =>  H04B1/40, H04B 1/48 
+
+Priority Doc No  =>  12/260,346 
+
+International Application Number  =>  PCT/US2009/062327 
+
+International Publication Number  =>  WO 2010/053776 A1 
+
+Abstract  =>  Apparatuses for providing wireless communication in a device are presented for use with a plurality of antennas including a receive antenna and a transmit antenna. The apparatuses may include a power amplifier arrangement in a transmit path coupled to the transmit antenna. The power amplifier arrangement may include, for example, at least two amplifiers that are arranged either in series with a filter coupled there between or at least two amplifiers that are arranged separately between a switch and a frequency domain multiplexer. 
+

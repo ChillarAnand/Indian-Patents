@@ -1,0 +1,38 @@
+The Patent Office Journal 31/05/2013 12069
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9774/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :26/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : DRUG DELIVERY SYSTEM COMPRISING POLYOXAZOLINE AND A BIOACTIVE AGENT•
+(51) International classification :A61K 9/70
+(31) Priority Document No :09164023.5
+(32) Priority Date :29/06/2009
+(33) Name of priority country :EPO
+(86) International Application No
+Filing Date
+:PCT/NL2010/050403
+:28/06/2010
+(87) International Publication No : NA
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)BENDER ANALYTICAL HOLDING B.V.
+Address of Applicant :Beukstraat 73 3581 XE Utrecht The
+Netherlands
+(72)Name of Inventor :
+1)BENDER Johannes Caspar Mathias Elizabeth
+2)HOOGENBOOM Richard
+3)VAN VLIET Patrick Andreas Anton
+(57) Abstract :
+The invention relates to drug delivery systems comprising a water-soluble polymer matrix and a bioactive agent entrained therein
+said water soluble polymer matrix containing at least 50 wt. % of polyoxazoline having a molar mass of at least 5 40 000 g/mol.
+The drug delivery systems of the present invention offer the advantage that the bioactive agent is readily released when the drug
+delivery system is contacted with water. The drug delivery system can be in the form of a solid dispersion a mucoadhesive sheet
+a tablet a powder a capsule.
+No. of Pages : 28 No. of Claims : 22

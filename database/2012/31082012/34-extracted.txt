@@ -1,0 +1,52 @@
+ 
+The Patent Office Journal 31/08/2012 
+13876
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2177/CHE/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :28/06/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : SUPERCHARGING DEVICE FOR COMPRESSING CHARGE AIR FOR AN INTERNAL 
+COMBUSTION ENGINE  
+  
+(51) International classification  
+:F02B33/40, 
+F01C17/06, 
+F01C21/02 
+(31) Priority Document No  :10 2010 025 984.5  
+(32) Priority Date  :02/07/2010
+(33) Name of priority country  :Germany 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)HANDTMANN SYSTEMTECHNIK GMBH & CO. KG 
+      Address of Applicant :ARTHUR-HANDTMANN-STRASSE 
+7/1, 88400 BIBERACH/RISS Germany 
+(72)Name of Inventor : 
+   1)HUBERT HAGEL 
+   2)JURGEN LICHT 
+   3)STEFAN COLSCH 
+   4)JOACHIM NUSSER 
+   5)ANDREAS LECHLEITER  
+(57) Abstract : 
+A supercharging device for compressing charge air for an internal combustion engine having a scroll compressor is proposed, a 
+displacement scroll (5) being connected to the supercharger shaft by way of an eccentric arrangement between a front bearing and rear 
+bearing of the supercharger shaft (6), an externally driven drive element, such as a belt pulley or the like, being provided outside a 
+housing (1) of the supercharging device, and the supercharger shaft (6) being connectable to the externally driven drive element by 
+means of a controllable clutch member. The intended distinguishing features of the supercharging device according to the invention 
+are a simpler bearing support and in particular a front bearing of smaller dimensions. This is achieved in that all connections of the 
+drive and/or guide elements for the displacement scroll are arranged between the front bearing (2) and the rear bearing (3). 
+  
+  
+No. of Pages : 21 No. of Claims : 12 

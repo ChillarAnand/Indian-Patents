@@ -1,0 +1,22 @@
+Application number  =>  1260/CHENP/2011 A 
+
+Date of filing of application number  =>  23/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  DEVICE WITH LIGHT-EMITTING DIODE CIRCUITS 
+
+Name of applicant  =>  1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+
+Name of inventor  =>  1)RADERMACHER Harald J. G. 
+
+International Classification  =>  H05B33/08 
+
+Priority Doc No  =>  08104922.3 
+
+International Application Number  =>  PCT/IB2009/053178 
+
+International Publication Number  =>   
+
+Abstract  =>  Devices (1) have branches (20,30) for receiving AC voltages. First branches (20) comprise first light-emitting diode circuits (21) and first arrangements for phase-shifting first currents flowing through the first light-emitting diode circuits (21) with respect to the AC voltages. Second branches (30) comprise second light-emitting diode circuits (31) and do not comprise second arrangements for phase-shifting second currents flowing through the second light-emitting diode circuits (31) with respect to the AC voltages. As a result, an overall flicker index of the device (1) will be smaller than individual flicker indices of the light-emitting diode circuits (21,31). The first arrangements may comprise capacitors (22) coupled serially to the first light-emitting diode circuits (21). The branches (20,30) may further comprise resistors (23,33) coupled serially to or forming part of the light-emitting diode circuits (21,31). Fig. 1 
+

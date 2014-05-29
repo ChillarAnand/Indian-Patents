@@ -1,0 +1,22 @@
+Application number  =>  211/DEL/2012 A 
+
+Date of filing of application number  =>  24/01/2012 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  A LOW POWER HIGH PERFORMANCE STATE FLIP-FLOP BASED ON DUAL REGENERATIVE FEEDBACK LOOP STRATEGY 
+
+Name of applicant  =>  1)S.C. TIWARI 2)KUNWAR SINGH 
+
+Name of inventor  =>  1)KUNWAR SINGH 2)S.C. TIWARI 
+
+International Classification  =>  G03F 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  Flip-flops and latches are indispensable components of modern digital systems.Flip-flops and latches along with the clock network account for 30-70% of the total system power dissipation. Flip-flops also determine the highest operating speed of any synchronous digital system driven by clock. Hence there is always a need for high performance and low power flip flop designs implemented with minimum number of transistors to save chip area. 
+

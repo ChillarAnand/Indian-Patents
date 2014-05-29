@@ -1,0 +1,22 @@
+Application number  =>  3939/CHE/2010 A 
+
+Date of filing of application number  =>  23/12/2010 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  A SYSTEM FOR GENERATION OF GENERALIZED MOMENT PATTERNS 
+
+Name of applicant  =>  1)INTERNATIONAL INSTITUTE OF INFORMATION TECHNOLOGY-HYDERABAD(IIIT-H) 
+
+Name of inventor  =>  1)SIVASWAMY JAYANTHI 2)MEDATHATI, NAGA VENKATA KARTHEEK 3)KRISHNAMURTHY, SAI DEEPAK 
+
+International Classification  =>  G06K 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A system and method to capture contextual information in an image and compute feature descriptors for describing the captured contextual information have been disclosed. The system captures an image context effectively by combining information from across the region of interest in an image by inducing different types of motion. Generalized moment patterns are created by performing mathematical operations on this combined information and forms the basis for computing feature descriptors. These computed feature descriptors are generic and can be applied in varied computer vision and image processing applications including image classification, image matching, salient point detection, scene analysis or understanding, object detection, abnormality detection and the like. 
+

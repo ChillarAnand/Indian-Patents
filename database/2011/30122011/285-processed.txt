@@ -1,0 +1,22 @@
+Application number  =>  1261/CHENP/2011 A 
+
+Date of filing of application number  =>  23/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  TECHNIQUES FOR MONITORING THE QUALITY OF SHORT-RANGE WIRELESS LINKS 
+
+Name of applicant  =>  1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+
+Name of inventor  =>  1)ZHAI Hongqiang 
+
+International Classification  =>  H04B17/00 
+
+Priority Doc No  =>  61/084062 
+
+International Application Number  =>  PCT/IB2009/052972 
+
+International Publication Number  =>   
+
+Abstract  =>  A method for monitoring of a wireless link quality comprises measuring the link quality of a wireless link (120-XY) between a beacon device (110-X) transmitting a beacon and a beacon device (110-Y) receiving the beacon, wherein the measuring is performed by the receiving device (S320); saving link quality measures in a local neighborhood link quality (LNLQ) table (400) maintained by the receiving device (110-Y) (S330); and advertising the link quality measures of wireless links by transmitting the measures in beacons (S340). Fig.1 
+

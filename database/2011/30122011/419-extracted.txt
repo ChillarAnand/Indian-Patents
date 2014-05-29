@@ -1,0 +1,50 @@
+The Patent Office Journal 30/12/2011 
+ 
+25756
+(12) PATENT APPLICATION PUBLICATION (21) Application No.801/KOL/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :22/07/2010 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : PLUG CONNECTOR  
+  
+(51) International classification  :H01M2/20 
+(31) Priority Document No  :10 2009 035 716.5  
+(32) Priority Date  :31/07/2009
+(33) Name of priority country  :Germany 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)WAGO VERWALTUNGSGESELLSCHAFT MBH 
+      Address of Applicant :HANSASTRASSE 27 32432 MINDEN 
+GERMANY 
+(72)Name of Inventor : 
+   1)STROMIEDEL, KONRAD  
+(57) Abstract : 
+A plug connector (1) having an insulating material housing (2) which has at least one contact pin insertion opening (8) on a first 
+housing face (7) for the insertion of electrically conductive contact pins (15), and has at least one conductor insertion opening (6) on a 
+second housing face (5) for the insertion of stripped ends (14) of electrical conductors (13) is described. A pair comprising a contact 
+pin insertion opening (8) and a conductor insertion opening (6) in each case has a common associated conductor connecting area. The 
+conductor insertion opening (6) opens into a conductor connecting area (4), and the contact pin insertion opening (8) has a passage (9) 
+to the conductor connecting area (4). Furthermore, the plug connector in each case has one spring force terminal connection in an 
+associated conductor connecting area (4) with a spring element (3) which has a clamping section (12), which can be moved by spring 
+force transversely with respect to the extent direction of a pair comprising a contact pin insertion opening (8) and a conductor insertion 
+opening (6), such that, when a stripped end (14) of an electrical conductor (13) is inserted into the conductor insertion opening (6), the 
+stripped end (14) is pushed in the direction of the contact pin insertion opening (8). The at least one contact pin insertion opening (8) 
+has a width (B1) of the passage (9) over a length in its extent direction, which is aligned from the first housing face (7) to the second 
+housing face (5), at least in the area above the clamping section (12) in the direction of the second housing face (5) and under the 
+clamping section (12) in the direction of the first housing face (7), which width (B1) is less than the width (B2) between the mutually 
+opposite side walls of the conductor connecting area (4) adjacent to the transition to the contact pin insertion opening (8).  
+ 
+No. of Pages : 49 No. of Claims : 14 

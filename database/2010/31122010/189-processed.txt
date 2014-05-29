@@ -1,0 +1,22 @@
+Application number  =>  4157/KOLNP/2010 A 
+
+Date of filing of application number  =>  03/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  A LINEAR ACTUATOR 
+
+Name of applicant  =>  1)ISOTEK ELECTRONICS LIMITED 
+
+Name of inventor  =>  1)RHODES, JOHN, DAVID 2)MOBBS, CHRISTOPHER, IAN 3)PANKS, ANDREW, JAMES 
+
+International Classification  =>  F16H 25/20 
+
+Priority Doc No  =>  0806391.9 
+
+International Application Number  =>  PCT/GB2009/000940 
+
+International Publication Number  =>  WO 2009/125195 
+
+Abstract  =>  A linear actuator comprising a drive arm and an extension arm each extending along a common drive axis; the extension arm being at least partially received in a housing, the housing allowing displacement of the extension arm along the drive axis but preventing rotation of the extension arm around the drive axis; one of the arms having a plurality of resiliency deformable fingers extending beyond the end of the arm towards the other arm, at least one of the fingers having a thread on its inner face; the other arm having a threaded portion, at least part of the threaded portion being received between the fingers; the fingers being adapted to urge the threads of the two arms into interengagement such that rotation of the drive arm about the drive axis displaces the extension arm along the drive axis; characterised in that the two threads are arranged such that when the ridge of one thread is received in the groove of the other thread the two sides of the ridge abut the two edges of the mouth of the groove. 
+

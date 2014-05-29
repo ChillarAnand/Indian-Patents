@@ -1,0 +1,22 @@
+Application number  =>  3024/CHENP/2011 A 
+
+Date of filing of application number  =>  03/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  IMAGE PROCESSING APPARATUS AND METHOD, AND IMAGE REPRODUCING APPARATUS, METHOD AND PROGRAM 
+
+Name of applicant  =>  1)FUJIFILM CORPORATION 
+
+Name of inventor  =>  1)WATANABE, MIKIO 2)NAKAMURA, SATOSHI 3)YAHAGI, KOUICHI 
+
+International Classification  =>  H04N13/00, H04N 5/91 
+
+Priority Doc No  =>  2008-262818 
+
+International Application Number  =>  PCT/JP09/005240 
+
+International Publication Number  =>  WO 2010/041450 A1 
+
+Abstract  =>  To make a three-dimensional image easily recognizable, in particular when three-dimensional images and two-dimensional images are stored in a mixed manner. Interpolation image generation unit (5) generates an interpolation image from original images (L1, R1) obtained by photographing a subject from different viewpoints. Motion picture generation unit (6) generates motion picture (DO) in which original images (L1, R1), and the interpolation image are arranged in the order of viewpoint. File generation unit (7) generates three-dimensional image file (F0) of original images (L1), (R1), motion picture file (M0) of the motion picture, and relational information file (R0) representing the relation between three-dimensional image file (F0) and motion picture file (M0), and records them on medium (10A) . 
+

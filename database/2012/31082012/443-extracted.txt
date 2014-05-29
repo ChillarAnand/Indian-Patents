@@ -1,0 +1,53 @@
+ 
+The Patent Office Journal 31/08/2012 
+13502
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1062/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :26/04/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : COMMUNICATION CAPACITY EVALUATING APPARATUS, RADIO RELAY APPARATUS AND 
+COMMUNICATION CAPACITY EVALUATING METHOD  
+  
+(51) International classification  :H04J 99/00  
+(31) Priority Document No  :2009-260222  
+(32) Priority Date  :13/11/2009 
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date 
+:PCT/JP2010/006395
+:29/10/2010 
+(87) International Publication No  :WO/2011/058711  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)PANASONIC CORPORATION 
+      Address of Applicant :1006, OAZA KADOMA, KADOMA-
+SHI, OSAKA 571-8501, JAPAN. 
+(72)Name of Inventor : 
+   1)YOKOUCHI, YASUO 
+   2)IMAI, JUN 
+   3)SHIMIZU, TOMOAKI 
+   4)AMAO, YUKINORI 
+   5)KU, RICHOL 
+   6)SOTOYAMA, TAKAYUKI  
+(57) Abstract : 
+Provided is a communication capacity evaluating apparatus whereby the communication capacity can be grasped and the necessity of 
+changing the content of a dead spot measure after the placement of a relay apparatus can be eliminated. In the communication capacity 
+evaluating apparatus, a system information analyzing unit (121) acquires, from a received signal, used-band information of the 
+communication using a MIMO mode. An S/N calculating unit (122) analyzes the received signal to determine a signal-to-noise ratio. 
+A channel estimating unit (123) analyzes the received signal to determine a channel matrix. A throughput limit calculating unit (124) 
+calculates the limit value of the communication capacity on the basis of the used-band information, information about the number of 
+transmission antennas of a base station (180), information about the number of reception antennas of a radio relay apparatus (100) 
+stored in advance, the signal-to-noise ratio and the channel matrix. A display unit (133) displays the result of a comparison between 
+the limit value and a desired value of communication capacity set in advance. 
+  
+  
+No. of Pages : 38 No. of Claims : 5 

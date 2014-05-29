@@ -1,0 +1,22 @@
+Application number  =>  3154/CHENP/2011 A 
+
+Date of filing of application number  =>  09/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  APPARATUS AND PROCESS FOR PACKAGING A POWDER 
+
+Name of applicant  =>  1)FYDEC HOLDING SA 
+
+Name of inventor  =>  1)DIETRICH, FREDERIC, JUN 
+
+International Classification  =>  B65B31/02, B65B69/00, B65B39/08 
+
+Priority Doc No  =>  08017932.8 
+
+International Application Number  =>  PCT/EP09/007338 
+
+International Publication Number  =>  WO 2010/043369 A1 
+
+Abstract  =>  The invention is directed at a process for enabling the packaging of a powder (32), in particular a pharmaceutical product powder, comprising the steps of: a) Providing a first bag (9) from a flexible packaging material, b) fixing the opening (19) of the first bag (9) to a lower outlet (11) of a DCS (drum containment system) glove box (1), c) inside the DSC glove box (1) pulling a continuous liner (14) at a closed end of the liner (14) and inserting the liner (14) into the first bag (9), thus providing a second bag (16) inside the first bag (9), d) filling the second bag (16) with the powder (32), in particular through an upper opening of the DCS glove box (1), e) closing the second bag (16) by disconnecting the continuous liner (14), f) closing the first bag (9) and removing the first and second bags (9, 16) from the DSC glove box (1). Furthermore the invention is directed at an apparatus for performing the process. 
+

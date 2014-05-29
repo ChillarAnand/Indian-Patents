@@ -1,0 +1,22 @@
+Application number  =>  968/CHENP/2011 A 
+
+Date of filing of application number  =>  10/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  DYNAMIC CONTENT SORTING USING TAGS 
+
+Name of applicant  =>  1)HEWLETT-PACKARD DEVELOPMENT COMPANY L.P. 
+
+Name of inventor  =>  1)Jason D GOLDMAN 2)James Louis LONG 
+
+International Classification  =>  G06Q50/00 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/US2008/079884 
+
+International Publication Number  =>   
+
+Abstract  =>  A data processing system facilitates organization of content such as digital photographs, video files, audio tracks, and the like. The data processing system comprises a content manager that manages a content database and includes a content database initialization or creation utility and a content database search utility. The a content database initialization utility creates a content database by assigning one or more tags that represents context of the content to content and combines the tag or tags with associated content in a data structure, and saves the data structure in a database. The content database search utility specifies a set of tag values representing context of content and initiates a database query for determining a set of content items that match the specified set of tag values. The content database search utility searches for the set of content items that match the tag values. [FIG. 1] 
+

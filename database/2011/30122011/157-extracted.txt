@@ -1,0 +1,48 @@
+The Patent Office Journal 30/12/2011 
+ 
+25494
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1062/MUMNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :25/05/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : RADIO COMMUNICATION BASE STATION APPARATUS AND COMMUNICATIO METHOD  
+  
+(51) International classification  :H04J 11/00,H04B 7/26  
+(31) Priority Document No  :2006-012436  
+(32) Priority Date  :20/01/2006 
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date 
+:PCT/JP2007/050830
+:19/01/2007 
+(87) International Publication No  :WO/2007/083762  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filed on 
+:1470/MUMNP/2008
+:11/07/2008  
+  
+(71)Name of Applicant :  
+   1)PANASONIC CORPORATION 
+      Address of Applicant :1006  Oaza Kadoma  Kadoma-shi  
+Osaka  571-8501 (Japan)  
+(72)Name of Inventor : 
+   1)Kenichi MIYOSHI 
+   2)Akihiko NISHIO 
+   3)Daichi IMAMURA 
+   4)Hidetoshi SUZUKI  
+(57) Abstract : 
+Provided is a base station capable of performing cell search of all mobile stations having different communicable frequency band 
+widths in a scalable band width communication system to which a multi-carrier communication method such as the OFDM method is 
+applied. The base station includes: a modulation unit (102) for modulating SCH data after being encoded; a sub carrier setting unit 
+(105) for setting one of the sub carriers to a sub carrier (SCH sub carrier) constituting the OFDM symbol for SCH data transmission; 
+and an IFFT unit (106) for mapping the SCH data to the sub carrier set by the sub carrier setting unit (105) among the sub carriers and 
+performing IFFT to generate an OFDM symbol. The sub carrier setting unit (105) sets one of the sub carriers which has a frequency of 
+a common multiple between the sub carrier interval and the cell search interval as an SCH sub carrier. 
+  
+ 
+No. of Pages : 27 No. of Claims : 6 

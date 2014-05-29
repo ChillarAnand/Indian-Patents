@@ -1,0 +1,22 @@
+Application number  =>  9980/CHENP/2011 A 
+
+Date of filing of application number  =>  30/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  METHOD AND SYSTEM FOR FEMTO CELL SELF-TIMING AND SELF-LOCATING 
+
+Name of applicant  =>  1)QUALCOMM Incorporated 
+
+Name of inventor  =>  1)KETCHUM John W. 2)NAGARAJ Srinath 3)BHATIA Ashok 4)KATZFEY Eric J. 5)DAITA Lalitaprasad V. 6)BARUAH Sekharjyoti 
+
+International Classification  =>  H04J 3/06 
+
+Priority Doc No  =>  12/510,916 
+
+International Application Number  =>  PCT/US2009/062875 
+
+International Publication Number  =>   
+
+Abstract  =>  Devices and methods are provided for providing self-timing and self-locating in an access point (AP) base station. In one embodiment the method involves receiving Satellite Positioning System (SPS) signals from a first data source (e.g. plurality of satellites) wherein the SPS signals may include SPS time data SPS frequency data and SPS position data. The method may further involve obtaining from a second data source (e.g. cell site terrestrial navigation station server user input interface etc.) at least one of second time data second frequency data and second position data and determining relative reliability of the first and second data sources. 
+

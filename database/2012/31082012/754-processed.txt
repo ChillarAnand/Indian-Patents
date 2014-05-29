@@ -1,0 +1,22 @@
+Application number  =>  948/MUMNP/2012 A 
+
+Date of filing of application number  =>  17/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD FOR MANUFACTURING VALVE UMBRELLA PORTION OF HOLLOW ENGINE VALVE, PRESS DEVICE OF VALUE UMBRELLA PORTION OF HOLLOW ENGINE VALVE, AND HOLLOW ENGINE VALVE 
+
+Name of applicant  =>  1)MITSUBISHI HEAVY INDUSTRIES, LTD. 2)YOSHIMURA COMPANY 
+
+Name of inventor  =>  1)YOSHIMURA HYOJI 2)N/A 3)N/A 
+
+International Classification  =>  B21K 1/22,B21J 5/06 
+
+Priority Doc No  =>  2009-292226 
+
+International Application Number  =>  PCT/JP2010/061933 
+
+International Publication Number  =>  WO/2011/077776 
+
+Abstract  =>  Conventionally, in hot forging of a valve umbrella portion of a hollow engine valve, poor finish accuracy has been provided, and in cold forging thereof, materials which can be used have been restricted. In addition, in the cold forging and the known hot forging, the number of steps for drawing is increased, which requires a large number of steps for intermediate heating processes such as annealing, with the result that the poor workability has been obtained. In view of this, a semi-finished product having a hollow and an expansion diameter portion is manufactured in advance (first step), and a press device for folding an outer cylinder (4) and an inner cylinder (5) around an entire die set (DS) is used, thereby performing drawing with a body of the semi-finished product the center in a constant temperature atmosphere at any temperature between a room temperature and 870ºC (second step). 
+

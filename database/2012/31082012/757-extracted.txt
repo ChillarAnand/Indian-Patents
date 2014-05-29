@@ -1,0 +1,46 @@
+ 
+The Patent Office Journal 31/08/2012 
+13816
+(12) PATENT APPLICATION PUBLICATION (21) Application No.945/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :17/04/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : METHOD OF FORMING AN ARTICLE FROM NON-MELT PROCESSIBLE POLYMERS AND 
+ARTICLES FORMED THEREBY  
+  
+(51) International classification  :B29C 43/22  
+(31) Priority Document No  :61/244,358  
+(32) Priority Date  :21/09/2009 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2010/049523
+:20/09/2010 
+(87) International Publication No  :WO/2011/035258  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)SAINT-GOBAIN PERFORMANCE PLASTICS 
+CORPORATION 
+      Address of Applicant :1199 SOUTH CHILLICOTHE ROAD, 
+AURORA, OHIO 44202, UNITED STATES OF AMERICA. 
+(72)Name of Inventor : 
+   1)SINGH, ROJENDRA 
+   2)PUJARI, VIMAL, K.; 
+   3)RUSHKIN, ILYA, L.  
+(57) Abstract : 
+A method of preparing an article includes compressing a polymeric material to form a body and hot isostatic pressing (HIP) the body 
+in an inert atmosphere at a pressure of at least 3 ksi without an encapsulant. The body may optionally be sintered prior to hot isostatic 
+pressing (HIP). The body may have a porosity of not greater than 8 % prior to hot isostatic pressing (HIP). The polymer material may 
+be a non-melt processible polymer. 
+  
+  
+No. of Pages : 21 No. of Claims : 15 

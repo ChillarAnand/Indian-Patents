@@ -1,0 +1,48 @@
+ 
+The Patent Office Journal 31/08/2012 
+13459
+(12) PATENT APPLICATION PUBLICATION (21) Application No.5338/DELNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :11/07/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : PHARMACEUTICAL COMPOSITION CONTAINING AN ANIONIC DRUG, AND A PRODUCTION 
+METHOD THEREFOF  
+  
+(51) International classification  :A61K  
+(31) Priority Document No  :10-2008-0134459  
+(32) Priority Date  :26/12/2008 
+(33) Name of priority country  :Republic of Korea 
+(86) International Application No 
+        Filing Date 
+:PCT/KR2009/007804
+:24/12/2009 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)SAMYANG CORPORATION 
+      Address of Applicant :263  Yeonji-dong  Jongro-gu  Seoul 
+110-470  Republic of Korea Republic of Korea 
+(72)Name of Inventor : 
+   1)KIM  Se-Ho 
+   2)SON  Ji-Yeon 
+   3)LA  Muhn-Ho 
+   4)CHOI  Sung-Won 
+   5)SEO  Min-Hyo  
+(57) Abstract : 
+The present invention relates to an anionic drug-containing pharmaceutical composition comprising: an anionic drug as an active 
+ingredient; a cationic lipid; and an amphiphilic block copolymer, wherein the anionic drug forms a complex with the cationic lipid, 
+and the complex is entrapped in the micelle structure of the amphiphilic block copolymer, and a method for preparing the same. The 
+pharmaceutical composition may increase stability of the anionic drug in blood or in a body fluid, and it may enable intracellular 
+delivery to improve efficacy of anionic drugs. 
+  
+  
+No. of Pages : 47 No. of Claims : 23 

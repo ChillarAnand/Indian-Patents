@@ -1,0 +1,22 @@
+Application number  =>  3062/CHENP/2011 A 
+
+Date of filing of application number  =>  04/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  YTTERBIUM-DOPED OPTICAL FIBER 
+
+Name of applicant  =>  1)FUJIKURA LTD. 
+
+Name of inventor  =>  1)KENTARO ICHII 2)SHOJI TANIGAWA 3)TOMOFUMI ARAI 
+
+International Classification  =>  H01S3/06 
+
+Priority Doc No  =>  2008-283165 
+
+International Application Number  =>  PCT/JP2009/005862 
+
+International Publication Number  =>  WO 2010/052907 A1 
+
+Abstract  =>  An ytterbium-doped optical fiber including a core containing at least ytterbium, aluminum and phosphorous and a clad surrounding the core, wherein a molar concentration of diphosphorus pentoxide with respect to phosphorus in the core is equal to a molar concentration of aluminum oxide with respect to aluminum in the core, wherein a ratio of a molar concentration of diphosphorus pentoxide with respect to phosphorus in the core to the molar concentration of ytterbium oxide with respect to ytterbium in the core is higher than or equal to 10 and lower than or equal to 30, and wherein a relative refractive index difference between the core and the clad is higher than or equal to 0.05% and lower than or equal to 0.30%. 
+

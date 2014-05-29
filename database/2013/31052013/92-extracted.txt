@@ -1,0 +1,40 @@
+The Patent Office Journal 31/05/2013 12063
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9746/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :23/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : ORGANIC ELECTRONIC DEVICE AND METHOD FOR MANUFACTURING THE SAME•
+(51) International classification :H01L 51/42
+(31) Priority Document No :2009-150143
+(32) Priority Date :24/06/2009
+(33) Name of priority country :Japan
+(86) International Application No
+Filing Date
+:PCT/JP2010/ 60499
+:21/06/2010
+(87) International Publication No : NA
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)MITSUBISHI CHEMICAL CORPORATION
+Address of Applicant :14-1 Shiba 4-chome Minato-ku
+Tokyo 108-0014 Japan
+(72)Name of Inventor :
+1)OIZUMI Junichi
+2)FUNAYAMA Katsuya
+3)FUJIWARA Takashi
+4)YONEYAMA Takahiro
+5)HANDA Keishin
+(57) Abstract :
+An organic electronic device which does not deteriorate a device function over a long period of time for example in a thin film
+organic solar cell element suppresses a lowering of the power generation efficiency and a method for manufacturing the same
+are provided. Disclosed is an organic electronic device comprising an organic semiconductor element (B) containing at least a pair
+of electrodes a layer (C) containing a scavenger which absorbs at least one of moisture and oxygen and a gas barrier film (D) in
+this ...
+No. of Pages : 94 No. of Claims : 21

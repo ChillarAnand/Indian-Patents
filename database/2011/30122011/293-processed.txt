@@ -1,0 +1,22 @@
+Application number  =>  1322/CHENP/2011 A 
+
+Date of filing of application number  =>  25/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHODS, SYSTEMS, AND COMPUTER READABLE MEDIA FOR THROTTLING TRAFFIC TO AN INTERNET PROTOCOL (IP) NETWORK SERVER USING ALIAS HOSTNAME IDENTIFIERS ASSIGNED TO THE IP NETWORK SERVER WITH A DOMAIN NAME SYSTEM (DNS) 
+
+Name of applicant  =>  1)Tekelec 
+
+Name of inventor  =>  1)CAMPEN Byron 2)ROACH Adam B. 3)SPARKS Robert J. 
+
+International Classification  =>  H04L12/56, H04L12/28 
+
+Priority Doc No  =>  61/085,389 
+
+International Application Number  =>  PCT/US2009/052316 
+
+International Publication Number  =>   
+
+Abstract  =>  Methods, systems, and computer readable media for throttling traffic to an IP network server using alias hostname identifiers assigned to the IP network server with a domain name system are disclosed. One method includes maintaining a plurality of weight values and corresponding alias hostname identifiers for the IP network server that are associated with the IP network server in a DNS system. The method further includes throttling network traffic sent to an IP network server by sending, from the IP network server, messages to nodes that send the traffic to the IP network server, where the messages selectively enable or disable traffic flow to the individual alias hostnames. 
+

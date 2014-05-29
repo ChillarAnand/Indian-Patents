@@ -1,0 +1,22 @@
+Application number  =>  9817/CHENP/2011 A 
+
+Date of filing of application number  =>  27/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  METHOD AND DEVICE FOR MINIMIZING DRIVE TEST LOGGING MEASUREMENT 
+
+Name of applicant  =>  1)Huawei Technologies Co. Ltd. 
+
+Name of inventor  =>  1)JOHAN Johansson 2)ZHANG Hongzhuo 3)ZHANG Dongmei 4)JIN Lei 5)HUANG Ying 
+
+International Classification  =>  H04W 24/08 
+
+Priority Doc No  =>  200910139467.3 
+
+International Application Number  =>  PCT/CN2010/073925 
+
+International Publication Number  =>   
+
+Abstract  =>  A method and apparatus for measuring the log by minimizing drive test (MDT) is provided in the embodiments of the present invention wherein the method includes the following steps: creating MDT log measurement configuration information; according to a predefined rule sending said MDT logging measurement configuration information to the connected user equipment (UE) and/or the idle UE. Through the solutions provided in the embodiments of the present invention the commercial UEs in the present network can be utilized to assist in locating problems of the network thus reducing the drive test (DT) cost. 
+

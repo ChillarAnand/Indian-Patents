@@ -1,0 +1,22 @@
+Application number  =>  1449/DEL/2010 A 
+
+Date of filing of application number  =>  22/06/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  AN IMPROVED GAS AND COOLANT FLOW FIELD PLATE FOR USE IN POLYMER ELECTROLYTE MEMBRANE FUEL CELLS (PEMFC). 
+
+Name of applicant  =>  1)INTERNATIONAL ADVANCED RESEARCH CENTRE FOR POWDER METALLURGY AND NEW METERIALS (ARCI), DEPARTMENT OF SCIENCE AND TECHNOLOGY, GOVT.OF INDIA 
+
+Name of inventor  =>  1)KAVERIPATNAM SAMBAN DHATHATHREYAN 2)NATARAJAN RAJALAKSHMI 3)GURUVIAH VELAYUTHAM 4)LAKSHMANAN BABU 5)RANGANATHAN VASUDEVAN 6)THANDALAM PARTHASARATHY SARANGAN 7)RADHAKRISHNAN PARTHASARATHY 
+
+International Classification  =>  H01M8/10 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention relates to an improved an anode and a cathode plates for use in PEMFC. The plate for cathode is constructed with multiple converging and diverging flow channels which are constantly expanded or contracted, split into more than one flow stream, The plate for the anode is constructed with two equal segments having curved surfaces. The gas channels have a fluid inlet at one end of the plate and a fluid exhaust at the other end of the plate The coolant comprises of three regions wherein , the first region being the manifold inlet and second region being the manifold out let and the third being located between the first two regions and having multiple serpentine channels , the channels being curved at their ends 
+

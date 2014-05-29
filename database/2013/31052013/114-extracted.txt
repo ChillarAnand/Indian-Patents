@@ -1,0 +1,48 @@
+The Patent Office Journal 31/05/2013 12085
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9816/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :27/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : CENTRALIZED COEXISTENCE MANAGER FOR CONTROLLING OPERATION OF
+MULTIPLE RADIOS
+(51) International classification :H04W 88/06
+(31) Priority Document No :61/221,244
+(32) Priority Date :29/06/2009
+(33) Name of priority country :U.S.A.
+(86) International Application No
+Filing Date
+:PCT/US2010/040442
+:29/06/2010
+(87) International Publication No : NA
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)QUALCOMM Incorporated
+Address of Applicant :Attn: International IP Administration
+5775 Morehouse Drive San Diego California 92121-1714
+USA.
+(72)Name of Inventor :
+1)KADOUS Tamer A.
+2)MANTRAVADI Ashok
+3)VEERAVALLI Venugopal V.
+4)BERGAN Charles A.
+5)LINSKY Joel B.
+6)WIETFELDT Richard D.
+7)CHRISIKOS George
+(57) Abstract :
+Systems and methodologies are described herein that facilitate a centralized structure for managing multi-radio coexistence for a
+mobile device and/or other suitable device(s). As described herein a control plane coexistence manager (CxM) entity and/or a
+data plane CxM entity can be implemented to directly interact with a set of associated transceivers (e.g. radios etc.) in order to
+manage conflicts between events corresponding to the transceivers. Further CxM operation can be divided between the control
+and data planes such that the control plane handles configuration and long-term operations such as radio registration sleep mode
+management long-term event resolution interaction with upper layers etc. while the data plane handles short-term operations
+with respect to radio event management based on incoming notifications or event requests. For instance the data plane can
+evaluate a set of requested events select event(s) to be executed and provide responses to the associated transceivers relating to
+the selection(s).
+No. of Pages : 61 No. of Claims : 86

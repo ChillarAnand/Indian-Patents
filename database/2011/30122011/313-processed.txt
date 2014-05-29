@@ -1,0 +1,22 @@
+Application number  =>  1616/CHE/2009 A 
+
+Date of filing of application number  =>  08/07/2009 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  PASSWORD SELF ENCRYPTION METHOD AND SYSTEM AND ENCRYPTION BY KEYS GENERATED FROM PERSONAL SECRET INFORMATION 
+
+Name of applicant  =>  1)CHEMAN SHAIK 
+
+Name of inventor  =>  1)CHEMAN SHAIK 
+
+International Classification  =>  G06F21/00, H04L9/32 
+
+Priority Doc No  =>  61/056,991 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A public key cryptographic system and method is provided for a password or any other predefined personal secret information that defeats key factoring and spoofing attacks. The method adopts a new technique of encrypting a password or any predefined secret information by a numeric function of itself, replacing the fixed public key of the conventional RSA encryption. The whole process involving key generation, encryption, decryption and password handling is discussed in detail. Mathematical and cryptanalytical proofs of defeating factoring and spoofing attacks are furnished. 
+

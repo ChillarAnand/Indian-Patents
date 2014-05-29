@@ -1,0 +1,44 @@
+ 
+The Patent Office Journal 31/08/2012 
+14126
+(12) PATENT APPLICATION PUBLICATION (21) Application No.449/CHE/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :22/02/2010 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : SWING DRIVE SYSTEM FOR CRANES  
+  
+(51) International classification  :B66C  
+(31) Priority Document No  :61/155,414 
+(32) Priority Date  :25/02/2009
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)MANITOWOC CRANE COMPANIES, LLC 
+      Address of Applicant :2400 SOUTH 44TH STREET, 
+MANITOWOC, WI 54221 U.S.A. 
+(72)Name of Inventor : 
+   1)KAISER, JOSEPH R 
+   2)PLEUSS, ALAN, E  
+(57) Abstract : 
+A crane includes i) a lower structure comprising ground engaging members ii) an upper structure rotatably connected to the lower 
+structure such that the upper structure can swing with respect to the lower structure, wherein one of the lower structure and upper 
+structure comprises a first structure having a ring gear having teeth on a surface thereof, and the other of the lower structure and upper 
+structure comprises a second structure; and iii) a boom pivotally mounted on the upper structure. The crane further includes a drive 
+system comprising at least two pinion gears mounted on a common frame and in driving contact with the ring gear teeth; and a link 
+connecting the frame to the second structure with two pivot axes between the frame and the second structure. 
+  
+  
+No. of Pages : 29 No. of Claims : 18 

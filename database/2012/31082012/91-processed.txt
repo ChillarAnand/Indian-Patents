@@ -1,0 +1,22 @@
+Application number  =>  2926/CHENP/2011 A 
+
+Date of filing of application number  =>  29/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  A TRANSMITTING METHOD AND A RECEIVING MEHTOD OF A MODULATED DATA STREAM 
+
+Name of applicant  =>  1)ALCATEL LUCENT 
+
+Name of inventor  =>  1)SADOUGH, SEYED MOHAMMAD SAJAD 2)DUHAMEL, PIERRE 3)ALBERI-MOREL, MARIE LINE 4)SAYADI, BESSEM 
+
+International Classification  =>  H04L27/34 
+
+Priority Doc No  =>  09150481.1 
+
+International Application Number  =>  PCT/EP2010/050110 
+
+International Publication Number  =>  WO 2010/081760 A1 
+
+Abstract  =>  The present invention relates to a transmitting and a receiving methods of a modulated data stream (MOD). It is characterized in that at the transmitting side, it comprises the steps of Generating a mixed data stream (MD) on the basis of mixing a first data stream (HP) with a second data stream (LP); Encoding said first data stream (HP) and said mixed data stream (MD); Generating a modulated data stream (MOD) on the basis of mapping said mixed data stream (MD). At the receiving side, it comprises the steps of Generating a demapped data stream on the basis of demapping said modulated data stream (MOD); Generating a first and a second deinterleaved data streams on the basis of deinterleaving said demapped data stream; Decoding said first deinterleaved data stream; - Generating an a priori information on the basis of mixing a part of the first decoded deinterleaved data stream with a mixing vector; and Decoding said second deinterleaved data stream using said a prior information. 
+

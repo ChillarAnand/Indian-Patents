@@ -1,0 +1,48 @@
+The Patent Office Journal 30/12/2011 
+ 
+25630
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1322/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :25/02/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : METHODS, SYSTEMS, AND COMPUTER READABLE MEDIA FOR THROTTLING TRAFFIC TO 
+AN INTERNET PROTOCOL (IP) NETWORK SERVER USING ALIAS HOSTNAME IDENTIFIERS ASSIGNED TO THE IP 
+NETWORK SERVER WITH A DOMAIN NAME SYSTEM (DNS)  
+  
+(51) International classification  :H04L12/56, H04L12/28  
+(31) Priority Document No  :61/085,389  
+(32) Priority Date  :31/07/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/052316
+:30/07/2009 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)Tekelec 
+      Address of Applicant :5200 Paramount Parkway  Morrisville  
+NC 27560 USA.   
+(72)Name of Inventor : 
+   1)CAMPEN Byron 
+   2)ROACH Adam B. 
+   3)SPARKS Robert J.  
+(57) Abstract : 
+Methods, systems, and computer readable media for throttling traffic to an IP network server using alias hostname identifiers assigned 
+to the IP network server with a domain name system are disclosed. One method includes maintaining a plurality of weight values and 
+corresponding alias hostname identifiers for the IP network server that are associated with the IP network server in a DNS system. The 
+method further includes throttling network traffic sent to an IP network server by sending, from the IP network server, messages to 
+nodes that send the traffic to the IP network server, where the messages selectively enable or disable traffic flow to the individual alias 
+hostnames. 
+  
+  
+No. of Pages : 32 No. of Claims : 27 

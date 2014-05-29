@@ -1,0 +1,22 @@
+Application number  =>  1031/DEL/2010 A 
+
+Date of filing of application number  =>  29/04/2010 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  APPARATUS FOR PERFORMING MULTIMEDIA-BASED DATA TRANSMISSION AND ASSOCIATED METHOD 
+
+Name of applicant  =>  1)MEDIATEK INC. 
+
+Name of inventor  =>  1)Chih-Ming Fu 2)Yu-Pao Tsai 
+
+International Classification  =>  H04N 
+
+Priority Doc No  =>  12/635,712 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  An apparatus for performing multimedia-based data transmission includes an image capturing device and a processing circuit. The image capturing device is a peripheral device for a user to capture images. In addition, in a situation where the apparatus is utilized as a target apparatus, the image capturing device is arranged to capture at least one multi-dimensional barcode image carrying data. Additionally, the processing circuit is arranged to control operations of the apparatus, wherein in the situation where the apparatus is utilized as the target apparatus, the processing circuit is arranged to extract the data carried by the multi- dimensional barcode image for furmer use. In particular, the aforementioned at least one multi-dimensional barcode image may represent a plurality of multi-dimensional barcode images. An associated method is also provided. 
+

@@ -1,0 +1,48 @@
+The Patent Office Journal 30/12/2011 
+ 
+25526
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1110/MUMNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :31/05/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : SELF-TUNING OF SIGNAL PATH DELAY IN CIRCUIT EMPLOYING MULTIPLE VOLTAGE 
+DOMAINS  
+  
+(51) International classification  :G11C 7/08  
+(31) Priority Document No  :12/336,741  
+(32) Priority Date  :17/12/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/067657
+:11/12/2009 
+(87) International Publication No  :WO/2010/077776  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)QUALCOMM INCORPORATED 
+      Address of Applicant :Attn: International IP Administration  
+5775 Morehouse Drive  San Diego  California 92121-1714  
+United States of America  
+(72)Name of Inventor : 
+   1)CHAI  Chiaming 
+   2)LILES  Stephen Edward  
+(57) Abstract : 
+Circuits and methods provided in multiple voltage domains that include self-tuning or timing of a signal path are disclosed. A plurality 
+of paths is provided in the circuit. Each path traverses a portion of the multiple voltage domains, which may include any number or 
+combination of the multiple voltage domains. Each of the paths has a delay responsive to at least one of the plurality of voltage 
+domains. A delay circuit is provided and configured to generate a delay output related to the delay in the plurality of paths. In this 
+manner, the delay output of the delay circuit is self-tuned or adjusted according to the delay in the plurality of paths. This self-tuning 
+may be particularly suited to control the delay of a first signal path relative to a second signal path wherein the delay in the paths can 
+vary with respect to each other during operation.  
+  
+ 
+No. of Pages : 30 No. of Claims : 24 

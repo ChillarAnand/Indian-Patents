@@ -1,0 +1,22 @@
+Application number  =>  1109/MUMNP/2011 A 
+
+Date of filing of application number  =>  31/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  POST-DEPLOYMENT CALIBRATION FOR WIRELESS POSITION DETERMINATION 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)NAGUIB Ayman Fawzy 2)AGGARWAL Alok 3)GUO Jin 
+
+International Classification  =>  G01S 5/02 
+
+Priority Doc No  =>  61/139,928 
+
+International Application Number  =>  PCT/US2009/069167 
+
+International Publication Number  =>  WO/2010/075369 
+
+Abstract  =>  Methods and apparatuses are directed to calibrating a misconfigured wireless access point. One method may include receiving a position of mobile station(s) and wireless signal model measurements derived from packets exchanged between the mobile station(s) and a plurality of wireless access points, receiving positions and/or identities of the plurality of wireless access points used in determining the position of the mobile station(s), comparing a position of the mobile station(s) with wireless signal model measurements, and identifying a misconfigured wireless access point based upon the comparing. Another method may include receiving positions associated with a plurality of wireless access points, determining a position of a mobile station based upon a wireless signal model, comparing the position of the mobile station and the wireless signal model with the positions associated with the plurality of wireless access points, and determining whether at least one wireless access point is misconfigured. 
+

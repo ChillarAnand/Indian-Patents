@@ -1,0 +1,22 @@
+Application number  =>  636/CHENP/2006 A 
+
+Date of filing of application number  =>  21/02/2006 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  PROCESS FOR PRODUCTION OF ACETYL ANHYDRIDES AND OPTIONALLY ACETIC ACID FROM METHANE AND CARBON DIOXIDE 
+
+Name of applicant  =>  1)THE REGENTS OF THE UNIVERSITY OF CALIFORNIA 2)BP CHEMICALS LIMITED 
+
+Name of inventor  =>  1)BELL, Alexis T. 2)MUKHOPADHYAY, Sudip 3)ZERELLA, Mark, T 4)SUNLEY, John Glenn 5) GAEMERS, Sander 6)MUSKETT, Michael James 
+
+International Classification  =>  C07C 
+
+Priority Doc No  =>  10/627,254 
+
+International Application Number  =>  PCT/US04/023681 
+
+International Publication Number  =>  WO 2005/09927 
+
+Abstract  =>  Acetyl anhydrides such as acetyl sulfate are produced by a process for comprising contacting methane and carbon dioxide in an anhydrous environment in the presence of effective amounts of a transition metal catalyst and a reaction promoter, and an acid anhydride compound, and optionally an acid. The acetyl anhydride can be contacted with water to produce acetic acid or with an alcohol to produce a product comprising an acetate ester and that may also comprise acetic acid. Optionally, water in stoichiometric amounts or less, with respect to the acetic anhydride, may be fed to a continuous process of this type to produce some acetic acid in situ. 
+

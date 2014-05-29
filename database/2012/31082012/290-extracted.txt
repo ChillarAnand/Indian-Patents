@@ -1,0 +1,46 @@
+ 
+The Patent Office Journal 31/08/2012 
+14132
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3939/CHE/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :23/12/2010 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : A SYSTEM FOR GENERATION OF GENERALIZED MOMENT PATTERNS  
+  
+(51) International classification  :G06K 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)INTERNATIONAL INSTITUTE OF INFORMATION 
+TECHNOLOGY-HYDERABAD(IIIT-H) 
+      Address of Applicant :GACHIBOWLI, HYDERABAD 500 
+032 Andhra Pradesh India 
+(72)Name of Inventor : 
+   1)SIVASWAMY JAYANTHI 
+   2)MEDATHATI, NAGA VENKATA KARTHEEK 
+   3)KRISHNAMURTHY, SAI DEEPAK  
+(57) Abstract : 
+A system and method to capture contextual information in an image and compute feature descriptors for describing the captured 
+contextual information have been disclosed. The system captures an image context effectively by combining information from across 
+the region of interest in an image by inducing different types of motion. Generalized moment patterns are created by performing 
+mathematical operations on this combined information and forms the basis for computing feature descriptors. These computed feature 
+descriptors are generic and can be applied in varied computer vision and image processing applications including image classification, 
+image matching, salient point detection, scene analysis or understanding, object detection, abnormality detection and the like. 
+  
+  
+No. of Pages : 36 No. of Claims : 12 

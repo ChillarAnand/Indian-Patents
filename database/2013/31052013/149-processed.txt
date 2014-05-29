@@ -1,0 +1,22 @@
+Application number  =>  9912/CHENP/2011 A 
+
+Date of filing of application number  =>  28/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  METHOD EQUIPMENT AND SYSTEM FOR IMPLEMENTING COORDINATED MULTI-POINT TRANSMISSION 
+
+Name of applicant  =>  1)Huawei Technologies Co. Ltd. 
+
+Name of inventor  =>  1)SUN Guolin 2)YE Feng 3)GAO Xiujuan 
+
+International Classification  =>  H04B 7/06 
+
+Priority Doc No  =>  200910260758.8 
+
+International Application Number  =>  PCT/CN2010/078713 
+
+International Publication Number  =>   
+
+Abstract  =>  A method terminal and system for implementing coordinated multi-point transmission are provided by the embodiments of the present invention resolving the problem that there exists phase noise in the signals received by a User Equipment (UE) end in coordinated multi-point transmission. The method for implementing coordinated multi-point transmission includes the following steps: obtaining phase difference between other coordinated cells and a current service cell by calculating a channel cross- covariance matrix between the current service cell and other coordinated cells in a coordinated multi-point transmission system (101); feeding back the phase difference corresponding to the base stations of said other coordinated cells respectively to the base stations of said other coordinated cells in order to implement phase compensation (102); receiving the signals transmitted after the phase compensation by the base stations of all the coordinated cells (103). The method, terminal and system provided by the embodiments of the present invention are applicable to the coordinated communication in various wireless networks. 
+

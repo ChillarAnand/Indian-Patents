@@ -1,0 +1,22 @@
+Application number  =>  1071/CHENP/2011 A 
+
+Date of filing of application number  =>  16/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  ULTRASOUND MEDIATED DRUG DELIVERY 
+
+Name of applicant  =>  1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+
+Name of inventor  =>  1)SHI William 2)CHIN Chien Ting 3)HALL Christopher 4)RAJU Balasundara 5)BOHMER Marcel 
+
+International Classification  =>  A61M 37/00 
+
+Priority Doc No  =>  61/061690 
+
+International Application Number  =>  PCT/IB2009/052449 
+
+International Publication Number  =>   
+
+Abstract  =>  Described is a method for the delivery of a therapeutic agent to a mammal, particularly a human person, comprising (i) the administration of ultrasound particles that undergo a physical change when subjected to ultrasound; (ii) the administration of the therapeutic agent in an ultrasound dosage form allowing release of the therapeutic agent to be affected by the application of ultrasound, (iii) the application of ultrasound so as to affect a physical change in at least some of the ultrasound particles, and (iv) the application of ultrasound so as to stimulate release of the therapeutic agent. According to the invention the ultrasound particles are subjected to detection of their acoustic responses via echoes and/or emissions. The information thus obtained is processed and the processed information is used to adapt or adjust the ultrasound-mediated delivery of the therapeutic agent. Fig. 1 
+

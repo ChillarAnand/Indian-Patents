@@ -1,0 +1,22 @@
+Application number  =>  1139/CHENP/2011 A 
+
+Date of filing of application number  =>  18/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD FOR ACQUIRING SYSTEM INFORMATION, COMMUNICATION SYSTEM, AND MOBILE TERMINAL 
+
+Name of applicant  =>  1)Huawei Technologies Co. Ltd. 
+
+Name of inventor  =>  1)WANG Jiyong 2)ZHAO Yang 3)YU Yongjun 
+
+International Classification  =>  H04W8/00 
+
+Priority Doc No  =>  200810146260.4 
+
+International Application Number  =>  PCT/CN2009/072931 
+
+International Publication Number  =>   
+
+Abstract  =>  A method for acquiring system information is provided in the embodiments of the present invention. The method is used to acquire the system information of a cell, wherein, the method comprises the steps of: performing synchronization between a mobile terminal in a dedicated mode and a mobile communication system cell; determining the broadcast time of the Main Information Block(MIB) according to the result of the synchronization; acquiring the corresponding MIB according to the determined broadcast time of MIB. A communication system and a mobile terminal are also provided in the embodiments of the present invention. The system information of the cell can be acquired by means of the embodiments of the present invention. 
+

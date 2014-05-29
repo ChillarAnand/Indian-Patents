@@ -1,0 +1,52 @@
+ 
+The Patent Office Journal 31/08/2012 
+13846
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1915/CHE/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :06/06/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : INK COMPOSITION FOR INKJET RECORDING, INKJET RECORDING METHOD AND PRINTED 
+MATERIAL OBTAINED BY INKJET RECORDING  
+  
+(51) International classification  
+:B32B3/10, 
+B41J2/01, 
+C08K5/1535 
+(31) Priority Document No  :2010-132365  
+(32) Priority Date  :09/06/2010
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)FUJIFILM CORPORATION  
+      Address of Applicant :26-30, NISHIAZABU 2-CHOME, 
+MINATO-KU, TOKYO Japan 
+(72)Name of Inventor : 
+   1)NAKAMURA, IPPEI 
+   2)KYOTA, HIROKAZU  
+(57) Abstract : 
+The invention provides an ink composition for inkjet recording, including: a component (A) that is a compound having two or more 
+groups represented by the following Formula (1); a component (B) that is at least one selected from the group consisting of an organic 
+solvent represented by the following Formula (2) and an organic solvent represented by the following Formula (3); and (C) a colorant: 
+wherein in Formula (1), each of Ra and Rb independently represents an alkyl group having 1 to 4 carbon atoms, and Ra and Rb may 
+be bonded to each other to form a four- to six-membered ring: wherein in Formula (2), each of R1 and R2 independently represents -
+CH2-, -NR6- or -O-; R1 and R2 are not both -CH2-; R6 represents an alkyl group having 1 to 3 carbon atoms, a hydroxyalkyl group 
+having 1 to 3 carbon atoms, a hydroxyl group or a hydrogen atom; R3 represents a hydrocarbon group represented by -CraH2m-, -
+CmH2m-2- or -CmH2m.4-; and m is an integer from 2 to 8: wherein in Formula (3), R4 represents -NR7- or -O-; R7 represents an 
+alkyl group having 1 to 3 carbon atoms, a hydroxyalkyl group having 1 to 3 carbon atoms, a hydroxyl group or a hydrogen atom; R5 
+represents a hydrocarbon group represented by -CnH2n-, -CnH2n-2- or -CnH2n-4-; and n is an integer from 2 to 8. 
+  
+  
+No. of Pages : 59 No. of Claims : 11 

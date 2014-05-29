@@ -1,0 +1,46 @@
+ 
+The Patent Office Journal 31/08/2012 
+13734
+(12) PATENT APPLICATION PUBLICATION (21) Application No.724/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :21/03/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : PROCESS FOR APPLYING A METAL COATING TO A NON-CONDUCTIVE SUBSTRATE  
+  
+(51) International classification  :C23C 18/31  
+(31) Priority Document No  :09171442.8  
+(32) Priority Date  :28/09/2009 
+(33) Name of priority country  :EUROPEAN UNION 
+(86) International Application No 
+        Filing Date 
+:PCT/EP2010/005851
+:22/09/2010 
+(87) International Publication No  :WO/2011/035921  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)ATOTECH DEUTSCHLAND GMBH 
+      Address of Applicant :ERASMUSSTRASSE 20, 10553 
+BERLIN, GERMANY. 
+(72)Name of Inventor : 
+   1)WU, WEI, JIE 
+   2)PAN, KE, LIANG  
+(57) Abstract : 
+Described is a new process for applying a metal coating to a non-conductive substrate comprising the steps of (a) contacting the 
+substrate with an activator comprising a noble metal/group IVA metal sol to obtain a treated substrate, (b) contacting said treated 
+substrate with a composition comprising a solution of: (i) a Cu(II), Ag, Au or Ni soluble metal salt or mixtures thereof, (ii) 0.05 to 5 
+mol/l of a group IA metal hydroxide and (iii) a complexing agent for an ion of the metal of said metal salt comprising an organic 
+material having a cumulative formation constant log K of from about 0.73 to about 21.95 for an ion of the metal of said metal salt, 
+characterised in that the composition according to step (b) is treated with an electrical current for a period of time prior to and / or 
+during contacting said solution with the substrate. 
+  
+  
+No. of Pages : 24 No. of Claims : 13 

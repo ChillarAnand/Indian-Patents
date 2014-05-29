@@ -1,0 +1,22 @@
+Application number  =>  3087/CHENP/2011 A 
+
+Date of filing of application number  =>  05/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  BROADCAST RECEIVER APPARATUS 
+
+Name of applicant  =>  1)SHARP KABUSHIKI KAISHA 
+
+Name of inventor  =>  1)SHIMIZU, TOSHINORI 
+
+International Classification  =>  H04N7/173 
+
+Priority Doc No  =>  2008-263673 
+
+International Application Number  =>  PCT/JP09/067462 
+
+International Publication Number  =>  WO 2010/041674 A1 
+
+Abstract  =>  There is provided a broadcast receiver apparatus capable of receiving correct channel information any time even if a network to which the broadcast receiver apparatus is connected changes to another one. The broadcast receiver apparatus includes storage means (29) for storing a network configuration information file and channel information and control means (25) for controlling units of the broadcast receiver apparatus. When the broadcast receiver apparatus is activated, the control means connects to a network, acquires a network configuration information file, and determines whether a network name described in the acquired network configuration information file is different from a network name described in the network configuration information file stored in the storage means. If the network names are different, the broadcast receiver apparatus acquires channel information on the basis of a piece of information described in the network configuration information file and overwrites the network configuration information file and channel information stored in the storage means with the newly acquired network configuration information file and channel information. 
+

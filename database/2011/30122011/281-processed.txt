@@ -1,0 +1,22 @@
+Application number  =>  1263/CHENP/2011 A 
+
+Date of filing of application number  =>  23/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  A METHOD AND APPARATUS FOR GENERATING AN IMAGE COLLECTION 
+
+Name of applicant  =>  1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+
+Name of inventor  =>  1)PETERS Marc Andre 
+
+International Classification  =>  G06F17/30 
+
+Priority Doc No  =>  08161334.1 
+
+International Application Number  =>  PCT/IB2009/053066 
+
+International Publication Number  =>   
+
+Abstract  =>  A method of generating an image collection is described. A plurality of images are retrieved (step 202) and the images are divided into clusters according to a predetermined characteristic of the content of the images (step 204). At least one of the clusters is selected based on a number of images in each cluster (step 206). For each selected cluster, at least one image is selected on the basis of a predetermined criterion (step 208) and an image collection comprising the selected images is generated (step 210). Fig. 2 
+

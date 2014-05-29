@@ -1,0 +1,52 @@
+ 
+The Patent Office Journal 31/08/2012 
+13906
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2898/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :28/04/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : DATA RECEPTION WITH INTERFERENCE CANCELLATION IN A RELAY COMMUNICATION 
+NETWORK  
+  
+(51) International classification  
+:H04L25/06, 
+H04L25/06, 
+H04L5/16  
+(31) Priority Document No  :12/257,258  
+(32) Priority Date  :23/10/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2008/088331
+:24/12/2008 
+(87) International Publication No  :WO 2010/047727 A3 
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)QUALCOMM INCORPORATED 
+      Address of Applicant :INTERNATIONAL IP 
+ADMINISTRATION, 5775 MOREHOUSE DRIVE, SAN 
+DIEGO, CALIFORNIA 92121-1714 U.S.A. 
+(72)Name of Inventor : 
+   1)RAVI PALANKI 
+   2)AVNEESH AGRAWAL  
+(57) Abstract : 
+Techniques for transmitting and receiving data in a relay communication network are described. Stations in the relay network may be 
+grouped into multiple depths. Packets may be transmitted in a pipelined manner, with stations at progressively higher depth sending 
+transmissions of a packet in successive frames. In an aspect, a station may receive data with interference cancellation. The station may 
+obtain a received signal containing transmissions of a first packet from stations at a first depth and transmissions of a second packet 
+from stations at a second depth. The first and second stations may be downstream and upstream stations, respectively, or may be 
+upstream stations at different depths. The station may estimate and cancel interference due to the transmissions of the first packet from 
+the received signal to obtain an interference canceled signal. The station may then process the interference canceled signal for the 
+second packet. 
+  
+  
+No. of Pages : 44 No. of Claims : 33 

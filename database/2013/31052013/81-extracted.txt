@@ -1,0 +1,43 @@
+The Patent Office Journal 31/05/2013 12052
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9698/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :22/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : METHOD AND DEVICE FOR IMPLEMENTING GROUP INTELLIGENT SERVICE OF MOBILE
+VIRTUAL PRIVATE NETWORK•
+(51) International classification :H04W 4/08
+(31) Priority Document No :200910143467.0
+(32) Priority Date :26/05 2009
+(33) Name of priority country :China
+(86) International Application No
+Filing Date
+:PCT/CN2009/073754
+:04/09/2009
+(87) International Publication No : NA
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)ZTE CORPORATION
+Address of Applicant :ZTE Plaza Keji Road South Hi-Tech
+Industrial Park Nanshan District Shenzhen Guangdong
+Province 518057 P.R. China.
+(72)Name of Inventor :
+1)HOU Zhirong
+2)ZHENG Song
+(57) Abstract :
+The present invention discloses implementing group intelligent service of Mobile Virtual Private Network (MVPN). The method
+includes configuring on Service Management Point a corresponding relationship between a group™s number and a module
+number of the Service Control Point (SCP) on which the group is distributed and configuring relevant data information of the
+group in the service database of each SCP on which the group is distributed; uniformly managing relevant data information of the
+group distributed on different SCP; performing the judging the controlling and the billing for a call when user triggers a service.
+The device includes configuration module management module and service execution module. The cross-SCP VPN group users
+are provided with all service features that non-cross-SPC VPN group users have which fully utilizes the existing intelligent
+network devices reduces hardware cost and also provide flexibility and convenience for managing and maintaining relevant data
+information of a group.
+No. of Pages : 48 No. of Claims : 10

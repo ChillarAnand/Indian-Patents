@@ -1,0 +1,22 @@
+Application number  =>  690/MUMNP/2012 A 
+
+Date of filing of application number  =>  19/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD AND PLANT FOR REPROCESSING WASTE SULPHURIC ACIDS FROM NITRIDING PROCESSES 
+
+Name of applicant  =>  1)DE DIETRICH PROCESS SYSTEMS GMBH 
+
+Name of inventor  =>  1)DICHTL, GOTTFRIED 2)STEEG, HARALD 
+
+International Classification  =>  C01B17/94,C01B21/46 
+
+Priority Doc No  =>  09011773.0 
+
+International Application Number  =>  PCT/EP2010/005512 
+
+International Publication Number  =>  WO/2011/032659 
+
+Abstract  =>  The invention relates to a method for reprocessing waste acid from methods for producing nitroaromatics, in particular for producing dinitrotoluene (DNT) or trinitrotoluene (TNT), to recover concentrated and purified sulfuric acid and nitric acid, wherein in a first stage, the waste acid is separated in a stripping column countercurrently with water vapor from the bottom of the stripping column into at least one vapor phase, which contains nitric acid and possibly nitro-organics, and a pre-concentrated sulfuric acid, and the vapor phase and the pre-concentrated sulfuric acid are condensed and/or reprocessed in downstream method stages, wherein in the first stage of the method, in addition to the stripping, according to the invention the nitric acid contained in the stripping vapor is concentrated in the presence of additional concentrated sulfuric acid so that nitric acid in a highly concentrated form suitable for feeding back into the nitriding process is obtained directly in the first stage. 
+

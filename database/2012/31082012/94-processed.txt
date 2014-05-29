@@ -1,0 +1,22 @@
+Application number  =>  2939/CHENP/2011 A 
+
+Date of filing of application number  =>  29/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHODS AND SYSTEMS TO PROLONG MOBILE STATION OPERATION DURING LOW BATTERY POWER 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)GUANGMING CARL SHI 2)KUO-CHUN LEE 3)STEVEN D. CHENG 4)TOM CHIN 5)ISAAC TA-YAN SIU 
+
+International Classification  =>  H04B1/16, H04W52/02 
+
+Priority Doc No  =>  12/260,365 
+
+International Application Number  =>  PCT/US2009/060644 
+
+International Publication Number  =>  WO 2010/053669 A1 
+
+Abstract  =>  Certain embodiments of the present disclosure allow a mobile station to activate a sleep mode in order to reduce power consumption when the residual battery capacity is low. Certain embodiments of the present disclosure also provide techniques for adaptive power saving applied during an idle mode operation. 
+

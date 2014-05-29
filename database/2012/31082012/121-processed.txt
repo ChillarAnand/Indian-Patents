@@ -1,0 +1,22 @@
+Application number  =>  2987/CHENP/2011 A 
+
+Date of filing of application number  =>  02/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  DIGITAL BROADCAST RECEIVER AND DIGITAL BROADCAST RECEPTION MEHTOD 
+
+Name of applicant  =>  1)SHARP KABUSHIKI KAISHA 
+
+Name of inventor  =>  1)SHIMIZU, TOSHINORI 2)WATANABE, RYUHSUKE 3)YAMADA, HAJIME 
+
+International Classification  =>  H04N7/173, H04N7/173, H04N7/24 
+
+Priority Doc No  =>  2008-260098 
+
+International Application Number  =>  PCT/JP09/067346 
+
+International Publication Number  =>  WO 2010/041627 A1 
+
+Abstract  =>  Upon start of processing, a digital broadcast receiver can acquire a CDN configuration information file (XML) after newly connected to a CDN by a users operation. Next, the digital broadcast receiver acquires a PF configuration information file written in the CDN configuration information. The digital broadcast receiver judges whether there is an IP broadcast or not. If there is an IP broadcast, the digital broadcast receiver connects to a multicast address described in the PF configuration information file (XML), and acquires information on all channels in the PF from a SI dedicated stream (all station SI including no video or audio) (channel scan). The URL of a SNTP is described in the CDN configuration information file. Time information is acquired through the SNTP at the same time as (or at a timing near the timing of, such as immediately before or immediately after) the channel scan. The above processing enables easy time acquisition which is a problem peculiar to an IPTV with which viewing of an IP broadcast is possible. 
+

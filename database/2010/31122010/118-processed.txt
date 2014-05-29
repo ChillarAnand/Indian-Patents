@@ -1,0 +1,22 @@
+Application number  =>  4096/CHENP/2010 A 
+
+Date of filing of application number  =>  01/07/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  CLOUD-BASED MOVABLE-COMPONENT BINDING 
+
+Name of applicant  =>  1)MICROSOFT CORPORATION 
+
+Name of inventor  =>  1)SCHNELL, PARTRIK 2)GRIGORVITCH, ALEXANDRE, V. 3)DUBHASHI, KEDARNATH A. 
+
+International Classification  =>  G06F21/00 
+
+Priority Doc No  =>  12/014,079 
+
+International Application Number  =>  PCT/US2008/086091 
+
+International Publication Number  =>  WO 2009/091459 A1 
+
+Abstract  =>  This document describes tools capable of enabling cloud-based movable-component binding. The tools, in some embodiments, bind protected media content to a movable component in a mobile computing device in a cryptographically secure manner without requiring the movable component to perform a complex cryptographic function. By so doing the mobile computing device may request access to content and receive permission to use the content quickly and in a cryptographically robust way. 
+

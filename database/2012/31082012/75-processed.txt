@@ -1,0 +1,22 @@
+Application number  =>  2904/CHENP/2011 A 
+
+Date of filing of application number  =>  28/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  INFORMATION PROCESSING APPARATUS, INFORMATION PROCESSING METHOD, AND PROGRAM 
+
+Name of applicant  =>  1)SONY CORPORATION 
+
+Name of inventor  =>  1)YOSHIHARU DEWA 
+
+International Classification  =>  G06F9/54 
+
+Priority Doc No  =>  2008-284645 
+
+International Application Number  =>  PCT/JP2009/067090 
+
+International Publication Number  =>  WO 2010/052979 A1 
+
+Abstract  =>  [Object] To provide an information processing apparatus, an information processing method, and a program capable of appropriately executing an application program in one program execution environment even in the case where a built-in library includes a plurality of libraries having the same library names. [Solving Means] A JVM pre-execution processing unit 6 obtains an application program name from an application information table AIT and stores the application program name in a RAM 404 with a DTV flag. The JVM pre-execution processing unit 6 obtains an application identifier from an AMT and stores the application identifier in the RAM 404 with a BD flag. A JVM execution processing unit 12 sets a path for a BD when an attribute of a program selected by a user is the BD and sets a path for a DTV when the attribute is the DTV. The JVM execution processing unit 12 switches the path of the library file called in execution of a program in accordance with the attribute that indicates a distributer of the program selected by the user. 
+

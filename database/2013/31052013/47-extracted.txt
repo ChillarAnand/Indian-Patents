@@ -1,0 +1,40 @@
+The Patent Office Journal 31/05/2013 12018
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3452/DEL/2011 A
+(19) INDIA
+(22) Date of filing of Application :30/11/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : Management of Security Associations in a Communication Session
+(51) International classification :H04L
+(31) Priority Document No :NA
+(32) Priority Date :NA
+(33) Name of priority country :NA
+(86) International Application No
+Filing Date
+:NA
+:NA
+(87) International Publication No : NA
+(61) Patent of Addition to Application Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)Huawei Telecommunications (India) Co. Pvt. Ltd.
+Address of Applicant :14th Floor Tower C Unitech Cyber
+Park Sector-39 Gurgaon Haryana- 122002 India.
+(72)Name of Inventor :
+1)Syed Ajim Hussain
+2)Giriraj G S
+3)Sumit Agarwal
+4)Vivek A.
+(57) Abstract :
+The present disclosure relates to management of security associations over a communication network particularly in an IPSEC
+protocol. Some embodiments of the present disclosure illustrate a system for managing security associations over a
+communication network. Such a system comprises a session allocation unit and a plurality of session processing units coupled to
+the session allocation unit. The session allocation unit may be configured to allocate an incoming IKE/data packet to one of the
+session processing unit based on current processing load at initiation of a session and to a previously allocated session processing
+unit for a continuing session. The session allocation unit may be configured further to identify the previously allocated session
+processing unit using a session processing index contained in the incoming lKE/data packet.
+No. of Pages : 22 No. of Claims : 12

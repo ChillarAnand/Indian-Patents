@@ -1,0 +1,22 @@
+Application number  =>  2857/CHENP/2011 A 
+
+Date of filing of application number  =>  27/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  IMPROVED PURE CARBOXYLIC ACID FILTRATION 
+
+Name of applicant  =>  1)INVISTA TECHNOLOGIES S.A.R.L. 
+
+Name of inventor  =>  1)JACKSON, CHRISTOPHER, HOWARD 2)LIMBACH, ANTONY, PETER JOHN 3)MCDONNELL, FINBAR, GERALD 4)URE, ALAN, MACPEHERSON 
+
+International Classification  =>  C07C51/265 , C07C51/47, C07C63/26 
+
+Priority Doc No  =>  61/110,141 
+
+International Application Number  =>  PCT/GB09/002582 
+
+International Publication Number  =>  WO 2010/049697 A2 
+
+Abstract  =>  The present invention relates to a process for production of pure terephthalic acid comprising: a) removing a mother liquor from a terephthalic acid through a filter with a gas, wherein the gas comprises steam at a concentration of least about 50% by volume; b) purifying the gas; and c) recycling the gas purified in step (b) back to step (a). 
+

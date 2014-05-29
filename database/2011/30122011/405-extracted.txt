@@ -1,0 +1,58 @@
+The Patent Office Journal 30/12/2011 
+ 
+25742
+(12) PATENT APPLICATION PUBLICATION (21) Application No.759/KOL/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :12/07/2010 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : SWITCHING APPARATUS WITH ROTARY KNOB  
+  
+(51) International classification  :F16D11/08  
+(31) Priority Document No  :102009033749.0
+(32) Priority Date  :17/07/2009 
+(33) Name of priority country  :Germany 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)ABB AG 
+      Address of Applicant :KALLSTADTER STR. 1, 68309 
+MANNHEIM, GERMANY 
+(72)Name of Inventor : 
+   1)FRANK HUSTERT 
+   2)CORELL GÖBEL 
+   3)MICHAEL KONRAD 
+   4)JIRI BITTNER  
+(57) Abstract : 
+Switching apparatus having a rotary knob (28) for operating a latching mechanism of an installation switching device having at least 
+one upper housing wall (12) wherein the latching mechanism comprises a catch mechanism with a catch lever (32) which can be 
+moved between a latched and an unlatched position, wherein the rotary knob (28) can assume a switched-on and a switched-off 
+position corresponding to the switch position of the latching mechanism and, in the switched-on position, the force of a spring (25) 
+acts on the rotary knob (28) in the direction of the switched-off position, and wherein, on tripping, the catch mechanism is unlatched 
+and the catch lever (32) can be moved from the latched position to the unlatched position, and, when the rotary knob (28) is reset to 
+the switched-off position, the catch mechanism is latched again, wherein a control journal (26), which can be moved between a 
+latched position and an unlatched position, interacts with the catch lever (32) and the rotary knob (28) and, on tripping, can be moved 
+from its latched position to its unlatched position, in which it holds the rotary knob (28) in a trip position between the switched-on and 
+the switched-off position, and prevents the catch lever (32) from returning to the latched position, wherein the control journal (26) has 
+an unlatching and a latching zone (34, 38) as well as a pin projection (24) which passes through the upper housing wall (12), and that 
+side of the rotary knob (28) which faces the upper housing wall (12) has a holding pocket (46) which holds the pin projection (24). 
+The holding pocket (46) has a clamping apparatus (48) for detachably holding the pin projection (24), and has a control incline (50) 
+which is adjacent to the clamping apparatus (48) in the twisting direction of the rotary knob (28), wherein the mutual arrangement of 
+the control journal (26), of the rotary knob (28) and of the catch lever (32) is designed such that, during tripping, the pin projection 
+(24) is clamped by the clamping apparatus (48) and thus holds the rotary knob (28) in the trip position, and that, when the rotary knob 
+(28) is moved from the trip position to the switched-off position, the clamping apparatus (48) releases the pin projection (24) and the 
+rotary knob pushes the pin projection (24) via the control incline (50) so far into the housing that the catch lever (32) can engage with 
+the latching zone (38) of the shaft into its latched position.  
+ 
+No. of Pages : 20 No. of Claims : 11 

@@ -1,0 +1,47 @@
+ 
+The Patent Office Journal 31/08/2012 
+13976
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2992/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :02/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : METHOD AND DEVICE FOR DETERMINING TOTAL CYLINDER CHARGE AND/OR 
+INSTANTANEOUS RESIDUAL GAS RATE IN INTERNAL COMBUSTION ENGINE HAVING EXHAUST GAS 
+RECIRCULATION SYSTEM  
+  
+(51) International classification  :F02D41/00, F02M 25/07  
+(31) Priority Document No  :102008042819.1  
+(32) Priority Date  :14/10/2008 
+(33) Name of priority country  :Germany 
+(86) International Application No 
+        Filing Date 
+:PCT/EP2009/063067
+:08/10/2009 
+(87) International Publication No  :WO 2010/043531 A1  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)ROBERT BOSCH GMBH 
+      Address of Applicant :POSTFACH 30 02 20, 70442 
+STUTTGART Germany 
+(72)Name of Inventor : 
+   1)SCHULTE MOENTING, MARTIN 
+   2)BERKEMER, JUERGEN  
+(57) Abstract : 
+The subject matter describes a method for determining a total cylinder charge (rfrges) in cylinders (3) of an internal combustion 
+engine (2) having an exhaust gas recirculation system (7). The method includes recirculation of exhaust gas at an introduction point 
+(10) into an intake pipe (4) for supplying a gas mixture into the cylinders (3). Then, the total cylinder charge (rfrges) indicates an 
+instantaneous total gas quantity in the cylinders (3). The total cylinder charge (rfrges) is determined as a function of a sum of a gas 
+mass flow supplied to the intake pipe (4) and as a function of a first dynamic correction factor (fvisrm), which defines the dynamic 
+characteristic of the intake pipe (4) with respect to an intake pipe pressure (ps) that develops there.   
+  
+  
+No. of Pages : 19 No. of Claims : 10 

@@ -1,0 +1,47 @@
+The Patent Office Journal 30/12/2011 
+ 
+25500
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1078/MUMNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :26/05/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : SYSTEM AND METHOD OF SWITCHING FROM STREAMING CONTENT TO LOCAL 
+CONTENT  
+  
+(51) International classification  :H04L 29/06  
+(31) Priority Document No  :12/344,567  
+(32) Priority Date  :28/12/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/065917
+:25/11/2009 
+(87) International Publication No  :WO/2010/074880  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)QUALCOMM INCORPORATED 
+      Address of Applicant :Attn: International IP Administration  
+5775 Morehouse Drive  San Diego  California 92121-1714  
+United States of America  
+(72)Name of Inventor : 
+   1)YAMAKAWA  Devender 
+   2)KEATING  Virginia  Walker 
+   3)PARK  Jee  
+(57) Abstract : 
+A method of receiving streaming music at a wireless device is provided. The method includes receiving a music stream from a server, 
+emitting music from the music stream, and playing a locally stored song, when a network interruption is detected. The method may 
+further include accessing a playlist and determining whether the playlist includes at least one of a user favorite song, a same artist 
+song, or a same genre song. Moreover, the method may also include determining that a network connection is re-established, finishing 
+playback of the locally stored song, receiving another music stream from the server, and emitting music from the other music stream. 
+  
+ 
+No. of Pages : 30 No. of Claims : 48 

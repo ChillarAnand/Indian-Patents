@@ -1,0 +1,42 @@
+The Patent Office Journal 31/05/2013 12006
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3433/DEL/2011 A
+(19) INDIA
+(22) Date of filing of Application :29/11/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : DYNAMICALLY ENTERING LOW POWER STATES DURING ACTIVE WORKLOADS
+(51) International classification :G05G
+(31) Priority Document No :NA
+(32) Priority Date :NA
+(33) Name of priority country :NA
+(86) International Application No
+Filing Date
+:NA
+:NA
+(87) International Publication No :NA
+(61) Patent of Addition to Application Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)INTEL CORPORATION
+Address of Applicant :2200 MISSION COLLEGE BLVD.,
+M/S: RNB4-150, SANTA CLARA, CALIFORNIA 95052,
+UNITED STATES OF AMERICA
+(72)Name of Inventor :
+1)WANG, REN
+2)FLEMING, BRUCE, L.
+3)TSAI, JR-SHIAN
+4)MURALIDHAR, RAJEEV, D.
+5)SESHADRI, HARINARAYANAN
+6)TAI, TSUNG-YUAN, C.
+7)ERGIN, MESUT, A.
+8)IYER, PRAKASH, N.
+(57) Abstract :
+Systems and methods may provide for identifying runtime information associated with an active workload of a platform, and
+making an active idle state determination for the platform based on at least in part the runtime information. In addition, a low
+power state of a shared resource on the platform may be controlled concurrently with an execution of the active workload based
+on at least in part the active idle state determination.
+No. of Pages : 20 No. of Claims : 28

@@ -1,0 +1,45 @@
+ 
+The Patent Office Journal 31/08/2012 
+13570
+(12) PATENT APPLICATION PUBLICATION (21) Application No.454/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :23/02/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : VERTICAL AXIS WIND TURBINE GENERATOR  
+  
+(51) International classification  :F03D 3/04,F03D 11/00  
+(31) Priority Document No  :0901004039  
+(32) Priority Date  :08/09/2009 
+(33) Name of priority country  :Thailand 
+(86) International Application No 
+        Filing Date 
+:PCT/TH2010/000033
+:06/09/2010 
+(87) International Publication No  :WO/2011/031245  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)SUTTISILTUM, APICHAT 
+      Address of Applicant :4/1447 MOO 4, SEREETHAI 
+STREET, KLONGKUM DISTRICT, BANGKOK 10240 
+THAILAND.   
+(72)Name of Inventor : 
+   1)SUTTISILTUM, APICHAT  
+(57) Abstract : 
+The present invention relates to a vertical axis wind turbine generator comprising one turbine. The turbine comprises a plurality of V-
+shape longitudinal cup type blades mounted horizontally in one or more circulars around a rotor to received the wind mass and push 
+the turbine to rotate, a step-up gear to increase the turbine shaft rotation speed, a generator is to be rotated by the drive shaft of step-up 
+gear, a lift-up equipment for eliminating friction loss at the bearings while the turbine rotation to make it rotate similarly; freely 
+floated in the air, and a set of wind velocity accelerating tunnel to increase wind mass blowing from any directions to a higher velocity 
+than the natural instantaneous wind speed when approaching blades front. The turbine set is installed on a tower structure. 
+  
+  
+No. of Pages : 20 No. of Claims : 3 

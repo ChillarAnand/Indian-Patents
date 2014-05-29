@@ -1,0 +1,22 @@
+Application number  =>  2099/CHE/2011 A 
+
+Date of filing of application number  =>  21/06/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  SPATIAL ASSOCIATION BETWEEN VIRTUAL AND AUGMENTED REALITY 
+
+Name of applicant  =>  1)PALO ALTO RESEARCH CENTER INCORPORATED 
+
+Name of inventor  =>  1)MICHAEL ROBERTS 2)JAMES BEGOLE 3)MAURICE CHU 4)DORON KLETTER 
+
+International Classification  =>  G06T15/00, G09G5/00 
+
+Priority Doc No  =>  12/823,939 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  One embodiment of the present invention provides a system that facilitates interaction between two entities located away from each other. The system includes a virtual reality system, an augmented reality system, and an object-state-maintaining mechanism. During operation, the virtual reality system displays an object associated with a real-world object. The augmented reality system displays the object based on a change to the state of the object. The object-state-maintaining mechanism determines the state of the object and communicates a state change to the virtual reality system, the augmented reality system, or both. A respective state change of the object can be based on one or more of: a state change of the real-world object; a user input to the virtual reality system or the augmented reality system; and an analysis of an image of the real-world object. 
+

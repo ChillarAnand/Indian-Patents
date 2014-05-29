@@ -1,0 +1,22 @@
+Application number  =>  1034/MUMNP/2011 A 
+
+Date of filing of application number  =>  23/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  MOUSE HAVING DOT PATTERN READING FUNCTION 
+
+Name of applicant  =>  1)YOSHIDA Kenji 
+
+Name of inventor  =>  1)YOSHIDA Kenji 
+
+International Classification  =>  G06F 3/033 
+
+Priority Doc No  =>  2008-292837 
+
+International Application Number  =>  PCT/JP2009/006108 
+
+International Publication Number  =>  WO/2010/055686 
+
+Abstract  =>  Provided is a mouse which is equipped with a mouse function allowing the input of relative position information and a function allowing the input of absolute position information, and enables a user to visually specify the read position of a code with accuracy. A mouse for reading a dot pattern of XY coordinate values, or XY coordinate values and code values which is formed on a surface of a medium, based on a specified algorithm is provided with a case with a read hole for reading the dot pattern provided in the bottom part; a position specification means for specifying a designated position on the medium surface on the outside of the case; a dot pattern reader for reading the dot pattern on the medium surface directly below the read hole; a dot pattern irradiation means for irradiating light for reading the dot pattern on the medium surface; and a controller for calculating the designated position indicated by the position specification means by calculating the XY coordinate value and the orientation of the dot pattern read by the dot pattern reader, and correcting with a predetermined distance and direction. 
+

@@ -1,0 +1,22 @@
+Application number  =>  1262/CHENP/2011 A 
+
+Date of filing of application number  =>  23/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  STEAM IRON 
+
+Name of applicant  =>  1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+
+Name of inventor  =>  1)ONG Chee K. 
+
+International Classification  =>  D06F75/10 
+
+Priority Doc No  =>  08161511.4 
+
+International Application Number  =>  PCT/IB2009/053248 
+
+International Publication Number  =>   
+
+Abstract  =>  Steam irons with a steam valve that is controlled by an intuitively operated, usually pivotable handle may not provide consistent steam ironing behaviour due to the fact that the force exerted on the handle by the user may change over time. To overcome or mitigate the problem, the present invention provides a steam iron (1), comprising a by-pass (9) around the handle-operated valve (7). The by-pass allows a relatively small but continuous water stream to be transported from a water reservoir (6) to steam outlet openings (12) in the soleplate (11) of the iron. Consequently, subject to an ample supply of water, the steam iron provides a minimum of steam ironing comfort throughout a steam ironing session. 
+

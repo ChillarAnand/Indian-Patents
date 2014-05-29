@@ -1,0 +1,48 @@
+ 
+The Patent Office Journal 31/08/2012 
+13610
+(12) PATENT APPLICATION PUBLICATION (21) Application No.519/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :02/03/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : TRACKING THE PROBABILITY FOR IMMINENT HYPOGLYCEMIA IN DIABETES FROM SELF-
+MONITORING BLOOD GLUCOSE (SMBG) DATA  
+  
+(51) International classification  :G01N 33/48  
+(31) Priority Document No  :61/239,291  
+(32) Priority Date  :02/09/2009 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2010/047711
+:02/09/2010 
+(87) International Publication No  :WO/2011/028925  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)UNIVERSITY OF VIRGINIA PATENT FOUNDATION
+      Address of Applicant :250 WEST MAIN STREET, SUITE 
+300, CHARLOTTESVILLE, VA 22902 UNITED STATES OF 
+AMERICA. 
+(72)Name of Inventor : 
+   1)KOVATCHEV, BORIS, P. 
+   2)BRETON, MARC, D.  
+(57) Abstract : 
+A method, system and related computer program product for tracking the probability of hypoglycemia from routine self-monitoring of 
+blood glucose (SMBG) data in patients with diabetes. A specific bivariate probability distribution of low BG events based jointly on 
+the Low BG Index (LBGI) and the Average Daily Risk Range (ADRR) is used to predict hypoglycemia probability of occurrence 
+from inputted SMBG data. The SMBG data is retrieved from a series of SMBG data of a patient available from the patients glucose 
+meter and allows tracking of the probability for future hypoglycemia over a predetermined duration, e.g. a 24 or 48 hour period. The 
+tracking includes presentation of visual and/or numerical output, as well as construction of hypoglycemia risk trajectories that would 
+enable warning messages for crossing of predefined thresholds, such as 50% likelihood for upcoming hypoglycemia below 50mg/dl. 
+  
+  
+No. of Pages : 58 No. of Claims : 44 

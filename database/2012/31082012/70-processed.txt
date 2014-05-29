@@ -1,0 +1,22 @@
+Application number  =>  2901/CHENP/2011 A 
+
+Date of filing of application number  =>  28/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  STACKED WHITE OLED HAVING SEPARATE RED, GREEN AND BLUE SUB-ELEMENTS 
+
+Name of applicant  =>  1)THE REGENTS OF THE UNIVERSITY OF MICHIGAN 
+
+Name of inventor  =>  1)STEPHEN FORREST 2)XIANGFEI QI 3)MICHAEL SLOOTSKY 
+
+International Classification  =>  H01L51/50 
+
+Priority Doc No  =>  61/109,074 
+
+International Application Number  =>  PCT/US2009/062354 
+
+International Publication Number  =>  WO 2010/062643 A1 
+
+Abstract  =>  An organic light emitting device comprising in order: a cathode; a blue-emitting sub-element comprising an emissive layer comprising a phosphorescent blue emissive material; a charge-generating layer; a green-emitting sub-element comprising an emissive layer comprising a phosphorescent green emissive material; a charge-generating layer; a red-emitting sub-element comprising an emissive layer comprising a phosphorescent red emissive material; and an anode; wherein a combined emission of the emissive materials gives a white emission from the device. 
+

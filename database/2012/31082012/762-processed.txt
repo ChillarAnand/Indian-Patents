@@ -1,0 +1,22 @@
+Application number  =>  961/MUM/2010 A 
+
+Date of filing of application number  =>  30/03/2010 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  ASSISTING CONTACT CENTER AGENTS AND CUSTOMERS 
+
+Name of applicant  =>  1)AVAYA, INC 
+
+Name of inventor  =>  1)GEORGE WILLIAM ERHART 2)VALENTINE C. MATULA 3)DAVID JOSEPH SKIBA 4)LAWRENCE O'GORMAN 
+
+International Classification  =>  H04M3/51 
+
+Priority Doc No  =>  12/475,201 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A method of receiving a call from a first caller that is requesting for assistance with a product. Once the call center receives the call, a call-processing switch routes the first caller to a first agent. Once the caller is routed to the first agent, a first message is transmitted to both the first callers terminal and the first agents terminal. After the first message is presented to the first caller and the first agent, the call-processing switch will monitor the communications stream for distress. During monitoring of the communications stream, the call-processing switch will estimate whether a level of distress is present in the communications stream. If it is estimated by the call- processing switch that there is distress present in the communications stream, the call-processing switch will transmit a second message to the first callers terminal and the first agents terminal. 
+

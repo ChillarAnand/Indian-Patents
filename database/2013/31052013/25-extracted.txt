@@ -1,0 +1,41 @@
+The Patent Office Journal 31/05/2013 11996
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3648/MUM/2012 A
+(19) INDIA
+(22) Date of filing of Application :27/12/2012 (43) Publication Date : 31/05/2013
+(54) Title of the invention : SYSTEMS AND METHOD FOR DATA INTEROPERABILITY ACROSS INTERACTIVE VOICE
+RESPONSE SYSTEM(IVRS)
+(51) International classification :H04M7/00,H04M3/493
+(31) Priority Document No :NA
+(32) Priority Date :NA
+(33) Name of priority country :NA
+(86) International Application No
+Filing Date
+:NA
+:NA
+(87) International Publication No : NA
+(61) Patent of Addition to Application Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)INCIGHTS MOBILE SOLUTIONS PVT. LTD.
+Address of Applicant :D-197, STREET NO. 8, LAXMI
+NAGAR, NEW DELHI-110092. India
+2)VINAY MODI
+3)VARUN CHANDRA
+(72)Name of Inventor :
+1)VINAY MODI
+(57) Abstract :
+This invention relates to a system and method by which data exchange and analytics can be built over communication channels in
+general and Interactive Voice Response Systems (IVRS) in specific. IVR systems are available commonly for variety of purposes
+such as banking transaction, railway inquiry, complaint registration, automated appointment and so on. There is no logic built
+inside these systems to differentiate or identify the similarity of the input and output of the data. This nature makes these IVR
+systems unintelligent. The data collected by these IVR systems doesnt carry the essential meta data associated with it (that is the
+semantics of the data) and because of this, IVR generated data is not interoperable. This invention provides a new type of
+machines where an intelligence layer is built into the IVR systems for interoperability of the services and adds very high
+commercial as well as personal benefits to its users.
+No. of Pages : 8 No. of Claims : 5

@@ -1,0 +1,22 @@
+Application number  =>  9891/CHENP/2011 A 
+
+Date of filing of application number  =>  28/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  METHOD AND DEVICE FOR DYNAMICALLY ADJUSTING PRE EMPHASIS AND EQUALIZATION PARAMETERS OF CHIPS 
+
+Name of applicant  =>  1)ZTE CORPORATION 
+
+Name of inventor  =>  1)JUANJUAN MA 
+
+International Classification  =>  H04B10/02 
+
+Priority Doc No  =>  200910108500.6 
+
+International Application Number  =>  PCT/CN2010/074158 
+
+International Publication Number  =>  WO 2011/000273 A1 
+
+Abstract  =>  The invention discloses a method for dynamically adjusting pre-emphasis and equalization parameters of chips and a device thereof, wherein the device includes: a mapping relationship creating module, an adjusted information obtaining module and a parameter calculating module; the dynamic adjustment method comprises: the mapping relationship creating module creating an element mapping relationship table; when the plug-in board information in an optical transmission device is adjusted, the adjusted information obtaining module obtaining adjusted information and reporting to the parameter calculating module; the parameter calculating module firstly recalculating a total length of transmission lines between interconnected cards according to the adjusted plug-in board information and the element mapping relationship table, and then recalculating pre-emphasis and equalization parameter values according to the total length of transmission lines and chip types of the interconnected cards, and notifying the pre-emphasis and equalization parameter values to a master control board, which then issues the pre-emphasis and equalization parameter values to each card. By using the invention, the master control board can dynamically adjust pre-emphasis and equalization parameters and notify them to each card timely, which ensures that each card can adjust message signals according to the adjusted pre-emphasis and equalization parameters, thereby improving transmission quality of message signals. 
+

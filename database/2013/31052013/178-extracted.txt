@@ -1,0 +1,40 @@
+The Patent Office Journal 31/05/2013 12149
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9967/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :29/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : METHOD&NBSP; SYSTEM AND NETWORK DEVICE FOR IMPLEMENTING HTTP-BASED
+STREAMING SERVICE
+(51) International classification :H04L 29/08
+(31) Priority Document No :201010282187.0
+(32) Priority Date :09/11/2009
+(33) Name of priority country :China
+(86) International Application No
+Filing Date
+:PCT/CN2010/078343
+:02/11/2010
+(87) International Publication No : NA
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)Huawei Technologies Co. Ltd.
+Address of Applicant :Huawei Administration Building
+Bantian Longgang District Shenzhen Guangdong 518129 P.R.
+China.
+(72)Name of Inventor :
+1)ZHANG Shaobo
+(57) Abstract :
+A method for implementing a Hyper Text Transfer Protocol (HTTP)-based streaming service is disclosed in the embodiments of
+the present invention. The method includes: a server receives a request from a client, and returns, to the client according to a
+request for a media presentation description file, a response that carries the media presentation description file; the server sets up a
+time synchronization relationship with the client; and the server receives a uniform resource locator from the client, obtains a
+corresponding media fragment file, and returns the media fragment file to the client for playing on the client, where the uniform
+resource locator is a uniform resource locator of a media fragment that is determined by the client and is required to be played,
+and is used for the client to request the media fragment file from the server.
+No. of Pages : 37 No. of Claims : 14

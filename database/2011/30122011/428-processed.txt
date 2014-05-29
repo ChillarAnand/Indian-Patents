@@ -1,0 +1,22 @@
+Application number  =>  820/KOL/2010 A 
+
+Date of filing of application number  =>  26/07/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  VALVE OPERATING DEVICE FOR VEHICLE ENGINES 
+
+Name of applicant  =>  1)SANYANG INDUSTRY CO. LTD 
+
+Name of inventor  =>  1)CHANG, JYH-SHYANG 2)LU, CHUN JUNG 3)YU, CHIH-WEN 
+
+International Classification  =>  F01L1/00 
+
+Priority Doc No  =>  098125154 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A valve operating device for a vehicle engine includes a camshaft seat fixed in a cylinder head, a camshaft assembly arranged passing through the camshaft seat, at least one bolt passing through the cylinder head and the camshaft seat, a rocker-arm mechanism including at least one rocker arm shaft, and a cover plate. The cover plate includes a fixing section and a baffling section, wherein the fixing section touches and is secured on a top surface of the camshaft seat, and the bolt passes through the cover plate. The baffling section bends from the fixing section and extends over an edge of the front seat hole so as to restrict the axial displacement amount of the camshaft assembly. The baffling section can correspond both to the axially-baffling surface and the rotationally-baffling surface of the rocker arm shaft so as to restrict axial displacement amount and rotation amount of the rocker arm shaft. Thereby, there is no need for the camshaft seat to be drilled and tapped, laterally, for bolt fastening, so that cost can be lowered and engine minimization is enhanced. 
+

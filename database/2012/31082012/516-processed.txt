@@ -1,0 +1,22 @@
+Application number  =>  468/MUMNP/2012 A 
+
+Date of filing of application number  =>  24/02/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  RADIO BASE STATION APPARATUS, RADIO TERMINAL APPARATUS AND WIRELESS COMMUNICATION METHOD 
+
+Name of applicant  =>  1)PANASONIC CORPORATION 
+
+Name of inventor  =>  1)SEKI, YUTA 
+
+International Classification  =>  H04W 48/16 
+
+Priority Doc No  =>  2009-212261 
+
+International Application Number  =>  PCT/JP2010/005575 
+
+International Publication Number  =>  WO/2011/030561 
+
+Abstract  =>  A radio base station apparatus wherein even when a single-base-station transmission and a plural-base-station cooperative transmission are implemented at the same time, the terminal-to-base-station feedback information amount and the ICI can be reduced, thereby improving the reception characteristic of a terminal existing in the vicinity of a cell edge. A base station (100) uses a first transmission mode, in which only the base station implements a signal transmission, and a second transmission mode, in which the base station implements a cooperative signal transmission together with another radio base station apparatus, to communicate with one or more radio terminal apparatuses. A setting unit (103) sets, as a particular frequency band the reception quality of which is to be measured, one of first and second frequency bands that are parts of a band used for communications with the terminals. A deciding unit (101) decides, as the transmission mode for the terminals, one of the first and second transmissions on the basis of the reception quality of the particular frequency band. 
+

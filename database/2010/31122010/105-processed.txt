@@ -1,0 +1,22 @@
+Application number  =>  1284/CHE/2010 A 
+
+Date of filing of application number  =>  07/05/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  CURRENT CONTROL OF A WIND PARK 
+
+Name of applicant  =>  1)VESTAS WIND SYSTEMS A/S 
+
+Name of inventor  =>  1)GARCIA, JORGE MARTINEZ 
+
+International Classification  =>  H02P 9/00 
+
+Priority Doc No  =>  PA 2009 00781 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A method for controlling a current in a wind park is provided. The wind park comprises at least one wind turbine and at least one current generator. The method comprises detecting a grid irregularity, determining an optimal current to be provided at a predetermined location in the wind park during the grid irregularity and determining a corresponding current to be generated from the at least one current generator so as to provide the optimal current at the predetermined location. The corresponding current is determined based on at least an impedance value between the at least one current generator and the predetermined location. 
+

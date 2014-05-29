@@ -1,0 +1,22 @@
+Application number  =>  969/CHENP/2011 A 
+
+Date of filing of application number  =>  10/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHODS AND APPARATUSES FOR PROCESSING MEASUREMENT GAPS IN A WIRELESS COMMUNICATION SYSTEM 
+
+Name of applicant  =>  1)QUALCOMM Incorporated 
+
+Name of inventor  =>  1)MEYLAN Arnaud 2)KRISHNAMOORTHY Srividhya 3)MAHESHWARI Shailesh 4)KUMAR Vanitha A. 5)HALBHAVI Sudhir 6)NAGPAL Vikas 7)BHAWNANI Udayan 8)HOOVER Scott A. 9)HANNAGAN Steve 
+
+International Classification  =>  H04W24/10 
+
+Priority Doc No  =>  61/087,930 
+
+International Application Number  =>  PCT/US2009/053478 
+
+International Publication Number  =>   
+
+Abstract  =>  In a wireless communication system, user equipment (UE) is provided, one or more set of rules are provided for the UE to handle the processing during a measurement gap. In some aspects, the gap measurement may be ignored. In some aspects, the processing is stored and handled at a later in time and gap measurements are performed. Depending on the system, the measurements performed during the gaps may be UE implementation dependent, wherein the UE determines whether to perform the measurement for a given gap. In some instances, the UE may not perform measurements during the gap, thereby giving priority to other processing, such as RACH processing. Depending on the type of processing required (DL-SCH, UL-SCH, TTI bundling, RACH or SR), the UE may store requests and process the measurements during the gap or ignore the gap measurement as if there were no gaps. 
+

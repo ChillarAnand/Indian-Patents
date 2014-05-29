@@ -1,0 +1,43 @@
+The Patent Office Journal 30/12/2011 
+ 
+25351
+(12) PATENT APPLICATION PUBLICATION (21) Application No.4392/CHE/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :15/12/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : SYSTEM AND METHOD FOR ESTIMATING COMPATIBILITY BETWEEN ENTITIES TO 
+EXPLORE RELATIONSHIP  
+  
+(51) International classification  :G06Q 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)CHANDAHALLI SESHADRI IYENGAR NAGARAJAN
+      Address of Applicant :#422  Upstairs  4th Main  17th Cross  
+Vidyaranyapuram  Mysore Karnataka India 
+(72)Name of Inventor : 
+   1)CHANDAHALLI SESHADRI IYENGAR NAGARAJAN  
+(57) Abstract : 
+A system and method are provided to facilitate matching profiles of users. The system includes a questionnaire database  a user 
+information database and a profile matching module. The questionnaire database is configured to store questions  wherein the 
+questions are directed towards determining principles of users  which may have a bearing on workability of a relationship. The user 
+information database is configured to store a profile for each user based on answers provided by respective users to one or more 
+questions selected from the questionnaire database  and the profile matching module is configured to determine compatibility between 
+profiles of at least two users for exploring the relationship. Reference figure: FIG. 3 
+  
+No. of Pages : 16 No. of Claims : 16 

@@ -1,0 +1,22 @@
+Application number  =>  9920/CHENP/2011 A 
+
+Date of filing of application number  =>  29/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  GATHERING INFORMATION ABOUT CONNECTIONS IN A SOCIAL NETWORKING SERVICE 
+
+Name of applicant  =>  1)FACE BOOK INC. 
+
+Name of inventor  =>  1)TOM OCCHINO 2)OLUMAKINDE ADEGBOYEGA ADEAGBO 
+
+International Classification  =>  G06Q 99/00 
+
+Priority Doc No  =>  12/496,606 
+
+International Application Number  =>  PCT/US2010/038023 
+
+International Publication Number  =>   
+
+Abstract  =>  To enhance information about connections in a social networking service embodiments of the invention enable users to reference nodes while posting content to a communication channel. To identify connections within content in the social networking service users of the social networking service are provided an interface to post content items in communication channels of the social networking service. A trigger received in the interface indicates that a user wishes to identify a connection in the posted content item. Selectable links enable the user to mention another node in the social networking service when posting a content item. As users reference nodes in content items information about the connections with the referenced nodes is gathered and stored in a database that is indexable and searchable in real-time. 
+

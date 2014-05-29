@@ -1,0 +1,44 @@
+The Patent Office Journal 31/12/2010 
+ 
+5284
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3273/CHE/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :03/11/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : THE ART, MANNER AND PROCESS OF A COMBINATION DEVICE OF A SOLAR CELL WITH 
+ELECTRICAL ENERGY STORAGE CAPACITY AND METHOD FOR PRODUCTION OF THE SAME  
+  
+(51) International classification  :H01L31/00 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)AMRITA VISWAVIDYAPEETHAM 
+      Address of Applicant :ELAMAKKARA P.O. COCHIN - 682 
+041 Kerala India 
+(72)Name of Inventor : 
+   1)DR. SHANTIKUMAR V. NAIR 
+   2)K.R.V. SUBRAMANIAM 
+   3)MINI P  
+(57) Abstract : 
+A new invention is described that is capable of direct and efficient storage of solar generated energy within the solar cell itself A key 
+part of the invention is the additional of one or more additional layers to the cell such as a capacitor or super-capacitor thin film(s) 
+and/or thin film battery which is fully integrated with the solar cell. Such additional films can be integrated with any existing solar cell 
+concepts, such as a Si wafer cell, Dye Sensitized Solar Cell (DSSC), extra-thin absorber layer (ETA) cells, quantum dot (QD) cells, 
+Bulk Heterojunction (BH) cells etc. 
+  
+No. of Pages : 12 No. of Claims : 14 

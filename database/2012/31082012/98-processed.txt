@@ -1,0 +1,22 @@
+Application number  =>  2943/CHENP/2011 A 
+
+Date of filing of application number  =>  29/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  PAGING PERIODS IN A MOBILE DEVICE SYNCHRONISED WITH MULTIPLE BASE STATIONS 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)TOM CHIN 2)KUO-CHUN LEE 
+
+International Classification  =>  H04W68/00 
+
+Priority Doc No  =>  12/260,354 
+
+International Application Number  =>  PCT/US2009/061099 
+
+International Publication Number  =>  WO 2010/053676 A1 
+
+Abstract  =>  Certain embodiments of the present disclosure may allow a mobile station (MS) to monitor the paging interval of a serving base station (BS) as well as one or more neighboring BSs with sufficient signal strength or signal quality. Monitoring the paging intervals of multiple BSs may help improve paging success rate. 
+

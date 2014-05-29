@@ -1,0 +1,22 @@
+Application number  =>  1354/CHENP/2011 A 
+
+Date of filing of application number  =>  25/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  ELECTRICAL MACHINE WITH DUAL INSULATED COIL ASSEMBLY 
+
+Name of applicant  =>  1)CLEAN CURRENT POWER SYSTEMS INCORPORATED 
+
+Name of inventor  =>  1)PLATON Mihai C. 2)SIRELI Eyup Mete 
+
+International Classification  =>  H02K3/44, H02K15/04 
+
+Priority Doc No  =>  0813792.9 
+
+International Application Number  =>  PCT/CA2009/000907 
+
+International Publication Number  =>   
+
+Abstract  =>  An electrical coil assembly for use in a flooded electrical machine operating in an electrically conductive and/or chemically aggressive medium, and a method for manufacturing an electrical coil assembly, are disclosed. The electrical coil assembly incorporates an electrical cable coil winding and a magnetic core. The electrical coil winding is wound of electrical cable with dielectric insulation that is also a waterproof molecular barrier and is covered with at least one layer of waterproof adhesive material. The magnetic core is substantially surrounded with a dielectric insulation layer, which is covered with at least one layer of waterproof adhesive material. The combination of dielectric insulation and waterproof adhesive layers provide protection against the ingress of water and accordingly reduce risk of electrical fault and failure of the electrical coil assembly in submerged service. 
+

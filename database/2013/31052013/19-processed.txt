@@ -1,0 +1,22 @@
+Application number  =>  1548/MUM/2012 A 
+
+Date of filing of application number  =>  22/05/2012 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  HYDRAULIC POWER PLANT 
+
+Name of applicant  =>  1)SANDEEP MURALIDHARAN PILLAI 2)SHIVAMKUMAR SUBHASHCHANDRA PUROHIT 
+
+Name of inventor  =>  1)SANDEEP MURALIDHARAN PILLAI 2)SHIVAMKUMAR SUBHASHCHANDRA PUROHIT 
+
+International Classification  =>  F02B63/04;F03B13/22 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A system (100) for generating electricity. The system includes an electric motor (106), which is connected to a hydraulic pump (110). The hydraulic pump (110), receives oil from an oil reservoir (104), and thereupon, pressurises the oil. The pressurised oil is fed to a hydraulic cylinder (114) through pipes (108). The pressurised oil imparts liner motion to the piston of the hydraulic cylinder (114). The liner motion is converted into rotary motion by the mechanical linkages connected to the end of the piston rod. The rotary motion is fed to the electric generator (118) to generate electricity, after stepping up the rotation using a step up gearbox (116). 
+

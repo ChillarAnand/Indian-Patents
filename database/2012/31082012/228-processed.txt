@@ -1,0 +1,22 @@
+Application number  =>  3114/CHENP/2011 A 
+
+Date of filing of application number  =>  06/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHODS AND SYSTEMS FOR INTER-RAT HANDOVER IN MULTI-MODE MOBILE STATION 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)TOM CHIN 2)GUANGMING CARL SHI 3)KUO-CHUN LEE 4)SERGUEI A. GLAZKO 5)MATTHIAS BREHLER 
+
+International Classification  =>  H04W36/14, H04W88/06 
+
+Priority Doc No  =>  61/112,139 
+
+International Application Number  =>  PCT/US2009/063183 
+
+International Publication Number  =>  WO 2010/053928 A1 
+
+Abstract  =>  Methods provided may generally include sending a BS of a first RAT a request message indicating a set of MIMO resources to reallocate; during a scan duration, communicating with the BS of the first RAT using non-reallocated MIMO resources and communicating with a BS of a second RAT using reallocated MIMO resources; and during a normal duration, communicating with the BS of the first RAT using the reallocated and non-reallocated MIMO resources. Apparatus provided may generally include logic for receiving a request message indicating a set of MIMO resources of the MS to reallocate; logic for, during a scan duration, communicating with the MS in a first transmission mode assuming the use of only non-reallocated MIMO resources by the MS; and logic for, during a normal duration, communicating with the MS in a second transmission mode assuming the use of the reallocated and non-reallocated MIMO resources by the MS. 
+

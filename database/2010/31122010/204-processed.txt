@@ -1,0 +1,22 @@
+Application number  =>  4216/KOLNP/2010 A 
+
+Date of filing of application number  =>  10/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  EXTRUSION APPARATUS 
+
+Name of applicant  =>  1)WPC CORPORATION 
+
+Name of inventor  =>  1)KIKUCHI, TAKEYASU 
+
+International Classification  =>  B29C 47/12 
+
+Priority Doc No  =>  2008-137248 
+
+International Application Number  =>  PCT/JP2009/002198 
+
+International Publication Number  =>  WO 2009/144887 
+
+Abstract  =>  Provided is an apparatus which can manufacture foam-molded products having bubbles uniformly dispersed throughout the entire product. The extrusion apparatus (1) provides a molding material (25a) which is produced by heating, mixing, and melting to plasticize a raw mixture (25) including at least a foaming agent, and is comprised of an extruder (2) which extrudes the molding material (25a) from the tip of a screw (5), an extrusion die (10) which is installed on the tip of the screw (5), and a molding die (15) installed on the output port (11b) of the extrusion die (10). A breaker plate (12) is provided in the output port (11b) of the extrusion die (10) to apply a restraining force which resists the extrusion force on the molding material (25a) extruded from the tip of the screw (5) and to provide back pressure in the direction of the screw (5). A core (20) is provided in the input port (15a) of the molding die (15) to apply a restraining force to resist the extrusion force on the molding material (25a) extruded from the extrusion die (10) and provide back pressure in the direction of the extrusion die (10). 
+

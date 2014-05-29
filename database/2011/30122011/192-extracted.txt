@@ -1,0 +1,49 @@
+The Patent Office Journal 30/12/2011 
+ 
+25529
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1094/MUMNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :27/05/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : MULTIPLE-JUNCTION PHOTOELECTRIC DEVICE AND ITS PRODUCTION PROCESS  
+  
+(51) International classification  :H01L 31/0236  
+(31) Priority Document No  :08169424.2  
+(32) Priority Date  :19/11/2008 
+(33) Name of priority country  :EPO 
+(86) International Application No 
+        Filing Date 
+:PCT/EP2009/065369
+:18/11/2009 
+(87) International Publication No  :WO/2010/057907  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)UNIVERSIT‰ DE NEUCH‚TEL 
+      Address of Applicant :Fauborg du Lac 5a  CH-2000 Neuchtel  
+Switzerland.  
+(72)Name of Inventor : 
+   1)DOMINE  Didier 
+   2)CUONY  Peter 
+   3)BAILAT  Julien  
+(57) Abstract : 
+The present invention relates to a multiple-junction photoelectric device (1) comprising a substrate (2) on which a first conducting 
+layer (3) is deposited, at least two elementary photoelectric devices (4, 6) of p-i-n or p-n configuration, on which a second conducting 
+layer (7) is deposited, and at least one intermediate layer (5) provided between two adjacent elementary photoelectric devices (4, 6). 
+According to the invention the intermediate layer (5) has, on the incoming light side, a top face (10) and, on the other side, a bottom 
+face (11), said top (10) and bottom (11) faces having respectively a surface morphology comprising inclined elementary surfaces such 
+that α90bottom is smaller than α90top by at least 3°, preferably 6°, more preferably 10°, and even more preferably 15°; where α90top 
+is the angle for which 90% of the elementary surfaces of the top face (10) of the intermediate layer (5) have an inclination equal to or 
+less than this angle, and α90bottom is the angle for which 90% of the elementary surfaces of the bottom face (11) of the intermediate 
+layer (5) have an inclination equal to or less than this angle. 
+  
+ 
+No. of Pages : 21 No. of Claims : 13 

@@ -1,0 +1,22 @@
+Application number  =>  733/MUMNP/2012 A 
+
+Date of filing of application number  =>  22/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  PHASE ANGLE DRIFT METHOD FOR LOSS OF MAINS/GRID PROTECTION 
+
+Name of applicant  =>  1)ALSTOM GRID UK LIMITED 2)SCHNEIDER ELECTRIC ENERGY UK LTD 
+
+Name of inventor  =>  1)TUMILTY, RYAN M. 2)DYSKO, ADAM 3)BURT, GRAEME 
+
+International Classification  =>  H02J 3/38 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/EP2009/062666 
+
+International Publication Number  =>  WO/2011/038756 
+
+Abstract  =>  The invention concerns a phase angle drift method for loss of mains/grid protection, wherein the accumulated electrical phase angle drift derived from the difference between the current measured local frequency and the estimated frequency using historical data is compared to a angle threshold with the phase angle draft αn being such that : Formula (3), where : n : Sample index αn : Updated phase angle αn-12 : Previous phase angle Æ’nest : Estimated frequency Æ’n : Measured frequency T12samples : Time interval between algorithm executions the estimated grid frequency being calculated using the following equation in which the key parameters are the historical delay, D cycles, and the window, W cycles, over which the estimated frequency is calculated : Formula (4), where : Æ’n-D-w : Oldest frequency value Æ’n-D : Newest frequency TD : Historical time delay Tw : Estimation window wherein the addition/substration of the phase angle increase/decrease calculated for the half cycle in equation (3) is not carried out unless the frequency difference between the estimated frequency Æ’nest and the measured frequency Æ’n is greater or equal to a first determined value. 
+

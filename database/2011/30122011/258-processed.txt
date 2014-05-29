@@ -1,0 +1,22 @@
+Application number  =>  1081/CHENP/2011 A 
+
+Date of filing of application number  =>  16/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD AND APPARATUS FOR ADDRESS BOOK UPDATES 
+
+Name of applicant  =>  1)NOKIA CORPORATION 
+
+Name of inventor  =>  1)Miraj Mostafa 
+
+International Classification  =>  G06F17/30 
+
+Priority Doc No  =>  61/083,130 
+
+International Application Number  =>  PCT/IB2009/006312 
+
+International Publication Number  =>   
+
+Abstract  =>  A method comprises receiving an indication of a list of contacts in an address book to receive an automatic update; submitting a subscription request for the contacts; receiving updates for contact information for the subscribed contacts; and synchronizing the updates with the address book, wherein the synchronizing includes synchronizing only the updated contacts. Figure. 1 
+

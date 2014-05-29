@@ -1,0 +1,22 @@
+Application number  =>  4080/CHENP/2010 A 
+
+Date of filing of application number  =>  01/07/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  ELEVATOR SYSTEM WITH ELEVATOR CARS WHICH CAN MOVE VERTICALLY AND HORIZONTALLY 
+
+Name of applicant  =>  1)INVENTIO AG 
+
+Name of inventor  =>  1)GRUNDMANN, STEFFEN 
+
+International Classification  =>  B66B9/00 
+
+Priority Doc No  =>  07122912.4 
+
+International Application Number  =>  PCT/EP08/067271 
+
+International Publication Number  =>  WO 2009/074627 A1 
+
+Abstract  =>  The invention relates to a lift system having a lift car (4) which can move vertically and horizontally, wherein vertical movement takes place along a vertical track (3) having a vertical guide rail (5), and horizontal movement is carried out by utilizing a car transfer device (13). The car transfer device has a horizontal displacement unit (16) into which a vertical guide rail piece (18) can be integrated, said guide rail piece guiding the lift car (4) in the horizontal displacement unit (16). The horizontal displacement unit can be positioned in such a manner that the guide rail piece (18) forms a section of the vertical guide rail (5). The lift cabin (4) can be fixed on the guide rail piece (18) during the horizontal displacement by means of a brake device (20). 
+

@@ -1,0 +1,22 @@
+Application number  =>  4130/KOLNP/2010 A 
+
+Date of filing of application number  =>  02/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  ELECTRONIC SUBMISSION OF APPLICATION PROGRAMS FOR NETWORK-BASED 
+
+Name of applicant  =>  1)APPLE INC 
+
+Name of inventor  =>  1)FOSBACK, JASON, ROBERT 2)CORTES, RICARDO, D 3)MULLER, MAX 
+
+International Classification  =>  G06F 17/30 
+
+Priority Doc No  =>  61/050,478 
+
+International Application Number  =>  PCT/US2009/042841 
+
+International Publication Number  =>  WO 2009/137477 
+
+Abstract  =>  An improved system and method for submitting, distributing and/ or managing digital products with respect to a product distribution site are disclosed. The submission of digital products to the product distribution site is able to be performed by numerous submitters in a uniform and computer- assisted manner. The submitted digital products can then be managed in a largely automated manner and made available for online purchase and distribution at the product distribution site. Once a digital product is submitted, the user can access the status of the digital product submission to obtain information of whether the digital product has been approved or rejected. In one embodiment, the digital products are computer program products (e.g., computer software programs). 
+

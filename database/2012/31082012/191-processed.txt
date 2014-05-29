@@ -1,0 +1,22 @@
+Application number  =>  3084/CHENP/2011 A 
+
+Date of filing of application number  =>  05/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  PROCESS FOR FLUXLESS BRAZING OF ALUMINIUM AND BRAZING SHEET FOR USE THEREIN 
+
+Name of applicant  =>  1)ALERIS ALUMINUM KOBLENZ GMBH 
+
+Name of inventor  =>  1)WITTEBROOD, ADRIANUS, JACOUBUS 
+
+International Classification  =>  B23B15/01, B23K35/02, B23K35/28 
+
+Priority Doc No  =>  08168713.9 
+
+International Application Number  =>  PCT/EP09/064586 
+
+International Publication Number  =>  WO 2010/052231 A1 
+
+Abstract  =>  The invention relates to a process for controlled atmosphere brazing comprising, brazing an aluminium alloy without flux in a controlled atmosphere, while using brazing sheet comprising of an aluminium alloy core upon which on at least one side a layer of filler alloy is clad, the filler clad layer having an inner-surface and an outer- surface, the inner-surface is facing the core and the outer- surface is devoid of any further metallic based layers, and wherein the filler alloy has a composition which is Na-free, Li-free, K-free, and Ca-free, and comprising, in wt.%: Si 3% to 15%, Mg 0.05% to 0.5%, one or more elements selected from the group consisting of: (Bi 0.03% to 0.2%, Pb 0.03% to 0.2%, Sb 0.03% to 0.2%, and the sum of these elements being 0.2% or less), Fe 0 to 0.6%, Mn 0 to 1.5%, the balance aluminium and incidental impurities. 
+

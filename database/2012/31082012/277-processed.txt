@@ -1,0 +1,22 @@
+Application number  =>  3177/CHENP/2011 A 
+
+Date of filing of application number  =>  09/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  SPRAYING METHOD AND NOZZLE FOR ATOMIZATION OF A LIQUID 
+
+Name of applicant  =>  1)UREA CASALE S.A. 
+
+Name of inventor  =>  1)BEDETTI, GIANFRANCO 
+
+International Classification  =>  B05B7/04, B01J2/16 
+
+Priority Doc No  =>  08018123.3 
+
+International Application Number  =>  PCT/EP2009/061590 
+
+International Publication Number  =>  WO 2010/043450 A1 
+
+Abstract  =>  A method for atomizing a liquid (L) in a spraying nozzle (1), wherein a gaseous phase (G) and said liquid (L) are fed to a mixing chamber (30) inside said nozzle (1), obtaining an emulsion of the gas in the liquid, the emulsion being under pressure inside said chamber and formed by gas bubbles enveloped by the liquid in a film state; the speed of the gaseous phase at the inlet of the mixing chamber is around the speed of sound or greater, and the atomized liquid is obtained by an expansion of said emulsion at the outlet of said chamber. A suitable nozzle (1) is also disclosed, comprising a mixing chamber (30) and a distribution device (D) adapted to provide appropriate gas and liquid feed to form said emulsion. 
+

@@ -1,0 +1,22 @@
+Application number  =>  1042/MUMNP/2011 A 
+
+Date of filing of application number  =>  24/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  BALANCING A SIGNAL MARGIN OF A RESISTANCE BASED MEMORY CIRCUIT 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)JUNG Seong-Ook 2)KIM Jisu 3)SONG Jee-Hwan 4)KANG Seung H. 5)YOON Sei Seung 6)SANI Mehdi Hamidi 
+
+International Classification  =>  G11C 11/16,G11C 7/06 
+
+Priority Doc No  =>  12/338,297 
+
+International Application Number  =>  PCT/US2009/068799 
+
+International Publication Number  =>  WO/2010/080629 
+
+Abstract  =>  A resistance based memory circuit is disclosed. The circuit includes a first transistor load of a data cell and a bit line adapted to detect a first logic state. The bit line is coupled to the first transistor load and coupled to a data cell having a magnetic tunnel junction (MTJ) structure. The bit line is adapted to detect data having a logic one value when the bit line has a first voltage value, and to detect data having a logic zero value when the bit line has a second voltage value. The circuit further includes a second transistor load of a reference cell. The second transistor load is coupled to the first transistor load, and the second transistor load has an associated reference voltage value. A characteristic of the first transistor load, such as transistor width, is adjustable to modify the first voltage value and the second voltage value without substantially changing the reference voltage value. 
+

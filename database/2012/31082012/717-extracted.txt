@@ -1,0 +1,46 @@
+ 
+The Patent Office Journal 31/08/2012 
+13776
+(12) PATENT APPLICATION PUBLICATION (21) Application No.851/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :04/04/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : SUBSTITUTED N-PHENYL-1-(4-PYRIDINYL)-1H--PYRAZOL-3-AMINES  
+  
+(51) International classification  :C07D 401/04  
+(31) Priority Document No  :09170525.1  
+(32) Priority Date  :17/09/2009 
+(33) Name of priority country  :EUROPEAN UNION 
+(86) International Application No 
+        Filing Date 
+:PCT/EP2010/063609
+:16/09/2010 
+(87) International Publication No  :WO/2011/033018  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)JANSSEN PHARMACEUTICA NV 
+      Address of Applicant :TURNHOUTSEWEG 30, 2340 
+BEERSE, BELGIUM. 
+(72)Name of Inventor : 
+   1)MACDONALD, GREGOR, JAMES 
+   2)THURING, JOHANNES, WILHELMUS, JOHN, F. 
+   3)VAN DEN KEYBUS, FRANS, ALFONS, MARIA 
+   4)VAN ROOSBROECK, YVES, EMIEL, MARIA  
+(57) Abstract : 
+The present invention relates to N-phenyl-1-(4-pyridinyl)-1H-pyrazol-3-amine derivatives and pharmaceutically acceptable salts 
+thereof, processes for preparing them, pharmaceutical compositions containing them and their use in therapy, according to formula (I): 
+wherein R1, R2, R3, R4, R5, R6 have the meaning defined in the claims. The invention particularly relates to positive allosteric 
+modulators of nicotinic acetylcholine receptors, such positive allosteric modulator having the capability to increase the efficacy of 
+nicotinic receptor agonists. 
+  
+  
+No. of Pages : 75 No. of Claims : 12 

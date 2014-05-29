@@ -1,0 +1,22 @@
+Application number  =>  5335/DELNP/2011 A 
+
+Date of filing of application number  =>  11/07/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  SYSTEMS AND METHODS FOR CHARACTERISTIC PARAMETER ESTIMATION OF GASTRIC IMPEDANCE SPECTRA IN HUMANS 
+
+Name of applicant  =>  1)CRITICAL PERFUSION, INC. 
+
+Name of inventor  =>  1)BELTRAN, NOHRA, E. 2)DE FOLTER, JOZEFUS, J.M. 3)GOODINEZ, MARIA, M. 4)SACHRISTAN, EMILIO 
+
+International Classification  =>  A61B 5/053 
+
+Priority Doc No  =>  61/160,409 
+
+International Application Number  =>  PCT/US2010/027362 
+
+International Publication Number  =>  WO 2010/107715 
+
+Abstract  =>  Impedance spectroscopy has been proposed as a method of monitoring mucosal injury due to hypoperfusion and ischemia in the critically ill. The invention includes an algorithm developed to calculate the characteristic electrical values that best describe human gastric impedance measurements and simplify the information obtained with this method. A database of gastric spectra was obtained from healthy volunteers, cardiovascular surgery and critically ill patients. The gastric spectrum forms two semi circles in the complex domain, divided into low frequency (F < 10 kHz) and high frequency (F > 10 kHz). A fitting algorithm was developed based on the Cole model, and central characteristic parameters were calculated. The parameters were validated using the normalized mean squared error and 0.7 % of the spectra were discarded. From the experimental data obtained in humans, the greatest changes observed as the gastric mucosa becomes ischemic occur at low frequencies, which are specific and sensitive to tissue damage, and vary with the degree of hypoperfusion. 
+

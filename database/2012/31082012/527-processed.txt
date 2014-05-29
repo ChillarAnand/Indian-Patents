@@ -1,0 +1,22 @@
+Application number  =>  473/MUMNP/2012 A 
+
+Date of filing of application number  =>  24/02/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  MODIFICATION OF RECOMBINANT ADENOVIRUS WITH IMMUNOGENIC PLASMODIUM CIRCUMSPOROZOITE PROTEIN EPITOPES 
+
+Name of applicant  =>  1)THE ROCKEFELLER UNIVERSITY 
+
+Name of inventor  =>  1)SHIRATSUCHI, TAKAYUKI 2)TSUJI, MORIYA 
+
+International Classification  =>  A61K 39/015 
+
+Priority Doc No  =>  PCT/US2009/054212 
+
+International Application Number  =>  PCT/US2010/045952 
+
+International Publication Number  =>  WO/2011/022522 
+
+Abstract  =>  The present disclosure relates to adenovirus protein modifications to augment immune response to a transgene of a recombinant adenovirus and to circumvent pre-existing anti-adenovirus immunity. Some embodiments are directed to a recombinant adenovirus derived from a recombinant adenovirus plasmid vector, wherein the recombinant adenovirus plasmid vector comprises a nucleotide sequence encoding a Plasmodium circumsporozoite protein, or antigenic portion thereof, operably linked to a heterologous promoter and a modified capsid or core protein, wherein an immunogenic epitope of Plasmodium circumsporozoite is inserted into or replaces at least part of a capsid or core protein. Other embodiments are directed to a pharmaceutical composition or a malaria vaccine composition comprising a recombinant adenovirus according to the above embodiments. Further embodiments include a method of treating, preventing, or diagnosing malaria, comprising administering a therapeutic amount of the pharmaceutical composition or malaria vaccine composition in accordance with the above embodiment. 
+

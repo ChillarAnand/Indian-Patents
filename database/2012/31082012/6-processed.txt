@@ -1,0 +1,22 @@
+Application number  =>  1459/CHE/2009 A 
+
+Date of filing of application number  =>  22/06/2009 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD AND SYSTEM TO GENERATE SECURITY THREAT REPORT IN A PLANT 
+
+Name of applicant  =>  1)Yokogawa Electric Corporation 
+
+Name of inventor  =>  1)JOTHI BASKARAN KALIAMOORTHY 
+
+International Classification  =>  H04L 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The present disclosure provides for a method and a system to generate security threat report in the area of Industrial Automation. This includes configuring a scheduler 107 for selected or all Human Interface Stations 102 in a plant data network. Further, the security threat data is collected from the Human Interface Station(s) 102 of the network based on predetermined constrains assigned by the scheduler 107. Once the data is collected, it is stored into a storage unit 106 to obtain key performance index (KPI) by performing index calculation on the stored data. These KPIs are later used to generate security threat reports. 
+

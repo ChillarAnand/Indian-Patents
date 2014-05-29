@@ -1,0 +1,45 @@
+The Patent Office Journal 31/12/2010 
+ 
+5391
+(12) PATENT APPLICATION PUBLICATION (21) Application No.4102/CHENP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :02/07/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : METHOD FOR KEEPING THE ROUTING TABLES OF AN UNSTABLE DISSEMINATION 
+NETWORK UP TO DATE  
+  
+(51) International classification  :H04L12/56  
+(31) Priority Document No  :0708454  
+(32) Priority Date  :05/12/2007 
+(33) Name of priority country  :France 
+(86) International Application No 
+        Filing Date 
+:PCT/EP08/066689
+:03/12/2008 
+(87) International Publication No  :WO 2009/071571 A1  
+(61) Patent of Addition to Application Number 
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)THALES 
+      Address of Applicant :45, RUE DE VILLIERS,F-92200 
+NEUILLY-SUR-SEINE. France 
+(72)Name of Inventor : 
+   1)DOMINIQUE GEORGEL 
+   2)LAURENT IOZELLI  
+(57) Abstract : 
+The present invention relates to a method for keeping the routing tables of the nodes of an unstable dissemination network up to date, 
+said nodes joining or leaving said network unpredictably. A node periodically sends a synchronization message to all other remote 
+nodes, the period for sending a synchronization message to all other remote nodes increasing when the network is tending to stabilize, 
+the remote nodes all being synchronized and the local routing table not evolving. A node exceptionally sends a synchronization 
+message to another remote node particularly when said other node is desynchronized. Application: extended heterogeneous networks. 
+Figure 1 
+  
+  
+No. of Pages : 29 No. of Claims : 16 

@@ -1,0 +1,43 @@
+The Patent Office Journal 31/05/2013 12064
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9748/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :23/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : METHODS OF TRANSMITTING A SIGNAL IN A TIME DIVISION DUPLEXING MIMO
+SYSTEM AND ASSOCIATED APPARATUSES
+(51) International classification :H04B7/04
+(31) Priority Document No :NA
+(32) Priority Date :NA
+(33) Name of priority country :NA
+(86) International Application No
+Filing Date
+:PCT/CN2009/072406
+:23/06/2010
+(87) International Publication No :WO 2010/148554 A1
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)ALCATEL LUCENT
+Address of Applicant :3, AVENUE OCTAVE GREARD, F-
+75007 PARIS France
+(72)Name of Inventor :
+1)LUO, QINGLIN
+2)SHI, JING
+(57) Abstract :
+The present invention relates to methods of transmitting a signal in a time division duplexing MIMO system and associated
+apparatuses. According to a first aspect of the present invention, there is provided a method of transmitting a signal in an eNodeB
+of a time division duplexing multiple input multiple output system. The method includes: A. receiving a signal from a user
+equipment in a space division multiplexing group and estimating uplink channel characteristics according to the received signal;
+B. determining reciprocity calibration information between the uplink channel characteristics and downlink channel
+characteristics; C. determining a downlink precoding matrix using zero forcing according to the uplink channel characteristics and
+the calibration information and transmitting a downlink signal to the user equipment in the space division multiplexing group
+according to the determined downlink precoding matrix. And the step B further comprises receiving information associated with a
+downlink vector channel matrix fed back from the user equipment in the space division multiplexing group and selectively
+updating the calibration information according to the information associated with the downlink vector channel matrix.
+No. of Pages : 28 No. of Claims : 14

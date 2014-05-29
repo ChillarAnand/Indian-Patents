@@ -1,0 +1,22 @@
+Application number  =>  IN/PCT/2002/00204/DEL A 
+
+Date of filing of application number  =>  19/02/2002 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  ANTI-αv3 RECOMBINANT HUMAN ANTIBODIES, NUCLEIC ACIDS ENCODING THE SAME AND METHODS OF USE 
+
+Name of applicant  =>  1)APPLIED MOLECULAR EVOLUTION 
+
+Name of inventor  =>  1)HUSE, WILLIAM, D 2)WU, HERREN 
+
+International Classification  =>  C07K 16/28 
+
+Priority Doc No  =>  09/339,922 
+
+International Application Number  =>  PCT/US2000/17454 
+
+International Publication Number  =>  WO 2000/78815 
+
+Abstract  =>  The invention provides enhanced LM609 grafted antibodies exhibiting selective binding affinity to Alpha,3, or to a functional fragment thereof. The invention also provides nucleic acid molecules encoding the enhanced LM609 grafted antibodies. Additionally provided are methods of inhibiting a function of Alpha,3, by contactingalpha,3, with an enhanced LM609 grafted antibody. 
+

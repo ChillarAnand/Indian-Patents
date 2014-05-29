@@ -1,0 +1,22 @@
+Application number  =>  2977/CHENP/2011 A 
+
+Date of filing of application number  =>  02/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  HEPATITIS C ANTIBODIES AND USES THEREOF 
+
+Name of applicant  =>  1)THE BOARD OF TRUSTEES OF THE LELAND STANFORD JUNIOR UNIVERSITY 
+
+Name of inventor  =>  1)FOUNG, STEVEN 2)KECK, ZHEN-YONG 
+
+International Classification  =>  C07K16/10, A61K39/395 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/US2008/078884 
+
+International Publication Number  =>  WO 2010/039154 A1 
+
+Abstract  =>  The present invention provides identification and characterization of conformational epitopes of the envelope protein E2 of the Hepatitis C virus (HCV). The present invention provides a panel of human monoclonal antibodies that recognize conformational epitopes of E2. The antibodies are derived from patients infected with HCV. The present invention provides methods for utilizing HCV antibodies as therapeutic, diagnostic, and/or prophylactic agents. The present invention provides mimotopes with conformational epitopes intact and methods of using mimotopes. The present invention provides methods of stratifying patients based on their response to HCV. The present invention provides pharmaceutical compositions for prevention and treatment of HCV comprising one or more HCV antibodies. 
+

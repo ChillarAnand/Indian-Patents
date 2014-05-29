@@ -1,0 +1,22 @@
+Application number  =>  3022/CHENP/2011 A 
+
+Date of filing of application number  =>  03/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  MOTION AND ORIENTATION SIMULATOR 
+
+Name of applicant  =>  1)AMST-SYSTEMTECHNIK GMBH 
+
+Name of inventor  =>  1)MAYRHOFER, MICHAEL 
+
+International Classification  =>  G09B9/12, G09B 902 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/EP09/007174 
+
+International Publication Number  =>  WO 2010/040505 A1 
+
+Abstract  =>  The invention relates to a motion and orientation simulator with a cardanic suspension (4) for a cabin (5) that is carried by a heave carriage (3) that can be moved in a straight line in a carriage cage (2), characterized in that the carriage cage (2) is rotatable and that a cable drive is provided for the straight-line movement of the carriage (3) in the carriage cage (2). 
+

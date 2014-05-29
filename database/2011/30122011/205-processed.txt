@@ -1,0 +1,22 @@
+Application number  =>  1128/MUMNP/2011 A 
+
+Date of filing of application number  =>  02/06/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  ORIENTATION FILM, LIQUID CRYSTAL DISPLAY HAVING ORIENTATION FILM, AND METHOD FOR FORMING ORIENTATION FILM 
+
+Name of applicant  =>  1)SHARP KABUSHIKI KAISHA 
+
+Name of inventor  =>  1)Masanobu MIZUSAKI 2)NAKANISHI Yohei 
+
+International Classification  =>  G02F 1/1337 
+
+Priority Doc No  =>  2008-303231 
+
+International Application Number  =>  PCT/JP2009/002962 
+
+International Publication Number  =>  WO/2010/061491 
+
+Abstract  =>  An alignment film (100) according to the present invention includes: a first alignment layer (102) containing a first polyimide (p1); and a second alignment layer (104) containing a polymerization product (po) resulting from polymerization of a polyfunctional monomer and a second polyimide (p2). The polyfunctional monomer is represented by general formula (1) P1-A1-(Z1-A2)n-P2 (in general formula (1), P1 and P2 each independently of the other are an acrylate, methacrylate, acrylamide, methacrylamide, vinyl, vinyloxy, or epoxy group; A1 and A2 each independently of the other represent a 1,4-phenylene, 1,4-cyclohexane, 2,5-thiophene, or naphthalene-2,6-diyl group; Z1 is a -COO- group, a -OCO- group, a -O- group, a -CONH- group or a single bond, where n is 0, 1, or 2). 
+

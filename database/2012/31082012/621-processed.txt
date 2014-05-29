@@ -1,0 +1,22 @@
+Application number  =>  637/MUMNP/2012 A 
+
+Date of filing of application number  =>  14/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  A PROCESS FOR THE SYNTHESIS OF NARATRIPTAN 
+
+Name of applicant  =>  1)CIPLA LIMITED 
+
+Name of inventor  =>  1)RAO DHARMARAJ RAMACHANDRA 2)KANKAN RAJENDRA NARAYANREO 3)CHIKHALIKAR SANDIP VASANT 4)GHAGARE MARUTI 
+
+International Classification  =>  C07D 401/04 
+
+Priority Doc No  =>  1931/MUM/2009 
+
+International Application Number  =>  PCT/GB2010/001562 
+
+International Publication Number  =>  WO/2011/021000 
+
+Abstract  =>  The present invention relates to a process for preparing naratriptan or a salt thereof, the process comprising: (a) reacting a compound of formula (3) with a compound of the formula HCCR wherein Z is a protecting group, Y is a leaving group and R is a trialkyl silyl group, a trialkylstannyl group or a zinc (II) halide, to obtain the compound of formula (4); (b) converting the compound of formula (4) to a compound of formula (5) wherein Z is hydrogen or a benzyl group; (c) converting the compound of formula (5) to naratriptan; and (d) optionally converting naratriptan to a salt thereof. The present invention also provides novel compounds (3) and (4) and processes for their preparation. 
+

@@ -1,0 +1,22 @@
+Application number  =>  936/MUMNP/2012 A 
+
+Date of filing of application number  =>  16/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  A NON-MOVING PART OR STATIC ELECTRIC GENERATOR 
+
+Name of applicant  =>  1)JASBIR SINGH 
+
+Name of inventor  =>  1)JASBIR SINGH 
+
+International Classification  =>  H02K 53/00 
+
+Priority Doc No  =>  2009904423 
+
+International Application Number  =>  PCT/AU2010/000031 
+
+International Publication Number  =>  WO/2011/029123 
+
+Abstract  =>  A static or non-moving part electric power generator achieved by a changing (fluctuating) magnetic field (flux) by passing a pulsating direct current (DC) through a coil of wire wound on either a magnet or any material capable of producing a magnetic field, which in turn induces an alternating current (AC) in an adjacent secondary coil winding, and wherein a portion of the AC produced is used in recharging a DC source. 
+

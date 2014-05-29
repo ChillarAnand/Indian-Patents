@@ -1,0 +1,22 @@
+Application number  =>  3119/CHENP/2011 A 
+
+Date of filing of application number  =>  06/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  CONTROL OF CELLS, MODULES AND A PACK COMPRISED OF HYBRIDIZED ELECTROCHEMISTRIES 
+
+Name of applicant  =>  1)SAKTI3, INC. 
+
+Name of inventor  =>  1)CHIA WEI WANG 2)ANN MARIE SASTRY 3)FABIO ALBANO 
+
+International Classification  =>  B60K6/20 
+
+Priority Doc No  =>  61/112,716 
+
+International Application Number  =>  PCT/US2009/063575 
+
+International Publication Number  =>  WO 2010/054213 A1 
+
+Abstract  =>  A power management apparatus for a hybridized energy device includes a hybridized energy device including a plurality of units. The units include electrical energy storage and/or gathering cells, in series or in parallel to form a module. A plurality of the modules in series or in parallel form a pack. The power management apparatus also includes a central management apparatus (CMA) interconnecting a plurality of module management apparatus (MMAs) by means of either wired or wireless connections and a plurality of MMAs. Each - MMA interconnects with a plurality of unit management apparatuses by means of either wireless or wired communication circuits. The power management apparatus further includes a plurality of units management apparatuses (UMAs), each wired, connected with, or deposited on a unit. Furthermore, the power management apparatus includes a rechargeable battery power source for a CMA, a plurality of MMAs, and a plurality of UMAs. 
+

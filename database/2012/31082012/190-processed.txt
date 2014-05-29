@@ -1,0 +1,22 @@
+Application number  =>  3083/CHENP/2011 A 
+
+Date of filing of application number  =>  05/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  OXAZOLIDINYL ANTIBIOTICS 
+
+Name of applicant  =>  1)ACTELION PHARMACEUTICALS LTD. 
+
+Name of inventor  =>  1)HUBSCHWERLEN, CHRISTIAN 2)RUEEDI, GEORG 3)SURIVET, JEAN-PHILIPPE 4)ZUMBRUNN ACKLIN, CORNELIA 
+
+International Classification  =>  C07D413/14, A61K31/4709, A61K31/498 
+
+Priority Doc No  =>  PCT/IB2008/054175 
+
+International Application Number  =>  PCT/IB2009/054433 
+
+International Publication Number  =>  WO 2010/041218 A3 
+
+Abstract  =>  The invention relates to antibacterial compounds of formula I wherein R1 is alkoxy or halogen; U and V each independently are CH or N; is a bond or is absent; W is CH or N or, when is absent, W is CH2 or NH, with the proviso that U, V and W are not all N; A is a bond or CH2; R2 is H or, provided A is CH2, may also be OH; m and n each independently are 0 or 1; D is CH2 or a bond; G represents a phenyl group substituted once or twice in the meta and/or para position(s) by substituents selected from alkyl, (C1- C3)alkoxy and halogen, or G is a group G1 or G2 wherein Z1, Z2 and Z3 may each represent CH or N; X is N or CH and Q is O or S; it being understood that if m and n each are 0, then A is CH2; and salts of such compounds. 
+

@@ -1,0 +1,45 @@
+The Patent Office Journal 30/12/2011 
+ 
+25465
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1015/MUMNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :19/05/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : APPARATUS AND METHODS FOR ADAPTIVE THREAD SCHEDULING ON ASYMMETRIC 
+MULTIPROCESSOR  
+  
+(51) International classification  :G06F 1/32,G06F 9/50  
+(31) Priority Document No  :12/333,063  
+(32) Priority Date  :11/12/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/067654
+:11/12/2009 
+(87) International Publication No  :WO/2010/068855  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)QUALCOMM INCORPORATED 
+      Address of Applicant :Attn: International IP Administration  
+5775 Morehouse Drive  San Diego  California 92121-1714  
+United States of America  
+(72)Name of Inventor : 
+   1)MORROW  Michael  William 
+   2)GARG  Manish  
+(57) Abstract : 
+Techniques for adaptive thread scheduling on a plurality of cores for reducing system energy are described. In one embodiment, a 
+thread scheduler receives leakage current information associated with the plurality of cores. The leakage current information is 
+employed to schedule a thread on one of the plurality of cores to reduce system energy usage. On chip calibration of the sensors is also 
+described. 
+  
+ 
+No. of Pages : 39 No. of Claims : 20 

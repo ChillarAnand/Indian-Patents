@@ -1,0 +1,48 @@
+The Patent Office Journal 31/12/2010 
+ 
+5429
+(12) PATENT APPLICATION PUBLICATION (21) Application No.4151/KOLNP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :03/11/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : METHOD FOR INTRODUCTION OF GENE INTO YEAST CELL, AND VECTOR FOR THE 
+METHOD  
+  
+(51) International classification  :C12N 15/09,C12N 1/19  
+(31) Priority Document No  :2008-126720  
+(32) Priority Date  :14/05/2008 
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date 
+:PCT/JP2009/058765
+:11/05/2009 
+(87) International Publication No  :WO 2009/139349  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)BIO-ENERGY CORPORATION 
+      Address of Applicant :9-7, MINAMINANAMATSUCHO 2-
+CHOME, AMAGASAKI-SHI, HYOGO 660-0053 JAPAN. 
+   2)KANSAI CHEMICAL ENGINEERING CO., LTD. 
+(72)Name of Inventor : 
+   1)NODA, HIDEO 
+   2)KANEKO, SHOHEI 
+   3)KONDO, AKIHIKO  
+(57) Abstract : 
+Disclosed is a method for introducing a foreign gene into a yeast cell having no auxotrophic marker. Specifically disclosed is a method 
+for imparting a target auxotrophy to a yeast cell and introducing a gene to be expressed into the yeast cell. The method comprises the 
+step of transforming a yeast cell with an expression cassette for a gene to be expressed, a cassette for a yeast selection marker and a 
+fragment containing two homologously recombined fragments which are homologous to regions located on both sides of a target 
+auxotrophy-controlling gene in a predetermined array. According to the method, a target auxotrophy-controlling gene can be deleted 
+from a yeast cell, a gene to be expressed can be introduced into the yeast cell, and a yeast selection marker can be removed from the 
+tansformed yeast cell.  
+  
+No. of Pages : 61 No. of Claims : 11 

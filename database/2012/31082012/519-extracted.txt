@@ -1,0 +1,46 @@
+ 
+The Patent Office Journal 31/08/2012 
+13578
+(12) PATENT APPLICATION PUBLICATION (21) Application No.451/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :22/02/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : BIO-FUEL CELL SYSTEM  
+  
+(51) International classification  :H01M 8/16  
+(31) Priority Document No  :12/461,340  
+(32) Priority Date  :07/08/2009 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/CA2010/001210 
+:09/08/2010 
+(87) International Publication No  :WO/2011/014953  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)THE UNIVERSITY OF WESTERN ONTARIO 
+      Address of Applicant :1151 RICHMOND STREET NORTH, 
+STEVENSON-LAWSON BUILDING, ROOM 319, LONDON, 
+ONTARIO N6A 5B8, CANADA. 
+(72)Name of Inventor : 
+   1)KARAMANEV, DIMITRE GUEORGUIEV 
+   2)PUPKEVICH, VICTOR R. 
+   3)HOJJATI, HOSSEIN  
+(57) Abstract : 
+The present invention discloses a new type of bio-fuel cell, based on the microbial regeneration of the oxidant, ferric ions. The bio-
+fuel cell is based on the cathodic reduction of ferric to ferrous ions, coupled with the microbial regeneration of ferric ions by the 
+oxidation of ferrous ions, at a pH less than about 1.2, with fuel (such as hydrogen) oxidation on the anode electrode. The microbial 
+regeneration of ferric ions is achieved by microorganisms such as Leptospirillum ferriphilum. Electrical generation is coupled with the 
+consumption of carbon dioxide from atmosphere and its transformation into microbial cells, which can be used as a single-cell protein.
+  
+  
+No. of Pages : 38 No. of Claims : 36 

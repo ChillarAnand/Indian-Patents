@@ -1,0 +1,22 @@
+Application number  =>  4094/CHENP/2010 A 
+
+Date of filing of application number  =>  01/07/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  ARCHITECTURE FOR ONLINE COMMUNAL AND CONNECTED EXPERIENCES 
+
+Name of applicant  =>  1)MICROSOFT CORPORATION 
+
+Name of inventor  =>  1)LIM, TIAN 2)LANGAN, THOMAS A 3)HINGNE, VIPUL 
+
+International Classification  =>  G06F15/16 
+
+Priority Doc No  =>  12/013,324 
+
+International Application Number  =>  PCT/US2008/086385 
+
+International Publication Number  =>  WO 2009/088637 A3 
+
+Abstract  =>  Various aspects are disclosed herein for an architecture for online communal and connected experiences. This architecture can be embodied in an application running a host computing device, where the application provides functionalities such as finding modules on local devices or hosted on online services, launching such modules, switching between a plurality of such concurrently running modules, and providing many-to-many text, voice, and video functionality. This application can also interface with managed runtime code on the host computing device, thereby providing inputting, outputting, and network communication means among a plurality of computing devices having different platforms. 
+

@@ -1,0 +1,44 @@
+The Patent Office Journal 31/12/2010 
+ 
+5297
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1309/DEL/2009 A 
+(19) INDIA  
+(22) Date of filing of Application :25/06/2009 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : Continous Liquid Level Detector  
+  
+(51) International classification  :G01M 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)Saurabh Nagar 
+      Address of Applicant :Saurabh Nagar c/o Sri Sant Ram Nagar 
+83 Durgapuri Lucknow-226004 Uttar Pradesh India 
+   2)Saurabh Nagar 
+(72)Name of Inventor : 
+   1)Saurabh Nagar  
+(57) Abstract : 
+This device or arrangement help in continous estimation or measurement of a liquid (generally water) in a container (eg. Overhead or 
+underground tank). This is important especially in situation where the container is not transparent or is not easily accessible (eg. 
+overhead tanks). This is achieved by measuring the potential difference (voltage) across the resistor in the circuit which changes with 
+the height of the liquid column in the container. This device is relevant because most of the commonly available devices only indicate 
+a few discrete levels in a container not giving the complete information about the liquid level. Using the proposed device will solve 
+this problem. 
+  
+  
+No. of Pages : 5 No. of Claims : 2 

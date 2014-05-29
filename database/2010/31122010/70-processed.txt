@@ -1,0 +1,22 @@
+Application number  =>  1488/MUM/2009 A 
+
+Date of filing of application number  =>  23/06/2009 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  WARRANTY MANAGEMENT SYSTEM 
+
+Name of applicant  =>  1)TATA CONSULTANCY SERVICES LIMITED 
+
+Name of inventor  =>  1)RIDHI SARDA 
+
+International Classification  =>  G06Q40/00 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A maturity framework based warranty management system adapted to provide warranty solutions in terms of claim settlement solutions and further adapted to provide feedback solutions in relation to assessing the current state of at least one unit of an organization, said system comprising: claim settlement means adapted to provide claim settlement solutions in respect of received claims for a product outputted from an organization having at least one unit and to provide feedback to each of said units of said organization; - integrating means adapted to integrate said claim settlement means with each of said units of the organization; - identifying means adapted to identify current state, selected from pre-defined states, of each of said unit of said organization based on feedback from said claim settlement solutions; - automating means adapted to automate said claim settlement means and said units of said organization based on said identified current state; - analyzing means adapted to analyze claim settlement solutions for optimizing claim settlement means and further adapted to analyze each of said units of said organization to improve operational efficiency of each of said units of said organization by providing an analysis report for each of said identified unit; and - error reduction means adapted to reduce errors by providing , solutions in accordance with pre-defined rules for each of said analysed unit of said organization and to increase transparency across each of said units of said organization. 
+

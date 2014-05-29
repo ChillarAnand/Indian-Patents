@@ -1,0 +1,51 @@
+ 
+The Patent Office Journal 31/08/2012 
+13840
+(12) PATENT APPLICATION PUBLICATION (21) Application No.998/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :20/04/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : HEAT EXCHANGER FOR GENERATING STEAM FOR SOLAR POWER PLANTS  
+  
+(51) International classification  :F22B 29/06  
+(31) Priority Document No  :09014365.2  
+(32) Priority Date  :17/11/2009 
+(33) Name of priority country  :EUROPEAN UNION 
+(86) International Application No 
+        Filing Date 
+:PCT/EP2010/006512
+:25/10/2010 
+(87) International Publication No  :WO/2011/060870  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)BALCKE-DURR GMBH 
+      Address of Applicant :ERNST-DIETRICH-PLATZ 2 40882 
+RATINGEN, GERMANY.  
+(72)Name of Inventor : 
+   1)MR. BAND, DIRK 
+   2)MR. HEGNER, WOLFGANG 
+   3)MR. STAHLHUT, JORG 
+   4)MR. TREGUBOW, VITALI  
+(57) Abstract : 
+The invention relates to a heat exchanger for generating steam for solar power plants, comprising: an outer casing with an inlet and an 
+outlet port for a heat-emitting medium; an inlet and an outlet collector for a heat-absorbing medium, preferably water, said inlet and 
+outlet collectors lying substantially within the outer casing; and a tube bundle within the outer casing with a number of tube layers 
+comprising continuous tubes, which are designed such that the heat-emitting medium can flow entirely around same and which are 
+designed as flow paths for the heat-absorbing medium from the inlet collector to the outlet collector. The tube bundle is designed in a 
+meandering manner, wherein the heat exchanger for generating steam is designed according to the forced-flow principle so that the 
+heat-absorbing medium, which is fed into the inlet collector, is successively pre-heated, evaporated, and superheated in the course of 
+the flow paths so that a superheated steam exits the outlet collector. The energy required for the pre-heating, evaporation, and 
+superheating is essentially provided entirely by the heat transfer from the heat-emitting medium to the heat-absorbing medium within 
+the heat exchanger. 
+  
+  
+No. of Pages : 24 No. of Claims : 12 

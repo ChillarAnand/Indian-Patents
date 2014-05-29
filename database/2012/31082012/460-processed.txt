@@ -1,0 +1,22 @@
+Application number  =>  1072/MUMNP/2012 A 
+
+Date of filing of application number  =>  27/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  GEAR MACHINING MACHINE 
+
+Name of applicant  =>  1)MITSUBISHI HEAVY INDUSTRIES, LTD. 
+
+Name of inventor  =>  1)AKAMA, SATORU 2)ODAN, SEISAKU 
+
+International Classification  =>  B23F 1/00,B23Q 1/48 
+
+Priority Doc No  =>  2009-276208 
+
+International Application Number  =>  PCT/JP2010/057060 
+
+International Publication Number  =>  WO/2011/067949 
+
+Abstract  =>  Provided is a gear machining machine which has a cutter head with improved rigidity, and contributes to improving machining accuracy and making quality uniform when either an external gear or an internal gear has been machined. For this purpose, the gear machining machine is equipped with a movement base (12) that is movably supported and rotatably supports a rotation table (13) on which an external gear (W1) or an internal gear (W2) is mounted; a bridge section (14c) of a gate-shaped column (14) provided at a location above the movement base (12); a saddle (15) which is supported by the bridge section (14c) in a vertically movable manner; and a cutter head (16) which is provided on the front surface of the saddle (15), and the lower end of which rotatably supports a tool (T). A protrusion (16a) which projects forward is provided on the front surface of the cutter head (16). The tool (T) is disposed in such way that the front thereof protrudes further forward of an end surface (16b) which is the most forward projecting portion of the protrusion (16a). 
+

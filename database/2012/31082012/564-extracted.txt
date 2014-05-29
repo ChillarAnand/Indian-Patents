@@ -1,0 +1,47 @@
+ 
+The Patent Office Journal 31/08/2012 
+13623
+(12) PATENT APPLICATION PUBLICATION (21) Application No.537/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :05/03/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : THIN FILM DEPOSITION APPARATUS AND METHOD FOR THE SAME  
+  
+(51) International classification  :C23C 16/513  
+(31) Priority Document No  :2003514  
+(32) Priority Date  :18/09/2009 
+(33) Name of priority country  :Netherlands 
+(86) International Application No 
+        Filing Date 
+:PCT/NL2010/050604
+:17/09/2010 
+(87) International Publication No  :WO/2011/034429  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)OTB SOLAR B.V. 
+      Address of Applicant :LUCHTHAVENWEG 10 5657 EB 
+EINDHOVEN THE NETHERLANDS. 
+(72)Name of Inventor : 
+   1)VAN GERWEN, BJORN 
+   2)BOSCH, ROLAND CORNELIS MARIA 
+   3)DINGS, FRANCISCUS CORNELIUS  
+(57) Abstract : 
+Method for depositing a thin film comprising: - providing an expanding thermal plasma plume (116), including at least one chemical 
+component to be deposited; - designating a first (130a) and a second (130c) deposition zone within the plasma plume, such that the 
+first and second deposition zones have a mutually different relative content of the chemical component; - providing a substrate (120), 
+and transporting said substrate through the plasma plume along a substrate transport path (126) having a substrate transport path 
+direction (T); and - providing a mask (128) that is at least partly disposed in the plasma plume and that shields a portion of the 
+substrate transport path from being deposited on, wherein said shielded portion of the substrate transport path extends in the direction 
+of the substrate transport path and bridges at least the first deposition zone, while it starts or terminates in the second deposition zone. 
+  
+  
+No. of Pages : 30 No. of Claims : 14 

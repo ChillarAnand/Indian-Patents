@@ -1,0 +1,22 @@
+Application number  =>  5352/DELNP/2011 A 
+
+Date of filing of application number  =>  12/07/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  FREEZE-DRYER AND METHOD OF CONTROLLING THE SAME 
+
+Name of applicant  =>  1)PRAXAIR TECHNOLOGY, INC. 
+
+Name of inventor  =>  1)BRYCE RAMPERSAD 2)ROBERT REX SEVER 3)BALAZS HUNEK 4)THEODORE HALL GASTEYER, III 
+
+International Classification  =>  f26b9/00;F26B 5/06 
+
+Priority Doc No  =>  12/414,760 
+
+International Application Number  =>  PCT/US2010/025135 
+
+International Publication Number  =>  WO 2010/117508 
+
+Abstract  =>  A freeze-dryer and method of controlling the same is provided. The disclosed freeze-dryer includes a chamber adapted to hold material or product to be freeze-dried; one or more depressurization orifices; a gas pressurization circuit having a source of gas to pressurize the chamber to a prescribed pressure; a depressurization circuit coupled to the chamber via the one or more orifices and having a depressurizing control valve; and a control unit adapted to pressurize the chamber with the source of gas and actuate the depressurizing control valve to depressurize the chamber upon command. The ratio of total depressurization orifice area to the chamber volume is preferably between about 6xl0-2 and about 4xl0-4m2/m3. 
+

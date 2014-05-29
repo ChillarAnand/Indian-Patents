@@ -1,0 +1,22 @@
+Application number  =>  529/MUM/2011 A 
+
+Date of filing of application number  =>  25/02/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  A HYDRAULIC JACK SYSTEM FOR PROVIDING VARIABLE MECHANICAL ADVANTAGE TO AN OPERATOR 
+
+Name of applicant  =>  1)CROMPTON GREAVES LIMITED 
+
+Name of inventor  =>  1)KHEDKAR PARAG PRABHAKAR 
+
+International Classification  =>  E02F9/22 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A hydraulic jack system 200 that provides the benefit of variable mechanical advantage to an operator during operation is disclosed in the several embodiments of this disclosure. The system includes a jack assembly 202 having a jack piston 204 disposed within a jack cylinder 206. The jack assembly 202 is connected to an oil reservoir 208 through a manually operated control valve 210. A pump 212 is connected to the oil reservoir 208 through a withdrawing conduit 224 for receiving oil when the pump 212 exerts a suction stroke and the pump 212 is connected to the jack cylinder 206 through a dispensing conduit 226 for dispensing the received oil within the jack cylinder 206 when the pump 212 exerts a compression stroke. A lever 246 is pivotally engaged within a slot 244 of a support structure 242 and positioned at an end of the slot 244 formed within the support structure 242 the lever 246 is angularly displaceable along a vertical plane to allow the pump 212 to exert the suction and compression stroke. The pivotable end 248 of the lever 246 is capable of being slidably movable to an opposite end of the slot 244. An additional piston-cylinder arrangement 230 is securely held within a jack frame and connected between the jack cylinder 206 and the pump 212 through corresponding conduits 232, free end of the piston 234 having a flange member 240 fixedly connected to the pivotable end 248 of the lever 246. 
+

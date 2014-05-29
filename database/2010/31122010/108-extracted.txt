@@ -1,0 +1,44 @@
+The Patent Office Journal 31/12/2010 
+ 
+5374
+(12) PATENT APPLICATION PUBLICATION (21) Application No.4080/CHENP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :01/07/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : ELEVATOR SYSTEM WITH ELEVATOR CARS WHICH CAN MOVE VERTICALLY AND 
+HORIZONTALLY  
+  
+(51) International classification  :B66B9/00  
+(31) Priority Document No  :07122912.4  
+(32) Priority Date  :11/12/2007 
+(33) Name of priority country  :EUROPEAN UNION 
+(86) International Application No 
+        Filing Date 
+:PCT/EP08/067271
+:11/12/2008 
+(87) International Publication No  :WO 2009/074627 A1  
+(61) Patent of Addition to Application Number 
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)INVENTIO AG 
+      Address of Applicant :SEESTRASSE 55, CH-6052 
+HERGISWIL Switzerland 
+(72)Name of Inventor : 
+   1)GRUNDMANN, STEFFEN  
+(57) Abstract : 
+The invention relates to a lift system having a lift car (4) which can move vertically and horizontally, wherein vertical movement takes 
+place along a vertical track (3) having a vertical guide rail (5), and horizontal movement is carried out by utilizing a car transfer device 
+(13). The car transfer device has a horizontal displacement unit (16) into which a vertical guide rail piece (18) can be integrated, said 
+guide rail piece guiding the lift car (4) in the horizontal displacement unit (16). The horizontal displacement unit can be positioned in 
+such a manner that the guide rail piece (18) forms a section of the vertical guide rail (5). The lift cabin (4) can be fixed on the guide 
+rail piece (18) during the horizontal displacement by means of a brake device (20). 
+  
+  
+No. of Pages : 36 No. of Claims : 23 

@@ -1,0 +1,39 @@
+The Patent Office Journal 31/05/2013 12088
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9819/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :27/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : HANDOVER METHOD RADIO BASE STATION AND MOBILE STATION
+(51) International classification :H04W36/38
+(31) Priority Document No :2009-148143
+(32) Priority Date :22/06/2009
+(33) Name of priority country :Japan
+(86) International Application No
+Filing Date
+:PCT/JP2010/059863
+:10/06/2010
+(87) International Publication No :WO 2010/150662A1
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)NTT DOCOMO, INC.
+Address of Applicant :11-1, NAGATACHO 2-CHOME,
+CHIYODA-KU, TOKYO 100-6150 Japan
+(72)Name of Inventor :
+1)IWAMURA, MIKIO
+2)ISHII, MINAMI
+3)UMESH, ANIL
+4)HAPSARI, WURI ANDARMAWANTI
+(57) Abstract :
+A radio base station according to the present invention comprising the radio base station eNB#2 comprising a transmission unit 11
+configured to transmit C-RNT1 that can be used in the cell #2, to the radio base station eNB #1, in response to HO Preparation (a
+handover preparation signal) received from the radio base station eNB #1 that manages the cell #1, and a resource assignment unit
+14 configured to notify a radio resource assigned to the mobile station UE by using C-RNTI included in HO Complete, when it is
+determined that C-RNTI included in HO Complete received from the mobile station UE that can be used in the cell #2.
+No. of Pages : 41 No. of Claims : 14

@@ -1,0 +1,51 @@
+ 
+The Patent Office Journal 31/08/2012 
+13665
+(12) PATENT APPLICATION PUBLICATION (21) Application No.620/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :13/03/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : PARTICLE TRAP AND FILTER DEVICE COMPRISING A PARTICLE TRAP  
+  
+(51) International classification  :F02M35/022,B01D45/04 
+(31) Priority Document No  :PCT/SE2009/000408  
+(32) Priority Date  :14/09/2009 
+(33) Name of priority country  :Sweden 
+(86) International Application No 
+        Filing Date 
+:PCTSE2010/000224  
+:14/09/2010 
+(87) International Publication No  :WO2011/031205  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)VOLVO LASTVAGNAR AB 
+      Address of Applicant :S-405 08 GOETEBORG, SWEDEN . 
+(72)Name of Inventor : 
+   1)ETEMAD SASSAN 
+   2)RYRHOLM REIMER  
+(57) Abstract : 
+The invention relates to a particle trap (100) for removing particles from a fluid (90), comprising a conduit (10), the conduit (10) 
+comprising (i) a wall (16); (ii) a bended region (20) with at least one bend (200), the bended region (20) having an upstream side (20a) 
+and a downstream side (20b) with respect to a longitudinal flow direction (70) of the fluid (90) along the conduit (10); (iii) an inlet 
+(12) at the upstream side (20a) of the bended region (20); (iv) at least one first outlet (40) at the downstream side (20b) of the bended 
+region (20); (v) at least one second outlet (50) at the downstream side (20b) or downstream of the bended region (20); (vi) wherein the 
+least one first outlet (40) is arranged in a first region (26), at a distance from the wall (16), where during operation of the conduit (10) 
+the concentration of particles in the fluid (90) is lower than in the vicinity of the wall (16) during operation; (vii) wherein the least one 
+second outlet (50) is arranged in the vicinity of the wall (16) where during operation of the conduit (10) the concentration of particles 
+is higher than where the at least one first outlet (40) is arranged; (viii) wherein the at least one first outlet (40) is arranged in a region 
+(300) of the conduit (10) where during operation of the conduit (10) a separation between the fluid (90) with high particle 
+concentration and the fluid (90) with low particle concentration is dominated by a swirl movement of the fluid (90) about the 
+longitudinal flow direction (70) in the conduit (10); and (ix) wherein the at least one first outlet (40) is arranged in a substantially 
+central region (82, 82a, 82b) of a swirl (80, 80a, 80b) generated in the fluid (90) during operation of the conduit (10). 
+  
+  
+No. of Pages : 35 No. of Claims : 16 

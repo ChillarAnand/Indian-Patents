@@ -1,0 +1,22 @@
+Application number  =>  9855/CHENP/2011 A 
+
+Date of filing of application number  =>  27/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  IMAGE ENCODING DEVICE, IMAGE DECODING DEVICE, IMAGE ENCODING METHOD, AND IMAGE DECODING METHOD 
+
+Name of applicant  =>  1)MITSUBISHI ELECTRIC CORPORATION 
+
+Name of inventor  =>  1)MINEZAWA, AKIRA 2)SEKIGUCHI, SHUNICHI 3)SUGIMOTO, KAZUO 4)ITANI, YUSUKE 5)MORIYA, YOSHIMI 6)HIWASA, NORIMICHI 7)YAMAGISHI, SHUICHI 8)YAMADA, YOSHIHISA 9)KATO, YOSHIAKI 10)ASAI, KOHTARO 11)MURAKAMI, TOKUMICHI 
+
+International Classification  =>  H04N7/32 
+
+Priority Doc No  =>  2009-146350 
+
+International Application Number  =>  PCT/JP2010/003492 
+
+International Publication Number  =>  WO 2010/146771A1 
+
+Abstract  =>  A loop filter 6 includes a region classifying unit 12 for extracting a feature quantity of each of the regions which construct a local decoded image to classify each of the regions into the class to which the region belongs according to the feature quantity, and a filter designing and processing unit 13 for, for each class to which one or more regions, among the regions which construct the local decoded image, belong, generating a Wiener filter which minimizes an error occurring between an inputted image and the local decoded image in each of the one or more regions belonging to the class to compensate for a distortion superimposed onto the one or more regions by using the Wiener filter. 
+

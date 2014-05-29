@@ -1,0 +1,48 @@
+ 
+The Patent Office Journal 31/08/2012 
+13887
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2875/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :28/04/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : ELECTRICAL POWER CONVERSION APPARATUS  
+  
+(51) International classification  :H02M7/48  
+(31) Priority Document No  :PCT/JP2008/003132
+(32) Priority Date  :31/10/2008 
+(33) Name of priority country  :PCT 
+(86) International Application No 
+        Filing Date 
+:PCT/JP09/002349 
+:28/05/2009 
+(87) International Publication No  :WO 2010/050086 A1  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)MITSUBISHI ELECTRIC CORPORATION 
+      Address of Applicant :7-3, MARUNOUCHI 2-CHOME, 
+CHIYODA-KU, TOKYO 100-8310 Japan 
+(72)Name of Inventor : 
+   1)KONO, MASAKI  
+   2)HATANAKA, KEITA  
+(57) Abstract : 
+An electrical conversion apparatus including a converter 2 and an inverter 4 comprises a capacitor 3 that stores a DC electrical power; 
+a ripple detection unit 8 that detects a ripple of an RMS power that is generated from the inverter 4; a voltage measuring instrument 15 
+that measures a voltage across the capacitor 3: a DC voltage command generation unit 16 that calculates a command value of the 
+voltage across the capacitor 3 according to a frequency of the AC voltage generated from the inverter 4, and a DC voltage control unit 
+17 that receives the voltage measured by the voltage measuring instrument 15 and the command value calculated by the DC voltage 
+command generation unit 16, to control the converter 2 so that the voltage across the capacitor 3 becomes the command value, 
+wherein the DC voltage command generation unit 16 makes the command value of the voltage across the capacitor 3 higher than 
+usual, in situations where the voltage across the capacitor 3 is within a predetermined range including a frequency of a ripple 
+component of the voltage across the capacitor 3. 
+  
+  
+No. of Pages : 74 No. of Claims : 15 

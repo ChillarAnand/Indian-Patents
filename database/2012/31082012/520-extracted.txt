@@ -1,0 +1,53 @@
+ 
+The Patent Office Journal 31/08/2012 
+13579
+(12) PATENT APPLICATION PUBLICATION (21) Application No.470/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :24/02/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : CATHETER COMPRISING A PROTECTION SYSTEM FOR ASPIRATING, FRAGMENTING AND 
+EXTRACTING REMOVABLE MATERIAL FROM HOLLOW BODIES AND/OR VESSELS, IN PARTICULAR OF THE 
+HUMAN AR ANIMAL BODY  
+  
+(51) International classification  :A61B 17/3207  
+(31) Priority Document No  :CH1328/09  
+(32) Priority Date  :27/08/2009 
+(33) Name of priority country  :Switzerland 
+(86) International Application No 
+        Filing Date 
+:PCT/IB2010/053816
+:25/08/2010 
+(87) International Publication No  :WO/2011/024124  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)STRAUB MEDICAL AG 
+      Address of Applicant :STRAUBSTRASSE 12, CH-7323 
+WANGS SWITZERLAND. 
+(72)Name of Inventor : 
+   1)STRAUB, IMMANUEL 
+   2)HELLER, MATHIAS  
+(57) Abstract : 
+The invention relates to a device and a method for aspirating, fragmenting and extracting removable material from hollow bodies, in 
+particular thrombi and emboli from blood vessels. To this end, a guide wire (11) is introduced into the hollow body (1) via an opening. 
+The material is removed by means of a dissolution catheter (3) comprising a working head (6) with a stator (8) and a rotor (9), wherein 
+the rotor (9) is connected to a flexible delivery screw (10) surrounding the guide wire (11). The circumference of the stator (8) 
+comprises a lateral inlet opening (8a). The inlet opening (8a) of the stator (8) is designed as two circular holes disposed axially behind 
+one another in relation to the longitudinal axis of the dissolution catheter (3). Material forced into the inlet openings (8a) and/or the 
+aspirated and/or detached thrombi (2) and emboli shear and/or fragment between the peripheral edges of the inlet openings (8a) of the 
+stator (8) and the rotor (9). A flexible casing (7) surrounding the delivery screw (10) and connected to the stator (8) is used to 
+discharge the ablated material and/or the detached thrombi and emboli fragments. Before introducing the dissolution catheter (3), a 
+sheath catheter (4) is introduced into the hollow body (1) until it lies in front of the material to be removed. The cross-section of the 
+hollow body (1) is then closed at least partially by means of the sheath catheter (4), thus preventing detached thrombi or emboli 
+fragments from being accidentally washed away. 
+  
+  
+No. of Pages : 30 No. of Claims : 19 

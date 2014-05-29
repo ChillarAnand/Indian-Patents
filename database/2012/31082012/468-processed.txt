@@ -1,0 +1,22 @@
+Application number  =>  1088/MUMNP/2012 A 
+
+Date of filing of application number  =>  30/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  COMMAND QUEUE FOR PERIPHERAL COMPONENT 
+
+Name of applicant  =>  1)APPLE INC. 
+
+Name of inventor  =>  1)LEE, DOUGLAS C. 2)ROSS, DIARMUID P. 3)TOELKES, TAHOMA M. 
+
+International Classification  =>  G06F 3/00 
+
+Priority Doc No  =>  12/615,587 
+
+International Application Number  =>  PCT/US2010/055769 
+
+International Publication Number  =>  WO/2011/059897 
+
+Abstract  =>  In an embodiment, a peripheral component configured to control an external interface of an integrated circuit. For example, the peripheral component may be a memory interface unit such as a flash memory interface unit. The internal interface to the peripheral component may be shared between data transfers to/from the external interface and control communications to the peripheral component. The peripheral component may include a command queue configured to store a set of commands to perform a transfer on the interface. A control circuit may be coupled to the command queue and may read the commands and communicate with an interface controller to cause a transfer on the interface responsive to the commands. In an embodiment, a macro memory may store command sequences to be performed in response to a macro command in the command queue. In an embodiment, an operand queue may store operand data for use by the commands. 
+

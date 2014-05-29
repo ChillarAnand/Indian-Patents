@@ -1,0 +1,41 @@
+The Patent Office Journal 31/05/2013 12139
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9953/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :29/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : MOBILE STATION APPARATUS BASE STATION APPARATUS RADIO COMMUNICATION
+METHOD AND COMMUNICATION PROGRAM
+(51) International classification :H04W52/08
+(31) Priority Document No :2009-142874
+(32) Priority Date :16/06/2009
+(33) Name of priority country :Japan
+(86) International Application No
+Filing Date
+:PCT/JP2010/058750
+:24/05/2010
+(87) International Publication No :WO 2010/146972A1
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)SHARP KABUSHIKI KAISHA
+Address of Applicant :22-22, NAGAIKE-CHO, ABENO-
+KU, OSAKA-SHI, OSAKA 545-8522 Japan
+(72)Name of Inventor :
+1)SUZUKI, SHOICHI
+2)YAMADA, SHOHEI
+3)UEMURA, KATSUNARI
+4)NAKASHIMA, DAIICHIRO
+(57) Abstract :
+Transmission power of a plurality of uplink carrier components used for radio communication by a mobile station device and a
+base station device is efficiently controlled. The mobile station device communicates by radio with the base station device using a
+plurality of component carriers. The mobile station device receives, from the base station device, downlink control information
+that-includes information indicating radio resource assignment to a downlink shared channel disposed in any of downlink
+component carriers of a downlink control channel and a TPC command to an uplink control channel in an uplink component
+carrier in which ACK/NACK to the downlink shared channel is transmitted.
+No. of Pages : 108 No. of Claims : 5

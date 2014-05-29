@@ -1,0 +1,22 @@
+Application number  =>  2492/CHENP/2012 A 
+
+Date of filing of application number  =>  19/03/2012 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  SYSTEM AND METHOD FOR GENERATING VOCABULARY FROM NETWORK DATA 
+
+Name of applicant  =>  1)CISCO TECHNOLOGY, INC. 
+
+Name of inventor  =>  1)ARUMUGAM, THANGAVELU 2)GANNU, SATISH, K. 3)MIHAILOVICI, VIRGIL N. 4)MALEGAOKAR, ASHUTOSH A. 5)POSSE, CHRISTIAN 6)SAMBHUS, SONALI M. 7)WALIA, NITASHA 8)ZHANG, KUI 
+
+International Classification  =>  G06F17/21 
+
+Priority Doc No  =>  12/571,390 
+
+International Application Number  =>  PCT/US2010/050762 
+
+International Publication Number  =>  WO 2011/041443 A1 
+
+Abstract  =>  A method is provided in one example and includes receiving data propagating in a network environment and separating the data into one or more fields. At least some of the fields are evaluated in order to identify nouns and noun phrases within the fields. The method also includes identifying selected words within the nouns and noun phrases based on a white list and a blacklist. The white list includes a plurality of designated words to be tagged and the blacklist includes a plurality of rejected words that are not to be tagged. A resultant composite is generated for the selected nouns and noun phrases that are tagged. The resultant composite is incorporated into the white list if the resultant composite is approved. 
+

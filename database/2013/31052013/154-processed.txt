@@ -1,0 +1,22 @@
+Application number  =>  9897/CHENP/2011 A 
+
+Date of filing of application number  =>  28/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  ANALYSIS OF PACKET BASED VIDEO CONTENT 
+
+Name of applicant  =>  1)ROCKSTAR BIDCO, LP 
+
+Name of inventor  =>  1)TONY MCCORMACK 2)ALAN DISKIN 3)NEIL O' CONNOR 
+
+International Classification  =>  H04N7/16 
+
+Priority Doc No  =>  12/494,594 
+
+International Application Number  =>  PCT/EP2010/058883 
+
+International Publication Number  =>  WO 2011/000747A1 
+
+Abstract  =>  A method, system, base station and wireless terminal are provided for transmission of a set of mixed pilots that includes both common and dedicated pilots. The method includes selecting a number D of dedicated pilots having regard to performance of the communication link, D ≥ 0, selecting a first pre-coder for pre-coding D dedicated pilots based on some criteria, performing a first pre-coding of the D dedicated pilots with the first pre-coder to produce a set of pre-coded dedicated pilots, performing a second pre-coding of the set of pre-coded dedicated pilots and a set of common pilots to produce a set of mixed pilots, and transmitting data from the transmitter on the communication link with the set of mixed pilots. 
+

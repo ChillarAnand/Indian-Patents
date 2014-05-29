@@ -1,0 +1,22 @@
+Application number  =>  4277/KOLNP/2010 A 
+
+Date of filing of application number  =>  15/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  MAGNETIC TESTING METHOD AND MAGNETIC TESTING APPARATUS 
+
+Name of applicant  =>  1)SUMITOMO METAL INDUSTRIES, LTD. 
+
+Name of inventor  =>  1)SUZUMA, TOSHIYUKI 2)IMANISHI, KENJI 
+
+International Classification  =>  G01N 27/90 
+
+Priority Doc No  =>  2008-128523 
+
+International Application Number  =>  PCT/JP2009/058969 
+
+International Publication Number  =>  WO 2009/139432 
+
+Abstract  =>  A magnetic testing apparatus (100) is provided with a magnetizing device(1) applying a rotating magnetic field to a material to be tested, a detecting device (2) detecting a testing signal, and a signal processing device (3) applying a signal processing to the testing signal. The magnetizing device applies an alternating current obtained by superimposing a first current and a second current having a lower frequency than the first current as an exciting current. The signal processing device is provided with a first synchronous detecting device (31) synchronously detecting a testing signal by using the first current as a reference signal, a second synchronous detecting device (32) synchronously detecting an output signal of the first synchronous detecting device by using the second current as a reference signal so as to extract a candidate flaw signal, and a testing image display device (34) displaying a testing image in which each of pixels has a gray level corresponding to an intensity of the candidate flaw signal at each of positions of the material to be tested, and a phase of the candidate flaw signal at each of the positions is capable of being identified. 
+

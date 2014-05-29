@@ -1,0 +1,48 @@
+The Patent Office Journal 30/12/2011 
+ 
+25559
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1004/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :14/02/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : METHOD AND APPARATUS FOR PEER TO PEER STREAMING  
+  
+(51) International classification  :H04L29/06, H04L12/56  
+(31) Priority Document No  :61/081,359  
+(32) Priority Date  :16/07/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/IB2009/006254
+:17/07/2009 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)NOKIA CORPORATION 
+      Address of Applicant :Keilalahdentie 4  FIN-02150 Espoo  
+Finland  
+(72)Name of Inventor : 
+   1)Jozef Van Gassel 
+   2)Imed Bouazizi 
+   3)Igor Curcio 
+   4)Alex Jantunen 
+   5)Marko Saukko 
+   6)Lassi Vaatamoinen  
+(57) Abstract : 
+In accordance with an example embodiment of the present invention, An apparatus, comprising a processor configured to assign at 
+least one of a plurality of real time transport protocol data units to at least one of at least two peer to peer partial real-time transport 
+protocol streaming sessions, based at least in part on at least one timestamp associated with the at least one of the plurality of real time 
+protocol data units. T 10 he plurality of real time transport protocol data units, is associated with the real time transport protocol media 
+stream. FIGURE. 4 
+  
+ 
+No. of Pages : 44 No. of Claims : 18 

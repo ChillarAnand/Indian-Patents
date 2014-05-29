@@ -1,0 +1,22 @@
+Application number  =>  2923/CHENP/2011 A 
+
+Date of filing of application number  =>  29/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  SUBSTRATE FOR MANUFACTURING DISPOSABLE MICROFLUIDIC DEVICES 
+
+Name of applicant  =>  1)UNIVERSITY OF WASHINGTON 
+
+Name of inventor  =>  1)CHIU, DANIEL, T. 2)KUO, JASON, S. 
+
+International Classification  =>  G01N33/48, G01N35/08 
+
+Priority Doc No  =>  61/109,871 
+
+International Application Number  =>  PCT/US2009/062426 
+
+International Publication Number  =>  WO 2010/059351 A2 
+
+Abstract  =>  Embodiments of the present invention relate to a UV-curable polyurethane-methacrylate (PUMA) substrate for manufacturing microfluidic devices. PUMA is optically transparent, biocompatible, and has stable surface properties. Embodiments include two production processes that are compatible with the existing methods of rapid prototyping, and characterizations of the resultant PUMA microfiuidic devices are presented. Embodiments of the present invention also relate to strategies to improve the production yield of chips manufactured from PUMA resin, especially for microfiuidic systems that contain dense and high-aspect-ratio features. Described is a mold-releasing procedure that minimizes motion in the shear plane of the microstructures. Also presented are simple yet scalable methods for forming seals between PUMA substrates, which avoids excessive compressive force that may crush delicate structures. Two methods for forming interconnects with PUMA microfiuidic devices are detailed. These improvements produce a microfiltration device containing closely spaced and high-aspect-ratio fins, suitable for retaining and concentrating cells or beads from a highly diluted suspension. 
+

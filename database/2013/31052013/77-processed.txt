@@ -1,0 +1,22 @@
+Application number  =>  9690/CHENP/2011 A 
+
+Date of filing of application number  =>  22/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  OPTO-THERMAL SOLUTION FOR MULTI-UTILITY SOLID STATE LIGHTING DEVICE USING CONIC SECTION GEOMETRIES 
+
+Name of applicant  =>  1)eLUMIGEN LLC 
+
+Name of inventor  =>  1)DASSANAYAKE Mahendra 2)DE MEL Srini 3)SAMARABANDU Jagath 
+
+International Classification  =>  F21V 7/08 
+
+Priority Doc No  =>  61/220,019 
+
+International Application Number  =>  PCT/US2010/039509 
+
+International Publication Number  =>   
+
+Abstract  =>  A light assembly1100 includes a cover18 a housing16 coupled to the cover18 and a lamp base14 coupled to the cover18. The light assembly1100 also includes a first circuit board30 disposed within the housing16. The first circuit board30 has a plurality of light sources32 thereon. A heat sink210 is thermally coupled to the light sources32. The heat sink32 includes a plurality of spaced- apart layers1140 having outer edges and openings there through. Each of the outer edges1144 are in contact with the housing16. The light assembly also includes an elongated control circuit board assembly1110 electrically coupled to the light sources32 of the first circuit board30 and the lamp base14. The control circuit board1110 extends through the openings1170. The control circuit board1110 has a plurality of electrical components1112 thereon for controlling the light sources32. 
+

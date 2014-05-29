@@ -1,0 +1,49 @@
+The Patent Office Journal 31/12/2010 
+ 
+5368
+(12) PATENT APPLICATION PUBLICATION (21) Application No.4072/CHENP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :01/07/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : NOVEL INSULIN DERIVATIVES HAVING AN EXTREMELY DELAYED TIME-ACTION PROFILE 
+  
+(51) International classification  :C07K14/62  
+(31) Priority Document No  :10 2008 003 568.8 
+(32) Priority Date  :09/01/2008 
+(33) Name of priority country  :Germany 
+(86) International Application No 
+        Filing Date 
+:PCT/EP09/000017
+:06/01/2009 
+(87) International Publication No  :WO 2009/087081 A3  
+(61) Patent of Addition to Application Number 
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)SANOFI-AVENTIS DEUTSCHLAND GMBH 
+      Address of Applicant :BRUNINGSTRASSE 50, D-65929 
+FRANKFURT AM MAIN Germany 
+(72)Name of Inventor : 
+   1)HABERMANN, PAUL 
+   2)SEIPKE, GERHARD 
+   3)KURRLE, ROLAND 
+   4)MULLER, GUNTER 
+   5)SOMMERFELD, MARK 
+   6)TENNAGELS, NORBERT 
+   7)TSCHANK, GEORG 
+   8)WERNER, ULRICH  
+(57) Abstract : 
+The invention relates to novel insulin analogs having a basal time-action profile, which are characterized by the following features: a) 
+the B chain end consists of an amidated basic amino acid residue such as lysine or arginine amide; b) the N- terminal amino acid 
+residue of the insulin A chain is a lysine or arginine radical; c) the amino acid position A8 is occupied by a histidine radical; d) the 
+amino acid position A21 is occupied by a glycine radical; and e) one or more substitutions and/or additions of negatively charged 
+amino acid residues are carried out in the positions A5, A15, A18, B-l, B0, B1, B2, B3 and B4. 
+  
+  
+No. of Pages : 51 No. of Claims : 42 

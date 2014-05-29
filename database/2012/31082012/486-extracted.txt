@@ -1,0 +1,49 @@
+ 
+The Patent Office Journal 31/08/2012 
+13545
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2687/MUMNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :13/12/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : METHOD FOR MIDDLEWARE OF A SENSOR NETWORK  
+  
+(51) International classification  :H04L12/24 ,H0L29/08  
+(31) Priority Document No  :61/187,088  
+(32) Priority Date  :15/06/2009 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filng Date 
+:PCT/US2010/148029
+:15/06/2010 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)QUALCOMM INCORPORATED 
+      Address of Applicant :Attn: International IP Administration  
+5775 Morehouse Drive  San Diego  California 92121-1714  
+UNITED STATES OF AMERICA. 
+(72)Name of Inventor : 
+   1)BULLARD  Gregory T. 
+   2)BRAKE  Desiree D. 
+   3)PRUETTING  Christopher J. 
+   4)STITS  Raymond S. 
+   5)RYBERG  Jason T. 
+   6)THOMAS  Jason C. 
+   7)WINCHELL  Diane M.  
+(57) Abstract : 
+An apparatus for managing reports including a processing system is disclosed. The processing system is configured to receive a 
+plurality of reports from a plurality of other apparatuses  filter out one or more of the plurality of reports  and forward the remaining 
+plurality of reports to another apparatus  wherein each of the plurality of reports comprises data based on a sensor measurement at the 
+respective one of the plurality of other apparatuses. 
+  
+  
+No. of Pages : 64 No. of Claims : 17 

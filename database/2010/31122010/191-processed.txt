@@ -1,0 +1,22 @@
+Application number  =>  4159/KOLNP/2010 A 
+
+Date of filing of application number  =>  04/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  METHOD, SYSTEM AND DEVICE FOR MAINTAINING USER SERVICE CONTINUITY 
+
+Name of applicant  =>  1)HUAWEI TECHNOLOGIES CO., LTD. 
+
+Name of inventor  =>  1)YANG, YANMEI 2)ZHUANG, XIAOJUN 
+
+International Classification  =>  H04W 36/10 
+
+Priority Doc No  =>  200810066885.X 
+
+International Application Number  =>  PCT/CN2009/070113 
+
+International Publication Number  =>  WO 2009/132524 
+
+Abstract  =>  A method, a system and a device for maintaining user service continuity are provided in an embodiment of the present invention. The method includes prohibiting a UE from accessing a forbidden network before handover is complete when the UE needs to perform network handover if the UE adopts a SIM access technology, thus avoiding service interruption of a SIM user due to access to an incorrect network. A system and a device for maintaining user service continuity arc provided in an embodiment of the present invention. 
+

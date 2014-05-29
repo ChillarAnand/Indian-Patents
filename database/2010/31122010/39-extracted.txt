@@ -1,0 +1,47 @@
+The Patent Office Journal 31/12/2010 
+ 
+5305
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1353/DEL/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :10/06/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : SUPERSONIC COMPRESSOR COMPRISING RADIAL FLOW PATH'  
+  
+(51) International classification  :F04D21/00; 
+(31) Priority Document No  :12/491,602 
+(32) Priority Date  :25/06/2009
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  :NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)GENERAL ELECTRIC COMPANY 
+      Address of Applicant :1 RIVER ROAD, SCHENECTADY, 
+NEW YORK 12345 U.S.A.   
+(72)Name of Inventor : 
+   1)HOFER DOUGLAS CARL 
+   2)NAGEL ZACHARY WILLIAM  
+   3)HOLMES DAVID GRAHAM  
+(57) Abstract : 
+The present invention provides novel supersonic compressors comprising novel supersonic compressor rotors. The supersonic 
+compressor rotors are designed to operate at very high rotational speed wherein the velocity of the gas entering the supersonic 
+compressor rotor is greater than the local speed of sound in the gas, hence the descriptor supersonic. The new supersonic compressors 
+comprise at least one supersonic compressor rotor defining an inner cylindrical cavity and an outer rotor rim and at least one radial 
+flow channel allowing fluid communication between the inner cylindrical cavity and the outer rotor rim, said radial flow channel 
+comprising a supersonic compression ramp. The novel supersonic compressor rotors are expected to enhance the performance of 
+supersonic compressors comprising them, and to provide for greater design versatility in systems comprising such novel supersonic 
+compressors. 
+  
+  
+No. of Pages : 35 No. of Claims : 12 

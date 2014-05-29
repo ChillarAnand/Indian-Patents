@@ -1,0 +1,22 @@
+Application number  =>  485/MUMNP/2012 A 
+
+Date of filing of application number  =>  27/02/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  ABRASIVE TOOL HAVING CONTROLLED POROSITY DISTRIBUTION 
+
+Name of applicant  =>  1)SAINT-GOBAIN ABRASIVES, INC. 2)SAINT-GOBAIN ABRASIFS 
+
+Name of inventor  =>  1)FRANCOIS, EMMANUEL, C: 2)ZUYEV, KONSTANTIN, S; 3)JEEVANANTHAM, MUTHU; 4)BONNER, ANNE, M; 5)KLETT, MICHAEL, W; 6)MATSUMOTO, DEAN, S; 
+
+International Classification  =>  B24D 3/10,B24B 37/04 
+
+Priority Doc No  =>  61/230,941 
+
+International Application Number  =>  PCT/US2010/044293 
+
+International Publication Number  =>  WO/2011/017356 
+
+Abstract  =>  An abrasive tool having a body including an abrasive portion having abrasive grains contained within a matrix material and porosity characterized by a bimodal distribution of pores including large pores having an average large pore size (Pl) and small pores having an average small pore size (Ps), wherein Pl>Ps. The body of the abrasive tool further includes a first reinforcing member contained within the abrasive portion, and a percent thermal expansion over a temperature range for 25°C to 450°C of not greater than about 0.7%. 
+

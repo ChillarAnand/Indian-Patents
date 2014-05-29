@@ -1,0 +1,22 @@
+Application number  =>  9697/CHENP/2011 A 
+
+Date of filing of application number  =>  22/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  BALL-RAMP CLUTCH 
+
+Name of applicant  =>  1)MAGNA POWERTRAIN INC. 
+
+Name of inventor  =>  1)DARRELL F. GREENE 
+
+International Classification  =>  F16D 27/112 
+
+Priority Doc No  =>  61/219,472 
+
+International Application Number  =>  PCT/CA2010/000978 
+
+International Publication Number  =>   
+
+Abstract  =>  An electromagnetic clutch includes a rotatable input member and a rotatable output member. A clutch plate is fixed for rotation with one of the input member and the output member. An armature plate is axially moveable relative to the other of the input member and the output member. A self-energizing actuator converts rotary motion of the input member to linear movement of the armature plate. The actuator includes a biasing member urging relative rotation between the one of the input member and the output member and the armature plate to initially engage the armature plate and the clutch plate. The self-energizing actuator provides an additional clutch engagement force once the input member is driven and also includes an electromagnet to axially translate the armature plate and disengage the armature plate and the clutch plate. 
+

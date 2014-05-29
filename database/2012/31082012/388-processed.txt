@@ -1,0 +1,22 @@
+Application number  =>  5348/DELNP/2011 A 
+
+Date of filing of application number  =>  12/07/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  HYDRAULIC SYSTEM FOR WORKING VEHICLE 
+
+Name of applicant  =>  1)KOMATSU LTD. 
+
+Name of inventor  =>  1)TAKESHI YOSHIKAWA 2)HITOSHI MIYAMOTO 
+
+International Classification  =>  F16H 57/02 
+
+Priority Doc No  =>  2009-017879 
+
+International Application Number  =>  PCT/JP2009/071575 
+
+International Publication Number  =>  WO 2010/087096 
+
+Abstract  =>  A low-pressure pump (13) supplies oil stored in a steering case (32) to a steering device (4) as lubricating oil via a steering lubricating circuit (31). A high-pressure pump (14) supplies the oil stored in the steering case (32) to a clutch via a high-pressure circuit (33). A transmission lubricating circuit (34) branches off from the high-pressure circuit (33) via a relief valve (51) and supplies lubricating oil to a transmission device (3). A transmission-lubricating assist circuit (35) is provided so as to branch off from the steering lubricating circuit (31) and is connected to the transmission lubricating circuit (34). A transmission case (36) stores the oil used to lubricate the transmission device (3). A scavenging pump (15) returns the oil stored in the transmission case (36) to the steering device (4). 
+

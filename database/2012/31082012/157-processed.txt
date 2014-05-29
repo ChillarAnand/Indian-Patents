@@ -1,0 +1,22 @@
+Application number  =>  3026/CHENP/2011 A 
+
+Date of filing of application number  =>  03/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  SECURITY DOCUMENT AND METHODS OF PRODUCING IT 
+
+Name of applicant  =>  1)AGFA GEVAERT NV 
+
+Name of inventor  =>  1)UYTTENDAELE, CARLO 
+
+International Classification  =>  B42D15/10 
+
+Priority Doc No  =>   
+
+International Application Number  =>  PCT/EP09/063483 
+
+International Publication Number  =>  WO 2010/052106 A2 
+
+Abstract  =>  A security document having in order a) a first laser markable layer, present as a self-supporting layer or as a layer on a support; b) at least one polymeric overlay; and c) a second laser markable layer; wherein the second laser markable layer exhibits a higher laser sensitivity than a non-laser marked area of the first laser markable layer but produces a smaller maximum optical density or a smaller gloss on laser marking. Methods for manufacturing the security document are also disclosed. 
+

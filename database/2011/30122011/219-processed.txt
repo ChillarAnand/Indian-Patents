@@ -1,0 +1,22 @@
+Application number  =>  1038/CHENP/2011 A 
+
+Date of filing of application number  =>  14/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  COATING TOOL FOR APPLYING A FLUID FILM ONTO A SUBSTRATE 
+
+Name of applicant  =>  1)FMP TECHNOLOGY GMBH FLUID MEASUREMENTS & PROJECTS 
+
+Name of inventor  =>  1)FRANZ DURST 2)BLENT NSAL 
+
+International Classification  =>  B05C5/02, B29C47/14 
+
+Priority Doc No  =>  10 2008 041 423.9 
+
+International Application Number  =>  PCT/EP2009/060575 
+
+International Publication Number  =>   
+
+Abstract  =>  The invention relates to a coating tool for applying a fluid film onto a substrate, wherein disposed upstream of a slot nozzle (1) for producing a fluid film, nozzle extending substantially across the entirety of a first width (B1) of the coating tool in unbroken fashion, is a distribution space (7) for distributing the fluid over a second width (B2) of the slot nozzle (1), wherein at least one channel (6) for feeding fluid is provided upstream of the distribution space (7), channel having a third width (B3), and wherein the third width (B3) is smaller than the second width (B2). To avoid an uneven throughput of material across the width of the slot, it is proposed according to the invention that a plurality of feed channels (9) be disposed in the distribution space (7), channels having a cross sectional area that increases in the direction of flow (S). 
+

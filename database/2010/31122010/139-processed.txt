@@ -1,0 +1,22 @@
+Application number  =>  4105/KOLNP/2010 A 
+
+Date of filing of application number  =>  01/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  CONNECTION PROCESSING METHOD IN WIRELESS COMMUNICATION SYSTEM AND WIRELESS BASE STATION AND WIRELESS TERMINAL 
+
+Name of applicant  =>  1)FUJITSU LIMITED 
+
+Name of inventor  =>  1)YOSHIHARU TAJIMA 2)KAZUHISA OBUCHI 3)YOSHINORI TANAKA 4)YOSHIHIRO KAWASAKI 5)YOSHIAKI OHTA 6)KATSUMASA SUGIYAMA 
+
+International Classification  =>  H04Q 7/38 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/JP2008/058202 
+
+International Publication Number  =>  WO 2009/133599 
+
+Abstract  =>  In a wireless communication system, a wireless base station (10), if rejecting a connection to a wireless terminal (20) that makes a connection request in accordance with a first: connection processing, controls to adopt a second connection processing different from the first connection processing in response to a subsequent connection request by the wireless terminal (20). 
+

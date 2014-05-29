@@ -1,0 +1,48 @@
+ 
+The Patent Office Journal 31/08/2012 
+13986
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3002/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :03/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : METHOD AND APPARATUS FOR DETERMINING DRX CYCLE USED FOR PAGING  
+  
+(51) International classification  :H04W68/00  
+(31) Priority Document No  :61/115,848  
+(32) Priority Date  :18/11/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US09/065010
+:18/11/2009 
+(87) International Publication No  :WO 2010/059741 A2  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)QUALCOMM INCORPORATED 
+      Address of Applicant :ATTN: INTERNATIONAL IP 
+ADMINISTRATION, 5775 MOREHOUSE DRIVE, SAN 
+DIEGO, CALIFORNIA 92121-1714 U.S.A. 
+(72)Name of Inventor : 
+   1)MASATO KITAZOE 
+   2)OSOK SONG 
+   3)NATHAN EDWARD TENNY  
+(57) Abstract : 
+Techniques for determining a discontinuous reception (DRX) cycle used to receive paging are described. A user equipment (UE) may 
+have (i) a first DRX cycle used by a first network (e.g., a core network) to page the UE and (ii) a second DRX cycle used by a second 
+network (e.g., a RAN) to page the UE. In an aspect, the UE may use the longer DRX cycle and ignore the shorter DRX cycle, when 
+allowed, to extend battery life. In one design, the UE may receive an indication of whether the second DRX cycle can be ignored or is 
+to be considered by the UE. The UE may use the longer DRX cycle if the second DRX cycle can be ignored and may receive paging 
+from the first network and/or the second network based on the longer DRX cycle. In another aspect, the UE may negotiate a DRX 
+cycle with a network. 
+  
+  
+No. of Pages : 33 No. of Claims : 33 

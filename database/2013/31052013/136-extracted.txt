@@ -1,0 +1,37 @@
+The Patent Office Journal 31/05/2013 12107
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9865/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :27/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : TRAJECTORY-BASED LOCATION DETERMINATION
+(51) International classification :G01S 19/49
+(31) Priority Document No :61/221,981
+(32) Priority Date :30/06/2009
+(33) Name of priority country :U.S.A.
+(86) International Application No
+Filing Date
+:PCT/US2010/040654
+:30/06/2010
+(87) International Publication No : NA
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)QUALCOMM Incorporated
+Address of Applicant :Attn: International IP Administration
+5775 Morehouse Drive San Diego California 92121-1714
+USA.
+(72)Name of Inventor :
+1)ISCHE Marc A.
+2)SHEYNBLAT Leonid
+3)ROWITCH Douglas Neal
+(57) Abstract :
+The subject matter disclosed herein relates to determining a location of a mobile device using an estimated trajectory of motion of
+the mobile device and in particular using a comparison of the estimated trajectory with one or more predetermined candidate
+trajectories.
+No. of Pages : 30 No. of Claims : 33

@@ -1,0 +1,22 @@
+Application number  =>  731/KOL/2010 A 
+
+Date of filing of application number  =>  06/07/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  WINDING ARRANGEMENT FOR AN INDUCTIVE COMPONENT 
+
+Name of applicant  =>  1)SALOMÄKI, JARKKO 
+
+Name of inventor  =>  1)SALOMÄKI, JARKKO 
+
+International Classification  =>  H01F27/08 
+
+Priority Doc No  =>  FI 20096045 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The scope of the invention is a winding arrangement for an inductive component that consists at least of a core (9) and of a winding structure placed around the core and consisting of planar winding sheets (11). Inside the winding structure there is cooling medium that is adapted to transfer excess heat away from the winding. 
+

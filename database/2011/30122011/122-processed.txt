@@ -1,0 +1,22 @@
+Application number  =>  1005/MUMNP/2011 A 
+
+Date of filing of application number  =>  18/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD AND DEVICE FOR DIAGNOSING THE FIRST RECEPTION OF AN IDENTIFIER, DETECTION METHOD, STORAGE MEDIUM AND COMPUTER SOFTWARE FOR SAID METHOD 
+
+Name of applicant  =>  1)Viaccess 
+
+Name of inventor  =>  1)Haythem GADACHA 
+
+International Classification  =>  G06F 21/00 
+
+Priority Doc No  =>  0857881 
+
+International Application Number  =>  PCT/EP2009/065050 
+
+International Publication Number  =>  WO/2010/057828 
+
+Abstract  =>  The method of the invention comprises: a) determining (64, 68) at least one limit based on N already received identifiers, where N is strictly higher than the number of identifiers that can be contained in an anti-replay memory, the limit being determined so as to define, on the one hand, a range of identifiers that have not yet been received and, on the other hand, a range of identifiers containing the N already received identifiers; b) comparing (58) the newly received identifier to said limit; c) if the newly received identifier belongs to the range identifiers that have not yet been received, diagnosing (60) a first reception of the newly received identifier; and d) if the newly received identifier belongs to the range of identifiers containing the N already received identifiers, searching (73) the newly received identifier among those contained in the anti-replay memory. 
+

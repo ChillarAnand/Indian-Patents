@@ -1,0 +1,22 @@
+Application number  =>  2008/MUMNP/2010 A 
+
+Date of filing of application number  =>  23/09/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  SYSTEM AND/OR METHOD FOR OBTAINING A TIME REFERENCE FOR A RECEIVED SPS SIGNAL 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)PON Rayman Wai 
+
+International Classification  =>  G01S1/00 
+
+Priority Doc No  =>  12/101,955 
+
+International Application Number  =>  PCT/US2009/039750 
+
+International Publication Number  =>   
+
+Abstract  =>  The subject matter disclosed herein relates to a system and method for obtaining time references for signals received from transmitters in a satellite and/or terrestrial navigation system. A first time reference associated with a first signal received at a receiver from a first transmitter is obtained. A second time reference associated with a second signal from a second transmitter is obtained based on the first time reference and on an estimated difference between a first range to the first transmitter from the receiver and a second range to the second transmitter from the receiver. 
+

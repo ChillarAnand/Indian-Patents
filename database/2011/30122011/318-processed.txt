@@ -1,0 +1,22 @@
+Application number  =>  645/CHENP/2006 A 
+
+Date of filing of application number  =>  22/02/2006 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  2-SUBSTITUTED PYRIMIDINES 
+
+Name of applicant  =>  1)BASF AKTIENGESELLSCHAFT 
+
+Name of inventor  =>  1)SCHIEWECK, Frank 2)TORMO I BLASCO, Jordi 3)BLETTNER, Carsten 4)GRAMMENOS, Wassilios 5)GROTE, Thomas 6)GYPSER, Andreas 7)RHEINHEIMER, Joachim 8) SCHAFER, Peter 9)SCHWOGLER, Anja 10)WAGNER, Oliver 11)STRATHMANN, Siegfried 12) STIERL, Reinhard 13)GEWEHR, Markus 14)SCHERER, Maria 15)MULLER, Bernd 16)SCHOFL, Ulrich 
+
+International Classification  =>  C07D 239/42 
+
+Priority Doc No  =>  103 33 857.8 
+
+International Application Number  =>  PCT/EP2004/007258 
+
+International Publication Number  =>  WO 2005/019187 
+
+Abstract  =>  The invention relates to 2-substituted pyrimidines of formula (I), in which the index n and the substituents R1, R2 and R3 are defined as cited in the description. R4 is defined as follows: R4 corresponds to one of the formulae (II), in which X represents a direct bond, - (C=0)-, -(C=0)-NH-, -(C=0)-0-, -0-, -NRc-, whereby the respective molecule on the left is bonded to the nitrogen atom; Ra represents hydrogen, methyl, benzyl, trifluoromethyl, allyl, propargyl or methoxymethyl; Rb represents hydrogen, C1-C6 alkyl, C2-C6 alkynyl; Rc represents hydrogen, methyl or C1-C4 acyl; and Z represents S or NRb. The aliphatic groups of the radical definitions of Ra, Rb and/or Rc can in turn carry one or two groups Rw, whereby Rw represents halogen, ORx, NHRx, C1-C6 alkyl, C1-C4 alkoxycarbonyl, C1-C4 acylamino, [1,3]dioxolane-C1-C4 alkyl, [1,3]dioxane-C1-C4 alkyl and Rx represents hydrogen, methyl, allyl or propargyl. The invention also relates to a method for producing said compounds, to agents containing said compounds and to the use of the latter as pesticides. 
+

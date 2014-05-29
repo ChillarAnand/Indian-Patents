@@ -1,0 +1,22 @@
+Application number  =>  2398/MUMNP/2009 A 
+
+Date of filing of application number  =>  24/12/2009 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD FOR DETECTING ANALYTES 
+
+Name of applicant  =>  1)BRAHMS AKTIENGESELLSCHAFT. 
+
+Name of inventor  =>  1)BERGMANN, ANDREAS. 2)STRUCK, JOACHIM. 
+
+International Classification  =>  G01N33/543 
+
+Priority Doc No  =>  102007029766.3 
+
+International Application Number  =>  PCT/EP2008/057913 
+
+International Publication Number  =>  WO2009/000784A1 
+
+Abstract  =>  The subject of this invention is a process for detection of analytes from biological samples comprising the following process steps: a) Preparation of a reversible binding partner 1 that is immobilized on a solid phase, to which an analyte binder is reversibly bonded via a reversible binding partner 2 that is bonded to the analyte binder, whereby the analyte binder is immobilized by binding between the reversible binding partners 1 and 2, b) Addition of the biological sample and binding of the analyte to the reversible immobilized analyte binder in the case that the biological sample contains the analytes, c) Separation of the biological sample, d) Addition of a dissolving buffer, which dissolves the binding between the reversible binding partners 1 and 2, whereby the binding of the analyte to the analyte binder remains optional, and e) Detection of the analyte in the dissolving buffer in the case that the biological sample contains the analytes and determination of the absence of the analyte in the case that the biological sample does not contain the analytes, respectively. 
+

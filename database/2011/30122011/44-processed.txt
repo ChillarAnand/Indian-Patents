@@ -1,0 +1,22 @@
+Application number  =>  2118/DELNP/2011 A 
+
+Date of filing of application number  =>  21/03/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  INTAKE MENIFOLD 
+
+Name of applicant  =>  1)AISIN SEIKI KABUSHIKI KAISHA 
+
+Name of inventor  =>  1)ITO ATSUSHI 
+
+International Classification  =>  F02B 31/00 
+
+Priority Doc No  =>  2008-320672 
+
+International Application Number  =>  PCT/JP2009/069966 
+
+International Publication Number  =>  WO 2010/071013 
+
+Abstract  =>  An intake manifold which is made of resin and configured to be connected to an intake port of a cylinder of an internal combustion engine, includes: an EGR inlet for discharging exhaust recirculation gas toward a cylinder side; and a tumble control valve which is switchable between an open position in which an intake line to the cylinder is opened and a close position in which the intake line is closed, and has an indentation that forms a gap between the tumble control valve and an inner wall of the intake line when the tumble control valve is in the close position. The intake manifold is configured so that, when the intake manifold is assembled to the internal combustion engine, in the open position and in the close position of the tumble control valve, any perpendicular line extending downward from the EGR inlet does not intersect the tumble control valve, and at the same time, in at least one of the open position and the close position of the tumble control valve, a perpendicular line extending downward from a most upstream portion of the EGR inlet in an intake direction intersects an area of the indentation. 
+

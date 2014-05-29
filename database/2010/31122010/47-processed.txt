@@ -1,0 +1,22 @@
+Application number  =>  1993/DEL/2009 A 
+
+Date of filing of application number  =>  24/09/2009 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  SYSTEM AND METHOD FOR ENHANCING PRAYER AND HEALING RITUALS 
+
+Name of applicant  =>  1)ABOUELSAADAT, WAEL 
+
+Name of inventor  =>  1)ABOUELSAADAT, WAEL 
+
+International Classification  =>  G09B19/00; 
+
+Priority Doc No  =>  12,493232 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  Interactive prayer systems are provided, which include a pad that is adapted to be repeatedly stepped upon by a user; a first detection means for detecting when the user steps on the pad; a second detection means for detecting, and for creating proximity event data based upon, when the user is standing in proximity of specific areas within the pad; a communications means for communicating touch event data and proximity event data to a computer and a computer program executing on the computer; a display means connected to the computer, which displays the scripture to the user during prayer; and a notification means embedded in the pad for notifying the user when, and if, an error in the users performance of the one or more prayer rituals is detected by the computer program. Methods of using such interactive prayer systems are also provided. 
+

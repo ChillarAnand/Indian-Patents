@@ -1,0 +1,22 @@
+Application number  =>  3115/CHENP/2011 A 
+
+Date of filing of application number  =>  06/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHODS AND SYSTEMS FOR FAST NETWORK ENTRY AND RE-ENTRY IN MULTIPLE ACCESS NETWORKS 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)DOO SEOK KIM 2)JONG RO PARK 3)JE WOO KIM 
+
+International Classification  =>  H04W28/26 
+
+Priority Doc No  =>  61/112,142 
+
+International Application Number  =>  PCT/US09/061107 
+
+International Publication Number  =>  WO 2010/053679 A1 
+
+Abstract  =>  Certain aspects of the present disclosure present techniques for requesting and granting bandwidth reservations during network entry and network reentry processes. The subscriber station transmits a request message to the base station including a bandwidth reservation for uplink allocation for at least one subsequent request messages to be transmitted. The base station transmits a response message and an uplink allocation for the at least one subsequent request message to the subscriber station. 
+

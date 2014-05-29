@@ -1,0 +1,22 @@
+Application number  =>  4114/KOLNP/2010 A 
+
+Date of filing of application number  =>  01/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  METHOD AND APPARATUS FOR PROVIDING BROADCAST SERVICE USING ENCRYPTION KEY IN A COMMUNICATION SYSTEM 
+
+Name of applicant  =>  1)SAMSUNG ELECTRONICS CO. LTD. 
+
+Name of inventor  =>  1)SELEZNEV, SERGEY NIKOLAYEVICH 2)LEE, BYUNG-RAE 3)HWANG, SUNG-OH 4)LEE, KOOK-HEUI 
+
+International Classification  =>  H04L 9/08 
+
+Priority Doc No  =>  10-2008-0031885 
+
+International Application Number  =>  PCT/KR2009/001737 
+
+International Publication Number  =>  WO 2009/145495 
+
+Abstract  =>  A method and apparatus for providing a broadcast service in a communication system is provided. The method includes creating a seed key pair including a first key and a second key, transmitting the seed key pair to a terminal to which the broadcast service is to be provided, creating a certain number of encryption keys using the seed key pair, the certain number corresponding to a lifetime of the seed key pair, encrypting broadcast service data for the lifetime using the encryption keys, and broadcasting the encrypted broadcast service data. 
+

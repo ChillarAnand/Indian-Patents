@@ -1,0 +1,22 @@
+Application number  =>  3436/DEL/2011 A 
+
+Date of filing of application number  =>  29/11/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  A METHOD AND SYSTEM FOR DETECTING INCORRECT FILLING OF A TANK FOR AN AQUEOUS UREA SOLUTION 
+
+Name of applicant  =>  1)CONTINENTAL AUTOMOTIVE GMBH 
+
+Name of inventor  =>  1)KATCHAPESWARAN, GANAPATHY KRISHNAN 
+
+International Classification  =>  G05G 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A method for detecting incorrect filling of a tank for an aqueous urea solution including the following steps: Measuring a temperature of a fluid in the tank, heating of the fluid in the tank, determining a value representing a rate of temperature change of the fluid in the tank, comparing the value to a reference value. 
+

@@ -1,0 +1,22 @@
+Application number  =>  1058/MUMNP/2011 A 
+
+Date of filing of application number  =>  25/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  WEIGHT COEFFICIENT GENERATION DEVICE, VOICE RECOGNITION DEVICE, NAVIGATION DEVICE, VEHICLE, WEIGHT COEFFICIENT GENERATION METHOD, AND WEIGHT COEFFICIENT GENERATION PROGRAM 
+
+Name of applicant  =>  1)ASAHI KASEI KABUSHIKI KAISHA 
+
+Name of inventor  =>  1)MIYAZAKI Toshiyuki 
+
+International Classification  =>  G10L 15/10 
+
+Priority Doc No  =>  2008-299220 
+
+International Application Number  =>  PCT/JP2009/069476 
+
+International Publication Number  =>  WO/2010/061751 
+
+Abstract  =>  Disclosed are a weight coefficient generation device, a voice recognition device, a navigation device, a vehicle, a weight coefficient generation method, and a weight coefficient generation program for the purpose of improving voice recognition ability with respect to place names. An address database (12) has address information data items consisting of country names, city names, street names, and house numbers, and manages the address information, which has a tree structure that indicates hierarchical relationships between place names ranging from the widest region to narrowest region. Each place name stored in the address database (12) is considered a voice recognition candidate, and the weight coefficient calculation unit (11) of a weight coefficient generation device (10) calculates a weight coefficient of the likelihood of the aforementioned recognition candidate based on the number of street names belonging to the lower hierarchical strata of the city name of the aforementioned recognition candidate. 
+

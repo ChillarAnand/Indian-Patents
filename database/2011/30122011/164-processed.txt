@@ -1,0 +1,22 @@
+Application number  =>  1074/MUMNP/2011 A 
+
+Date of filing of application number  =>  26/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  SYSTEM AND METHOD TO SELECTIVELY COMBINE IMAGES 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)ATANASSOV Kalin M. 2)LI Hsiang-Tsun 3)HWANG Hau 
+
+International Classification  =>  G06T 5/50 
+
+Priority Doc No  =>  12/340,522 
+
+International Application Number  =>  PCT/US2009/068842 
+
+International Publication Number  =>  WO/2010/071841 
+
+Abstract  =>  Systems and methods to selectively combine images are disclosed. In a particular embodiment, an apparatus includes a registration circuit configured to generate a set of motion vector data based on first image data corresponding to a first image and second image data corresponding to a second image. The apparatus includes a combination circuit to selectively combine the first image data and adjusted second image data that corresponds to the second image data adjusted according to the motion vector data. The apparatus further includes a control circuit to control the combination circuit to generate third image data. 
+

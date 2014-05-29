@@ -1,0 +1,22 @@
+Application number  =>  3020/CHENP/2011 A 
+
+Date of filing of application number  =>  03/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  TRAY FOR IMAGE READING DEVICE 
+
+Name of applicant  =>  1)SATAKE CORPORATION 
+
+Name of inventor  =>  1)HARA, MASAZUMI 2)ISHIZUKI, HIROKI 3)TAKEUCHI, HIROAKI 4)OCHI, TATSUHIKO 5)HIRANO, SHUICHI 6)ZHENG, JUN 
+
+International Classification  =>  G01N21/85 
+
+Priority Doc No  =>  2008-262366 
+
+International Application Number  =>  PCT/JP09/005064 
+
+International Publication Number  =>  WO 2010/041388 A1 
+
+Abstract  =>  A tray for granular materials allows, with the use of an image reading device such as a scanner, the dimensions in the three-axis directions, that is, the length, width, and thickness, of the granular materials to be measured inexpensively and easily. A tray used to place granular materials on a reading surface of an image reading device has provided thereto a transparent bottom plate, a background vertically upstanding relative to the bottom plate, and reflective elements arranged at predetermined intervals parallel to the background. In order to enable an imaging means of the image reading device to receive a side view image of the granular materials in the thickness direction thereof with the granular materials placed on the bottom plate of the tray, the tray is provided with a technical means for bending and guiding, by the reflective elements, light from the granular materials in the thickness direction thereof to the direction of the optical axis of the imaging means. 
+

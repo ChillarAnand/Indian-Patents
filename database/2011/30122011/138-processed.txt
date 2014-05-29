@@ -1,0 +1,22 @@
+Application number  =>  1030/MUMNP/2011 A 
+
+Date of filing of application number  =>  21/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  IMPROVEMENTS IN AN ELECTRICALLY CONTROLLED TURBOCHARGER 
+
+Name of applicant  =>  1)ECOMOTORS INTERNATIONAL INC. 
+
+Name of inventor  =>  1)HIPPEN Will 2)LAIMBOECK Franz 3)HOFBAUER Peter 4)GARRARD Tyler 
+
+International Classification  =>  F02D 23/00 
+
+Priority Doc No  =>  61/144,123 
+
+International Application Number  =>  PCT/US2010/020707 
+
+International Publication Number  =>  WO/2010/081123 
+
+Abstract  =>  An electrically controlled turbocharger has a motor mounted on a shaft in a motor housing between a turbine and compressor. Oil is sprayed onto the motor stator to cool the stator. In the case of a single shaft, a shaft stiffener is placed between the motor rotor and the shaft. Several embodiments of ECTs are discussed with single and concentric shafts as well as single and dual stages of compressors and turbines. Lubrication embodiments involve overcoming the centrifugal forces present in rotating shafts. 
+

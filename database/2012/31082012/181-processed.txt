@@ -1,0 +1,22 @@
+Application number  =>  3074/CHENP/2011 A 
+
+Date of filing of application number  =>  05/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHODS AND SYSTEMS USING SAME BASE STATION CARRIER HANDOFF FOR MULTICARRIER SUPPORT 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)MIGUEL GRIOT 2)AYMAN FAWZY NAGUIB 
+
+International Classification  =>  H04W36/00, H04L27/26 
+
+Priority Doc No  =>  61/115,015 
+
+International Application Number  =>  PCT/US2009/064323 
+
+International Publication Number  =>  WO 2010/056949 A2 
+
+Abstract  =>  Certain embodiments of the present disclosure provide a method for switching radio frequency (RF) carriers that serve communication between a base station (BS) and a mobile station (MS). The switching of carriers can be viewed as a handoff procedure between two different RF carriers within the same BS. A simplified handoff procedure for switching of RF carriers can be applied when the MS switches its physical connection from a primary RF carrier to a secondary RF carrier, as well as in the case when the BS decides to move the MS from one primary RF carrier to another primary RF carrier. 
+

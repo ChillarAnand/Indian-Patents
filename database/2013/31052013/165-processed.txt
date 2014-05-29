@@ -1,0 +1,22 @@
+Application number  =>  9949/CHENP/2011 A 
+
+Date of filing of application number  =>  29/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  MECHANISMS FOR INFORMATION EXCHANGE ACROSS CELLS TO FACILITATE RECEPTION IN A HETEROGENEOUS NETWORK 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)XIAOXIA ZHANG 2)DURGA PRASAD MALLADI 3)YONGBIN WEI 4)TAO LUO 5)HAO XU 
+
+International Classification  =>  H04B1/707 
+
+Priority Doc No  =>  61/187,589 
+
+International Application Number  =>  PCT/US2010/038882 
+
+International Publication Number  =>  WO 2010/148131 A1 
+
+Abstract  =>  A method, an apparatus, and a computer program product for wireless communication are provided in which a signal including a signal from a UE is received. System information of a neighboring eNodeB is obtained. The received signal is processed based on the system information in order to enhance the received signal with respect to the signal from the UE. 
+

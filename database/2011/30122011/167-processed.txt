@@ -1,0 +1,22 @@
+Application number  =>  1075/MUMNP/2011 A 
+
+Date of filing of application number  =>  26/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD AND APPARATUS FOR PRESSURE MEASUREMENT USING MAGNETIC PROPERTY 
+
+Name of applicant  =>  1)ROSEMOUNT INC. 
+
+Name of inventor  =>  1)WILLCOX Charles R. 
+
+International Classification  =>  G01L 9/16,G01L 13/06 
+
+Priority Doc No  =>  12/327,057 
+
+International Application Number  =>  PCT/US2009/064712 
+
+International Publication Number  =>  WO/2010/065284 
+
+Abstract  =>  A pressure sensor (56) includes a sensor body (93) which is arranged to couple to a process pressure. The sensor body (93) has a magnetic property which changes as a function of pressure applied by a process fluid. A sensor (98) is coupled to the sensor body (93) and is configured to measure pressure of fluid in the sensor body (93) as a function of a change of magnetic property of the sensor body (93). 
+

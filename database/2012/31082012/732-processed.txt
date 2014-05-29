@@ -1,0 +1,22 @@
+Application number  =>  900/MUMNP/2012 A 
+
+Date of filing of application number  =>  11/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  FILTER INSERT AND FILTER DEVICE 
+
+Name of applicant  =>  1)MANN+HUMMEL GMBH 
+
+Name of inventor  =>  1)BECKER, STEFAN 2)STEINS, OLIVER 3)MENSSEN JOERG 4)HILARIUS, KAI 
+
+International Classification  =>  B01D 45/16 
+
+Priority Doc No  =>  102009049170.8 
+
+International Application Number  =>  PCT/EP2010/064930 
+
+International Publication Number  =>  WO/2011/045220 
+
+Abstract  =>  The invention relates to a filter insert, comprising a. a filter element, having an end surface on the inlet side and an end surface on the outlet side disposed at a distance therefrom in the main flow direction, b. a frame running along the lateral surfaces of the filter element and being connected to the filter element, wherein the frame supports an axial seal, the sealing direction of which is aligned in or opposite to the main flow direction, wherein the seal can be brought into contact with a sealing surface of a filter housing in the sealing direction, the inlet side of the filter insert thus being detachable from the outlet side in a sealing manner, wherein the frame comprises a first and a second contact surface on two opposite lateral surfaces of the filter insert for clamping the filter element by means of a first and a second clamping element. The contact surfaces are aligned substantially opposite the sealing direction, wherein the contact surfaces each comprise an individual height profile running along the lateral surfaces. 
+

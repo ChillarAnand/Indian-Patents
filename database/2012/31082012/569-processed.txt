@@ -1,0 +1,22 @@
+Application number  =>  534/MUMNP/2012 A 
+
+Date of filing of application number  =>  05/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  HANDHELD LOW-LEVEL LASER THERAPY APPARATUS 
+
+Name of applicant  =>  1)MICHAEL SCHLOSSER 
+
+Name of inventor  =>  1)YONATAN GERLITZ 
+
+International Classification  =>  A61N 5/06 
+
+Priority Doc No  =>  12/534,878 
+
+International Application Number  =>  PCT/IL2010/000584 
+
+International Publication Number  =>  WO/2011/016020 
+
+Abstract  =>  A laser therapy device, including: a laser diode that is adapted to produce a monochromatic laser beam; a lens that is adapted to receive the beam directly from the laser diode and exploit the natural divergence of the laser diode to form an essentially coherent monochromatic, collimated beam; wherein the formed beam is adapted to form on a plane perpendicular to the direction of propagation of the beam an elongated illuminated area in which the length of the illuminated area is at least twice the size of the width of the illuminated area; a controller that is adapted to control activation of the laser diode; an encasement enclosing the laser diode, the lens and the controller; wherein the encasement is adapted to be hand held by the user. 
+

@@ -1,0 +1,53 @@
+ 
+The Patent Office Journal 31/08/2012 
+13886
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2851/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :27/04/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : MOBILE COMMUNICATION SYSTEM  
+  
+(51) International classification  
+:H04W48/14, 
+H04W48/16, 
+H04W84/10  
+(31) Priority Document No  :2008-283004  
+(32) Priority Date  :04/11/2008 
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date 
+:PCT/JP09/005622 
+:26/10/2009 
+(87) International Publication No  :WO 2010/052843 A1  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)MITSUBISHI ELECTRIC CORPORATION 
+      Address of Applicant :7-3, MARUNOUCHI 2-CHOME, 
+CHIYODA-KU, TOKYO 100-8310 Japan 
+(72)Name of Inventor : 
+   1)MAEDA, MIHO 
+   2)MOCHIZUKI, MITSURU 
+   3)SAEGUSA, TAIGA 
+   4)IWANE, YASUSHI 
+   5)KAKEHI, YUJI 
+   6)NAKAZAWA, MASAYUKI 
+   7)SUEMITSU, TAISEI  
+(57) Abstract : 
+A closed subscriber group (CSG) cell is a cell that allows use of subscribers. In order to receive the service by the CSG cell, a CSG-ID 
+is required to be notified to a user equipment, which cannot be obtained in a situation outside the reach of radio waves from a non-
+CSG cell. In a mobile communication system including base stations respectively provided to a CSG cell and a non-CSG cell in which 
+access is made to the CSG cell with the use of a CSG-ID issued in a case where use of the CSG cell is allowed, the base station 
+provided in the CSG cell refers to the notified identification information of a user equipment and then transmits a tracking area update 
+request from the user equipment to a core network, and the core network determines whether the user equipment is allowed to use the 
+CSG cell and, in the case where the use is allowed, transmits a signal for allowing assignment of radio resources to the user equipment 
+and the CSG-ID. The user equipment accesses the CSG cell with the use of the CSG-ED.    
+  
+No. of Pages : 228 No. of Claims : 6 

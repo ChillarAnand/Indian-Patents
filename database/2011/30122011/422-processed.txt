@@ -1,0 +1,22 @@
+Application number  =>  803/KOL/2010 A 
+
+Date of filing of application number  =>  22/07/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  DYNAMIC COMMUNITY GENERATOR 
+
+Name of applicant  =>  1)BANK OF AMERICA CORPORATION 
+
+Name of inventor  =>  1)RICHARDS, PHILLIP L. 2)ANDERSEN, DAVID M. 3)RENFRO, CHADWICK R. 4)HIGGINS, CHRISTOPHER P. 
+
+International Classification  =>  G06F21/00 
+
+Priority Doc No  =>  12/509,241 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  Embodiments of the invention are directed to systems, methods, and computer program products configured to determine communities within an organization dynamically based on the distribution of entitlements within the organization. 
+

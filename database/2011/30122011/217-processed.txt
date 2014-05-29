@@ -1,0 +1,22 @@
+Application number  =>  1000/CHENP/2011 A 
+
+Date of filing of application number  =>  11/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  SYSTEM AND METHOD FOR ENHANCED MANEUVERABILITY 
+
+Name of applicant  =>  1)G.I. VIEW LTD 
+
+Name of inventor  =>  1)BLUM Yoram 2)SHOR Eran 3)MENDELEWICZ Ran 
+
+International Classification  =>  A61B1/015, A61M25/10 
+
+Priority Doc No  =>  61/137,509 
+
+International Application Number  =>  PCT/IL2009/000748 
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention relates to an imaging apparatus comprising an elongated carrier adapted to be inserted through a proximal opening of a gastrointestinal (GI) tract lumen; a piston head, coupled to a distal portion of the carrier, and configured to: be inflated so as to form and maintain a pressure seal with a wall of the GI tract lumen, and be advanced distally through the GI tract in response to pressure from a fluid pressure source; a distal balloon coupled to the carrier distal to the piston head and configured and operable to be inflated so as to dilate the lumen thereby creating a working space; and a control unit, configured and operable to control simultaneously a pressure level within the piston head and a pressure level within the distal balloon. The control comprises maintaining a constant level...... 
+

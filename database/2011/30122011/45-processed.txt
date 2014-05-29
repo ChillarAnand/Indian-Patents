@@ -1,0 +1,22 @@
+Application number  =>  2119/DELNP/2011 A 
+
+Date of filing of application number  =>  21/03/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  OPERATION AMOUNT DETECTING APPARATUS 
+
+Name of applicant  =>  1)TOYOTA JIDOSHA KABUSHIKI KAISHA 
+
+Name of inventor  =>  1)HIROSHI ISONO 
+
+International Classification  =>  B60T 7/02 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/JP2008/071929 
+
+International Publication Number  =>  WO 2010/064304 
+
+Abstract  =>  In an operation amount detecting apparatus, a brake pedal (11) is coupled with an operation rod (15) by a coupling shaft (18), respective end portions of an elastic member (21) are supported at support positions of a brake pedal (11) by support shafts (28, 29), the brake pedal (11) is away in a direction orthogonal to an axis line direction of an operation rod (15) with respect to the coupling shaft (18), an intermediate portion of the elastic member (21) is relatively displaceably coupled by the coupling shaft (18) and a coupling hole (11a), and the elastic member (21) is disposed with output strain sensors (30a, 30b, 31a, 31b) which detect an elastic deformation amount of the elastic member (21) and output the elastic deformation amount as a brake operation amount. 
+

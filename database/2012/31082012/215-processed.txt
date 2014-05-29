@@ -1,0 +1,22 @@
+Application number  =>  3108/CHENP/2011 A 
+
+Date of filing of application number  =>  06/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  FULLY SUBMERGED INTEGRATED ELECTRIC OIL PUMP 
+
+Name of applicant  =>  1)STT TECHNOLOGIES INC., A JOINT VENTURE OF MAGNA POWERTRAIN INC. AND SWH GMBH 
+
+Name of inventor  =>  1)HADAR, GIL 2)BENNETT, ANDY 
+
+International Classification  =>  F04C2/10, F04C11/00, F04C15/00 
+
+Priority Doc No  =>  61/112,231 
+
+International Application Number  =>  PCT/CA09/001614 
+
+International Publication Number  =>  WO 2010/051640 A1 
+
+Abstract  =>  A submersible electric pump includes a housing adapted to be submerged within a fluid to be pumped having apertures extending therethrough. An electric motor stator is positioned within the housing in communication with the apertures and is adapted to be in contact with the fluid. Inner and outer pump rotors are positioned within the housing in meshed engagement with one another to pump fluid when rotated. A plurality of permanent magnets are fixed for rotation with the outer rotor. 
+

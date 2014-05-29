@@ -1,0 +1,22 @@
+Application number  =>  556/MUMNP/2012 A 
+
+Date of filing of application number  =>  06/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD AND MEANS FOR A THROWABLE GAMING CONTROL 
+
+Name of applicant  =>  1)BALL-IT OY 
+
+Name of inventor  =>  1)VAANANEN, JOHANNES 
+
+International Classification  =>  A63F 13/02 
+
+Priority Doc No  =>  09172022.7 
+
+International Application Number  =>  PCT/EP2010/063967 
+
+International Publication Number  =>  WO/2011/039086 
+
+Abstract  =>  The invention relates to a throwable gaming control (710) used in motion controlled games. In particular, the invention relates to improving the sensory performance of a throwable gaming control, when the gaming control is actually airborne during a motion controlled game. A throwable gaming control for controlling at least one event in a computer game, comprising at least one magnetic sensor(110) and at least one acceleration sensor (120) is in accordance with the invention and is characterised in that: at least one acceleration sensor(120) is arranged to the center of gravity of the game control and/or to the proximity of the center of gravity of the gaming control and at least one magnetic sensor (110) is arranged to a position of least internal magnetic noise, and/or a position of low internal magnetic noise.The best mode of the invention is considered to be the combination of an acceleration sensor (120) in the centre ofgravity of a wireless spherical mouse that in addition houses a magnetic sensor (110) in a magnetic noise free position. This sphericalmouse can be used to play for example basketball with realbasketball like movements in a computer game(70). 
+

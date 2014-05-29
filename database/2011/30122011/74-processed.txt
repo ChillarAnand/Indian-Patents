@@ -1,0 +1,22 @@
+Application number  =>  2149/DELNP/2011 A 
+
+Date of filing of application number  =>  22/03/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  POST-CURE OF MOLDED POLYURETHANE FOAM PRODUCTS 
+
+Name of applicant  =>  1)JOHNSON CONTROLS TECHNOLOGY COMPANY 
+
+Name of inventor  =>  1)JAMES T. MCEVOY 2)RYOKO YAMASAKI 3)PATRICIA MCCLARREN 4)ANTOINE A. KMEID 5)SEBASTIEN GENTIL 
+
+International Classification  =>  B29C 67/00 
+
+Priority Doc No  =>  61/099,142 
+
+International Application Number  =>  PCT/US2009/057868 
+
+International Publication Number  =>  WO 2010/033999 
+
+Abstract  =>  A method of manufacturing a foam product, the method comprising the steps of: molding the foam product by placing liquid foam materials in a mold cavity and reacting the liquid foam materials in the mold cavity to create the foam product; de-molding the foam product by removing the foam product from the mold cavity; post-curing the foam product immediately after de-molding the foam product from the mold cavity and prior to crushing the foam product, to thereby maintain the elevated core temperature of the foam product and to melt the outer surface of the foam product to form a higher density gradient thereon by continuing to heat the foam product for between approximately two and fifteen minutes to form the higher surface densification thereon and thereby reduce set damage to the foam product; rapidly cooling the foam product to enable the foam product to be compressed from approximately twenty-five to ninety-five percent of its thickness and thereby maximize the durability of the foam product; and compressing the fully cured foam product from approximately fifteen and fifty percent of its dimension when packaged for shipment. 
+

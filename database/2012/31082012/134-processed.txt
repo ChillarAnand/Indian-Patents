@@ -1,0 +1,22 @@
+Application number  =>  2992/CHENP/2011 A 
+
+Date of filing of application number  =>  02/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD AND DEVICE FOR DETERMINING TOTAL CYLINDER CHARGE AND/OR INSTANTANEOUS RESIDUAL GAS RATE IN INTERNAL COMBUSTION ENGINE HAVING EXHAUST GAS RECIRCULATION SYSTEM 
+
+Name of applicant  =>  1)ROBERT BOSCH GMBH 
+
+Name of inventor  =>  1)SCHULTE MOENTING, MARTIN 2)BERKEMER, JUERGEN 
+
+International Classification  =>  F02D41/00, F02M 25/07 
+
+Priority Doc No  =>  102008042819.1 
+
+International Application Number  =>  PCT/EP2009/063067 
+
+International Publication Number  =>  WO 2010/043531 A1 
+
+Abstract  =>  The subject matter describes a method for determining a total cylinder charge (rfrges) in cylinders (3) of an internal combustion engine (2) having an exhaust gas recirculation system (7). The method includes recirculation of exhaust gas at an introduction point (10) into an intake pipe (4) for supplying a gas mixture into the cylinders (3). Then, the total cylinder charge (rfrges) indicates an instantaneous total gas quantity in the cylinders (3). The total cylinder charge (rfrges) is determined as a function of a sum of a gas mass flow supplied to the intake pipe (4) and as a function of a first dynamic correction factor (fvisrm), which defines the dynamic characteristic of the intake pipe (4) with respect to an intake pipe pressure (ps) that develops there. 
+

@@ -1,0 +1,22 @@
+Application number  =>  9719/CHENP/2011 A 
+
+Date of filing of application number  =>  23/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  WRAPPED OPTOELECTRONIC DEVICES AND METHODS FOR MAKING SAME• 
+
+Name of applicant  =>  1)UNIVERSITY OF HOUSTON 
+
+Name of inventor  =>  1)CURRAN Seamus 2)DIAS Sampath 3)ALLEY Nigel 4)HALDAR Amrita 5)DEVI Soniya 6)KANG-SHYANG Liao 7)CHAUDHARI Prajakta 
+
+International Classification  =>  H01L 51/52 
+
+Priority Doc No  =>  61/187,131 
+
+International Application Number  =>  PCT/US2010/038723 
+
+International Publication Number  =>   
+
+Abstract  =>  In various embodiments optoelectronic devices are described herein. The optoelectronic device may include an optoelectronic cell arranged so as to wrap around a central axis wherein the cell includes a first conductive layer a semi-conductive layer disposed over and in electrical communication with the first conductive layer and a second conductive layer disposed over and in electrical communication with the semi-conductive layer. In various embodiments methods for making optoelectronic devices are described herein. The methods may include forming an optoelectronic cell while flat and wrapping the optoelectronic cell around a central axis. The optoelectronic devices may be photovoltaic devices. Alternatively the optoelectronic devices may be organic light emitting diodes. 
+

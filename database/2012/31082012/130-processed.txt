@@ -1,0 +1,22 @@
+Application number  =>  2982/CHENP/2011 A 
+
+Date of filing of application number  =>  02/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  BIOMASS CONVERSION PROCESS 
+
+Name of applicant  =>  1)KIOR, INC. 
+
+Name of inventor  =>  1)BARTEK, ROBERT 2)YANIK, STEVE 3)O'CONNOR, PAUL 
+
+International Classification  =>  C07C1/00 
+
+Priority Doc No  =>  61/111,012 
+
+International Application Number  =>  PCT/US09/063275 
+
+International Publication Number  =>  WO 2010/053989 A1 
+
+Abstract  =>  A process is disclosed including: contacting solid biomass with a first catalyst stream in a first reaction zone operated at a temperature T1 (from about 250 to about 400°C), for conversion of a portion of the solid biomass and forming a first gaseous product stream; downwardly passing unconverted biomass to a second reaction zone for contact with a second catalyst stream charged to the second reaction zone operated at a temperature T2, for conversion to form a second gaseous product stream and a spent catalyst; burning coke off the spent catalyst in a regenerator to form a regenerated catalyst; charging a portion of the regenerated catalyst to each of the first and second reaction zones, as the first and second catalyst streams, respectively; upwardly passing the second gaseous product stream to the first reaction zone; and removing both first and second gaseous product streams from the first reaction zone. 
+

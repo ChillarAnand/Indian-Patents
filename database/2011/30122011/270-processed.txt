@@ -1,0 +1,22 @@
+Application number  =>  1168/CHENP/2011 A 
+
+Date of filing of application number  =>  19/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  COMMON MODE AND UNIFIED FRAME FORMAT FOR DIFFERENT TRANSMISSION SCHEMES 
+
+Name of applicant  =>  1)QUALCOMM Incorporated 
+
+Name of inventor  =>  1)LAKKIS Ismail 
+
+International Classification  =>  H04L27/26, H04B1/40 
+
+Priority Doc No  =>  61/095,509 
+
+International Application Number  =>  PCT/US2009/056269 
+
+International Publication Number  =>   
+
+Abstract  =>  Certain aspects of the present disclosure relate to a method for generating a frame structure that can be used with multiple transmission schemes, such as a Single Carrier (SC) transmission scheme and an Orthogonal Frequency Division Multiplexing (OFDM) transmission scheme. 
+

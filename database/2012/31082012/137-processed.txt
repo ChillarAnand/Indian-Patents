@@ -1,0 +1,22 @@
+Application number  =>  3008/CHENP/2011 A 
+
+Date of filing of application number  =>  03/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  PROCESS FOR PRODUCING A POWDER OF ALUMINUM TITANATE-BASED CERAMICS 
+
+Name of applicant  =>  1)SUMITOMO CHEMICAL COMPANY, LIMITED 
+
+Name of inventor  =>  1)SUZUKI, KEIICHIRO 2)NARUMI, MASAYUKI 
+
+International Classification  =>  C01G23/00, C04B 35/46 
+
+Priority Doc No  =>  2008-260240 
+
+International Application Number  =>  PCT/JP09/067388 
+
+International Publication Number  =>  WO 2010/041648 A1 
+
+Abstract  =>  The invention is to provide a process of producing the powder of aluminum titanate-based ceramics in which the formation of fine particulate component and coarse particulate component is inhibited, and having a very sharp grain size distribution, efficiently and at good yield. The invention is a process for producing a powder of aluminum titanate-based ceramics, comprising a step of keeping a precursor mixture containing a titanium source powder, an aluminum source powder and a silicon source powder at a temperature range of from 1100°C to 1350°C for 3 hours or more, followed by a step of heating the precursor mixture up to 1400°C or more and thereafter firing, at this temperature, the precursor mixture after the keeping to obtain a fired body of aluminum titanate-based ceramics, and a step of pulverizing and classifying the fired body of aluminum titanate-based ceramics, wherein the step of pulverizing and classifying the fired body of aluminum titanate-based ceramics comprises; a step (A) of pulverizing the fired body of aluminum titanate-based ceramics with the application of an impact and classifying the pulverized ceramics to obtain a powder of aluminum titanate-based ceramics having a prescribed grain diameter or less, and a step (B) of re-pulverizing the rest of the pulverized ceramics with the application of an impact and classifying the obtained pulverized ceramics to obtain a powder of aluminum titanate- based ceramics having a prescribed grain diameter or less. 
+

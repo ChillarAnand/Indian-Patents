@@ -1,0 +1,44 @@
+ 
+The Patent Office Journal 31/08/2012 
+13548
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2749/MUMNP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :22/12/2010 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : A MONITORING SYSTEM BASED ON ETCHING OF METALS  
+  
+(51) International classification  :G01D 21/00  
+(31) Priority Document No  :61/081,763  
+(32) Priority Date  :04/06/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/046228
+:04/06/2009 
+(87) International Publication No  :WO/2009/149243  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)PATEL  G 
+      Address of Applicant :100 Wood Avenue Middlesex  New 
+Jersey 08846  UNITED STATES OF AMERICA. 
+(72)Name of Inventor : 
+   1)PATEL  G  
+(57) Abstract : 
+Compositions, devices and processes related to etching of a very thin layer or fine particles of a metal are disclosed for monitoring a 
+variety of parameters, such as time, temperature, time-temperature, thawing, freezing, microwave, humidity, ionizing radiation, 
+sterilization and chemicals These devices have capabilities of producing a long and sharp induction pe#od of an irreversible visual 
+change The devices are composed of an indicator comp#sing a very thin layer of a metalThe indicator retains its opacity and metallic 
+luster, e g, silvery white, mirror like finish of aluminum layer for a long time The activator destroys the indicator layer including the 
+naturally formed oxide layer 
+  
+  
+No. of Pages : 225 No. of Claims : 93 

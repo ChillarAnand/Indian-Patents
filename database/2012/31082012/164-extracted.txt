@@ -1,0 +1,50 @@
+ 
+The Patent Office Journal 31/08/2012 
+14006
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3040/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :04/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : AQUEOUS HYBRID DISPERSIONS  
+  
+(51) International classification  
+:C08F283/00, 
+C08F 2/24, C08F 
+289/00  
+(31) Priority Document No  :61/103,937  
+(32) Priority Date  :09/10/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/EP09/063219
+:09/10/2009 
+(87) International Publication No  :WO 2010/040844 A1  
+(61) Patent of Addition to Application Number 
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)NUPLEX RESINS B.V. 
+      Address of Applicant :SYNTHESEBAAN 1, NL-4612 RB 
+BERGEN OP ZOOM Netherlands 
+(72)Name of Inventor : 
+   1)MESTACH, DIRK, EMIEL, PAULA 
+   2)PILASZEK, WICENTLY, LAMBERTUS, STANISLAW  
+(57) Abstract : 
+The invention relates to a process for the preparation of an aqueous hybrid polymer dispersion comprising an auto-oxidatively 
+crosslinkable polymer and an addition polymer. The invention further relates to the aqueous hybrid polymer dispersion obtainable by 
+said process, the use thereof for the manufacture of coating compositions, ink compositions or adhesives and to coating compositions 
+comprising the hybrid polymer dispersion as a binder. The process comprises a first polymerization step wherein a first hybrid 
+polymer dispersion is formed by addition polymerization of vinyl monomers in the presence of dispersed auto-oxidatively 
+crosslinkable polymer and a second polymerization step wherein secondary polymerization loci are provided in the first hybrid 
+polymer dispersion to polymerise residual vinyl monomer of the first polymerisation step. The aqueous hybrid polymer dispersions 
+have very low residual vinyl monomer content by achieving a high if not full conversion of the vinyl monomers at the end of the 
+polymerization. 
+  
+  
+No. of Pages : 30 No. of Claims : 14 

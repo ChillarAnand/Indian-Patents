@@ -1,0 +1,22 @@
+Application number  =>  1353/DEL/2010 A 
+
+Date of filing of application number  =>  10/06/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  SUPERSONIC COMPRESSOR COMPRISING RADIAL FLOW PATH' 
+
+Name of applicant  =>  1)GENERAL ELECTRIC COMPANY 
+
+Name of inventor  =>  1)HOFER DOUGLAS CARL 2)NAGEL ZACHARY WILLIAM 3)HOLMES DAVID GRAHAM 
+
+International Classification  =>  F04D21/00; 
+
+Priority Doc No  =>  12/491,602 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention provides novel supersonic compressors comprising novel supersonic compressor rotors. The supersonic compressor rotors are designed to operate at very high rotational speed wherein the velocity of the gas entering the supersonic compressor rotor is greater than the local speed of sound in the gas, hence the descriptor supersonic. The new supersonic compressors comprise at least one supersonic compressor rotor defining an inner cylindrical cavity and an outer rotor rim and at least one radial flow channel allowing fluid communication between the inner cylindrical cavity and the outer rotor rim, said radial flow channel comprising a supersonic compression ramp. The novel supersonic compressor rotors are expected to enhance the performance of supersonic compressors comprising them, and to provide for greater design versatility in systems comprising such novel supersonic compressors. 
+

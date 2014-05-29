@@ -1,0 +1,46 @@
+The Patent Office Journal 30/12/2011 
+ 
+25786
+(12) PATENT APPLICATION PUBLICATION (21) Application No.87/KOL/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :21/01/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : METHODS AND DEVICES FOR IMPLANTS WITH IMPROVED CEMENT ADHESION  
+  
+(51) International classification  :A61L27/04 
+(31) Priority Document No  :12/696,880 
+(32) Priority Date  :29/01/2010
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)DEPUY PRODUCTS, INC. 
+      Address of Applicant :700 ORTHOPAEDIC DRIVE 
+WARSAW, INDIANA 46581-0988 U.S.A. 
+(72)Name of Inventor : 
+   1)WEIDONG TONG 
+   2)STEVE LEISINGER 
+   3)LAWRENCE SALVATI 
+   4)JOHN BONITATI  
+(57) Abstract : 
+Biomedical implants (e.g., orthopedic implants) with modified surfaces that can enhance a cement bond"s strength (e.g., tensile, shear, 
+and/or fatigue) are disclosed, along with methods of manufacturing and using such implants. The implants can exhibit a variety of 
+physical, chemical, or process-derived features which can enhance cement bonding. For instance, the implant surface can exhibit 
+particular roughness values, and/or be substantially free of non native material. Processes for producing such implants can include 
+providing a first roughened implant surface, which can be produced, for example, by particle blasting. A treatment formulation can be 
+applied to the first roughened surface to create a second roughened surface that exhibits enhanced cement bonding properties relative 
+to the first roughened surface. In some instances, the first roughened surface and the second roughened surface can exhibit 
+substantially similar Ra values. The second roughened surface can exhibit a negative RSk value.  
+No. of Pages : 53 No. of Claims : 10 

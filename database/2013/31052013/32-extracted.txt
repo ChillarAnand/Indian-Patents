@@ -1,0 +1,34 @@
+The Patent Office Journal 31/05/2013 12003
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3384/DEL/2011 A
+(19) INDIA
+(22) Date of filing of Application :25/11/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : A SYSTEM AND METHOD FOR VOICE SERVICES CONTENT REGISTRATION,
+ORGANISATION SEARCH AND RETRIEVAL
+(51) International classification :G11C
+(31) Priority Document No :NA
+(32) Priority Date :NA
+(33) Name of priority country :NA
+(86) International Application No
+Filing Date
+:NA
+:NA
+(87) International Publication No :NA
+(61) Patent of Addition to Application Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)MUKHERJEE SAMBHU NATH
+Address of Applicant :A 382, GROUND FLOOR,
+DEFENCE COLONY, NEW DELHI 110024 India
+(72)Name of Inventor :
+1)MUKHERJEE SAMBHU NATH
+(57) Abstract :
+The present invention generally relates to an improved voice based telecommunication system. In particular the invention relates
+to a voice based system in order to facilitate voice content registration, organisation and retrieval in voice communication network
+hierarchy.
+No. of Pages : 19 No. of Claims : 10

@@ -1,0 +1,22 @@
+Application number  =>  1906/MUM/2011 A 
+
+Date of filing of application number  =>  01/07/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  A SYSTEM AND METHOD FOR INTEGRATING BIOMETRIC AND DEMOGRAPHIC DATA 
+
+Name of applicant  =>  1)VFS GLOBAL SERVICES PVT. LTD. 
+
+Name of inventor  =>  1)LAHIRY UTTAM 
+
+International Classification  =>  G06F3/00 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The present disclosure envisages a computer implemented system for capturing and integrating biometric data item(s) and demographic data item(s) corresponding to users. The system includes a capturing module for capturing biometric data item(s) and demographic data item(s) corresponding to a first user. The captured biometric data item(s) and demographic data item(s) are temporarily stored in a repository. The system includes a user interface accessible to at least one second user and configured to display selectable biometric data item(s) and demographic data item(s) for the purpose of selection. The biometric data item(s) and demographic data item(s) specified by the user are selected from the repository by the selector and are controllably interlinked by a linker. The biometric item(s) and demographic data item(s) selected by the selector are further integrated to form an integrated profile. Subsequent to integration the biometric data item(s) and demographic data item(s) are permanently erased from the repository. 
+

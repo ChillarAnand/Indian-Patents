@@ -1,0 +1,22 @@
+Application number  =>  1054/MUMNP/2011 A 
+
+Date of filing of application number  =>  25/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  TRANSMISSION, RECEPTION AND IDENTIFICATION METHODS,SECURITY PROCESSOR AND INFORMATION RECORDING MEDIUM FOR SAID METHODS 
+
+Name of applicant  =>  1)Viaccess 
+
+Name of inventor  =>  1)CHIEZE Quentin 2)LEPORINI David 
+
+International Classification  =>  H04N 5/00 
+
+Priority Doc No  =>  FR 08/07518 
+
+International Application Number  =>  PCT/EP2009/067025 
+
+International Publication Number  =>  WO/2010/076163 
+
+Abstract  =>  The invention relates to a method for transmitting an additional datum from a security processor to an external device, in which the transmission of the additional datum is carried out by delaying (98) the beginning of an information frame transmission from the security processor to the external device for a duration depending on the value of said additional datum. 
+

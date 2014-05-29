@@ -1,0 +1,22 @@
+Application number  =>  4392/CHE/2011 A 
+
+Date of filing of application number  =>  15/12/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  SYSTEM AND METHOD FOR ESTIMATING COMPATIBILITY BETWEEN ENTITIES TO EXPLORE RELATIONSHIP 
+
+Name of applicant  =>  1)CHANDAHALLI SESHADRI IYENGAR NAGARAJAN 
+
+Name of inventor  =>  1)CHANDAHALLI SESHADRI IYENGAR NAGARAJAN 
+
+International Classification  =>  G06Q 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A system and method are provided to facilitate matching profiles of users. The system includes a questionnaire database a user information database and a profile matching module. The questionnaire database is configured to store questions wherein the questions are directed towards determining principles of users which may have a bearing on workability of a relationship. The user information database is configured to store a profile for each user based on answers provided by respective users to one or more questions selected from the questionnaire database and the profile matching module is configured to determine compatibility between profiles of at least two users for exploring the relationship. Reference figure: FIG. 3 
+

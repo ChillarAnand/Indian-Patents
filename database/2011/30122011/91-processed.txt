@@ -1,0 +1,22 @@
+Application number  =>  2165/DELNP/2011 A 
+
+Date of filing of application number  =>  23/03/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  SOOT RADIAL PRESSING FOR OPTICAL FIBER OVERCLADDING 
+
+Name of applicant  =>  1)CORNING INCORPORATED 
+
+Name of inventor  =>  1)STEVEN BRUCE DAWES 2)DOUGLAS H. JENNINGS 3)NICOLAS LEBLOND 4)CHRISTOPHER SCOTT THOMAS 
+
+International Classification  =>  C03B 37/012 
+
+Priority Doc No  =>  12/235,931 
+
+International Application Number  =>  PCT/US09/005154 
+
+International Publication Number  =>  WO 2010/036310 
+
+Abstract  =>  A method and apparatus for making an optical fiber preform. The apparatus has an outer wall and an inner wall. The outer wall surrounds the inner wall and the inner wall surrounds an inner cavity of the apparatus. A consolidated glass rod is deposited in the inner cavity after which particulate glass material, such as glass soot, is deposited in the inner cavity around the glass rod. A radially inward pressure is applied against the particulate glass material to pressurize the particulate glass material against the glass rod. 
+

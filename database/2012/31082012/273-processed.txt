@@ -1,0 +1,22 @@
+Application number  =>  3169/CHENP/2011 A 
+
+Date of filing of application number  =>  09/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  RIGHT-ANGLE CONNECTOR HAVING A SHIELDING AND METHOD FOR PRODUCING THE SHIELDING OF THE RIGHT-ANGLE CONNECTOR 
+
+Name of applicant  =>  1)ERNI ELECTRONICS GMBH 
+
+Name of inventor  =>  1)LAPPOHN, JURGEN 
+
+International Classification  =>  H01R13/658 
+
+Priority Doc No  =>  10 2008 056 586.5 
+
+International Application Number  =>  PCT/DE09/001483 
+
+International Publication Number  =>  WO 2010/051791 A1 
+
+Abstract  =>  The invention relates to a right-angle connector (20a, 20b), comprising a plurality of contact elements (50a, 50b) which are arranged next to one another and provided at the back of the right-angle connector (20a, 20b) for soldering to conductors of a printed circuit board (4), comprising an upper shielding (22a, 22b) ranged at least one the upper side of the right-angle connector (20a, 20b) and a lower shielding (34a, 34b) arranged on the lower side. The right-angle (20a, 20b) according to the invention is characterized in that the lower shielding (34a, 34b) contains a lower shielding element (36a, 36b) on the connector side, the shielding surface (37a, 37b) of said element being oriented in the connecting direction (28), the lower shielding (34a, 34b) furthermore contains a separate, rear lower shielding element (38a, 38b), and the lower shielding elements (36a, 36b, 38a, 38b) are electrically connected to each other. The method according to the invention for producing the right-angle connector (20a, 20b) uses a laser weld connection for at least the two lower shielding elements (36a, 36b, 38a, 38b). The right-angle connector (20a, 20b) according to the invention allows high-frequency signals to be conducted with high signal quality and high signal integrity. The shielding of the right angle connector (20a, 20b) according to the invention can be produced in a cost-effective manner with the method according to the invention. 
+

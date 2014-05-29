@@ -1,0 +1,46 @@
+ 
+The Patent Office Journal 31/08/2012 
+13620
+(12) PATENT APPLICATION PUBLICATION (21) Application No.533/MUM/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :26/02/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : TRANSMISSION SHAFT FOR MOVING CONTACT IN LOW VOLTAGE SWITCHGEAR  
+  
+(51) International classification  :H01H31/10 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)LARSEN & TOUBRO LIMITED 
+      Address of Applicant :L & T House  Ballard Estate  Mumbai 
+400 001  State of Maharashtra  India. 
+(72)Name of Inventor : 
+   1)PATIL  Rohit  Naresh; 
+   2)THAKUR  Pankaj  Dattatraya; 
+   3)FEGADE  Pramod  L.;  
+(57) Abstract : 
+The present invention relates to an electric pole assembly for use in switching devices composing a cassette means comprising a pair 
+of identical housing; a rotor assembly secured inside said housing. The rotor assembly comprises a pair of moving contact means (2) 
+adapted to make said switch device on and off ; a fixed contact; a rotor means (1)substantially holding said moving contact means(2); 
+a cladding means (3)substantially having a C-shaped modular profile operatively connected with said moving (2) contact means ; an 
+energy storing element (4) operatively connected with said moving contact means; a projection means(5) substantially projecting from 
+said rotor(1) ; a cavity means (6)substantially located on said rotor (1)adapted to engage with said projection of another rotor for 
+interlocking. The present invention also relates to a transmission shaft arrangement.   
+  
+  
+No. of Pages : 16 No. of Claims : 24 

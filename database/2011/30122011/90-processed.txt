@@ -1,0 +1,22 @@
+Application number  =>  2170/DELNP/2011 A 
+
+Date of filing of application number  =>  23/03/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD FOR IDENTIFYING A FACILITY ON THE GROUND OR AT SEA 
+
+Name of applicant  =>  1)THALES 
+
+Name of inventor  =>  1)CLAUDE PROVOST 2)BERTRAND SCHOENDORFF 
+
+International Classification  =>  G01S 13/78 
+
+Priority Doc No  =>  0805221 
+
+International Application Number  =>  PCT/EP2009/062333 
+
+International Publication Number  =>  WO 2010/034747 
+
+Abstract  =>  The present invention relates to a method for identifying a facility on the ground or at sea, the method being implemented on an airborne responder linked to at least two antennas, the method comprising a step of choosing a first transmission antenna (102) and then a step of transmitting an interrogation message from the chosen antenna (104), the method furthermore comprising at least the following steps: testing whether a response has been received by the responder (106): o if at least one response signal is received by at least one of the antennas, choosing a transmission antenna as a function of the response signal or signals received (110); o if no response message is received, choosing a different transmission antenna from the antenna that transmitted the last interrogation message (108); repeating the method from the step of transmitting the interrogation message (104). Figure 2 to be published. 
+

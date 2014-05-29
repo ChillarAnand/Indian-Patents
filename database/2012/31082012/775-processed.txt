@@ -1,0 +1,22 @@
+Application number  =>  975/MUMNP/2012 A 
+
+Date of filing of application number  =>  18/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  CAUGHT OBJECT DETECTION METHOD, SETTING METHOD FOR CAUGHT OBJECT DETECTION DEVICE, CAUGHT OBJECT DETCETION DEVICE, AND OPEN/CLOSE CONTROL DEVICE 
+
+Name of applicant  =>  1)MABUCHI MOTOR CO., LTD 
+
+Name of inventor  =>  1)FUJI, SHUNPEI 2)TATEGAMI, TOORU 
+
+International Classification  =>  E05F 15/16 
+
+Priority Doc No  =>  2009-248754 
+
+International Application Number  =>  PCT/JP2010/006151 
+
+International Publication Number  =>  WO/2011/052152 
+
+Abstract  =>  Disclosed is a method for detecting foreign objects caught in an opening and closing device that moves an opening and closing body by driving a motor. In detection mode, foreign objects caught in the opening and closing device are detected by comparing the signal changes and threshold value that are correlated with the rotating speed of the motor. In setting mode, the respective amounts of motor rotation used for the opening and closing body to reach a first position and a second position, which differs from the first position, from a prescribed reference position by means of driving the motor are detected; and a settings value, which was calculated on the basis of the displacement between the first position and the second position of the opening and closing body and the difference between the amounts of motor rotation respectively detected at the first position and the second position, is set as the threshold value. 
+

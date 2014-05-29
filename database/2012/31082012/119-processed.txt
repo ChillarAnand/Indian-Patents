@@ -1,0 +1,22 @@
+Application number  =>  2985/CHENP/2011 A 
+
+Date of filing of application number  =>  02/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  STABLE NANOPARTICLES AND METHODS OF MAKING AND USING SUCH PARTICLES 
+
+Name of applicant  =>  1)LIFE TECHNOLOGIES CORPORATION 
+
+Name of inventor  =>  1)TREADWAY, JOSEPH, A. 2)TULSKY, ERIC 
+
+International Classification  =>  B82B1/00, B82B 3/00 
+
+Priority Doc No  =>  61/108,425 
+
+International Application Number  =>  PCT/US09/061953 
+
+International Publication Number  =>  WO 2010/048581 A3 
+
+Abstract  =>  A population of nanoparticles is disclosed. The population is comprised of a plurality of core/shell nanocrystals, each including: a semiconductor core, an intermediate semiconductor shell layer disposed over the semiconductor core, an external semiconductor shell layer disposed over the intermediate semiconductor shell layer, and a hydrophilic organic layer in direct contact with the external semiconductor shell layer. The population of nanoparticles has a αon value of less than about 1.4. 
+

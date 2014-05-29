@@ -1,0 +1,22 @@
+Application number  =>  339/MUMNP/2012 A 
+
+Date of filing of application number  =>  09/02/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  SCRAMBLING CODE SELECTION 
+
+Name of applicant  =>  1)UBIQUISYS LIMITED 
+
+Name of inventor  =>  1)MAIDA, AMINU, WADA 2)CARTER, ALAN, JAMES, AUCHMUTY 3)PEARCEY, SIMON 4)GIUSTINA, ANDREA 
+
+International Classification  =>  H04W16/12 ,H04W88/08 
+
+Priority Doc No  =>  0914020.3 
+
+International Application Number  =>  PCT/GB2010/050998 
+
+International Publication Number  =>  WO 2011/018641 
+
+Abstract  =>  basestation forms part of a group of basestations within a cellular communications network, and selects an identifying code for use in identifying transmissions from the basestation. The basestation receives from a management node a first list of identifying codes and a second list of identifying codes, wherein the identifying codes of the first list can appear in neighbour cell lists of basestations outside said group, and wherein the identifying codes of the second list can not appear in neighbour cell lists of basestations outside said group. The basestation determines whether there is at least one identifying code either in the first list of identifying codes or the second list of identifying codes that is not used by any other basestation in said group. If there is at least one identifying code in the first list of identifying codes and at least one identifying code in the second list of identifying codes that are not used by any other basestation in said group, an identifying code from the first list of identifying codes is selected in preference to an identifying code from the second list of identifying codes. 
+

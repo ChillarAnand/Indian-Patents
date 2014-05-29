@@ -1,0 +1,22 @@
+Application number  =>  1083/MUMNP/2011 A 
+
+Date of filing of application number  =>  27/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  APPARATUS AND PROCESS FOR PERFORMING OPTICAL READINGS ON PACKAGED TEXTILEMATERIAL SUBJECTED TO DYEING 
+
+Name of applicant  =>  1)TECNORAMA S.r.l. 
+
+Name of inventor  =>  1)SCATIZZI Mario 
+
+International Classification  =>  D06B 23/10 
+
+Priority Doc No  =>  FI2009A000062 
+
+International Application Number  =>  PCT/IT2010/000100 
+
+International Publication Number  =>  WO/2010/109507 
+
+Abstract  =>  Apparatus for performing optical readings on yarn spools subjected to dyeing in a dyeing tank or machine (1) in which a spool (6) provided with a pierced axial shaft (6A) is placed with the said shaft on the outlet of a feedpipe (IM) of a circuit that feeds a dyeing bath in the same tank or machine (1), so that the dyeing bath enters the dyeing tank or machine (1) passing by the feedpipe (IM) through the shaft (6A) and is subsequently collected through collecting conduit (IR) of the same feeding circuit. The apparatus comprises optical detection means connected with electronic processing means and the said optical detection means comprise a detector (9) with an optical window (92) located inside the dyeing tank or machine (1), a base of the spool (6) being cyclically put in contact with said optical window (92), periodically, the said spool being moved towards the optical window ( 92) by means of an actuator (7) which, cyclically, moves the said shaft (6A) the said base of the spool (6) towards a part (2) of the dyeing tank or machine (1) where the said optical window (92) is located. 
+

@@ -1,0 +1,22 @@
+Application number  =>  417/MUMNP/2012 A 
+
+Date of filing of application number  =>  17/02/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  DISTRIBUTED PRE-ENRICHMENT METHOD AND SYSTEM FOR PRODUCTION OF HEAVY WATER 
+
+Name of applicant  =>  1)ISOWATER CORPORATION 
+
+Name of inventor  =>  1)STUART, ANDREW T. B. 2)MILLER, ALISTAIR I. 3)NORVAL, GRAEME 
+
+International Classification  =>  C01B 5/02 
+
+Priority Doc No  =>  12/461,025 
+
+International Application Number  =>  PCT/CA2010/001169 
+
+International Publication Number  =>  WO/2011/011876 
+
+Abstract  =>  The present invention provides a process whereby pre-enrichment of water streams using a hydrogen source and a catalytic isotope exchange method at one or more remote sites to supply water with augmented deuterium concentration to a central heavy water. This central heavy water plant could utilize any suitable heavy water production technology, including the Combined Electrolysis and Catalytic Exchange (CECE) heavy water production plant and Girdler Sulfide process. The deuterium content of water at the remote sites is increased and provides water stream(s) with augmented deuterium concentration to feed to the central heavy water production plant. This could be a first stage of the central CECE deuterium enrichment plant, increasing its capacity for heavy water production approximately in the ratio of its enrichment above natural deuterium concentrations. The invention further provides systems and methods for adapting chlorate and chlorine dioxide systems which produce hydrogen to additionally produce deuterium-enriched water. 
+

@@ -1,0 +1,22 @@
+Application number  =>  1306/CHENP/2010 A 
+
+Date of filing of application number  =>  08/03/2010 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  LABELING AND PREPARATION DEVICE FOR TEST TUBES 
+
+Name of applicant  =>  1)ENERGIUM CO., LTD 
+
+Name of inventor  =>  1)KIM, SUNG-LIM 2)KANG, JUNG-HUN 3)JU, JIN-SAM 4)LEE, KANG-HEE 5)PARK, CHANG-SOON 
+
+International Classification  =>  B01L9/06 
+
+Priority Doc No  =>  1020070091623 
+
+International Application Number  =>  PCT/KR2008/005075 
+
+International Publication Number  =>  WO 2009/035225 A1 
+
+Abstract  =>  A labeling and preparation device for test tubes. At least one storage section places at least one pallet having a set of test tubes at a preset position. At least one transfer section is disposed above the storage section, and clamps or releases one of the test tubes. A labeling section is disposed below the transfer section, receives the test tubes transferred from the transfer section, and attaches a label having information related to a sample on a circumference of each test tube. An ejection section is disposed below the labeling section, and ejects the test tubes to an outside. A controller controls drivers of the transfer section, the labeling section and the ejection section. 
+

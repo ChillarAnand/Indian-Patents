@@ -1,0 +1,22 @@
+Application number  =>  1989/MUMNP/2010 A 
+
+Date of filing of application number  =>  21/09/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  A SLIDING CLOSURE HINGE COMBINATORIAL DRIVING SPRING FOR MOBILE COMMUNICATION TERMINAL 
+
+Name of applicant  =>  1)HANGZHOU AMPHENOL PHOENIX TELECOM PARTS CO. LTD. 
+
+Name of inventor  =>  1)CHENG Guanlun 2)YAO Xin 
+
+International Classification  =>  H04M1/02 
+
+Priority Doc No  =>  200820085195.4 
+
+International Application Number  =>  PCT/CN2008/071367 
+
+International Publication Number  =>   
+
+Abstract  =>  This invention provides the combined driving spring in the slide cover hinge of mobile communication terminal. It comprises multiple springs in the same shape, the multiple springs are arranged and combined in turn on the same plane, with their both ends fixed; the driving spring is provided with connections on its both ends to match with the slide in the slide hinge. The shape of spring is similar to shape W. The driving spring provided by this invention can be directly used as a driving mechanism in slide hinge for mobile communication terminals, simplifying the structure of driving mechanism. In particular, when the spring in the shape of W is employed, the spring can not only facilitate the combination connection, but also provide a greater force. Besides, when the slide cover slides,less area is occupied when spring deforms,making it easier to arrange other parts of mobiles device. 
+

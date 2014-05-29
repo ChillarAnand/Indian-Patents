@@ -1,0 +1,44 @@
+The Patent Office Journal 30/12/2011 
+ 
+25733
+(12) PATENT APPLICATION PUBLICATION (21) Application No.741/KOL/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :08/07/2010 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : A COATING FOR A MEDICAL DEVICE HAVING AN ANTI-THROMBOTIC CONJUGATE  
+  
+(51) International classification  :C08G63/91 
+(31) Priority Document No  :12/505869 
+(32) Priority Date  :20/07/2009
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)CORDIS CORPORATION 
+      Address of Applicant :430 ROUTE 22, BRIDGEWATER, NJ 
+08807 U.S.A. 
+(72)Name of Inventor : 
+   1)JONATHON Z. ZHAO 
+   2)ROBERT FALOTICO  
+(57) Abstract : 
+A conjugate between an anti-thrombotic agent and bioabsorbaele polymer is provided. Also, a method is provided for applying a 
+coating comprising an anti-thrombotic agent and bioabsorbable polymer conjugate to at least some of an implantable device to prevent 
+or reduce formation of thrombosis on the surface of the device. A first or sub-layer of the coating is prepared by mixing polymeric 
+material and a biologically active agent with a solvent, thereby forming a homogeneous solution. A second or outer layer comprises an 
+antithrombotic heparin-bioabsorbable polymer conjugate. This coating may be applied over inner drug-containing layers using, for 
+example, dip coating or spray coating processes. After drying, the anti-thrombotic heparin bioabsorbable polymer conjugate remains 
+in the outer layer of coating, allowing agent from the inner layer to elute there throug. Also, the outmost layer prevenss thrombosis, 
+and can modulate release kinetics of agent(s) contained within inner layer(s) of the coating.  
+No. of Pages : 24 No. of Claims : 6 

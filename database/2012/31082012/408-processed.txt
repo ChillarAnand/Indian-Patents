@@ -1,0 +1,22 @@
+Application number  =>  538/DEL/2011 A 
+
+Date of filing of application number  =>  28/02/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  OPTIMIZATION OF AN ACCESS NETWORK 
+
+Name of applicant  =>  1)ALCATEL-LUCENT 
+
+Name of inventor  =>  1)HAUMIK, SOURJYA 2)NARLIKAR, GIRIJA 3)WILFONG, GORDON THOMAS 
+
+International Classification  =>  H04L 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  Embodiments of a method to optimize an access network are described. According to one embodiment, the method comprises computing an optimal outgoing configuration for all possible incoming configurations of each node in the access network. The plurality of nodes in the access network include at least one access node and one or more child nodes. A principal incoming configuration for one or more child nodes of the access network is determined based on the optimal outgoing configuration of the access node. A principal outgoing configuration corresponding to the principal incoming configuration is identified for the one or more child nodes. Further, based on the principal incoming configuration and the principal outgoing configuration of the nodes, an optimized configuration for the access network is obtained. 
+

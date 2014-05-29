@@ -1,0 +1,22 @@
+Application number  =>  998/MUMNP/2012 A 
+
+Date of filing of application number  =>  20/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  HEAT EXCHANGER FOR GENERATING STEAM FOR SOLAR POWER PLANTS 
+
+Name of applicant  =>  1)BALCKE-DURR GMBH 
+
+Name of inventor  =>  1)MR. BAND, DIRK 2)MR. HEGNER, WOLFGANG 3)MR. STAHLHUT, JORG 4)MR. TREGUBOW, VITALI 
+
+International Classification  =>  F22B 29/06 
+
+Priority Doc No  =>  09014365.2 
+
+International Application Number  =>  PCT/EP2010/006512 
+
+International Publication Number  =>  WO/2011/060870 
+
+Abstract  =>  The invention relates to a heat exchanger for generating steam for solar power plants, comprising: an outer casing with an inlet and an outlet port for a heat-emitting medium; an inlet and an outlet collector for a heat-absorbing medium, preferably water, said inlet and outlet collectors lying substantially within the outer casing; and a tube bundle within the outer casing with a number of tube layers comprising continuous tubes, which are designed such that the heat-emitting medium can flow entirely around same and which are designed as flow paths for the heat-absorbing medium from the inlet collector to the outlet collector. The tube bundle is designed in a meandering manner, wherein the heat exchanger for generating steam is designed according to the forced-flow principle so that the heat-absorbing medium, which is fed into the inlet collector, is successively pre-heated, evaporated, and superheated in the course of the flow paths so that a superheated steam exits the outlet collector. The energy required for the pre-heating, evaporation, and superheating is essentially provided entirely by the heat transfer from the heat-emitting medium to the heat-absorbing medium within the heat exchanger. 
+

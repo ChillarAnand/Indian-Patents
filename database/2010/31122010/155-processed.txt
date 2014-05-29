@@ -1,0 +1,22 @@
+Application number  =>  4134/KOLNP/2010 A 
+
+Date of filing of application number  =>  02/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  INJECTION CONTROL METHOD AND DEVICE 
+
+Name of applicant  =>  1)HETHERINGTON, HUGH 
+
+Name of inventor  =>  1)HETHERINGTON, HUGH 
+
+International Classification  =>  A61M 5/315 
+
+Priority Doc No  =>  12/078,603 
+
+International Application Number  =>  PCT/US2009/002012 
+
+International Publication Number  =>  WO 2009/123710 
+
+Abstract  =>  An injection control device having a metered/controlled injection rate proportional to the rate of withdrawal/injection, suitable for cosmetic as well as other applications is described. For example, after the cannula is advanced into an object, the cannula is withdrawn to create a tract or tunnel within the targeted area. As the cannula is withdrawn, filler material in the injection control device is uniformly deposited into the tract or tunnel via the automatic metering system. The automatic metering system incorporates a syringe activating mechanism coupled to a system which is capable of proportioning the deposition rate to the retraction/injection rate of the cannula. Accordingly, more consistent and uniform distribution of the material injected can be achieved with less cannula passes as well as requiring less dependence on the skills of the practitioner of this device. 
+

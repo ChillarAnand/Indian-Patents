@@ -1,0 +1,53 @@
+ 
+The Patent Office Journal 31/08/2012 
+13565
+(12) PATENT APPLICATION PUBLICATION (21) Application No.447/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :22/02/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : TIRE VULCANIZER  
+  
+(51) International classification  
+:B29C33/02, 
+B29C35/02, 
+B29D30/06  
+(31) Priority Document No  :2011-040726  
+(32) Priority Date  :25/02/2011 
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date 
+:PCT/JP2011/060715
+:10/05/2011 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)MITSUBISHI HEAVY INDUSTRIES, LTD. 
+      Address of Applicant :16-5, KONAN 2-CHOME, MINATO-
+KU, TOKYO 108-8215, JAPAN. 
+(72)Name of Inventor : 
+   1)HIDEKI FUKUDA 
+   2)KUNIO MATSUNAGA 
+   3)JOJI YUSA  
+(57) Abstract : 
+To provide a tire vulcanizer which is configured to slide back a lifting/sliding mechanism to a waiting position, and which is featured 
+in being capable of making uniform the squeezing force applied by the upper metal mold at the time of vulcanization. The tire 
+vulcanizer (1A), in which a green tire is put into a metal mold capable of being separated into a lower metal mold (3) and an upper 
+metal mold (4) and is then heated and pressurized so as to be finished into a shape of a cured tire, is featured by including a slide back 
+mechanism configured such that the upper metal mold (4) separated and lifted from the lower metal mold (3) installed to be fixed to a 
+base (2) is moved by an operation of a movable carriage (14) so as to reciprocate between a vulcanization position at which the upper 
+metal mold (4) is pressed toward the lower metal mold (3), and a waiting position at which the green tire can be carried in the lower 
+metal mold (3) and at which the cured tire can be carried out from the lower metal mold (3), and is featured in that the upper metal 
+mold (4) is attached below, via a squeezing cylinder mechanism (30), to a beam (11) integrated with a tie rod (13) which is vertically 
+moved by an operation of a lifting/lowering cylinder (12) along a guide hole provided in the movable carriage (14). 
+  
+  
+No. of Pages : 24 No. of Claims : 4 

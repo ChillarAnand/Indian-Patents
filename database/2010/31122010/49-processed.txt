@@ -1,0 +1,22 @@
+Application number  =>  1355/DEL/2010 A 
+
+Date of filing of application number  =>  10/06/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  TRANSVERSAL CONDUCTION LIGHTNING PROTECTION SYSTEM 
+
+Name of applicant  =>  1)GENERAL ELECTRIC COMPANY 
+
+Name of inventor  =>  1)MENDEZ HERNANDEZ YARU NAJEM 2)ROESNER ROBERT 
+
+International Classification  =>  H02G13/00; 
+
+Priority Doc No  =>  12/491,520 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A lightning protection system (50) for a wind turbine blade or aircraft wing includes a glass-reinforced fiber or carbon-reinforced wind turbine blade or aircraft wing having a tip region (12), a suction side (18), a pressure side (20), a leading edge (18) and a trailing edge (20. A substantially planar sheet of conductive or semi-conductive material (62) is disposed internal to the blade tip region or wing tip region (12) and between the suction side (18) and pressure side (20). The sheet (62) operates during a lightning discharge to form an electric field control mechanism causing the lightning discharge to attach to the tip region (12). The sheet (62) is in electrical communication or galvanic connection with a conductive or semi-conductive path such that the electric field control mechanism and the path together operate to protect the wind turbine blade or aircraft wing from damage caused by the lightning strike in the tip region (12) of the wind turbine blade or aircraft wing by controlling an electric field in the tip region (12) caused by the lightning strike. 
+

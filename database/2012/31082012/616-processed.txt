@@ -1,0 +1,22 @@
+Application number  =>  619/MUMNP/2012 A 
+
+Date of filing of application number  =>  13/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  AUTOMATIC SILTING-REMOVING METHOD FOR SHAFT SEALING DEVICE OF CONCRETE MIXER AND DEVICE THEREOF 
+
+Name of applicant  =>  1)HUNAN SANY INTELLIGENT CONTROL EQUIPMENT CO., LTD. 2)SANY HEAVY INDUSTRY CO., LTD. 
+
+Name of inventor  =>  1)YI XIUMING 2)SHEN MINGXING 3)DAI QINGLONG 
+
+International Classification  =>  B28C5/08 
+
+Priority Doc No  =>  200910176764.5 
+
+International Application Number  =>  PCT/CN2010/074283 
+
+International Publication Number  =>  WO/2011/032406 
+
+Abstract  =>  An automatic silting-removing method for shaft sealing device of concrete mixer is provided, which is that, determining whether the silting exists by detecting the oil pressure in the lubrication passage (7) of an oil passage (320) and supplying air flow to the lubrication passage (7) to remove the silting when the determining result is positive. A device for applying the above method includes a shaft sealing part (310), an oil passage part (320), an air passage part (330) and a control part (340). 
+

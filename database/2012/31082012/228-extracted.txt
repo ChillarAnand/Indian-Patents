@@ -1,0 +1,51 @@
+ 
+The Patent Office Journal 31/08/2012 
+14070
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3114/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :06/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : METHODS AND SYSTEMS FOR INTER-RAT HANDOVER IN MULTI-MODE MOBILE STATION  
+  
+(51) International classification  :H04W36/14, H04W88/06  
+(31) Priority Document No  :61/112,139  
+(32) Priority Date  :06/11/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/063183
+:03/11/2009 
+(87) International Publication No  :WO 2010/053928 A1 
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)QUALCOMM INCORPORATED 
+      Address of Applicant :INTERNATIONAL IP 
+ADMINISTRATION, 5775 MOREHOUSE DRIVE, SAN 
+DIEGO, CALIFORNIA 92121-1714 U.S.A. 
+(72)Name of Inventor : 
+   1)TOM CHIN 
+   2)GUANGMING CARL SHI  
+   3)KUO-CHUN LEE 
+   4)SERGUEI A. GLAZKO 
+   5)MATTHIAS BREHLER  
+(57) Abstract : 
+Methods provided may generally include sending a BS of a first RAT a request message indicating a set of MIMO resources to 
+reallocate; during a scan duration, communicating with the BS of the first RAT using non-reallocated MIMO resources and 
+communicating with a BS of a second RAT using reallocated MIMO resources; and during a normal duration, communicating with 
+the BS of the first RAT using the reallocated and non-reallocated MIMO resources. Apparatus provided may generally include logic 
+for receiving a request message indicating a set of MIMO resources of the MS to reallocate; logic for, during a scan duration, 
+communicating with the MS in a first transmission mode assuming the use of only non-reallocated MIMO resources by the MS; and 
+logic for, during a normal duration, communicating with the MS in a second transmission mode assuming the use of the reallocated 
+and non-reallocated MIMO resources by the MS. 
+  
+  
+No. of Pages : 33 No. of Claims : 32 

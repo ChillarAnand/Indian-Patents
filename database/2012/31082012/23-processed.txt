@@ -1,0 +1,22 @@
+Application number  =>  2061/CHE/2011 A 
+
+Date of filing of application number  =>  17/06/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  INFORMATION PROCESSING DEVICE, INFORMATION PROCESSING METHOD, AND PROGRAM 
+
+Name of applicant  =>  1)SONY CORPORATION 
+
+Name of inventor  =>  1)KENJIRO UEDA 2)KOJI YOSHIMURA 3)HIROSHI KUNO 4)TAKAMICHI HAYASHI 5)MUNETAKE EBIHARA 
+
+International Classification  =>  H04L9/32 
+
+Priority Doc No  =>  P2010-143362 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  An information processing device includes: a data processing unit that executes a process of reproducing content recorded in a medium, wherein the data processing unit acquires a token from the medium, the token being- management data corresponding to content recorded in the medium, compares a server ID recorded in the acquired token with a server ID recorded in a server certificate acquired from a server from which the management data is acquired, and halts reproduction of content when the two server IDs are not identical. 
+

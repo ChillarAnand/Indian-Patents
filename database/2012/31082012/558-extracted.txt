@@ -1,0 +1,49 @@
+ 
+The Patent Office Journal 31/08/2012 
+13617
+(12) PATENT APPLICATION PUBLICATION (21) Application No.529/MUM/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :25/02/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : A HYDRAULIC JACK SYSTEM FOR PROVIDING VARIABLE MECHANICAL ADVANTAGE TO 
+AN OPERATOR  
+  
+(51) International classification  :E02F9/22  
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  :N/A  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filed on 
+:1005/MUM/2010
+:31/03/2010  
+  
+(71)Name of Applicant :  
+   1)CROMPTON GREAVES LIMITED 
+      Address of Applicant :CG HOUSE, DR ANNIE BESANT 
+ROAD, WORLI, MUMBAI 400 030, MAHARASHTRA, INDIA.
+(72)Name of Inventor : 
+   1)KHEDKAR PARAG PRABHAKAR  
+(57) Abstract : 
+A hydraulic jack system 200 that provides the benefit of variable mechanical advantage to an operator during operation is disclosed in 
+the several embodiments of this disclosure. The system includes a jack assembly 202 having a jack piston 204 disposed within a jack 
+cylinder 206. The jack assembly 202 is connected to an oil reservoir 208 through a manually operated control valve 210. A pump 212 
+is connected to the oil reservoir 208 through a withdrawing conduit 224 for receiving oil when the pump 212 exerts a suction stroke 
+and the pump 212 is connected to the jack cylinder 206 through a dispensing conduit 226 for dispensing the received oil within the 
+jack cylinder 206 when the pump 212 exerts a compression stroke. A lever 246 is pivotally engaged within a slot 244 of a support 
+structure 242 and positioned at an end of the slot 244 formed within the support structure 242 the lever 246 is angularly displaceable 
+along a vertical plane to allow the pump 212 to exert the suction and compression stroke. The pivotable end 248 of the lever 246 is 
+capable of being slidably movable to an opposite end of the slot 244. An additional piston-cylinder arrangement 230 is securely held 
+within a jack frame and connected between the jack cylinder 206 and the pump 212 through corresponding conduits 232, free end of 
+the piston 234 having a flange member 240 fixedly connected to the pivotable end 248 of the lever 246.   
+  
+  
+No. of Pages : 19 No. of Claims : 6 

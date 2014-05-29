@@ -1,0 +1,45 @@
+ 
+The Patent Office Journal 31/08/2012 
+13956
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2974/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :02/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : ENHANCED DATA ACCESS FOR INFORMATION SYSTEMS  
+  
+(51) International classification  :G06F17/30  
+(31) Priority Document No  :08165999.7  
+(32) Priority Date  :07/10/2008 
+(33) Name of priority country  :EPO 
+(86) International Application No 
+        Filing Date 
+:PCT/FI09/050780
+:30/09/2009 
+(87) International Publication No  :WO 2010/040895 A3  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)CASSIDIAN FINLAND OY  
+      Address of Applicant :HIOMOTIE 32, FI-00380 HELSINKI 
+Finland 
+(72)Name of Inventor : 
+   1)SAVUNEN, TAPIO 
+   2)SALOVUORI, HEIKKI 
+   3)LAHTINEN, OLLI-PEKKA  
+(57) Abstract : 
+An information system that comprises a data source that transmits a data item to a group of database instances using a packet-switched 
+communication protocol in which retransmission of the data item to a data base instance is independent from reception of an 
+acknowledgement to the transmitted data item from the database instance. A database instance receives the data item from the data 
+source, stores it as a present data Item and opens access to the present data item. A data consumer queries information on the present 
+data item from the database instance and is provided with means to detect whether the Information included In a response to the query 
+Is valid or not. If the information Is not valid, the data consumer initiates a new query from another destination.   
+  
+  
+No. of Pages : 31 No. of Claims : 19 

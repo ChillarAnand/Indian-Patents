@@ -1,0 +1,22 @@
+Application number  =>  5390/DELNP/2011 A 
+
+Date of filing of application number  =>  13/07/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  A PROCESS FOR HYDROCARBON CONVERSION USING, METHOD TO MAKE, AND COMPOSITIONS OF, AN ACID CATALYST 
+
+Name of applicant  =>  1)CHEVRON U.S.A. INC. 
+
+Name of inventor  =>  1)HOMMELTOFT, SVEN IVAR 2)ELOMARI, SALEH 3)LACHEEN, HOWARD S. 
+
+International Classification  =>  B01J 31/18 
+
+Priority Doc No  =>  12/335,476 
+
+International Application Number  =>  PCT/US2009/064751 
+
+International Publication Number  =>  WO 2010/074843 
+
+Abstract  =>  A process for hydrocarbon conversion, comprising: contacting a hydrocarbon with an acid catalyst containing greater than 15 wt% conjunct polymer. The acid catalyst has a molar ratio of Al to a heteroatom selected from the group of N, P, O, S, and combinations thereof greater than 2.0. The hydrocarbon is converted during the contacting. Also a method to make a catalyst having greater than 15 wt% conjunct polymer and a high molar ratio of Al to the heteroatom, wherein an acidic ionic liquid catalyst is made that is effective for catalyzing a reaction. There are also provided catalyst compositions having greater than 15 wt% conjunct polymer. 
+

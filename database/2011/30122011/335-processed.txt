@@ -1,0 +1,22 @@
+Application number  =>  927/CHENP/2006 A 
+
+Date of filing of application number  =>  16/03/2006 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD AND APPARATUS FOR MANAGING MULTICAST DELIVERY TO MOBILE DEVICES INVOLVING A PLURALITY OF DIFFERENT NETWORKS 
+
+Name of applicant  =>  1)NOKIA CORPORATION 
+
+Name of inventor  =>  1)OOMMEN, Paul 
+
+International Classification  =>  H04Q 
+
+Priority Doc No  =>  10/665,812 
+
+International Application Number  =>  PCT/US2004/030290 
+
+International Publication Number  =>  WO 2005/029876 
+
+Abstract  =>  A data communications system includes a plurality of different networks coupled together by communication links, and further includes at least one multicast agent for coupling a multicast message transmission from a first network to a second network. The multicast agent operates to modify the multicast message transmission from a multicast protocol of the first network to a multicast protocol of the second network. The first network may be an IP network, such as a wireless IP network, and the second network may be a non-IP network, such as WLAN or a Bluetooth network. There may be at least one mobile host coupled to the second network for receiving the multicast message transmission from the multicast agent. There may be multiple intermediate networks coupled between a multicast message server and receiving mobile devices. 
+

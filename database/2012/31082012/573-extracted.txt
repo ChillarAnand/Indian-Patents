@@ -1,0 +1,48 @@
+ 
+The Patent Office Journal 31/08/2012 
+13632
+(12) PATENT APPLICATION PUBLICATION (21) Application No.544/MUM/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :28/02/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : BRAKE DISC THICKNESS VARIATION AND RUN-OUT MEASUREMENT SYSTEM  
+  
+(51) International classification  :G01G23/01 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  :N/A  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)TATA MOTERS LIMITED 
+      Address of Applicant :BOMBAY HOUSE, 24 HOMI MODY 
+STREET, HUTATMA CHOWK, MUMBAI 400 001,   
+Maharashtra India. 
+(72)Name of Inventor : 
+   1)DATTATRAYA S KAD  
+   2)MR. SOMANATHAN M 
+   3)PRAMOD P KULKARNI 
+   4)BADAL G BISEN  
+(57) Abstract : 
+A brake disc thickness variation and run-out measurement system comprising means to measure the displacement using a 
+displacement measuring device of brake rotor / disc surface with respect to a positive physical contact point established on the 
+opposite surface to the measuring surface on a brake rotor, where the brake rotor is free to rotate on its mounting axis, an arm on 
+which a C shaped block is attached, a contact pin fitted on one lug of C shaped block, whereas a provision for said displacement 
+measuring device fitment is provided on the other lug of said C shaped block and the other end of the said arm is left open, the open 
+end of the said arm is fitted to a plate, said arm can swivel upon the fitted point on the said plate, the swiveling of said arm is against a 
+spring load, a lock arrangement to arrest said swiveling of said arm whenever necessary. 
+  
+  
+No. of Pages : 13 No. of Claims : 11 

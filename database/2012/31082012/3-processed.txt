@@ -1,0 +1,22 @@
+Application number  =>  1792/CHE/2011 A 
+
+Date of filing of application number  =>  26/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  SEMICONDUCTOR DEVICE, LIQUID DISCHARGE HEAD, LIQUID DISCHARGE CARTRIDGE, AND LIQUID DISCHARGE APPARATUS 
+
+Name of applicant  =>  1)CANON KABUSHIKI KAISHA 
+
+Name of inventor  =>  1)KAZUNARI FUJII 
+
+International Classification  =>  B41J2/05 
+
+Priority Doc No  =>  2010-123302 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A semiconductor device including segments, a power supply pad and conductive patterns is provided. Each segment includes driving units for discharging a liquid. Each driving unit includes a driving circuit and an element driven by the driving circuit to apply discharging energy to the liquid. The conductive pattern includes a first conductive portion connected to the power supply pad, a second rectangular conductive portion, a third conductive portion connected to the driving units, and a connection portion which connects the second and third conductive portions. These conductive portions elongate in a first direction. In a second direction, a length of the second conductive portion is larger than a length of the first conductive portion. The second conductive portion is connected to the first conductive portion at a first corner and the connection portion at a second corner diagonal to the first corner. 
+

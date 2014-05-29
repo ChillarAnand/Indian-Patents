@@ -1,0 +1,22 @@
+Application number  =>  4469/CHENP/2011 A 
+
+Date of filing of application number  =>  23/06/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  ROTATING ELECTRIC MACHINE AND STATOR THEREOF 
+
+Name of applicant  =>  1)KABUSHIKI KAISHA TOSHIBA 
+
+Name of inventor  =>  1)KABATA, YASUO 2)FUJITA, MASAFUMI 3)MATSUYAMA, KOJI 4)GUNJI, YUUICHIRO 
+
+International Classification  =>  H02K1/32, H02K3/487 
+
+Priority Doc No  =>  2008-301924 
+
+International Application Number  =>  PCT/JP2009/006397 
+
+International Publication Number  =>  WO 2010/061611 A1 
+
+Abstract  =>  Multiple radially extending inner spacers (4T, 4S) are provided in a stator core (l) at a distance from each other in the circumferential direction at intervals between a prescribed number of stacked magnetic steel plates, and ventilation ducts (5a, 5b) for cooling gas flow are formed in the radial direction. The perimeter of each ventilation duct (5a, 5b) is defined by the inner spacers (4T, 4S) and a magnetic steel plate (9) separated by the inner spacers. The cooling gas, which flows in the rotor direction of rotation, is split laterally to both sides of a rotor coil (7) and directed toward the outer circumference. Portions of the shoulder parts of a wedge (8) are cut off such that the width of the shoulder parts of the wedge (8) at positions corresponding to the ventilation ducts (5a, 5b) roughly matches the slot width. As a result, pressure loss in the ventilation ducts of the stator core is reduced, and the stator coil and the stator core can be cooled efficiently. 
+

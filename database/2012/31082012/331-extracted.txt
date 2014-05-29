@@ -1,0 +1,48 @@
+ 
+The Patent Office Journal 31/08/2012 
+13390
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2038/MUM/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :18/07/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : EUROPIUM CHALCOGENIDE THIN FILMS BY SPRAY PYROLYSIS DEPOSITION AND 
+METHOD THEREOF  
+  
+(51) International classification  :C07F 3/00 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA
+:NA 
+(87) International Publication No  :N/A 
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA
+:NA  
+  
+(71)Name of Applicant :  
+   1)BETKAR MAHESHWAR MALLIKARJUN 
+      Address of Applicant :PHYSICS RESEARCH CENTRE, 
+M.G.M. AHMEDPUR, DIST. LATUR. PIN_413515, MS, 
+INDIA.   
+   2)DR.BAGDE G.D. 
+(72)Name of Inventor : 
+   1)BETKAR MAHESHWAR MALLIKARJUN 
+   2)DR.BAGDE G.D.  
+(57) Abstract : 
+The present invention concerns the method for preparation of europium chalcogenide thin films, deposited by spray pyrolysis. 
+Formation of thin films is based on a general formula, Ra-Cb, wherein R represents the europium and C represent a chalcogen, a and b 
+represents the proportions of europium and chalcogen respectively. The method comprises, pyrolysis of liquid precursor of said 
+europium (R) and a chalcogen (C) or liquid precursor of said euporium (R) and at least one liquid precursor of said chalcogen (C), 
+prepared in aqueous and non-aqueous solvent mediums. The liquid precursor is sprayed on hot substrate, with pre-determined 
+parameters like substrate temperature, precursor concentration, precursor composition, nozzle to substrate distance, spray rate, carrier 
+gas flow rate and pressure on the carrier gas. Scientifically important thin films of comparatively thin in thickness and of good 
+morphological characteristics are synthesized. 
+ 
+No. of Pages : 39 No. of Claims : 10 

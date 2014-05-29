@@ -1,0 +1,22 @@
+Application number  =>  3179/CHENP/2011 A 
+
+Date of filing of application number  =>  09/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  STATION SIDE DEVICE AND OPTICAL COMMUNICATION SYSTEM 
+
+Name of applicant  =>  1)MITSUBISHI ELECTRIC CORPORATION 
+
+Name of inventor  =>  1)OSUGI, MORITOMO 
+
+International Classification  =>  H04L12/44 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/JP09/001410 
+
+International Publication Number  =>  WO 2010/109542 A1 
+
+Abstract  =>  In multicast transfer in a PON system, in order to reduce the possibility that an OLT 2 has failed in getting some report messages from terminal devices 6 because of lack of its processing capability and to reduce the waste of the band due to useless transmission of multicast packets, which is caused by a delay in reporting that a terminal device 6 has left a multicast group, by taking into consideration both the message processing capability of the OLT 2 and the number of ONUs each of which has terminal devices 6 being subordinate thereto and belonging to the same multicast group, the OLT 2 dynamically changes the longest response time included in a G-Query message or an S-Query message to control the timing at which a terminal device 6 transmits a report message. 
+

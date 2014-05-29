@@ -1,0 +1,22 @@
+Application number  =>  470/MUMNP/2012 A 
+
+Date of filing of application number  =>  24/02/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  CATHETER COMPRISING A PROTECTION SYSTEM FOR ASPIRATING, FRAGMENTING AND EXTRACTING REMOVABLE MATERIAL FROM HOLLOW BODIES AND/OR VESSELS, IN PARTICULAR OF THE HUMAN AR ANIMAL BODY 
+
+Name of applicant  =>  1)STRAUB MEDICAL AG 
+
+Name of inventor  =>  1)STRAUB, IMMANUEL 2)HELLER, MATHIAS 
+
+International Classification  =>  A61B 17/3207 
+
+Priority Doc No  =>  CH1328/09 
+
+International Application Number  =>  PCT/IB2010/053816 
+
+International Publication Number  =>  WO/2011/024124 
+
+Abstract  =>  The invention relates to a device and a method for aspirating, fragmenting and extracting removable material from hollow bodies, in particular thrombi and emboli from blood vessels. To this end, a guide wire (11) is introduced into the hollow body (1) via an opening. The material is removed by means of a dissolution catheter (3) comprising a working head (6) with a stator (8) and a rotor (9), wherein the rotor (9) is connected to a flexible delivery screw (10) surrounding the guide wire (11). The circumference of the stator (8) comprises a lateral inlet opening (8a). The inlet opening (8a) of the stator (8) is designed as two circular holes disposed axially behind one another in relation to the longitudinal axis of the dissolution catheter (3). Material forced into the inlet openings (8a) and/or the aspirated and/or detached thrombi (2) and emboli shear and/or fragment between the peripheral edges of the inlet openings (8a) of the stator (8) and the rotor (9). A flexible casing (7) surrounding the delivery screw (10) and connected to the stator (8) is used to discharge the ablated material and/or the detached thrombi and emboli fragments. Before introducing the dissolution catheter (3), a sheath catheter (4) is introduced into the hollow body (1) until it lies in front of the material to be removed. The cross-section of the hollow body (1) is then closed at least partially by means of the sheath catheter (4), thus preventing detached thrombi or emboli fragments from being accidentally washed away. 
+

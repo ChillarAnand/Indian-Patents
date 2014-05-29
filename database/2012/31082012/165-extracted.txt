@@ -1,0 +1,41 @@
+ 
+The Patent Office Journal 31/08/2012 
+14007
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3041/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :04/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : NOVEL TREATMENT OF ACUTE LYMPHOBLASTIC LEUKEMIA  
+  
+(51) International classification  :C07K16/28, C07K16/46  
+(31) Priority Document No  :61/112,323  
+(32) Priority Date  :07/11/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/EP09/007970
+:06/11/2009 
+(87) International Publication No  :WO 2010/052014 A1  
+(61) Patent of Addition to Application Number 
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)MICROMET AG 
+      Address of Applicant :STAFFELSEESTR. 2, 81477, 
+MUNCHEN Germany 
+(72)Name of Inventor : 
+   1)ZUGMAIER, GERHARD 
+   2)DEGENHARD, EVELYN  
+(57) Abstract : 
+The present invention relates to a method for the treatment, amelioration or elimination of acute lymphoblastic leukemia (ALL), the 
+method comprising the administration of a pharmaceutical composition comprising a CD19xCD3 bispecific single chain antibody 
+construct to an adult patient in the need thereof. 
+  
+  
+No. of Pages : 61 No. of Claims : 17 

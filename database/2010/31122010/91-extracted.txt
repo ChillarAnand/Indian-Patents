@@ -1,0 +1,49 @@
+The Patent Office Journal 31/12/2010 
+ 
+5357
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1998/MUMNP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :21/09/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : STRIP CASTING APPARATUS WITH CASTING ROLL POSITIONING  
+  
+(51) International classification  :B22D11/06  
+(31) Priority Document No  :61/037,714  
+(32) Priority Date  :19/03/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/IB2009/000368
+:27/02/2009 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)NUCOR CORPORATION 
+      Address of Applicant :1915 Rexford Road Charlotte  North 
+Carolina 28211  United States of America   
+   2)SIEMENS AKTIENGESELLSCHAFT 
+(72)Name of Inventor : 
+   1)REES  Harold Bradley 
+   2)GRUESS  Ansgar 
+   3)EDWARDS  James D  
+(57) Abstract : 
+An apparatus and method for continuously casting thin steel strip includes a pair of counter-rotatable casting rolls laterally positioned 
+to form a nip there between through which thin cast strip can be cast, an actuator for moving each casting roll independently toward 
+and away from a reference location as desired, location sensors for sensing the location of the casting rolls relative to the given 
+reference location and producing electrical signals indicative of each casting roll position and a control system for receiving the 
+electrical signals and causing the actuator to move the casting rolls as desired. Force sensors may be provided for sensing the forces 
+exerted on the strip and producing electrical signals indicative of the sensed forces, and the control system may receive the electrical 
+signals indicative of the sensed forces and cause actuators to vary the position of the casting rolls responsive to the electrical signals as 
+desired. 
+  
+ 
+No. of Pages : 54 No. of Claims : 40 

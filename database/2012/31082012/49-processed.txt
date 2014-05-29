@@ -1,0 +1,22 @@
+Application number  =>  2853/CHENP/2011 A 
+
+Date of filing of application number  =>  27/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD AND APPARATUS FOR MIMO-BASED MULTIPLE BASE STATION COLLABORATIVE COMMUNICATION 
+
+Name of applicant  =>  1)ALCATEL LUCENT 
+
+Name of inventor  =>  1)ZHU, XIAOLONG 2)LI, DONG 3)SONG, YANG 
+
+International Classification  =>  H04B7/06 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/CN2008/001826 
+
+International Publication Number  =>  WO 2010/048745 A1 
+
+Abstract  =>  A solution for multiple base station collaborative communication in TDD (Time Division Duplex) and FDD (Frequency Division Duplex) systems is provided. To be specific, a serving base station and coordinating base station transmit detection signals with specific Multiple Input Multiple Output (MIMO) features on one or more communication resources. The mobile station measures the detection signals on the one or more communication resources and generates indication information of the recommended collaborative communication modes based on the measurement results. Preferably the indexes of the time-frequency resources corresponding to the recommended collaborative communication modes are reported to the serving base station. Then the serving base station schedules at least one of the one or more mobile stations according to the indication information reported by the one or more stations and provides MIMO communication manner for the mobile station scheduled. The coverage of the cells is improved, the cell edge user throughput is increased and the inter-cell interference between neighboring base stations is decreased by exploiting the invention. Preferably the amount of uplink feedback information is decreased and the uplink bandwidth is saved. 
+

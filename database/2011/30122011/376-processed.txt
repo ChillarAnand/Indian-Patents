@@ -1,0 +1,22 @@
+Application number  =>  1329/KOL/2010 A 
+
+Date of filing of application number  =>  24/11/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  RESERVE POWER SUPPLY WITH ELECTRODE PLATES CLIPPING WITH AUXILIARY CONDUCTORS 
+
+Name of applicant  =>  1)TAI-HER YANG 
+
+Name of inventor  =>  1)TAI-HER YANG 
+
+International Classification  =>  H01M2/26 
+
+Priority Doc No  =>  12/627,181 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention relates to one or more electrode plates, which are installed with collecting current terminals at two or more sides thereof, clipping with an auxiliary conductor made of the material with conductivity better than that of the electrode plates; in which collecting current terminals are installed at two or more sides of the auxiliary conductor, for linking with the collecting current terminals installed at two or more sides of the electrode plates, and at least one of which are used to be the general collecting current terminal to output current to the external part or to receive the input current from the external part; and there are insulators installed between the auxiliary conductor and the electrode plates to constitute an electrode unit. 
+

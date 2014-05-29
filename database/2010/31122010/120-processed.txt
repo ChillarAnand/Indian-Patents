@@ -1,0 +1,22 @@
+Application number  =>  4085/CHENP/2010 A 
+
+Date of filing of application number  =>  01/07/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  REALIZING FDD CAPABILITY BY LEVERAGING EXISTING TDD TECHNOLOGY 
+
+Name of applicant  =>  1)ALCATEL-LUCENT USA INC 
+
+Name of inventor  =>  1)GRAYBEAL, JOHN M. 2)SEYMOUR, JAMES, PAUL 
+
+International Classification  =>  H04B7/26 
+
+Priority Doc No  =>  11/972,906 
+
+International Application Number  =>  PCT/US09/000068 
+
+International Publication Number  =>  WO 2009/089003 A1 
+
+Abstract  =>  Systems and methods are disclosed for using two TDD carriers in the same paired spectrum by offsetting the DL and UL transmissions in frequency to cause the TDD carriers to behave as two half-duplex FDD carriers. DL and UL transmission and reception periods are predefined such that only one of the TDD carriers is transmitting on the DL at any instant in time while the other TDD carrier is transmitting on the UL. 
+

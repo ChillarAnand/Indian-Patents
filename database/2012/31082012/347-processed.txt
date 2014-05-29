@@ -1,0 +1,22 @@
+Application number  =>  2443/MUM/2011 A 
+
+Date of filing of application number  =>  02/09/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  RAPID CURING OF RESIN BONDED GRINDING WHEELS USING DUAL FUNCTION OF MICROWAVE SUSCEPTOR 
+
+Name of applicant  =>  1)PRADEEP METALS LTD. 
+
+Name of inventor  =>  1)MR. PRADEEP GOYAL 2)MR. RITESH JAISWAL 3)DR. SHIVANAND BORKAR 
+
+International Classification  =>  c09k 3/14 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  Rapid microwave curing of resin bonded grinding wheels using multifunctional sample holders made from microwave susceptor materials involving accelerated and volumetric controlled heating for curing of resin bonded grinding wheels. Rapid curing of grinding wheels by exposing them to the electromagnetic radiations (EMR) in microwaves frequency in the range of 900 to 3000 MHz, more particularly in the range2450 ±50 MHz. Susceptors are not only used as sample separators but also absorb microwaves effectively and efficiently at room temperature, which in turn heat the grinding wheels initially and then microwaves heat them volumetrically and rapidly. They also act as load that maintain the final geometry of the grinding wheel after curing, and absorb reflected microwaves from metallic constituents present in the grinding wheel. The microwave susceptor material used in the present invention is carbon bearing material e.g. graphite and/or silicon carbide. The microwave process provides an attractive alternative route to the curing of grinding wheels rapidly and economically. 
+

@@ -1,0 +1,44 @@
+The Patent Office Journal 31/12/2010 
+ 
+5387
+(12) PATENT APPLICATION PUBLICATION (21) Application No.4086/CHENP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :01/07/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : OVERLOAD CONTROL METHOD FOR A WIRELESS CELLULAR NETWORK  
+  
+(51) International classification  :H04W72/08  
+(31) Priority Document No  :12/007,516  
+(32) Priority Date  :11/01/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US09/000059
+:07/01/2009 
+(87) International Publication No  :WO 2009/088999 A1  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)ALCATEL-LUCENT USA INC. 
+      Address of Applicant :600-700 MOUNTAIN AVENUE, 
+MURRAY HILL, NEW JERSEY 07974-0636. U.S.A. 
+(72)Name of Inventor : 
+   1)BACHL, RAINER, WALTER 
+   2)CHENG, FANG-CHEN 
+   3)LEE, JUNG AH  
+(57) Abstract : 
+A method may include determining a metric for at least one physical resource block of a wireless cellular network in at least a one 
+cell. Each physical resource block may include a set of frequencies, and/or the metric may be based on interference on the at least one 
+physical resource block in the at least one cell. A determination of whether the metric violates a metric threshold may be made, and an 
+overload indicator may be sent to at least one other cell if the metric violates the metric threshold. 
+  
+  
+No. of Pages : 22 No. of Claims : 10 

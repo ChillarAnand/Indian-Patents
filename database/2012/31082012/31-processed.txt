@@ -1,0 +1,22 @@
+Application number  =>  2849/CHENP/2011 A 
+
+Date of filing of application number  =>  27/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD FOR DETERMINING THE STATE OF CHARGE OF A BATTERY IN CHARGING OR DISCHARGING PHASE 
+
+Name of applicant  =>  1)COMMISSARIAT A I'ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES 2)INSTITUT POLYTECHNIQUE DE GRENOBLE 
+
+Name of inventor  =>  1)MINGANT, REMY 2)LEFROU, CHRISTINE 3)REYNIER, YVAN 
+
+International Classification  =>  G01R31/36 
+
+Priority Doc No  =>  0806045 
+
+International Application Number  =>  PCT/EP09/007732 
+
+International Publication Number  =>  WO 2010/049148 A1 
+
+Abstract  =>  Method for determining the state of charge of a battery in charging or discharging phase The method for determining the state of charge of a battery comprises measurement of an electric parameter of the battery during a charging or discharging phase of the battery followed by placing the battery in open circuit during a rest period (t0-t3). During the rest period (t0-t3), at least two values of the voltage at the battery terminals are measured. An indicator is then calculated according to the electric parameter and to values of the voltage measured during the rest period, and the state of charge corresponding to this indicator is then determined by means of a calibration curve representative of the variations of the indicator as a function of the state of charge of the battery. 
+

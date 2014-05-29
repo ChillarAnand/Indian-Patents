@@ -1,0 +1,22 @@
+Application number  =>  1078/MUMNP/2012 A 
+
+Date of filing of application number  =>  27/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  MATERIAL FEEDING APPARATUS WITH GRIPPING MEMBER LINKAGE AND METHOD OF OPERATION 
+
+Name of applicant  =>  1)VAMCO INTERNATIONAL, INC. 
+
+Name of inventor  =>  1)JOSEPH P. GENTILE 2)BRYAN P. GENTILE 3)MARTIN. VAUGHN H. 
+
+International Classification  =>  B65H 20/18 
+
+Priority Doc No  =>  61/256,556 
+
+International Application Number  =>  PCT/US2010/054969 
+
+International Publication Number  =>  WO/2011/053911 
+
+Abstract  =>  A gripper type feeding apparatus for the intermittent feeding of a workpiece. The apparatus includes a first linearly guided gripper mechanism which is movable in a first direction of workpiece feeding and in a second direction opposite to the first direction. The first gripper mechanism includes a first gripping member and a second gripping member wherein the second gripping member is movable relative to the first gripping member for gripping the workpiece. The apparatus includes a first release actuator for moving the second gripping member of the first gripper mechanism in a direction relative to the first gripping member of the first gripper mechanism. The apparatus includes a first release connecting link with a first end pivotally connected at a first pivot axis to the first release actuator and with a second end pivotally connected at a second pivot axis to the second gripping member of the first gripper mechanism. 
+

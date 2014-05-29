@@ -1,0 +1,22 @@
+Application number  =>  1018/MUMNP/2011 A 
+
+Date of filing of application number  =>  19/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  APPARATUS AND METHODS FOR DETERMINING CONNECTION QUALITY OF A WIRELESS DEVICE ON A WIRELESS COMMUNICATIONS NETWORK 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)FOK Kenny 2)YIP Eric Chi Chung 3)HWANG Jihyun 4)GUELLEC Lenaig Genevieve 
+
+International Classification  =>  H04W 28/04 
+
+Priority Doc No  =>  11/078,235 
+
+International Application Number  =>  PCT/US2006/008320 
+
+International Publication Number  =>  WO/2006/099001 
+
+Abstract  =>  Apparatus and methods for determining a connection quality of a wireless device with a wireless communications network comprise a user manager operable to receive a plurality of communications messages as recorded by the wireless device, where the plurality of communications messages comprise messages transmitted from and received by the wireless device via the wireless communication network. Further, a connection quality module associated with the user manager is operable to generate a connection quality record comprising a connection quality characteristic based on a detection of a predetermined sequence of communications messages within the plurality of communications messages. Optionally, an optimization module may generate a configuration change for the wireless device and/or a network component based on the connection quality characteristic. 
+

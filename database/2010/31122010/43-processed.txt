@@ -1,0 +1,22 @@
+Application number  =>  1455/DEL/2010 A 
+
+Date of filing of application number  =>  23/06/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  MULTISTAGE COMPRESSOR INSTALLATION 
+
+Name of applicant  =>  1)PRAXAIR TECHNOLOGY, INC. 
+
+Name of inventor  =>  1)ROBERT LEROY BAKER 2)JEFFREY CHARLES GOODBAND 3)RICHARD JOHN JIBB 4)JOHN HENRI ROYAL 
+
+International Classification  =>  F04D17/12; 
+
+Priority Doc No  =>  12/490,819 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A multistage compressor installation in which compression stages utilizing centrifugal compressors are independently driven by drivers that can be electric motors configured to be controlled by a speed controller. Intercoolers are located between stages to remove the heat of compression and the stages are connected such that outlets are located opposite to inlets of the compressors and conduits connecting the intercoolers to the stages are in an in-line relationship to inhibit the formation of pressure drops between stages. The conduits connecting the stages incorporate tapered transition sections configured such that flow velocity gradually decreases towards the intercooler and gradually increases from the intercooler to the next succeeding compression stage to further inhibit pressure drops. 
+

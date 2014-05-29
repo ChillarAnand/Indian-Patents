@@ -1,0 +1,22 @@
+Application number  =>  989/MUMNP/2012 A 
+
+Date of filing of application number  =>  19/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  CONTROLLING MOBILITY IN CELLULAR NETWORKS 
+
+Name of applicant  =>  1)UBIQUISYS LIMITED 
+
+Name of inventor  =>  1)GIUSTINA, ANDREA 2)AL HOUSAMI, HOUSAM 
+
+International Classification  =>  H04W 24/02 
+
+Priority Doc No  =>  0918215.5 
+
+International Application Number  =>  PCT/GB2010/051756 
+
+International Publication Number  =>  WO/2011/048410 
+
+Abstract  =>  A cellular basestation can select its own mobility parameters in order to achieve desirable effects in terms of the overall network performance. When a cellular basestation forms part of a group of such basestations on a single local area network, it can receive information from the other basestations in the group, for example relating to the loading on the other basestations, and can use this information in order to set mobility parameters. Where the basestation receives loading information from other basestations in the group, it can set mobility parameters so that a user equipment device becomes less likely to select a more highly loaded cell, and more likely to select a less highly loaded cell. 
+

@@ -1,0 +1,45 @@
+The Patent Office Journal 31/12/2010 
+ 
+5433
+(12) PATENT APPLICATION PUBLICATION (21) Application No.4118/KOLNP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :02/11/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : THICKNESS MEASURER FOR METAL SHEET AND RELATIVE MEASURING METHOD  
+  
+(51) International classification  :G01B 15/02  
+(31) Priority Document No  :UD2008A000072  
+(32) Priority Date  :04/04/2008 
+(33) Name of priority country  :Italy 
+(86) International Application No 
+        Filing Date 
+:PCT/EP2009/053901
+:01/04/2009 
+(87) International Publication No  :WO 2009/121916  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)DANIELI AUTOMATION SPA 
+      Address of Applicant :VIA BONALDO STRINGHER, 4, I-
+33042 BUTTRIO, ITALY 
+(72)Name of Inventor : 
+   1)CIANI, LORENZO  
+(57) Abstract : 
+Thickness measures for metal elements(11), comprising a source device(20), able to emit a bundle(F) of ionizing radiations, at a 
+predetermined or predeterminable intensity, a receiver device(24), disposed on an opposite side with respect to the metal element(11) 
+and suitable to detect the residual intensity of the bundle(F) of ionizing radiations. The measurer comprises a cooling device, 
+associated with the source device(20). The cooling device comprises a heat pump element(30), to remove heat from the source 
+device(20) so as to keep the source device(20) at a predetermined and controlled temperature. The thickness measurer also comprises 
+detection means (46, 124) for the direct or indirect detection of the intensity, or the variation in intensity, of the bundle (F) emitted by 
+the source device (20). The detection means (46,124) is associated with the heat pump element(30), in order to keep the emission of 
+the bundle(F) of ionizing radiations stable.  
+ 
+No. of Pages : 17 No. of Claims : 16 

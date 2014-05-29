@@ -1,0 +1,22 @@
+Application number  =>  4198/KOLNP/2010 A 
+
+Date of filing of application number  =>  08/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  WEDGE IMPRINT PATTERNING OF IRREGULAR SURFACE 
+
+Name of applicant  =>  1)MASSACHUSETTS INSTITUTE OF TECHNOLOGY 2)1366 TECHNOLOGIES INC. 
+
+Name of inventor  =>  1)POLITO, BENJAMIN, F. 2)GATES, HOLLY, G. 3)SACHS, EMANUEL, M. 
+
+International Classification  =>  B29C 59/02 
+
+Priority Doc No  =>  61/124,608 
+
+International Application Number  =>  PCT/US2009/002423 
+
+International Publication Number  =>  WO 2009/128946 
+
+Abstract  =>  Patterned substrates for photovoltaic and other uses are made by pressing a flexible stamp upon a thin layer of resist material, which covers a substrate, such as a wafer. The resist changes phase or becomes flowable, flowing away from locations of impression, revealing the substrate, which is subjected to some shaping process, typically etching. Portions exposed by the stamp being are removed, and portions that protected by the resist, remain. A typical substrate is silicon, and a typical resist is a wax. Workpiece textures include extended grooves, discrete, spaced apart pits, and combinations and intermediates thereof. Platen or rotary patterning apparatus may be used. Rough and irregular workpiece substrates may be accommodated by extended stamp elements. Resist may be applied first to the workpiece, the stamp, or substantially simultaneously, in discrete locations, or over the entire surface of either. The resist dewets the substrate completely where desired. 
+

@@ -1,0 +1,22 @@
+Application number  =>  1206/CHENP/2011 A 
+
+Date of filing of application number  =>  21/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  Method and Apparatus for Managing a New Data Indicator in a Wireless Communication System 
+
+Name of applicant  =>  1)QUALCOMM Incorporated 
+
+Name of inventor  =>  1)HO Sai Yiu Duncan 2)MEYLAN Arnaud 
+
+International Classification  =>  H04L1/18 
+
+Priority Doc No  =>  61/095,676 
+
+International Application Number  =>  PCT/US2009/056547 
+
+International Publication Number  =>   
+
+Abstract  =>  Systems and methodologies are described herein that facilitate techniques for managing respective original transmissions and re- transmissions of information within a wireless communication system. Various mechanisms are described herein for processing a new data indicator (NDI) associated with respective transmissions conducted for one or more Hybrid Automatic Repeat Request (HARQ) processes. For example, for a HARQ process shared between distinct scheduling schemes, an NDI associated with a latter transmission can be regarded as toggled irrespective of the value of the NDI upon recognizing that a utilized scheduling scheme (e.g., as indicated via a radio network temporary identifier (RNTI) or the like) has changed between successive transmissions (e.g., from semi-persistent scheduling to dynamic scheduling), thereby allowing processing of the latter transmission as a transmission of new data. As additionally described herein, various techniques are described herein for NDI processing in the case of uplink grant and downlink assignment transmission 
+

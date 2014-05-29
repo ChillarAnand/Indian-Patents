@@ -1,0 +1,45 @@
+The Patent Office Journal 31/12/2010 
+ 
+5394
+(12) PATENT APPLICATION PUBLICATION (21) Application No.915/MAS/2001 A 
+(19) INDIA  
+(22) Date of filing of Application :09/11/2001 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : AN IMPROVED DATA LOGGING SYSTEM  
+  
+(51) International classification  :G06F17/40 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)SATYAM COMPUTER SERVICES LTD 
+      Address of Applicant :SATYAM TECHNOLOGY CENTER 
+BAHADURPALLY, R R DIST ,PINCODE 500 043 Andhra 
+Pradesh India 
+(72)Name of Inventor : 
+   1)PRASAD AMIT 
+   2)RAI LALIT 
+   3)CHAKRAVARTHI KVS  
+(57) Abstract : 
+An improved data logging system for logging the movement of vehicles, comprising an antenna 1 and a global positioning system 
+GPS receiver 3 mounted on top of a vehicle to be logged; a data logging unit 2 for receiving information from said GPs  
+receiver 3 and transferring  to a  central processing unit CPU 11; characterized in that; said data logging unit 2 comprises a switch 10 
+for setting the sampling rate, a controller 7 for deleting any unwanted data received, and a flash memory 9 for transferring the 
+information received from said GPS receiver to said CPU 11 for generating detailed reports on vehicle information. 
+  
+  
+No. of Pages : 12 No. of Claims : 12 

@@ -1,0 +1,22 @@
+Application number  =>  542/MUM/2011 A 
+
+Date of filing of application number  =>  28/02/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  WALL MOUNTED SPEED REGULATOR FOR A BLDC MOTOR DRIVEN CEILING FAN 
+
+Name of applicant  =>  1)INDIAN INSTITUTE OF TECHNOLOGY, BOMBAY 
+
+Name of inventor  =>  1)ANAND SANDEEP 2)FERNANDES BAYTON GODFREY 
+
+International Classification  =>  H02H7/122; H02P27/00 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  Wall mounted speed regulator for a BLDC motor driven ceiling fan. The regulator (1) comprises an AC-DC converter (2) mounted on a wall and connected to an AC supply (3) and to a DC controller (4) provided with a speed controller knob (5). A DC-AC converter (6) is mounted in the housing of the BLDC motor (7) and connected to the AC-DC converter by cables (8) and to the BLDC motor by cables (9) 
+

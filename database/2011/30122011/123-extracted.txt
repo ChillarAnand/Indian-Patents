@@ -1,0 +1,47 @@
+The Patent Office Journal 30/12/2011 
+ 
+25460
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1006/MUMNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :19/05/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : PULSATILE MEDICAL DEVICE DESIGNED TO BE USED IN EXTRACORPOREAL SURGERY  
+  
+(51) International classification  :A61M 1/10,A61M 1/36  
+(31) Priority Document No  :0858546  
+(32) Priority Date  :12/12/2008 
+(33) Name of priority country  :France 
+(86) International Application No 
+        Filing Date 
+:PCT/EP2009/066994
+:11/12/2009 
+(87) International Publication No  :WO/2010/066899  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)NOUR  Sayed 
+      Address of Applicant :48 rue  Martial Boudet  92370 
+CHACILLE   France 
+(72)Name of Inventor : 
+   1)NOUR  Sayed  
+(57) Abstract : 
+The invention relates to a pulsatile medical device (101; 201; 301; 401; 501) permitting the circulation of a flow of blood. According 
+to the invention, the device comprises: an outer tube (2) having an inner wall (5), an outer wall (4) and two ends (6, 7), one end (6) 
+being designed to be connected to a machine of the ECC type or to a system for cardiac assistance or to the body of the patient, and 
+one end (7) being designed to be connected to the body of the patient; an inner tube (103) inserted into said outer tube (2) and having 
+an inner wall (109), an outer wall (108), and two ends (110, 111) that are fixed all around their periphery to the outer tube (2), about 
+the entire periphery thereof, the flow of blood circulating through said inner tube (103); the outer wall (108) of the inner tube (103) 
+and the inner wall (5) of the outer tube (2) defining a space (12) designed to be filled with fluid, it being possible for said space (12) to 
+be attached via a connector port (13) to an apparatus that can generate one or more inflations/deflations of said space (12) so as to 
+create one or more pulses of the blood flow. 
+  
+ 
+No. of Pages : 28 No. of Claims : 10 

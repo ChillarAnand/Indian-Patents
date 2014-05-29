@@ -1,0 +1,22 @@
+Application number  =>  760/KOL/2010 A 
+
+Date of filing of application number  =>  12/07/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD AND APPARATUS FOR GENERATING RANGING PREAMBLE CODE IN WIRELESS COMMUNICATION SYSTEM 
+
+Name of applicant  =>  1)LG ELECTRONICS INC. 
+
+Name of inventor  =>  1)LEE, HYUN WOO 2)KWON, YEONG HYEON 3)CHO, HAN GYU 4)KWAK, JIN SAM 5)HAN, SEUNG HEE 
+
+International Classification  =>  H04W68/02 
+
+Priority Doc No  =>  61/225,212 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A method and apparatus of generating a ranging preamble code in a wireless communication system is provided. A mobile station (MS) receives ranging channel information, and generates the ranging preamble code by selecting one of a plurality of candidate ranging preamble codes based on the ranging channel information. The plurality of candidate ranging preamble codes are based on a Zadoff-Chu (ZC) sequence of which a length is NRP and a root index is rp, and The ranging channel information comprises at least one of a start root index r0 among root indices of the plurality of candidate ranging preamble codes and a control parameter y indicating the start root index. 
+

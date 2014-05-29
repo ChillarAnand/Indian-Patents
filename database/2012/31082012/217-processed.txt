@@ -1,0 +1,22 @@
+Application number  =>  3110/CHENP/2011 A 
+
+Date of filing of application number  =>  06/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  ETHYLENE-α-OLEFIN COPOLYMER AND MOLDED OBJECT THEREOF 
+
+Name of applicant  =>  1)SUMITOMO CHEMICAL COMPANY, LIMITED 
+
+Name of inventor  =>  1)NOZUE, YOSHINOBU 2)KAWASHIMA, YASUTOYO 3)OCHI, NAOKO (NEE NUMAO) 4)OGANE, TAKUYA 
+
+International Classification  =>  C08F210/02 
+
+Priority Doc No  =>  2008-288496 
+
+International Application Number  =>  PCT/JP09/069418 
+
+International Publication Number  =>  WO 2010/055935 A1 
+
+Abstract  =>  The purpose of the invention is to provide an ethylene-a-olefin copolymer, which has a high melt tension but a small neck-in, and a molded object produced by extrusion molding of the copolymer. An ethylene-a-olefin copolymer having a monomer unit based on ethylene and a monomer unit based on an a-olefin having 3 to 20 carbon atoms, which has a melt flow rate (MFR) of 0.1 to 100 g/10 min, a density (d) of 850 to 940 kg/m3, a ratio (Mw/Mn) of weight average molecular weight (Mw) to number average molecular weight (Mn) of 2 of 12, and a valve g defined by the following formula (I) of 0.50 to 0.75: equation 
+

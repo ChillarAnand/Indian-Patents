@@ -1,0 +1,38 @@
+The Patent Office Journal 31/05/2013 12001
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3403/DEL/2011 A
+(19) INDIA
+(22) Date of filing of Application :28/11/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : METHOD AND SYSTEM FOR DETERMINING SECURE ACCESS TO SPECIFIC WEB PAGES
+IN A WEB SERVER
+(51) International classification :G06M
+(31) Priority Document No :NA
+(32) Priority Date :NA
+(33) Name of priority country :NA
+(86) International Application No
+Filing Date
+:NA
+:NA
+(87) International Publication No :NA
+(61) Patent of Addition to Application Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)RARENDRA PRATAP SINGH
+Address of Applicant :301 SAPPHIRE COURT, ESSEL
+TOWERS, GURGAON - 122002, HARYANA, INDIA
+(72)Name of Inventor :
+1)RARENDRA PRATAP SINGH
+(57) Abstract :
+The various embodiments of the present invention provide a method and system for determining secure access to specific web
+pages in a web server. According to an embodiment of the present invention, the user using a web client logs in to a web
+application that is hosted on the web server with a valid credential. On successful authentication a web session is created
+comprising of a list of web page links that are accessible by the current web client user. The first page which the valid web client
+user is redirected to after successful login is registered in the web server as accessible to the valid web client user and any
+redirections from the accessible web page are also registered in the web server as accessible to the valid web client user by
+checking the web page id and the web page name in the current web session. FIG. 1 is selected.
+No. of Pages : 27 No. of Claims : 12

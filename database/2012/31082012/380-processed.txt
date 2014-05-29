@@ -1,0 +1,22 @@
+Application number  =>  5340/DELNP/2011 A 
+
+Date of filing of application number  =>  11/07/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD OF INDUCING CLEAVAGE OF AMYLOID PRECURSOR PROTEIN TO FORM A NOVEL FRAGMENT 
+
+Name of applicant  =>  1)THE REGENTS OF THE UNIVERSITY OF CALIFORNIA 2)ZENYAKU KOGYO KABUSHIKIKAISHA 
+
+Name of inventor  =>  1)OLTERSDORF Tilman 2)WEBER Eckard 3)GREEN Kim Nicholas 
+
+International Classification  =>  C07K 
+
+Priority Doc No  =>  61/122,705 
+
+International Application Number  =>  PCT/US2009/068010 
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention provides a method of inducing cleavage of amyloid precursor protein to produce an approximately 17 kilodalton carboxy-terminal fragment of amyloid precursor protein in a subject, the method comprising administering a heterocyclic compound or a pharmaceutically acceptable salt, hydrate or prodrug thereof to a subject in need thereof, wherein the approximately 17 kilodalton fragment includes the carboxyterminal amino acid sequence of amyloid precursor protein and amyloid-beta amino acid sequence. Also provided is a screening method for identifying compounds induce cleavage of amyloid precursor protein to produce the approximately 17 kilodalton carboxy-terminal fragment of amyloid precursor protein. 
+

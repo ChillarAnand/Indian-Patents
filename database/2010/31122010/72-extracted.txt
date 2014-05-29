@@ -1,0 +1,45 @@
+The Patent Office Journal 31/12/2010 
+ 
+5338
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1500/MUM/2009 A 
+(19) INDIA  
+(22) Date of filing of Application :24/06/2009 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : TENSION ADJUSTMENT STRUCTURE FOR FABRIC WINDING MACHINE  
+  
+(51) International classification  :G10D3/00 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)PAILUNG MACHINERY MILL CO., LTD 
+      Address of Applicant :NO.8, TING-PING ROAD, JUI-FANG 
+TOWN, TAIPEI HSIEN, TAIWAN  
+(72)Name of Inventor : 
+   1)SHIN-CHI CHEN  
+(57) Abstract : 
+A tension adjustment structure for fabric winding machine includes a driving mechanism (20), a roller (30), a fabric pressing 
+mechanism (40) and an adjustment mechanism. The roller (30) and the driving mechanism (20) have corresponding transmission 
+wheels (101, 102) strode by a belt (103). The driving mechanism (20) drives the roller (30) to roll up a fabric (90). The fabric pressing 
+mechanism (40) has an action arm (41) and a-fabric pressing bar (42) located on the action arm (41). The fabric pressing bar (42) has a 
+first position without in contact with the fabric (90) and a second position in contact with the fabric (90) and lifted by the fabric. The 
+adjustment mechanism is butted by the action arm (41) when the fabric pressing bar (42) is at the first position to butt the belt (103) 
+and increase initial rolling force of the roller (30). The action arm (41) releases the belt (103) while the fabric pressing bar (42) is at 
+the second position so that fabric rolling tightness can be controlled. 
+  
+  
+No. of Pages : 25 No. of Claims : 9 

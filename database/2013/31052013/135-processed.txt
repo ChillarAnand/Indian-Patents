@@ -1,0 +1,22 @@
+Application number  =>  988/CHE/2009 A 
+
+Date of filing of application number  =>  29/04/2009 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  PACKET ROUTING METHOD, PROXY SERVER AND APPARATUS 
+
+Name of applicant  =>  1)HEWLETT-PACKARD DEVELOPMENT COMPANY, L.P. 
+
+Name of inventor  =>  1)VENKITARAMAN SARMA 
+
+International Classification  =>  H04L 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A method is described of routing a packet comprising routing information between a mobile host and a correspondent host in respective first and further network domains, at least the first network domain comprising a plurality of II- subnets, said hiobile host being attached to one of said subnets. The method 1 1 comprises registering the mobile host with the first network domain, lisaid . - i) registration including assigning a global IP address and a local IP address foresaid mobile host, said local IP address being associated with the subnet to which the mobile host is attached; communicating said local IP address to said mobile host; using the global IP address as the routing information between the domains; ij reformatting said packet by replacing the global IP address with the local IP i address upon receipt of the packet in the first network domain; and communicating the reformatted request to the mobile host via the associated subnet. A proxy server and apparatus for use in this method are also disclosed. 
+

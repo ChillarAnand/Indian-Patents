@@ -1,0 +1,22 @@
+Application number  =>  915/MAS/2001 A 
+
+Date of filing of application number  =>  09/11/2001 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  AN IMPROVED DATA LOGGING SYSTEM 
+
+Name of applicant  =>  1)SATYAM COMPUTER SERVICES LTD 
+
+Name of inventor  =>  1)PRASAD AMIT 2)RAI LALIT 3)CHAKRAVARTHI KVS 
+
+International Classification  =>  G06F17/40 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  An improved data logging system for logging the movement of vehicles, comprising an antenna 1 and a global positioning system GPS receiver 3 mounted on top of a vehicle to be logged; a data logging unit 2 for receiving information from said GPs receiver 3 and transferring to a central processing unit CPU 11; characterized in that; said data logging unit 2 comprises a switch 10 for setting the sampling rate, a controller 7 for deleting any unwanted data received, and a flash memory 9 for transferring the information received from said GPS receiver to said CPU 11 for generating detailed reports on vehicle information. 
+

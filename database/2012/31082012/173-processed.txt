@@ -1,0 +1,22 @@
+Application number  =>  3057/CHENP/2011 A 
+
+Date of filing of application number  =>  04/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD FOR INSTALLING AN OPERATING RIG FOR A FLUID IN A BODY OF WATER WITH A TRACTION UNIT 
+
+Name of applicant  =>  1)TECHNIP FRANCE 
+
+Name of inventor  =>  1)REMERY, JEROEN 2)VIVET, ROMAIN 3)DEFRESLON, CHRISTOPHE 4)LUPPI, ANGE 
+
+International Classification  =>  F16L1/15, E21B 17/01, E21B 43/013 
+
+Priority Doc No  =>  08 57521 
+
+International Application Number  =>  PCT/FR09/052124 
+
+International Publication Number  =>  WO 2010/052423 A3 
+
+Abstract  =>  This method comprises connecting a downstream point (40) of a pipe (24) to a buoy (26) and completely submerging the buoy (26). It comprises deploying in the body of water (12) an intermediate section (30) of the pipe (24) from the downstream point (40) to at least as far as an upstream point (38), anchoring the upstream point (38), and tensioning the intermediate section (30) to keep it vertical. The connecting step includes activating a traction unit (96) to raise the downstream point (40) on the buoy (26). During the connecting step, the buoy (26) is carried in the body of water (12) virtually exclusively by its own floatability. 
+

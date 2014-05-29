@@ -1,0 +1,22 @@
+Application number  =>  2011/MUM/2012 A 
+
+Date of filing of application number  =>  12/07/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  CONGESTION AVOIDANCE AND CONTROL NEAR SINK IN WIRELESS SENSOR NETWORK FOR RANDOM TOPOLOGY 
+
+Name of applicant  =>  1)Mr. Vivek Shankar Deshpande 
+
+Name of inventor  =>  1)Mr. Vivek shankar Deshpande 2)Jagdish B Helonde 3)Vijay M Wadhai 
+
+International Classification  =>  G08C 17/00 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  When several sensors observe an event and try to periodically report it congestion around sink may set or when many sensors stream data to a sink congestion around the sink may occur. The congestion in the network leads to packet loss and it costs precious energy. This shortens the lifetime of nodes. This also adversely affects the data traffic. With the help of proposed congestion avoidance and control mechanism algorithm we can achieve the increased lifetime and increase in the Packet Delivery Ratio. The invention is described by way of example with reference to the following drawings FIG. 1 of sheet 1 is schematic view illustration of relay system where 1 denotes sink and other points denotes various sensors 
+

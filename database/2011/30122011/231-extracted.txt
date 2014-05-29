@@ -1,0 +1,48 @@
+The Patent Office Journal 30/12/2011 
+ 
+25568
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1075/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :16/02/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : VERSATILE 3-D PICTURE FORMAT  
+  
+(51) International classification  :H04N13/02  
+(31) Priority Document No  :08305420.5  
+(32) Priority Date  :24/07/2008 
+(33) Name of priority country  :EPO 
+(86) International Application No 
+        Filing Date 
+:PCT/IB2009/053180
+:22/07/2009 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+      Address of Applicant :GROENEWOUDSEWEG 1 
+EINDHOVEN  5621 BA  NETHERLANDS   
+(72)Name of Inventor : 
+   1)BRULS  Wilhelmus  H.  A. 
+   2)KLEIN GUNNEWIEK  Reinier  B.  M. 
+   3)VAN DER HEIJDEN  Gerardus  W.  T. 
+   4)NEWTON  Philip  S.  
+(57) Abstract : 
+A 3-D picture is provided as follows. A pair of pictures (LP, RP) is provided that comprises a first picture (LP) being intended for one 
+eye of a viewer, and a second picture (RP) being intended for the other eye of the viewer. In addition, a depth map (DM) specifically 
+dedicated to the first picture (LP) is provided. The depth map (DM) comprises depth indication values. A depth indication value 
+relates to a particular portion of the first picture (LP) and indicates a distance between an object at least partially represented by that 
+portion of the first picture and the viewer. Such a 3-D picture allows a satisfactory 3-D visual rendering on a great variety of display 
+devices. Preferably, the 3-D picture is supplemented with rendering guidance data (GD) that specifies respective parameters for 
+respective rendering contexts. Fig. 2 
+  
+  
+No. of Pages : 46 No. of Claims : 14 

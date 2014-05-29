@@ -1,0 +1,22 @@
+Application number  =>  2159/DELNP/2011 A 
+
+Date of filing of application number  =>  22/03/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  TARGETED ADVERTISING USING OBJECT IDENTIFICATION 
+
+Name of applicant  =>  1)MICROSOFT CORPORATION 
+
+Name of inventor  =>  1)NEUFELD M., NADAV 2)METTIFOGO, GIONATA 3)MIGOS, CHARLES 
+
+International Classification  =>  G06Q 30/00 
+
+Priority Doc No  =>  12/236,215 
+
+International Application Number  =>  PCT/US2009/057878 
+
+International Publication Number  =>  WO 2010/039499 
+
+Abstract  =>  Targeted advertising using object identification techniques is described. In an implementation, an object is identified by a client that is placed on a surface of the client. An advertisement is located that corresponds to the identified object and is output. 
+

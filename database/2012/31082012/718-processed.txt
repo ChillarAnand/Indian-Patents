@@ -1,0 +1,22 @@
+Application number  =>  854/MUMNP/2012 A 
+
+Date of filing of application number  =>  04/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  FILTER DEVICE AND MAIN FILTER ELEMENT FOR A FILTER DEVICE 
+
+Name of applicant  =>  1)MANN+HUMMEL GMBH 
+
+Name of inventor  =>  1)MENSSEN, JOERG 
+
+International Classification  =>  B01D 45/16 
+
+Priority Doc No  =>  10 2009049170.8 
+
+International Application Number  =>  PCT/EP2010/064980 
+
+International Publication Number  =>  WO/2011/045225 
+
+Abstract  =>  The invention relates to a, in particular two-stage, filter device (100) for separating liquid and/or solid particles from a gas flow to be purified, comprising - preferably a preliminary cyclonic pre-separator (10) designed as a pre-filter that separates the particles from the gas flow in a first stage by rotating the gas flow, and - a main filter element (20) arranged downstream in the gas flow direction that separates the particles from the gas flow in a second stage by guiding the particles through at least one filter medium (24), wherein the main filter element (20) is received in a filter housing (30) and wherein the filter housing (30) comprises a raw-side inlet (32) connected to the preliminary cyclonic pre-separator (10) and a clean-side outlet (34) for the gas flow to be purified. In order to develop the in particular two-stage filter device such that the main filter element (20) is disposed in the filter housing (30) in an immovable manner, the main filter element (20) comprises at least one retaining element (22) for stabilizing the position thereof in the filter housing (30), said retaining element extending in the direction toward the filter housing (30) from a circumferential side of the main filter element (20), disposing the main filter element (20) at a defined distance from the filter housing (30). 
+

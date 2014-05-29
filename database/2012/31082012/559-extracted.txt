@@ -1,0 +1,42 @@
+ 
+The Patent Office Journal 31/08/2012 
+13618
+(12) PATENT APPLICATION PUBLICATION (21) Application No.525/MUM/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :25/02/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : A POWER SUPPLY SYSTEM AND AN ALTERNATOR FOR CHARGING BATTERY  
+  
+(51) International classification  :H02K19/36; H02P9/00  
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  :N/A  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)M. SHRIDHAR NAIDU 
+      Address of Applicant :A4/ 601, GANGA SATELLITE 
+WANOWARLE, PUNE 411040   Maharashtra India. 
+(72)Name of Inventor : 
+   1)M. SHRIDHAR NAIDU  
+(57) Abstract : 
+The present invention provides system for charging battery. The system depending upon the inputs received from the first shunt and 
+the second shunt, the speed controller along with the governor controls the speed of alternator thereby controlling the electricity 
+generated and optimizing the usage of fuel by the engine. The system comprises a three phase alternator for generating electricity. The 
+alternator can replace flywheel which reduces power consumption. The alternator also has inbuilt impeller for circulating air for 
+cooling thereof. 
+  
+  
+No. of Pages : 30 No. of Claims : 4 

@@ -1,0 +1,22 @@
+Application number  =>  1265/CHENP/2011 A 
+
+Date of filing of application number  =>  23/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  TECHNIQUES FOR ENABLING COMPATIBILITY OF ULTRA WIDEBAND DEVICES 
+
+Name of applicant  =>  1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+
+Name of inventor  =>  1)ZHAI Hongqiang 2)CHEN Richard 3)CHOU Chun-Ting 
+
+International Classification  =>  H04W60/00 
+
+Priority Doc No  =>  61/084711 
+
+International Application Number  =>  PCT/IB2009/052979 
+
+International Publication Number  =>   
+
+Abstract  =>  A method (200) for enabling compatibility of wireless devices having different regulation settings. The method comprises upon initialization of a wireless device, scanning a predefined common channel (S220); forming a WiNet service set (WSS) by wireless devices communicating over the predefined common channel (S230); upon switching of the wireless devices in the WSS to a channel other than the predefined common channel, checking if a new wireless device attempts to join the WSS (S240, S250); and adding the new wireless device to the WSS if such attempt was detected (S290). Fig.2 
+

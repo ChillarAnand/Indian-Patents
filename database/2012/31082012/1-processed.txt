@@ -1,0 +1,22 @@
+Application number  =>  1169/CHE/2009 A 
+
+Date of filing of application number  =>  21/05/2009 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  QUEUED COOPERATIVE WIRELESS NETWORKS CONFIGURATION USING RATELESS CODES 
+
+Name of applicant  =>  1)Indian Institute of Science 
+
+Name of inventor  =>  1)Neelesh B. Mehta 2)Vinod Sharma 3)Gaurav Bansal 
+
+International Classification  =>  H04L 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A system using cooperative communication with rateless codes is presented that uses communication transmission aspects of cooperative communication with rateless codes over Rayleigh fading channels and queuing aspects for buffering messages at intermediate relays. The system transmits a subsequent message while a current message is en route to the destination by receiving and buffering the current message in queues at intermediate relays. A relay with a best instantaneous communication link to the source may receive a message first and forward the received message to the destination. Alternatively, if inter-relay communication links are strong, all relays may cooperate simultaneously. 
+

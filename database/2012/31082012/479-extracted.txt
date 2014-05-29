@@ -1,0 +1,48 @@
+ 
+The Patent Office Journal 31/08/2012 
+13538
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2398/MUMNP/2009 A 
+(19) INDIA  
+(22) Date of filing of Application :24/12/2009 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : METHOD FOR DETECTING ANALYTES  
+  
+(51) International classification  :G01N33/543  
+(31) Priority Document No  :102007029766.3  
+(32) Priority Date  :22/06/2007 
+(33) Name of priority country  :Germany 
+(86) International Application No 
+        Filing Date 
+:PCT/EP2008/057913
+:20/06/2008 
+(87) International Publication No  :WO2009/000784A1 
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)BRAHMS AKTIENGESELLSCHAFT. 
+      Address of Applicant :NEUENDORFSTRAPE.25, 16761 
+HENNINGSDORF, GERMANY.  
+(72)Name of Inventor : 
+   1)BERGMANN, ANDREAS. 
+   2)STRUCK, JOACHIM.  
+(57) Abstract : 
+The subject of this invention is a process for detection of analytes from biological samples comprising the following process steps: a) 
+Preparation of a reversible binding partner 1 that is immobilized on a solid phase, to which an analyte binder is reversibly bonded via a 
+reversible binding partner 2 that is bonded to the analyte binder, whereby the analyte binder is immobilized by binding between the 
+reversible binding partners 1 and 2, b) Addition of the biological sample and binding of the analyte to the reversible immobilized 
+analyte binder in the case that the biological sample contains the analytes, c) Separation of the biological sample, d) Addition of a 
+dissolving buffer, which dissolves the binding between the reversible binding partners 1 and 2, whereby the binding of the analyte to 
+the analyte binder remains optional, and e) Detection of the analyte in the dissolving buffer in the case that the biological sample 
+contains the analytes and determination of the absence of the analyte in the case that the biological sample does not contain the 
+analytes, respectively. 
+  
+  
+No. of Pages : 69 No. of Claims : 18 

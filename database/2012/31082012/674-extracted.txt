@@ -1,0 +1,40 @@
+ 
+The Patent Office Journal 31/08/2012 
+13733
+(12) PATENT APPLICATION PUBLICATION (21) Application No.755/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :26/03/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : METHOD AND SYSTEM FOR POLYPEPTIDE PURIFICATION  
+  
+(51) International classification  :C07K 1/16,C07K 1/36  
+(31) Priority Document No  :09169911.6  
+(32) Priority Date  :10/09/2009 
+(33) Name of priority country  :EUROPEAN UNION 
+(86) International Application No 
+        Filing Date 
+:PCT/EP10/063295
+:10/09/2010 
+(87) International Publication No  :WO/2011/029898 
+(61) Patent of Addition to Application Number 
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)LONZA BIOLOGICS PLC 
+      Address of Applicant :228-230 BATH ROAD, SLOUGH SL1 
+4DX UNITED KINGDOM. 
+(72)Name of Inventor : 
+   1)WHICKMAN, MARK R. 
+   2)MANSOOR, SAM  
+(57) Abstract : 
+The present invention provides a method and automated system for the purification of polypeptides including the direct filtration of 
+solutions containing the polypeptides after purification. 
+  
+  
+No. of Pages : 27 No. of Claims : 14 

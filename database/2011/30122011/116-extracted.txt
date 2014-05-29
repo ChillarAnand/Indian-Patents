@@ -1,0 +1,57 @@
+The Patent Office Journal 30/12/2011 
+ 
+25453
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2196/DELNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :24/03/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : PD-1 ANTAGONISTS AND METHODS OF USE THEREOF  
+  
+(51) International classification  :A61K 38/18  
+(31) Priority Document No  :61/091,694  
+(32) Priority Date  :25/08/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US09/054971
+:25/08/2009 
+(87) International Publication No  :WO 2010/027828 
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)AMPLIMMUNE, INC. 
+      Address of Applicant :111 SOUTH CALVERT STREET, 
+BALTIMORE, MD 21202, U.S.A   
+(72)Name of Inventor : 
+   1)SOLOMON LANGERMAN 
+   2)LINDA LIU  
+(57) Abstract : 
+Compositions and methods for enhancing and/or prolonging the activation of T cells (i.e., increasing antigen-specific proliferation of 
+T cells, enhancing cytokine production by T cells, stimulating differentiation ad effector functions of T cells and/or promoting T cell 
+survival) or overcoming T cell exhaustion and/or anergy are provided. Suitable compositions include PD-1 receptor antagonists that 
+bind to and block the endogenous PD-1 receptor without triggering inhibitory signals from PD-1, or bind to and block PD-1 receptor 
+ligands and preventing them from interacting with PD-1 receptors. Methods for using the PD-1 receptor antagonists to enhance 
+immune responses in subjects in need thereof are provided. 
+  
+ 
+No. of Pages : 99 No. of Claims : 30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

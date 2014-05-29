@@ -1,0 +1,22 @@
+Application number  =>  9816/CHENP/2011 A 
+
+Date of filing of application number  =>  27/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  CENTRALIZED COEXISTENCE MANAGER FOR CONTROLLING OPERATION OF MULTIPLE RADIOS 
+
+Name of applicant  =>  1)QUALCOMM Incorporated 
+
+Name of inventor  =>  1)KADOUS Tamer A. 2)MANTRAVADI Ashok 3)VEERAVALLI Venugopal V. 4)BERGAN Charles A. 5)LINSKY Joel B. 6)WIETFELDT Richard D. 7)CHRISIKOS George 
+
+International Classification  =>  H04W 88/06 
+
+Priority Doc No  =>  61/221,244 
+
+International Application Number  =>  PCT/US2010/040442 
+
+International Publication Number  =>   
+
+Abstract  =>  Systems and methodologies are described herein that facilitate a centralized structure for managing multi-radio coexistence for a mobile device and/or other suitable device(s). As described herein a control plane coexistence manager (CxM) entity and/or a data plane CxM entity can be implemented to directly interact with a set of associated transceivers (e.g. radios etc.) in order to manage conflicts between events corresponding to the transceivers. Further CxM operation can be divided between the control and data planes such that the control plane handles configuration and long-term operations such as radio registration sleep mode management long-term event resolution interaction with upper layers etc. while the data plane handles short-term operations with respect to radio event management based on incoming notifications or event requests. For instance the data plane can evaluate a set of requested events select event(s) to be executed and provide responses to the associated transceivers relating to the selection(s). 
+

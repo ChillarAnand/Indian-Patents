@@ -1,0 +1,22 @@
+Application number  =>  2990/CHENP/2011 A 
+
+Date of filing of application number  =>  02/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD AND DEVICE FOR TESTING COMPUTER CORE IN PROCESSOR COMPRISING AT LEAST TWO COMPUTER CORES 
+
+Name of applicant  =>  1)ROBERT BOSCH GMBH 
+
+Name of inventor  =>  1)MUELLER, BERND 2)AUE, AXEL 
+
+International Classification  =>  G06F11/267 
+
+Priority Doc No  =>  10 2008 042 894.9 
+
+International Application Number  =>  PCT/EP2009/061412 
+
+International Publication Number  =>  WO 2010/043448 A1 
+
+Abstract  =>  The present subject matter relates to a method and a device to test a computer core in a processor including at least two computer cores. The computer cores are connected with each other via an internal connecting system, and both the computer cores contribute to an operating flow of a machine. According to the present subject matter, the method includes carrying out a test in the one computer core, while at the same time, processing a program for carrying out the operating flow of the machine in another computer core. 
+

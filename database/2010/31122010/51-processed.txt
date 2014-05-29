@@ -1,0 +1,22 @@
+Application number  =>  1428/DEL/2010 A 
+
+Date of filing of application number  =>  18/06/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  METHOD AND APPARATUS FOR MONITORING AND SELECTIVELY CONTROLLING A LOAD IN A POWER SYSTEM 
+
+Name of applicant  =>  1)GENERAL ELECTRIC COMPANY 
+
+Name of inventor  =>  1)THOMSON MATTHEW B. 
+
+International Classification  =>  H04B7/005; 
+
+Priority Doc No  =>  12/491,488 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A monitoring and control device (26) for a power system (10), the power system including a plurality of electrical loads and a control unit is provided. The monitoring and control device (26) includes a load monitoring module (56) configured to determine an amount of electrical power transmitted to at least one of the plurality of electrical loads, the load monitoring module further configured to transmit a value representing the determined quantity of electrical power to the power system, and a load control module (58) configured to control an amount of electrical power transmitted to the at least one of the plurality of electrical loads. The load control module is further configured to receive a power control command from the power system, and transmit a power control acknowledgement to the power system. 
+

@@ -1,0 +1,48 @@
+The Patent Office Journal 30/12/2011 
+ 
+25506
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1076/MUMNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :26/05/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : FINANCIAL GADGETS  
+  
+(51) International classification  :G06Q 20/00  
+(31) Priority Document No  :61/117,868  
+(32) Priority Date  :25/11/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/065738
+:24/11/2009 
+(87) International Publication No  :WO/2010/068447  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)YODLEE  INC. 
+      Address of Applicant :3600 Bridge Parkway Suite 200 
+Redwood City  California 94065  United States of America  
+(72)Name of Inventor : 
+   1)CONNORS  Eric 
+   2)REED  Jordan 
+   3)HAZLEHURST  Peter 
+   4)SARKAR  Suman  
+(57) Abstract : 
+Methods, computer program products, and systems, related to providing financial gadgets to users. In one implementation, a method 
+includes receiving gadgets and receiving a notification that one or more gadgets has been certified. A web page with an interface 
+through which users can select gadgets is generated and provided to a user computer. A user selects a gadget, and the selected gadget 
+is run, including providing the user-specific financial information to the gadget. Content based on the output of the gadget is provided 
+to the user. User-specific financial information can be collected, and modified by the gadget. A notification can be received that a 
+financial institution has authorized one or more of the certified gadgets and the web page can only allow users to select authorized 
+gadgets. 
+  
+ 
+No. of Pages : 70 No. of Claims : 26 

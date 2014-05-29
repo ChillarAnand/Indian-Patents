@@ -1,0 +1,53 @@
+ 
+The Patent Office Journal 31/08/2012 
+13879
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2871/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :28/04/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : METHOD FOR MANUFACTURING PATTERNED CHAIR AND PATTERNED CHAIR 
+MANUFACTURED BY THAT MANUFACTURING METHOD  
+  
+(51) International classification  
+:A47C7/16, 
+A47C5/00, 
+A47C5/12  
+(31) Priority Document No  :2008-286144  
+(32) Priority Date  :07/11/2008 
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date 
+:PCT/JP2009/063944
+:06/08/2009 
+(87) International Publication No  :WO 2010/052959 A1  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)TOSHIYUKI YOSHINO 
+      Address of Applicant :1-13-301, SETA 2-CHOME, 
+SETAGAYA-KU, TOKYO 1580095 Japan 
+(72)Name of Inventor : 
+   1)TOSHIYUKI YOSHINO  
+(57) Abstract : 
+The present invention has an object to provide a graphic chair having a fine graphic, wherein the chair is made of a transparent 
+material, the graphic can be clearly seen from any side of the material, and the graphic is not damaged by mechanical contact from 
+both sides; and to provide a graphic chair with a personalized design producible cheaply even if the system of producing various kinds 
+of products in small lots is employed. The foregoing objects could be achieved by a method for manufacturing a graphic chair, whose 
+at least any one of a seat part and a backrest part or both consist(s) of a substrate having a configuration of both sides of the graphic 
+sandwiched by transparent resin A and transparent resin B, wherein the substrate is obtained by carrying out Step (1) in which a film 
+having the printed graphic is inserted into a mold at the time of injection molding of transparent resin A and then the graphic printed 
+on the film is transcribed to surface of transparent resin A in the mold, simultaneously with injection molding of transparent resin A, 
+and thereafter carrying out Step (2) in which a mold half to which side the film having the printed graphic is inserted is moved 
+backward to form a space between the mold and the graphic on transparent resin A and then transparent resin B is injection molded in 
+the space. 
+  
+  
+No. of Pages : 43 No. of Claims : 8 

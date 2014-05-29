@@ -1,0 +1,22 @@
+Application number  =>  2802/CHENP/2012 A 
+
+Date of filing of application number  =>  27/03/2012 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  FLUID SAMPLE COLLECTION DEVICE 
+
+Name of applicant  =>  1)VIVACTA LIMITED 
+
+Name of inventor  =>  1)MARSHALL, CATRIONA 2)CRAWFORD, ANNE MARIE 3)ROSS, STEVEN ANDREW 4)CARTER, TIMOTHY JOSEPH NICHOLAS 
+
+International Classification  =>  B01L 3/00 
+
+Priority Doc No  =>  0915339.6 
+
+International Application Number  =>  PCT/GB2010/051435 
+
+International Publication Number  =>  WO 2011/027147 A1 
+
+Abstract  =>  Disclosed herein is a sample collection device for an aqueous fluid, such as whole blood, serum, plasma and urine. The device comprises a cartridge body defining an elongate sample collection passage that has open ends. The passage is arranged to draw the fluid into the passage by capillary action. The passage is provided along a portion of its length with a sample metering stop in the form of a hydrophobic coating arranged to prevent flow of the fluid by capillary action thereacross. A sample receiving portion of the passage extending between a collection end and the metering stop is non-linear, and preferably defines a pair of straight limbs connected by a bend. By providing a non-linear passage in this way, the maximum gravitational force which can act on the collected sample is reduced as compared to a conventional linear passage, thereby reducing the tendency of the sample to leak from the device and potentially avoiding the need for one or both ends of the passage to be sealed. The sample receiving portion of the passage may be provided with a hydrophilic coating to enhance the capillary action. A particularly suitable hydrophilic coating for a whole blood sample collection device is heparin, which may also serve as an anticoagulant for the blood. 
+

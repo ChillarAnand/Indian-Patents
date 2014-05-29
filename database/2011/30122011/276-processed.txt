@@ -1,0 +1,22 @@
+Application number  =>  1259/CHENP/2011 A 
+
+Date of filing of application number  =>  23/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  AUDIO SYSTEM AND METHOD OF OPERATION THEREFOR 
+
+Name of applicant  =>  1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+
+Name of inventor  =>  1)BERGERE Julien L. 
+
+International Classification  =>  H04S3/00 
+
+Priority Doc No  =>  08161257.4 
+
+International Application Number  =>  PCT/IB2009/053206 
+
+International Publication Number  =>   
+
+Abstract  =>  An audio system receives a multi-channel signal which is fed to a controller (121) that generates a first drive signal for a first sound emitter (111) by combining signals of a plurality of the channels. The first drive signal has a signal component contribution from a first bandwidth of each channel of the multi-channel signal. The multi-channel signal is also fed to another controller (115) which generates second drive signals for second sound emitters (101-109). The second drive signals are generated from a single channel signals of the multi-channel signal and in a second bandwidth having a lower cut-off frequency which is above 950Hz for a 3dB gain attenuation relative to an average gain for a frequency band extending 1kHz above the lower cut-off frequency and higher than a lower cut-off frequency of the first bandwidth. Fig. 1 
+

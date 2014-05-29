@@ -1,0 +1,49 @@
+ 
+The Patent Office Journal 31/08/2012 
+13725
+(12) PATENT APPLICATION PUBLICATION (21) Application No.720/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :21/03/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : COATING COMPOSITION INCLUDING FLUORESCENT MATERIAL FOR PRODUCING SECURE 
+IMAGES.  
+  
+(51) International classification  :G03G 13/00  
+(31) Priority Document No  :61/253,471  
+(32) Priority Date  :20/10/2009 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2010/053068
+:18/10/2010 
+(87) International Publication No  :WO/2011/049876  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)TROY GROUP, INC. 
+      Address of Applicant :940 SOUTH COAST DRIVE, SUITE 
+200, COSTA MESA, CALIFORNIA 92626, UNITED STATES 
+OF AMERICA. 
+(72)Name of Inventor : 
+   1)HEILMAN, KEVIN L. 
+   2)HOEFS, EUGENE 
+   3)RILEY, MICHAEL R.  
+(57) Abstract : 
+A coating composition, system, and method for printing documents that are difficult to chemically or physically forge and that are 
+easy to visually verify are disclosed. The system includes a substrate, a toner, including a colorant and a dye, a coating including 
+fluorescent material, e.g., a primary migration-enhancing coating, applied using an offset printing process and optionally a secondary 
+migration-enhancing coating applied using an offset printing process. An image formed using the toner of the invention is readily 
+verified by comparing a colorant-formed image and a dye-formed image and/or to a reverse negative imaged formed by the dye 
+quenching the fluorescent material. In addition, if a solvent is used in an attempt to alter the printed image on the substrate, the dye 
+migrates or diffuses to indicate tampering with the document. 
+  
+  
+No. of Pages : 28 No. of Claims : 20 

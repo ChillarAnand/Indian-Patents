@@ -1,0 +1,22 @@
+Application number  =>  760/MUMNP/2012 A 
+
+Date of filing of application number  =>  26/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  ELECTROLYTIC CATHODE STRUCTURE AND ELECTROLYZER USING THE SAME 
+
+Name of applicant  =>  1)CHLORINE ENGINEERS CORP., LTD. 
+
+Name of inventor  =>  1)MADONO AKIHIRO 2)OKAMOTO MITSUMASA 
+
+International Classification  =>  C25B 9/04,C25B 11/08 
+
+Priority Doc No  =>  2010-200000 
+
+International Application Number  =>  PCT/JP11/050063 
+
+International Publication Number  =>  WO/2012/032793 
+
+Abstract  =>  Provided are an electrolytic cathode structure that can suppress the degradation of an activated cathode even if a reverse current flows upon the stoppage of operation of an electrolyzer in an electrode structure allowing the distance between the electrode and an electrode current collector to be maintained at an approximately constant value, and an electrolyzer using the same. The electrolytic cathode structure includes a metal elastic cushion member 1 compressed and accommodated between an activated cathode 2 and a cathode current collector 3. At least a surface layer of the cathode current collector 3 consumes a larger oxidation current per unit area than the activated cathode. The electrolyzer is partitioned by an ion exchange membrane into an anode chamber for accommodating an anode and a cathode chamber for accommodating a cathode. The electrolytic cathode structure is used for the cathode. 
+

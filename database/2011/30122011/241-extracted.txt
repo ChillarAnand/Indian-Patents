@@ -1,0 +1,47 @@
+The Patent Office Journal 30/12/2011 
+ 
+25578
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1137/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :17/02/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : A SYSTEM AND METHOD FOR MANAGING DIGITAL DISPLAY CONTENT IN A QUICK 
+SERVICE RESTAURANT ENVIRONMENT  
+  
+(51) International classification  :G06F17/00  
+(31) Priority Document No  :61/082, 409  
+(32) Priority Date  :21/07/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/051309
+:21/07/2009 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)EMN8  INC. 
+      Address of Applicant :10070 Mesa Rim Road  San Diego  CA 
+92121  USA.   
+(72)Name of Inventor : 
+   1)J. PATRICK RAVENEL 
+   2)TREVOR CHONG 
+   3)JOHN SILVA  
+(57) Abstract : 
+Embodiments disclosed herein are directed to systems and methods for managing digital media content within a quick service 
+restaurant environment to provide a consistent visual experience and accurate, timely data across various digital media displays to 
+QSR customers. In some embodiments, a digital media management appliance (DMMA) is used to manage the distribution of digital 
+media data which is used to drive various display devices present in the QSR environment. The DMMA may be configured to extract 
+data from a point of sale (POS) system and/or other data sources within the QSR environment in order to generate display data for the 
+digital media devices in the store. 
+  
+ 
+No. of Pages : 37 No. of Claims : 22 

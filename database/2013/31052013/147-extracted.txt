@@ -1,0 +1,41 @@
+The Patent Office Journal 31/05/2013 12118
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9908/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :28/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : AN APPARATUS FOR TRANSMITTING ELECTRICAL ENERGY
+(51) International classification :A47B 88/00
+(31) Priority Document No :20 2009 004 882.9
+(32) Priority Date :03/06/2009
+(33) Name of priority country :Germany
+(86) International Application No
+Filing Date
+:PCT/EP2010/056840
+:18/05/2010
+(87) International Publication No :WO 2010/139551A2
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)PAUL HETTICH GMBH & CO. KG
+Address of Applicant :VAHRENKAMPSTRASSE 12-16,
+32278 KIRCHLENGERN Germany
+(72)Name of Inventor :
+1)WORMANN, DIETER
+(57) Abstract :
+The invention relates to a device for transmitting electrical energy between a supply component (33) arranged at a furniture body
+(31) and a recipient component (32) arranged on a furniture part (5) that can be moved relative to the furniture body (31), in
+particular a drawer that can be displaced relative to the furniture body (31), wherein the supply component (33) has an
+electromechanical contact set (23, 24), which can be coupled to an electromechanical contact set (16, 17) of the recipient
+component (32) in a closed position of the movable furniture part in order to transmit electrical energy, wherein a. the supply
+component (33) has a position detection unit (25, 34) coupled to an electrical control circuit (36) and an electromagnet (14, 22)
+that can be controlled by the electrical control circuit (36), and wherein b. the recipient component (32) has a magnetizable
+element (35), wherein the electromagnet (14, 30) and the magnetizable element (35) are located opposite of each other in a closed
+position of the movable furniture part (5) such that the contact sets (16, 17, 23, 24) can be brought into contact with each other by
+activating the electromagnet (14, 22).
+No. of Pages : 19 No. of Claims : 12

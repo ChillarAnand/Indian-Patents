@@ -1,0 +1,48 @@
+ 
+The Patent Office Journal 31/08/2012 
+13687
+(12) PATENT APPLICATION PUBLICATION (21) Application No.632/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :14/03/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : ENERGY REDUCING RETROFIT METHOD AND APPARATUS FOR A CONSTANT VOLUME HV 
+AC SYSTEM  
+  
+(51) International classification  :G05D 23/00  
+(31) Priority Document No  :12/544,960  
+(32) Priority Date  :20/08/2009 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2010/045734
+:17/08/2010 
+(87) International Publication No  :WO/2011/022379  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)TRANSFORMATIVE WAVE TECHNOLOGIES LLC 
+      Address of Applicant :2725, 152ND AVENUE NE, 
+REDMOND, WASHINGTON 98052, UNITED STATES OF 
+AMERICA. 
+(72)Name of Inventor : 
+   1)MILLER, DANNY 
+   2)SIPE, JUSTIN  
+(57) Abstract : 
+An energy-reducing method and apparatus for retrofitting a constant volume BVAC system, with or without an economizer, that 
+provide heating, cooling, and ventilation to occupants within a building space. The present invention includes the introduction of a 
+programmable logic controller and variable frequency drive (VFD) that takes control of the existing fan, heating, cooling, and optional 
+economizer operation. The controller is programmed for the reduction of fan speed in the heating and cooling modes. The reduction of 
+the fan speed in the ventilation mode when the 100% operation is not needed saves significant energy of the existing constant volume 
+BVAC system where the fan motor is designed to run 100% of the time. The fan speed may be further reduced upon a reduction in 
+sensed occupancy levels of the s ace such as with a CO2 sensor. Additionally the fan speed may be reduce energy consumption. 
+  
+  
+No. of Pages : 41 No. of Claims : 16 

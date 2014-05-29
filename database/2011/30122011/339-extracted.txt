@@ -1,0 +1,47 @@
+The Patent Office Journal 30/12/2011 
+ 
+25676
+(12) PATENT APPLICATION PUBLICATION (21) Application No.968/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :10/02/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : DYNAMIC CONTENT SORTING USING TAGS  
+  
+(51) International classification  :G06Q50/00  
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date 
+:PCT/US2008/079884
+:14/10/2008 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)HEWLETT-PACKARD DEVELOPMENT COMPANY  
+L.P. 
+      Address of Applicant :11445 Compaq Center Drive West 
+Houston  TX 77070 USA.   
+(72)Name of Inventor : 
+   1)Jason D GOLDMAN 
+   2)James Louis LONG  
+(57) Abstract : 
+A data processing system facilitates organization of content such as digital photographs, video files, audio tracks, and the like. The 
+data processing system comprises a content manager that manages a content database and includes a content database initialization or 
+creation utility and a content database search utility. The a content database initialization utility creates a content database by 
+assigning one or more tags that represents context of the content to content and combines the tag or tags with associated content in a 
+data structure, and saves the data structure in a database. The content database search utility specifies a set of tag values representing 
+context of content and initiates a database query for determining a set of content items that match the specified set of tag values. The 
+content database search utility searches for the set of content items that match the tag values. [FIG. 1] 
+  
+ 
+No. of Pages : 26 No. of Claims : 20 

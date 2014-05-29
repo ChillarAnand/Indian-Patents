@@ -1,0 +1,38 @@
+The Patent Office Journal 31/05/2013 12137
+(12) PATENT APPLICATION PUBLICATION (21) Application No.995/CHENP/2012 A
+(19) INDIA
+(22) Date of filing of Application :31/01/2012 (43) Publication Date : 31/05/2013
+(54) Title of the invention : METHOD OF FABRICATING A PART DECORATED WITH RELIEF
+(51) International classification :G04B 19/10
+(31) Priority Document No :09164688.5
+(32) Priority Date :06/07/2009
+(33) Name of priority country :EPO
+(86) International Application No
+Filing Date
+:PCT/EP2010/059085
+:25/06/2010
+(87) International Publication No : NA
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)ETA SA Manufacture Horlog¨re Suisse
+Address of Applicant :Schild-Rust-Strasse 17 CH-2540
+Grenchen Switzerland
+(72)Name of Inventor :
+1)MULLER Juliette
+(57) Abstract :
+Method of fabricating a plastic part decorated with relief The invention relates to a method (1) for fabricating a part (21) with
+relief wherein the portions in relief (23 25 27) are at least partially coated with a decorative layer (31) including the following
+step: a) forming (3) the body (22) of the part (21); According to the invention the method further includes the following steps: b)
+selectively altering (5) the surface state of the body (22) of the part (21) in order to change the adherence thereof locally relative to
+said decorative layer; c) directly depositing (7) said decorative layer over the entire body (22); d) removing (9) the portions of the
+deposited layer (31) which have not adhered to the body (22) of the part. The invention concerns the field of methods for
+decorating timepieces.
+No. of Pages : 15 No. of Claims : 14

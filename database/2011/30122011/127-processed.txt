@@ -1,0 +1,22 @@
+Application number  =>  1014/MUMNP/2011 A 
+
+Date of filing of application number  =>  19/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  FAST PARSING OF VARIABLE-TO-FIXED-LENGTH CODES 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)REZNIK Yuriy 
+
+International Classification  =>  H03M 7/40 
+
+Priority Doc No  =>  61/121,147 
+
+International Application Number  =>  PCT/US2009/067148 
+
+International Publication Number  =>  WO/2010/077658 
+
+Abstract  =>  Methods and systems for parsing and decoding compressed data are provided. Random segments of the compressed data may be decompressed and positioned appropriately in the corresponding uncompressed data set. The methods and systems utilize variable to fixed length (VF) coding techniques. For some applications, the VF coding techniques may be implemented within media encoders, decoders, or combined encoder-decoders (CODECs). 
+

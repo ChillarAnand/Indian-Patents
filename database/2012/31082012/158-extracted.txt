@@ -1,0 +1,50 @@
+ 
+The Patent Office Journal 31/08/2012 
+14000
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3013/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :03/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : DIGITAL BROADCAST RECEIVER AND RECEPTION METHOD  
+  
+(51) International classification  :H04N7/173, H04N 7/173, H04N 7/24  
+(31) Priority Document No  :2008-260738  
+(32) Priority Date  :07/10/2008 
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date 
+:PCT/JP2009/067347
+:05/10/2008 
+(87) International Publication No  :WO 2010/041628 A1  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)SHARP KABUSHIKI KAISHA 
+      Address of Applicant :22-22, NAGAIKE-CHO, ABENO-KU, 
+OSAKA-SHI, OSAKA 545-8522 Japan 
+(72)Name of Inventor : 
+   1)WATANABE, RYUHSUKE 
+   2)SHIMIZU, TOSHINORI 
+   3)YAMADA, HAJIME  
+(57) Abstract : 
+If there is a service provider for which basic registration has already been performed, the processing proceeds to step S15 to determine 
+whether there is an IP broadcast service or not. If no IP broadcast service is provided, the processing proceeds to step S17 to determine 
+whether there is another service provider for which the basic registration has already been performed. If no other service provider for 
+which the basic registration has already been performed is found in this determination, a transition is made to a portal site of the 
+service provider for which the basic registration has already been performed. If it is determined that an IP broadcast service is 
+provided in step S15, the processing proceeds to step S16 to perform a caution display. In the caution display, a display is made to 
+prompt acquisition of channel information. In the case of acquiring channel information, an indication informing the user is displayed 
+so that the channel information can be acquired at this phase. Thereby, when IP broadcasting is selected, the receiver determines 
+whether there is a broadcast viewable with the receiver and changes a screen after transition, thus enabling the user to perform an 
+operation without any confusion. 
+  
+  
+No. of Pages : 19 No. of Claims : 8 

@@ -1,0 +1,53 @@
+ 
+The Patent Office Journal 31/08/2012 
+13525
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1448/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :11/06/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : A METHOD FOR PURIFYING THE URANIUM FROM A NATURAL URANIUM CONCENTRATE  
+  
+(51) International classification  :C22B 3/26,B01D 11/04  
+(31) Priority Document No  :09 59380  
+(32) Priority Date  :22/12/2009 
+(33) Name of priority country  :France 
+(86) International Application No 
+        Filing Date 
+:PCT/EP2010/070248
+:20/12/2010 
+(87) International Publication No  :WO/2011/076739  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)COMMISSARIAT A L'ENERGIE ATOMIQUE ET AUX 
+ENERGIES ALTERNATIVES 
+      Address of Applicant :25 RUE LEBLANC BATIMENT LE 
+PONANT D, 75015 PARIS, FRANCE. 
+   2)AREVA NC 
+(72)Name of Inventor : 
+   1)MIGUIRDITCHIAN, MANUEL 
+   2)BARON, PASCAL 
+   3)BISEL, ISABELLE 
+   4)DINH, BINH 
+   5)SOREL, CHRISTIAN 
+   6)BERTIN, JEAN  
+(57) Abstract : 
+The invention relates to a method with which uranium from a natural uranium concentrate may be purified. This method comprises: a) 
+extracting the uranium present as uranyl nitrate in an aqueous phase Al resulting from the dissolution of the natural uranium 
+concentrate in nitric acid, by means of an organic phase which contains an extractant in an organic diluent; b) washing the organic 
+phase obtained at the end of step a), with an aqueous phase A2; and c) stripping the uranyl nitrate of the organic phase obtained at the 
+end of step b) , by circulating this organic phase in an apparatus, as a counter current against an aqueous phase A3; and is 
+characterized in that the extractant is an N, N-dialkylamide and in that the ratio between the flow rate at which the organic phase 
+obtained at the end of step b) and the aqueous phase A3 circulate in the apparatus where step c) occurs, is greater than 1. 
+Applications: refining of natural uranium concentrates produced by uranium mines.   
+  
+  
+No. of Pages : 31 No. of Claims : 15 

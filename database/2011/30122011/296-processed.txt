@@ -1,0 +1,22 @@
+Application number  =>  1317/CHENP/2011 A 
+
+Date of filing of application number  =>  24/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  MEDIA SHADOW FILES AND SYSTEM 
+
+Name of applicant  =>  1)HEWLETT-PACKARD DEVELOPMENT COMPANY L.P. 
+
+Name of inventor  =>  1)Fred Charles THOMAS 2)Allen O. BUCKNER 3)Kevin NAY 
+
+International Classification  =>  H04L12/28, G06F15/16 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/US2008/081525 
+
+International Publication Number  =>   
+
+Abstract  =>  One embodiment of a system for rendering media files comprises a computer configured to determine media file formats that are used by media rendering devices connected to a network and to determine media files available on the network. The computer generates media shadow files of media file formats used by the media rendering devices to accompany existing media files available on the network in alternative formats. [FIG. 1] 
+

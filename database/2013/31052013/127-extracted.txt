@@ -1,0 +1,41 @@
+The Patent Office Journal 31/05/2013 12098
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9857/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :27/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : SYSTEMS, METHODS, AND COMPUTER PROGRAM PRODUCTS FOR ADAPTING THE
+SECURITY MEASURES OF A COMMUNICATIO NETWORKK BASED ON FEEDBACK
+(51) International classification :G06F11/00
+(31) Priority Document No :12/504,828
+(32) Priority Date :17/07/2009
+(33) Name of priority country :U.S.A.
+(86) International Application No
+Filing Date
+:PCT/US2010/042043
+:15/07/2010
+(87) International Publication No :WO 2011/008902 A1
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)AMERICAN EXPRESS TRAVEL RELATED
+SERVICE COMPANY, INC.
+Address of Applicant :GENREAL COUNSEL'S OFFICE,
+WORLD FINANCIAL CENTER, 200 VESEY STREET, NEW
+YORK, NEW YORK-10285-4900 U.S.A.
+(72)Name of Inventor :
+1)BAILEY, JR., SAMUEL A.
+(57) Abstract :
+An adaptable network security system includes trust mediator agents that are coupled to each network component. Trust mediator
+agents continuously detect changes in the security characteristics of the network and communicate the detected security
+characteristics to a trust mediator. Based on the security characteristics received from the trust mediator agents, the trust mediator
+adjusts security safeguards to maintain an acceptable level of security. Trust mediator also uses predetermined rules in
+determining whether to adjust security safeguards. Despite inevitable changes in security characteristics, an acceptable level of
+security and efficient network operation are achieved without subjecting users of the network to over burdensome security
+safeguards.
+No. of Pages : 31 No. of Claims : 18

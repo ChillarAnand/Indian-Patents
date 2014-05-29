@@ -1,0 +1,22 @@
+Application number  =>  835/KOL/2010 A 
+
+Date of filing of application number  =>  28/07/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  VEHICLE LIGHT 
+
+Name of applicant  =>  1)STANLEY ELECTRIC CO., LTD. 
+
+Name of inventor  =>  1)UCHIDA, MITSUHIRO 
+
+International Classification  =>  F21V11/16 
+
+Priority Doc No  =>  2009-181573 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A vehicle light forms a low-beam light distribution pattern on a virtual plane having a horizontal line and a vertical line as reference lines, the low-beam light distribution pattern including at least a first partial light distribution pattern having a horizontal cut-off line and a second partial light distribution pattern having a cut-off line inclined by a predetermined angle with respect to the horizontal line. The vehicle light includes: an LED light source having an optical axis and disposed so that the optical axis thereof is directed in a horizontal direction; and a reflector being formed of a revolved paraboloid and having a first reflecting surface disposed on the optical axis of the LED light source so as to face to the LED light source and a second reflecting surface disposed outside of the first reflecting surface and at a farther position away from the light source than the first reflecting surface. The first reflecting surface is a revolved paraboloid as a whole, having a focus disposed near the LED light source so as to diffuse and reflect, in the horizontal direction, light emitted from the LED light source and reaching the first reflecting surface, thereby forming the first partial distribution pattern. The second reflecting surface is a revolved paraboloid as a whole, having a focus disposed near the LED light source so as to reflect light emitted from the LED light source and reaching the second reflecting surface and converge the light to an intersection of the horizontal line and the vertical line, thereby forming the second partial distribution pattern. 
+

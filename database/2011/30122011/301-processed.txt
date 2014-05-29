@@ -1,0 +1,22 @@
+Application number  =>  1319/CHENP/2011 A 
+
+Date of filing of application number  =>  25/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHODS, SYSTEMS, AND COMPUTER READABLE MEDIA FOR PROVIDING SEDATION SERVICE IN A TELECOMMUNICATIONS NETWORK 
+
+Name of applicant  =>  1)Tekelec 
+
+Name of inventor  =>  1)SPARKS Robert J. 2)ROACH Adam B. 3)CAMPBELL Ben Allen 4)DEO Ajay P. 
+
+International Classification  =>  H04L29/06 
+
+Priority Doc No  =>  61/085,115 
+
+International Application Number  =>  PCT/US2009/052421 
+
+International Publication Number  =>   
+
+Abstract  =>  Methods, systems, and computer readable media tor providing sedation service in a telecommunications network are disclosed. According to one aspect, a method for providing sedation service in a telecommunications network is provided. The method includes steps that are performed at a session initiation protocol (SIP) sedation node. The method includes receiving a first message sent from a SIP user agent and intended for a SIP server. The method further includes determining whether the SIP server is unavailable. The method further includes responsive to a determination that the SIP server is unavailable to respond to the first message, sending, to the SIP client, a SIP sedation message for reducing the number or frequency of messages sent by the SIP user agent to the SIP server. 
+

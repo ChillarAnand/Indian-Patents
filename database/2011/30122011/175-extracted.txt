@@ -1,0 +1,49 @@
+The Patent Office Journal 30/12/2011 
+ 
+25512
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1109/MUMNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :31/05/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : POST-DEPLOYMENT CALIBRATION FOR WIRELESS POSITION DETERMINATION  
+  
+(51) International classification  :G01S 5/02  
+(31) Priority Document No  :61/139,928  
+(32) Priority Date  :22/12/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/069167
+:22/12/2009 
+(87) International Publication No  :WO/2010/075369  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)QUALCOMM INCORPORATED 
+      Address of Applicant :Attn: International IP Administration  
+5775 Morehouse Drive  San Diego  California 92121-1714  
+United States of America  
+(72)Name of Inventor : 
+   1)NAGUIB  Ayman Fawzy 
+   2)AGGARWAL  Alok 
+   3)GUO  Jin  
+(57) Abstract : 
+Methods and apparatuses are directed to calibrating a misconfigured wireless access point. One method may include receiving a 
+position of mobile station(s) and wireless signal model measurements derived from packets exchanged between the mobile station(s) 
+and a plurality of wireless access points, receiving positions and/or identities of the plurality of wireless access points used in 
+determining the position of the mobile station(s), comparing a position of the mobile station(s) with wireless signal model 
+measurements, and identifying a misconfigured wireless access point based upon the comparing. Another method may include 
+receiving positions associated with a plurality of wireless access points, determining a position of a mobile station based upon a 
+wireless signal model, comparing the position of the mobile station and the wireless signal model with the positions associated with 
+the plurality of wireless access points, and determining whether at least one wireless access point is misconfigured.  
+  
+ 
+No. of Pages : 50 No. of Claims : 50 

@@ -1,0 +1,22 @@
+Application number  =>  1204/CHENP/2011 A 
+
+Date of filing of application number  =>  21/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  MAINTAINING DATA INTEGRITY IN DATA SERVERS ACROSS DATA CENTERS 
+
+Name of applicant  =>  1)INTERNATIONAL BUSINESS MACHINES CORPORATION 
+
+Name of inventor  =>  1)JINMEI SHEN 2)HAO WANG 
+
+International Classification  =>  G06F11/20, G06F11/14 
+
+Priority Doc No  =>  12/185,863 
+
+International Application Number  =>  PCT/EP2009/059931 
+
+International Publication Number  =>   
+
+Abstract  =>  A method, computer program product and system for maintaining data integrity of multiple copies of a piece of data in data servers of multiple data centers, includes maintaining a cluster of catalog servers, where one of the catalog servers is selected as the master catalog server, storing the piece of data in a primary data server chosen from the data servers, duplicating the piece of data to one or more backup data servers chosen from the data servers, recording a data state information to the master catalog server, duplicating the data state information to the cluster of catalog servers, and updating the data servers and the cluster of catalog servers when the primary data server fails. 
+

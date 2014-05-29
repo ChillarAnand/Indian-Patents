@@ -1,0 +1,22 @@
+Application number  =>  741/KOL/2010 A 
+
+Date of filing of application number  =>  08/07/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  A COATING FOR A MEDICAL DEVICE HAVING AN ANTI-THROMBOTIC CONJUGATE 
+
+Name of applicant  =>  1)CORDIS CORPORATION 
+
+Name of inventor  =>  1)JONATHON Z. ZHAO 2)ROBERT FALOTICO 
+
+International Classification  =>  C08G63/91 
+
+Priority Doc No  =>  12/505869 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A conjugate between an anti-thrombotic agent and bioabsorbaele polymer is provided. Also, a method is provided for applying a coating comprising an anti-thrombotic agent and bioabsorbable polymer conjugate to at least some of an implantable device to prevent or reduce formation of thrombosis on the surface of the device. A first or sub-layer of the coating is prepared by mixing polymeric material and a biologically active agent with a solvent, thereby forming a homogeneous solution. A second or outer layer comprises an antithrombotic heparin-bioabsorbable polymer conjugate. This coating may be applied over inner drug-containing layers using, for example, dip coating or spray coating processes. After drying, the anti-thrombotic heparin bioabsorbable polymer conjugate remains in the outer layer of coating, allowing agent from the inner layer to elute there throug. Also, the outmost layer prevenss thrombosis, and can modulate release kinetics of agent(s) contained within inner layer(s) of the coating. 
+

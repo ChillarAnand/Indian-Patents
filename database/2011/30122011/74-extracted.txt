@@ -1,0 +1,51 @@
+The Patent Office Journal 30/12/2011 
+ 
+25411
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2149/DELNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :22/03/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : POST-CURE OF MOLDED POLYURETHANE FOAM PRODUCTS  
+  
+(51) International classification  :B29C 67/00  
+(31) Priority Document No  :61/099,142  
+(32) Priority Date  :22/09/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/057868
+:22/09/2009 
+(87) International Publication No  :WO 2010/033999  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)JOHNSON CONTROLS TECHNOLOGY COMPANY 
+      Address of Applicant :915 EAST 32ND STREET, 
+HOLLAND, MI 49423, U.S.A   
+(72)Name of Inventor : 
+   1)JAMES T. MCEVOY 
+   2)RYOKO YAMASAKI 
+   3)PATRICIA MCCLARREN 
+   4)ANTOINE A. KMEID 
+   5)SEBASTIEN GENTIL  
+(57) Abstract : 
+A method of manufacturing a foam product, the method comprising the steps of: molding the foam product by placing liquid foam 
+materials in a mold cavity and reacting the liquid foam materials in the mold cavity to create the foam product; de-molding the foam 
+product by removing the foam product from the mold cavity; post-curing the foam product immediately after de-molding the foam 
+product from the mold cavity and prior to crushing the foam product, to thereby maintain the elevated core temperature of the foam 
+product and to melt the outer surface of the foam product to form a higher density gradient thereon by continuing to heat the foam 
+product for between approximately two and fifteen minutes to form the higher surface densification thereon and thereby reduce set 
+damage to the foam product; rapidly cooling the foam product to enable the foam product to be compressed from approximately 
+twenty-five to ninety-five percent of its thickness and thereby maximize the durability of the foam product; and compressing the fully 
+cured foam product from approximately fifteen and fifty percent of its dimension when packaged for shipment.  
+  
+ 
+No. of Pages : 22 No. of Claims : 15 

@@ -1,0 +1,22 @@
+Application number  =>  1132/CHENP/2011 A 
+
+Date of filing of application number  =>  17/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  Light Turning Device with Prismatic Light Turning Features 
+
+Name of applicant  =>  1)QUALCOMM MEMS Technologies Inc. 
+
+Name of inventor  =>  1)KHAZENI Kasra 2)KOTHARI Manish 3)XU Gang 4)BITA Ion 5)NARAYANAN K. S. 
+
+International Classification  =>  F21V8/00 
+
+Priority Doc No  =>  61/093,695 
+
+International Application Number  =>  PCT/US2009/055527 
+
+International Publication Number  =>   
+
+Abstract  =>  A light guide device includes a light guide body 182 and two or more pluralities of spaced-apart slits 100. The slits 100 are formed by undercuts in the light guide body 182. Sidewalls of the slits form facets that redirect light impinging on the facets. In some embodiments, the light guide body is attached to a light source 192. The light source 192 emits light that is injected into the light guide body 182 and the slits 100 redirect the light out of the light guide body 182 and towards a desired target. In some embodiments, the target is a display and a first plurality of slits 100 directs light from the light source 192 across the light guide body 182 and over the face of the display. A second plurality of slits 100 then directs light out of the light guide body 182 and towards the display. 
+

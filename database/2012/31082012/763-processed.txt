@@ -1,0 +1,22 @@
+Application number  =>  962/MUM/2010 A 
+
+Date of filing of application number  =>  30/03/2010 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  SYSTEM AND METHOD FOR GRAPHICALLY MANAGING COMMUNICATION SESSIONS 
+
+Name of applicant  =>  1)AVAYA, INC 
+
+Name of inventor  =>  1)BIRGIT GEPPERT 2)FRANK ROESSLER 
+
+International Classification  =>  G06F3/048, H04L12/56, H04M1/00 
+
+Priority Doc No  =>  61/164,753 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  Disclosed herein are systems, methods, and non-transitory computer-readable storage media for managing a communication session via a graphical user interface (GUI). The method causes a communication device to present a set of connected graphical elements representing a structure of the communication session via the GUI, the communication session comprising at least two communicating users, receive user input associated with the set of connected graphical elements, the user input having an action associated with the communication session, and perform the action based on the received user input. The graphical elements can include images, text, caricatures, and avatars, and can change based on a contacted party context, persona, and presence. Active connections to the communication session can be visually represented as overlapping graphical elements, a line connecting graphical elements, a shape connecting graphical elements, a shape with radiating lines connecting graphical elements, and a common augmented appearance of graphical elements. 
+

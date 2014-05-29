@@ -1,0 +1,45 @@
+ 
+The Patent Office Journal 31/08/2012 
+13845
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1792/CHE/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :26/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : SEMICONDUCTOR DEVICE, LIQUID DISCHARGE HEAD, LIQUID DISCHARGE CARTRIDGE, 
+AND LIQUID DISCHARGE APPARATUS  
+  
+(51) International classification  :B41J2/05 
+(31) Priority Document No  :2010-123302  
+(32) Priority Date  :28/05/2010
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)CANON KABUSHIKI KAISHA  
+      Address of Applicant :30-2, SHIMOMARUKO 3-CHOME, 
+OHTA-KU, TOKYO Japan 
+(72)Name of Inventor : 
+   1)KAZUNARI FUJII  
+(57) Abstract : 
+A semiconductor device including segments, a power supply pad and conductive patterns is provided. Each segment includes driving 
+units for discharging a liquid. Each driving unit includes a driving circuit and an element driven by the driving circuit to apply 
+discharging energy to the liquid. The conductive pattern includes a first conductive portion connected to the power supply pad, a 
+second rectangular conductive portion, a third conductive portion connected to the driving units, and a connection portion which 
+connects the second and third conductive portions. These conductive portions elongate in a first direction. In a second direction, a 
+length of the second conductive portion is larger than a length of the first conductive portion. The second conductive portion is 
+connected to the first conductive portion at a first corner and the connection portion at a second corner diagonal to the first corner.   
+  
+  
+No. of Pages : 48 No. of Claims : 9 

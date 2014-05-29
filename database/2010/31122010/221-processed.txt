@@ -1,0 +1,22 @@
+Application number  =>  4249/KOLNP/2010 A 
+
+Date of filing of application number  =>  11/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  PUSHING A USER INTERFACE TO A REMOTE DEVICE 
+
+Name of applicant  =>  1)APPLE INC. 
+
+Name of inventor  =>  1)BULL, WILLIAM 2)FADELL, ANTHONY, M. 3)DOROGUSKER, JESSE, LEE 4)SCHUBERT, EMILY CLARK 
+
+International Classification  =>  G06F 9/48 
+
+Priority Doc No  =>  12/119,960 
+
+International Application Number  =>  PCT/US2009/042728 
+
+International Publication Number  =>  WO 2009/140095 
+
+Abstract  =>  A graphical user interface (GUT) can be presented on a remote control accessory device that has user input and display devices. The GUI can be defined and managed by a portable media device that is controlled using the GUL The portable media device can provide the accessory with a GUI image to be displayed. The accessory can send information to the portable media device indicative of a user operation of an input device in response to the displayed image. The portable media device can process this input to identify the action requested by me user and take the appropriate action, which can include updating the GUI image provided to the accessory. 
+

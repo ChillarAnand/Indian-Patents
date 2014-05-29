@@ -1,0 +1,48 @@
+ 
+The Patent Office Journal 31/08/2012 
+13607
+(12) PATENT APPLICATION PUBLICATION (21) Application No.524/MUMNP/2009 A 
+(19) INDIA  
+(22) Date of filing of Application :16/03/2009 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : A METHD AND AN APPARATUS FOR A COMMUNICATION SESSION  
+  
+(51) International classification  :H04L 29/06  
+(31) Priority Document No  :60/592, 470  
+(32) Priority Date  :30/07/2004 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Fiing Date 
+:PCT/US2005/027069
+:29/07/2005 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filed on 
+:142/MUMNP/2007 
+:31/01/2007  
+  
+(71)Name of Applicant :  
+   1)QUALCOMM INCORPORATED 
+      Address of Applicant :5775 Morehouse Drive  San Diego  
+California 92121-1714  UNITED STATES OF AMERICA. 
+(72)Name of Inventor : 
+   1)LIOY  Marcello 
+   2)WANG  Jun 
+   3)SHIROTA  Masakazu 
+   4)HSU  Raymond Tah-Sheng 
+   5)VEEREPALLI Sivaramakrishna  
+(57) Abstract : 
+A communication session between a node seeking network access and a NAS (Network Access Server) is established by having only 
+few exchanges of messages. Upon detecting a physical link between the node and the NAS, the NAS immediately sends an 
+authentication request message to the node. In response, the node sends a request message which includes all parameters options, in 
+addition to responding to the authentication request message, for link configuration and network access control. The NAS then picks 
+and chooses the parameter options and sends back the selected options in a reply message to the node. If the selected options in the 
+reply message meet a threshold, the node straightforwardly transmits user data for network access via the NAS. 
+  
+  
+No. of Pages : 34 No. of Claims : 12 

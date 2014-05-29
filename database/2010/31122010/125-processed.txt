@@ -1,0 +1,22 @@
+Application number  =>  4102/CHENP/2010 A 
+
+Date of filing of application number  =>  02/07/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  METHOD FOR KEEPING THE ROUTING TABLES OF AN UNSTABLE DISSEMINATION NETWORK UP TO DATE 
+
+Name of applicant  =>  1)THALES 
+
+Name of inventor  =>  1)DOMINIQUE GEORGEL 2)LAURENT IOZELLI 
+
+International Classification  =>  H04L12/56 
+
+Priority Doc No  =>  0708454 
+
+International Application Number  =>  PCT/EP08/066689 
+
+International Publication Number  =>  WO 2009/071571 A1 
+
+Abstract  =>  The present invention relates to a method for keeping the routing tables of the nodes of an unstable dissemination network up to date, said nodes joining or leaving said network unpredictably. A node periodically sends a synchronization message to all other remote nodes, the period for sending a synchronization message to all other remote nodes increasing when the network is tending to stabilize, the remote nodes all being synchronized and the local routing table not evolving. A node exceptionally sends a synchronization message to another remote node particularly when said other node is desynchronized. Application: extended heterogeneous networks. Figure 1 
+

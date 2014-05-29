@@ -1,0 +1,22 @@
+Application number  =>  510/MUMNP/2012 A 
+
+Date of filing of application number  =>  01/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  GLAUCOMA DRAINAGE DEVICE WITH PUMP 
+
+Name of applicant  =>  1)ALCON RESEARCH, LTD. 
+
+Name of inventor  =>  1)RICKARD, MATTHEW J.A. 
+
+International Classification  =>  A61F 9/007 
+
+Priority Doc No  =>  12/563,244 
+
+International Application Number  =>  PCT/US10/047612 
+
+International Publication Number  =>  WO/2011/034742 
+
+Abstract  =>  A glaucoma drainage device has a main drainage tube (2030) with a first end in an anterior chamber (3-40) of an eye and a second end in a drainage location (410). A bypass drainage tube (2040) is fluidly coupled to and in parallel with the main drainage tube. A pump (280) is in communication, with the bypass drainage tube. The pump comprises a first driver 82020) and a first flexible membrane (2025) enclosing a first chamber (2027). A first check valve (255) is located upstream from the pump, and a second check valve (260) is located downstream from the pump. An active valve (270) is located upstream from the first check valve. The active valve comprises a second driver (2010) and a second flexible membrane 2015 enclosing a secrnd chamber 2017). A third check valve (250) is located between the active valve and the second end of the main drainage tube. A volume of the first chamber is changed to pump fluid from the anterior chamber. 
+

@@ -1,0 +1,22 @@
+Application number  =>  5135/DELNP/2011 A 
+
+Date of filing of application number  =>  04/07/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  REGENERATIVELY COOLED POROUS MEDIA JACKET 
+
+Name of applicant  =>  1)FIRESTAR ENGINEERING LLC 
+
+Name of inventor  =>  1)MUNGAS Greg 2)FISHER David J. 3)LONDON Adam Pollok 4)FRYER Jack Merrill 
+
+International Classification  =>  F02K9/40 
+
+Priority Doc No  =>  61/120,776 
+
+International Application Number  =>  PCT/US2009/067219 
+
+International Publication Number  =>   
+
+Abstract  =>  The fluid and heat transfer theory for regenerative cooling of a rocket combustion chamber with a porous media coolant jacket is presented. This model is used to design a regeneratively cooled rocket or other high temperature engine cooling jacket. Cooling jackets comprising impermeable inner and outer walls, and porous media channels are disclosed. Also disclosed are porous media coolant jackets with additional structures designed to transfer heat directly from the inner wall to the outer wall, and structures designed to direct movement of the coolant fluid from the inner wall to the outer wall. Methods of making such jackets are also disclosed. 
+

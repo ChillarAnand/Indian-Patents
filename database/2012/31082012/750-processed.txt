@@ -1,0 +1,22 @@
+Application number  =>  937/MUMNP/2012 A 
+
+Date of filing of application number  =>  16/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD FOR STREPTOCOCCUS PNEUMONIAE DIAGNOSIS AND SEROTYPING 
+
+Name of applicant  =>  1)AZIENDA OSPEDALIERO-UNIVERSITARIA MEYER 
+
+Name of inventor  =>  1)AZZARI, CHIARA 2)MORIONDO, MARIA 3)RESTI, MASSIMO 
+
+International Classification  =>  C12Q 1/68 
+
+Priority Doc No  =>  09173437.6 
+
+International Application Number  =>  PCT/EP2010/065733 
+
+International Publication Number  =>  WO/2011/048104 
+
+Abstract  =>  The present invention relates to a method for detecting a specific serotype of S. pneumoniae in a biological sample obtained from a subject, comprising the following steps: a) extracting S. pneumoniae DNA from the sample; b) incubating the extracted DNA under conditions such as to enable the amplification of at least one serotype specific target region comprised in the Cps gene cluster locus of S. pneumoniae and selected from the group of: SEQ ID No. 98 to 128, related kits. 
+

@@ -1,0 +1,42 @@
+The Patent Office Journal 31/05/2013 12108
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9866/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :27/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : MULTIMODE TERMINAL AVOIDING COLLISIONS BETWEEN TRANSCEIVERS
+(51) International classification :H04W 72/12
+(31) Priority Document No :61/221,263
+(32) Priority Date :29/06/2009
+(33) Name of priority country :U.S.A.
+(86) International Application No
+Filing Date
+:PCT/US2010/040449
+:29/06/2010
+(87) International Publication No : NA
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)QUALCOMM Incorporated
+Address of Applicant :Attn: International IP Administration
+5775 Morehouse Drive San Diego California 92121-1714
+USA.
+(72)Name of Inventor :
+1)KADOUS Tamer A.
+2)MANTRAVADI Ashok
+(57) Abstract :
+Systems and methodologies are described herein that facilitate filtering or clustering of radios and/or other transceivers associated
+with a communication environment. As described herein potentially conflicting transceivers supported by a communications
+device can be managed in an expedited fashion by filtering the transceivers into respective groups or clusters of transceivers that
+exhibit potential collisions. For example clusters can be generated such that respective transceivers are associated with a single
+cluster and respective transceivers associated with a given cluster do not exhibit potential collisions with transceivers not
+associated with the given cluster. Clustering can be performed graphically as further described herein by generating and analyzing
+a graph that includes nodes corresponding to respective transceivers and edges representing potential conflicts therebetween.
+Additionally resolution tables can be generated using substantially all combinations of conflicting transceivers within a set of
+transceivers as determined based on an initial clustering and/or in any other suitable manner.
+No. of Pages : 58 No. of Claims : 43

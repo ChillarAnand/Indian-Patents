@@ -1,0 +1,22 @@
+Application number  =>  2942/CHENP/2011 A 
+
+Date of filing of application number  =>  29/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD AND APPARTUS FOR REPLACEMENT CONNECTION VERIFICATION DURING MIGRATION FROM AN ANALOG NETWORK ELEMENT TO A NEXT GENERATION NETWORK ELEMENT 
+
+Name of applicant  =>  1)ALCATEL-LUCENT USA INC. 
+
+Name of inventor  =>  1)DAVID LEROY BRUGMAN 2)DENNIS W. CAPECCI 
+
+International Classification  =>  H04M3/30 
+
+Priority Doc No  =>  12/290,554 
+
+International Application Number  =>  PCT/US2009/005616 
+
+International Publication Number  =>  WO 2010/062304 A1 
+
+Abstract  =>  Method, corresponding apparatus and system are provided for transparently testing replacement functionality and optionally migrating subscribers on analog phone lines, served, for example, by PSTN Class 5 elements, to Next Generation Network (NGN) elements when copper co-termination is leveraged. According to an exemplary method, a telephone line for a telephone number is accessed through a metallic test access circuit of an analog network element and it is determined if the telephone line is available to test. If the telephone line is available to test, a port of a Next Generation Network element corresponding to the telephone number is activated, and it is determined whether a copper connection to the port of the Next Generation Network element is operating properly based on a voltage level received through the analog network element. 
+

@@ -1,0 +1,49 @@
+ 
+The Patent Office Journal 31/08/2012 
+13712
+(12) PATENT APPLICATION PUBLICATION (21) Application No.695/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :19/03/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : BLADDER CANCER SPECIFIC LIGAND PEPTIDES  
+  
+(51) International classification  :C07K7/06  
+(31) Priority Document No  :61/245,492  
+(32) Priority Date  :24/09/2009 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2010/050037
+:23/09/2010 
+(87) International Publication No  :WO/2011/038142  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)THE REGENTS OF THE UNIVERSITY OF 
+CALIFORNIA 
+      Address of Applicant :1111 FRANKLIN STREET,12TH 
+FLOOR OAKLAND,CALIFORNIA 94607-5200 UNITED 
+STATES OF AMERICA. 
+(72)Name of Inventor : 
+   1)PAN,CHONG-XIAN 
+   2)ZHANG , HONGYONG 
+   3)LAM,KIT S. 
+   4)AINA , OLULANU H. 
+   5)N/A  
+(57) Abstract : 
+The present invention is directed to bladder cancer specific ligand peptides, comprising the amino acid sequence X1DGRX5GF (SEQ 
+ID NO:1), and methods of their use, e.g., for imaging detection for diagnosis of bladder, tumor localization to guide transurethral 
+resection of bladder cancer, imaging detection of bladder cancer for follow-up after the initial treatment that can replace or 
+complement costly cystoscopy, imaging detection of metastatic bladder cancer, and targeted therapy for superficial and metastatic 
+bladder cancer. 
+  
+  
+No. of Pages : 81 No. of Claims : 22 

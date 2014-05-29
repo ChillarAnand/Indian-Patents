@@ -1,0 +1,45 @@
+ 
+The Patent Office Journal 31/08/2012 
+13535
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2388/MUMNP/2009 A 
+(19) INDIA  
+(22) Date of filing of Application :23/12/2009 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : BLOWING APPARATUS FOR EXPANDING CONTAINERS  
+  
+(51) International classification  :B29C 49/58  
+(31) Priority Document No  :102007032434.2  
+(32) Priority Date  :10/07/2007 
+(33) Name of priority country  :Germany 
+(86) International Application No 
+        Filing Date 
+:PCT/EP2008/058665 
+:04/07/2008 
+(87) International Publication No  :WO2009/007315A2 
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)KRONES AG 
+      Address of Applicant :BOHMERWALDSTRASSE 5, 93073, 
+NEUTRAUBLING, GERMANY. 
+(72)Name of Inventor : 
+   1)SPERKA, WOLFGANG 
+   2)BLOCHMANN, ERIK 
+   3)GELTINGER, FLORIAN  
+(57) Abstract : 
+The invention relates to a blowing apparatus (1) for expanding containers (10) with a gaseous medium, comprising a blowing piston 
+(2) and comprising a blowing nozzle (6), through which the container (10) is expanded with the gaseous medium. According to the 
+invention, the blowing piston (6) is movable in a longitudinal direction (L) of the blowing nozzle (6), wherein the blowing nozzle (6) 
+is movable in the longitudinal direction (L) relative to the blowing piston (2), and a guide device (4) is provided which guides the 
+movement of the blowing nozzle (6) in the longitudinal direction (L) relative to the blowing piston (2) . 
+  
+  
+No. of Pages : 24 No. of Claims : 17 

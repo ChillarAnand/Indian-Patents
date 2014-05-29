@@ -1,0 +1,22 @@
+Application number  =>  2038/MUM/2011 A 
+
+Date of filing of application number  =>  18/07/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  EUROPIUM CHALCOGENIDE THIN FILMS BY SPRAY PYROLYSIS DEPOSITION AND METHOD THEREOF 
+
+Name of applicant  =>  1)BETKAR MAHESHWAR MALLIKARJUN 2)DR.BAGDE G.D. 
+
+Name of inventor  =>  1)BETKAR MAHESHWAR MALLIKARJUN 2)DR.BAGDE G.D. 
+
+International Classification  =>  C07F 3/00 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention concerns the method for preparation of europium chalcogenide thin films, deposited by spray pyrolysis. Formation of thin films is based on a general formula, Ra-Cb, wherein R represents the europium and C represent a chalcogen, a and b represents the proportions of europium and chalcogen respectively. The method comprises, pyrolysis of liquid precursor of said europium (R) and a chalcogen (C) or liquid precursor of said euporium (R) and at least one liquid precursor of said chalcogen (C), prepared in aqueous and non-aqueous solvent mediums. The liquid precursor is sprayed on hot substrate, with pre-determined parameters like substrate temperature, precursor concentration, precursor composition, nozzle to substrate distance, spray rate, carrier gas flow rate and pressure on the carrier gas. Scientifically important thin films of comparatively thin in thickness and of good morphological characteristics are synthesized. 
+

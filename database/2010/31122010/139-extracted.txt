@@ -1,0 +1,47 @@
+The Patent Office Journal 31/12/2010 
+ 
+5405
+(12) PATENT APPLICATION PUBLICATION (21) Application No.4105/KOLNP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :01/11/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : CONNECTION PROCESSING METHOD IN WIRELESS COMMUNICATION SYSTEM AND 
+WIRELESS BASE STATION AND WIRELESS TERMINAL  
+  
+(51) International classification  :H04Q 7/38  
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date 
+:PCT/JP2008/058202
+:28/04/2008 
+(87) International Publication No  :WO 2009/133599  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)FUJITSU LIMITED 
+      Address of Applicant :1-1, KAMIKODANAKA 4-CHOME, 
+NAKAHARA-KU, KAWASAKI-SHI, KANAGAWA 211-8588 
+JAPAN. 
+(72)Name of Inventor : 
+   1)YOSHIHARU TAJIMA 
+   2)KAZUHISA OBUCHI 
+   3)YOSHINORI TANAKA 
+   4)YOSHIHIRO KAWASAKI 
+   5)YOSHIAKI OHTA 
+   6)KATSUMASA SUGIYAMA  
+(57) Abstract : 
+In a wireless communication system, a wireless base station (10), if rejecting a connection to a wireless terminal (20) that makes a 
+connection request in accordance with a first: connection processing, controls to adopt a second connection processing different from 
+the first connection processing in response to a subsequent connection request by the wireless terminal (20).  
+ 
+No. of Pages : 66 No. of Claims : 16 

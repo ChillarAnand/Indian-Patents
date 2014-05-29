@@ -1,0 +1,22 @@
+Application number  =>  2873/CHENP/2011 A 
+
+Date of filing of application number  =>  28/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  OPTICAL SYSTEM AND DISPLAY 
+
+Name of applicant  =>  1)SHARP KABUSHIKIK KAISHA 
+
+Name of inventor  =>  1)GREGORY GAY 2)LESLEY ANNE PARRY-JONES 
+
+International Classification  =>  G02B27/02, G02B17/00, G09F9/00 
+
+Priority Doc No  =>  0821776.2 
+
+International Application Number  =>  PCT/JP2009/069513 
+
+International Publication Number  =>  WO 2010/061755 A1 
+
+Abstract  =>  An optical system is provided, for example for use with a display device (1), for varying the shape of a surface in which an image displayed by the display device (1) is perceived. The optical system comprises first and second spaced-apart partial reflectors (3, 5), at least one of which is switchable between a first non-flat shape and a second different shape, which may be flat or non- flat. The reflectors (3,5), together with polarisation optics (2,4), provide a light path (6) such that light from the display (1) is at least partially transmitted by the first reflector (3), partially reflected by the second reflector (5), partially reflected by the first reflector (3) and partially transmitted by the second reflector (5). Light which does not follow the light path (6) is prevented from leaving the optical system. 
+

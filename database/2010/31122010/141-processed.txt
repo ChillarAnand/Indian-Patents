@@ -1,0 +1,22 @@
+Application number  =>  4107/KOLNP/2010 A 
+
+Date of filing of application number  =>  01/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  FURNACE INSTALLATION 
+
+Name of applicant  =>  1)SIEMENS AKTIENGESELLSCHAFT 
+
+Name of inventor  =>  1)JOHANNES ROSNER, 2)MICHAEL SCHMID 
+
+International Classification  =>  F27D 23/02 
+
+Priority Doc No  =>  08009130.9 
+
+International Application Number  =>  PCT/EP2009/053997 
+
+International Publication Number  =>  WO 2009/138297 
+
+Abstract  =>  The invention relates to a furnace system, comprising a furnace (1), particularly an arc furnace, for melting metal, a cleaning device (3) for removing and/or avoiding bulk goods from or in a furnace opening (2), wherein the cleaning device (3) comprises a movable thrust arm (4) for carrying out a thrust movement, and means (6) for moving the thrust arm (4) between a parking level (P) and an operating level (B). The invention provides a furnace system, in which the use of a furnace opening is further made more flexible in that a work platform (7) forming a work level (A) is present, from which the furnace opening (2) is accessible and which carries the cleaning device (3), and wherein the work level (A) has a recess (8) through which the thrust arm (4) can be guided during the movement thereof between the operating level (b) positioning above the work level (A), and the parking level (P) positioned below the working level (A). 
+

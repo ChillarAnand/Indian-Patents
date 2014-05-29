@@ -1,0 +1,22 @@
+Application number  =>  2911/CHENP/2012 A 
+
+Date of filing of application number  =>  29/03/2012 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  FLYWAYS IN DATA CENTERS 
+
+Name of applicant  =>  1)MICROSOFT CORPORATION 
+
+Name of inventor  =>  1)PADHYE, JITENDRA D. 2)KANDULA, SRIKANTH 3)BAHL, PARAMVIR 
+
+International Classification  =>  H04L 12/28 
+
+Priority Doc No  =>  61/250,013 
+
+International Application Number  =>  PCT/US2010/051698 
+
+International Publication Number  =>  WO 2011/044288 A3 
+
+Abstract  =>  Described is a technology by which additional network communications capacity is provided to an oversubscribed base network where needed, through the use of dynamically provisioned communications links referred to as fly ways. A controller detects a need for additional network communications capacity between two network machines, e.g., between two racks of servers with top-of-rack switches. The controller configures flyway mechanisms (e.g., one per rack) to carry at least some of the network traffic between the machines of the racks and thereby provide the additional network communications capacity. The flyway mechanisms may be based on any wireless or wired technologies, including 60GHz technology, optical links, 802.1 In or wired commodity switches. 
+

@@ -1,0 +1,22 @@
+Application number  =>  993/CHENP/2011 A 
+
+Date of filing of application number  =>  11/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  NANOPORE DEVICE AND A METHOD FOR NUCLEIC ACID ANALYSIS 
+
+Name of applicant  =>  1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+
+Name of inventor  =>  1)VAN DER ZAAG Pieter J. 2)VAN DE STOLPE Anja 3)MCCOO Elaine 4)VAN WANROOIJ Eva J. A. 
+
+International Classification  =>  G01N15/12 
+
+Priority Doc No  =>  08160644.4 
+
+International Application Number  =>  PCT/IB2009/050635 
+
+International Publication Number  =>   
+
+Abstract  =>  A nanopore device is described wherein is provided a second component for detection of target molecules, from a common sample input, under similar conditions to the usual first assembly, during rapid nucleic acid analysis. Fig. 1 
+

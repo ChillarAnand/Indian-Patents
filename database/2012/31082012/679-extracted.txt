@@ -1,0 +1,51 @@
+ 
+The Patent Office Journal 31/08/2012 
+13738
+(12) PATENT APPLICATION PUBLICATION (21) Application No.756/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :26/03/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : METHOD FOR PREPARING PYRIMIDINE DERIVATIVES USEFUL AS PROTEIN KINASE 
+INHIBITORS  
+  
+(51) International classification  :C07D 475/00  
+(31) Priority Document No  :61/245,773  
+(32) Priority Date  :25/09/2009 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/IB10/002655 
+:24/09/2010 
+(87) International Publication No  :WO/2011/036566 
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)VERTEX PHARMACEUTICALS INCORPORATED 
+      Address of Applicant :130 WAVERLY STREET, 
+CAMBRIDGE, MASSACHUSETTS 02139 UNITED STATES 
+OF AMERICA. 
+(72)Name of Inventor : 
+   1)CHARRIER, JEAN-DAMIEN 
+   2)DURRANT, STEVEN 
+   3)O'DONNELL, MICHAEL  
+(57) Abstract : 
+A method of preparing a compound represented by Structural Formula (I), or a pharmaceuticalry acceptable salt thereof wherein the 
+variables of Structural Formula (T) are as described in The specification and claims, comprises the steps of: a) reacting a compound 
+represented by Structural Formula (A) with FTNRJR7 under suitable conditions to form a compound represented by Structural 
+Formula (B); and b) i) when R12 is -NOz, and RH is -OR14: 1) cyclizing the compound represented by Structural Formula (B) under 
+suitable cyclisation conditions to form a compound represented by Structural Formula (II); and 2) optionally reacting the compound 
+represented by Structural Formula (H) with R9-LG:, wherein LG2 is a suitable leaving group, to form the compound represented by 
+Structural Formula (I), wherein R8 is R9; or ii) when R12 is halogen, and R11 is -NHR13: 1) cyclizing the compound represented by 
+Structural Formula (B) under suitable cyclisation conditions to form the compound represented by Structural Formula (I); and 2) 
+optionally, when R13 is - H, reacting the compound produced from step b), ii), 1) with R9-LG2, wherein LG2 is a suitable leaving 
+group, to form the compound represented by Structural Formula (I) wherein Rg is R9. 
+  
+  
+No. of Pages : 139 No. of Claims : 40 

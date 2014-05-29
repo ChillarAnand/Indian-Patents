@@ -1,0 +1,49 @@
+The Patent Office Journal 31/12/2010 
+ 
+5349
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2005/MUMNP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :23/09/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : APPARATUS AND METHODS FOR WIDGET INTERCOMMUNICATION IN A WIRELESS 
+COMMUNICATION ENVIRONMENT  
+  
+(51) International classification  :G06F9/44,G06F9/46,H04L29/08
+(31) Priority Document No  :61/039,423  
+(32) Priority Date  :25/03/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application 
+No 
+        Filing Date 
+:PCT/US2009/037787  
+:20/03/2009 
+(87) International Publication 
+No  : NA  
+(61) Patent of Addition to 
+Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application 
+Number 
+        Filing Date 
+:NA 
+:NA 
+ 
+  
+(71)Name of Applicant :  
+   1)QUALCOMM INCORPORATED 
+      Address of Applicant :Attn: International IP Administration  
+5775 Morehouse Drive  San Diego  California 92121-1714  
+United States of America   
+(72)Name of Inventor : 
+   1)CAUNTER  Mark  Leslie 
+   2)JACKSON  Bruce  Kelly 
+   3)GEACH  Steven  Richard  
+(57) Abstract : 
+The described aspects relate to methods and apparatus for widget intercommunication in a wireless communication environment. In 
+particular the described aspects relate to dynamically exchanging content between application graphical user interface widgets 
+executed on a widget runtime model. 
+  
+  
+No. of Pages : 83 No. of Claims : 58 

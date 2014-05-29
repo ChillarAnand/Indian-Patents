@@ -1,0 +1,22 @@
+Application number  =>  4146/KOLNP/2010 A 
+
+Date of filing of application number  =>  03/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  PRINTED WIRING BOARD AND METHOD FOR MANUFACTURING THE SAME 
+
+Name of applicant  =>  1)IBIDEN CO., LTD. 
+
+Name of inventor  =>  1)TAKAHASHI, MICHIMASA 
+
+International Classification  =>  H05K 3/46 
+
+Priority Doc No  =>  61/071,790 
+
+International Application Number  =>  PCT/JP2008/073344 
+
+International Publication Number  =>  WO 2009/141928 
+
+Abstract  =>  A printed wiring board has a first substrate (10) with multiple wiring layers, and a second substrate (20) with wiring layers whose conductor density is set higher than that of the first substrate (10). The first substrate (10) and the second substrate (20) are electrically connected through each wiring layer, and the second substrate (20) is embedded in an accommodation section (100a). 
+

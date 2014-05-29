@@ -1,0 +1,22 @@
+Application number  =>  3075/CHENP/2011 A 
+
+Date of filing of application number  =>  05/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  GPS-ASSISTED CELL SELECTION FOR MOBILE DEVICES 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)STEVEN D. CHENG 2)KUO-CHUN LEE 3)TOM CHIN 
+
+International Classification  =>  H04W36/32 
+
+Priority Doc No  =>  12/270,947 
+
+International Application Number  =>  PCT/US2009/064339 
+
+International Publication Number  =>  WO 2010/056958 A1 
+
+Abstract  =>  Methods and apparatus for using a location of a mobile station (MS) and information about neighbor base stations (BSs) to assist network entry and initialization, scanning, and/or handover operations are provided. The location of the MS may be ascertained by determining the Global Positioning System (GPS) coordinates of the MS internally or by receiving the location from, e.g., a GPS device external to the MS. The information about neighbor BSs may be retrieved from a BS information database based on the location of the MS. The BS information database may reside within the MS, be broadcast periodically to the MS in an effort to update the MSs internal database, or be stored in the network operators database. Knowledge of the MSs location and information about neighbor BSs may reduce the time spent during network entry, scanning, or handover, and thereby, power consumption; and may increase the bandwidth usage efficiency. 
+

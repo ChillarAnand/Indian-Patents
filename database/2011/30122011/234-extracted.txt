@@ -1,0 +1,50 @@
+The Patent Office Journal 30/12/2011 
+ 
+25571
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1043/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :14/02/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : METHOD AND APPARATUS FOR AUTOMATED PARAMETER ADJUSTMENT TO 
+COMPENSATE SELF ADJUSTING TRANSMIT POWER AND SENSITIVITY LEVEL AT THE NODE B  
+  
+(51) International classification  :H04W52/10  
+(31) Priority Document No  :61/087,861  
+(32) Priority Date  :11/08/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/053198
+:07/08/2009 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)QUALCOMM Incorporated 
+      Address of Applicant :Attn: International IP Administration  
+5775 Morehouse Drive  San Diego  California 92121-1714 USA.  
+(72)Name of Inventor : 
+   1)GHOLMIEH Aziz 
+   2)MESHKATI Farhad 
+   3)YAVUZ Mehmet 
+   4)MOHAN Siddharth 
+   5)CHEVALLIER Christophe  
+(57) Abstract : 
+A small base node such as a Home Base Node (HNB), or femto cell, may reduce its transmit power in order to prevent co-channel or 
+adjacent channel interference, or to limit its coverage area. Once the power is set, the HNB signal to a served Home User Equipment 
+(HUE) its transmit Common Pilot Channel (CPICH) transmit power for accurate path loss estimation. When this power is outside of 
+the permissible range, the HNB adjusts other parameters (such as Random Access Channel (RACH) constant value) to compensate for 
+the error in signaled CPICH power, and thus compensate in that process the error in determining path loss. Similarly, if the uplink 
+sensitivity is adjusted, to prevent interference, parameters would also be adjusted and signaled to the HUE to reflect the link 
+imbalance. 
+  
+  
+No. of Pages : 55 No. of Claims : 34 

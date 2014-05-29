@@ -1,0 +1,22 @@
+Application number  =>  2128/CHENP/2012 A 
+
+Date of filing of application number  =>  08/03/2012 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  METHOD AND APPARATUS FOR AUGMENTED SOCIAL NETWORKING MESSAGING 
+
+Name of applicant  =>  1)NOKIA CORPORATION 
+
+Name of inventor  =>  1)James Reilly 2)Toni Strandell 3)Jyri Salomaa 4)Jan Blom 5)Ari Aarnio 
+
+International Classification  =>  G06Q50/00 
+
+Priority Doc No  =>  12/552,095 
+
+International Application Number  =>  PCT/FI2010/050486 
+
+International Publication Number  =>   
+
+Abstract  =>  An approach is provided for augmented social networking messaging. A message is generated for posting to a social networking service. Address information is determined for a group of one or more devices associated with one or more users. At least one of the one or more users is a non-subscriber to the social networking service. The addressing information is used to send the message to the group. A reply to the message is received from one of the devices of the group. Posting of the reply to the social networking service is initiated. 
+

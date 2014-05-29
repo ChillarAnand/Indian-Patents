@@ -1,0 +1,22 @@
+Application number  =>  632/MUMNP/2012 A 
+
+Date of filing of application number  =>  14/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  ENERGY REDUCING RETROFIT METHOD AND APPARATUS FOR A CONSTANT VOLUME HV AC SYSTEM 
+
+Name of applicant  =>  1)TRANSFORMATIVE WAVE TECHNOLOGIES LLC 
+
+Name of inventor  =>  1)MILLER, DANNY 2)SIPE, JUSTIN 
+
+International Classification  =>  G05D 23/00 
+
+Priority Doc No  =>  12/544,960 
+
+International Application Number  =>  PCT/US2010/045734 
+
+International Publication Number  =>  WO/2011/022379 
+
+Abstract  =>  An energy-reducing method and apparatus for retrofitting a constant volume BVAC system, with or without an economizer, that provide heating, cooling, and ventilation to occupants within a building space. The present invention includes the introduction of a programmable logic controller and variable frequency drive (VFD) that takes control of the existing fan, heating, cooling, and optional economizer operation. The controller is programmed for the reduction of fan speed in the heating and cooling modes. The reduction of the fan speed in the ventilation mode when the 100% operation is not needed saves significant energy of the existing constant volume BVAC system where the fan motor is designed to run 100% of the time. The fan speed may be further reduced upon a reduction in sensed occupancy levels of the s ace such as with a CO2 sensor. Additionally the fan speed may be reduce energy consumption. 
+

@@ -1,0 +1,45 @@
+The Patent Office Journal 30/12/2011 
+ 
+25614
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1265/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :23/02/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : TECHNIQUES FOR ENABLING COMPATIBILITY OF ULTRA WIDEBAND DEVICES  
+  
+(51) International classification  :H04W60/00  
+(31) Priority Document No  :61/084711  
+(32) Priority Date  :30/07/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/IB2009/052979
+:08/07/2009 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+      Address of Applicant :GROENEWOUDSEWEG 1 
+EINDHOVEN  5621 BA  NETHERLANDS   
+(72)Name of Inventor : 
+   1)ZHAI  Hongqiang 
+   2)CHEN  Richard 
+   3)CHOU  Chun-Ting  
+(57) Abstract : 
+A method (200) for enabling compatibility of wireless devices having different regulation settings. The method comprises upon 
+initialization of a wireless device, scanning a predefined common channel (S220); forming a WiNet service set (WSS) by wireless 
+devices communicating over the predefined common channel (S230); upon switching of the wireless devices in the WSS to a channel 
+other than the predefined common channel, checking if a new wireless device attempts to join the WSS (S240, S250); and adding the 
+new wireless device to the WSS if such attempt was detected (S290). Fig.2 
+  
+  
+No. of Pages : 16 No. of Claims : 11 

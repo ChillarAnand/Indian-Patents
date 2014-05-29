@@ -1,0 +1,22 @@
+Application number  =>  549/MUM/2011 A 
+
+Date of filing of application number  =>  28/02/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  ARC CHUTE ASSEMBLY AND METHOD THERE OF 
+
+Name of applicant  =>  1)LARSEN & TOUBRO LIMITED 
+
+Name of inventor  =>  1)RAHUL AMBRISH 2)SHIRISH DATTATRAY GAIKWAD 3)PRIYANKA SHARMA 
+
+International Classification  =>  H01H73/18; H01H9/02; H01 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention provides an arc chute assembly for a switching device. The arc chute assembly as of a plurality of differentially varied arc plates which are incrementally configured in the assembly. The assembly helps in achieving higher arc lengths and higher arc voltage. Achieving higher arc voltage helps the arc to quench faster. 
+

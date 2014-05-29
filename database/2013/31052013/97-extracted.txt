@@ -1,0 +1,37 @@
+The Patent Office Journal 31/05/2013 12068
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9773/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :26/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : DUAL POWER INPUT FLUID PUMP
+(51) International classification :F02B 39/02
+(31) Priority Document No :61/185,254
+(32) Priority Date :09/06/2009
+(33) Name of priority country :U.S.A.
+(86) International Application No
+Filing Date
+:PCT/CA2010/000907
+:09/06/2010
+(87) International Publication No : NA
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)MAGNA POWERTRAIN INC.
+Address of Applicant :50 Casmir Court Concord Ontario
+L4K 4J5 Canada
+(72)Name of Inventor :
+1)JAROSLAW LUTOSLAWSKI
+2)RICHARD D. MUIZELAAR
+3)ANDREW KOWALSKI
+(57) Abstract :
+A fluid pumping system for a vehicle having an internal combustion engine includes a housing an electric motor a controller to
+control the speed of the electric motor a planetary gearset including a first member adapted to be driven by the internal
+combustion engine a second member driven by the electric motor and a third member. A pump is driven by the third member of
+the planetary gearset. The housing contains the electric motor the pump and the controller.
+No. of Pages : 26 No. of Claims : 21

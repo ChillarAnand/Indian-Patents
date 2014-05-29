@@ -1,0 +1,22 @@
+Application number  =>  1329/CHENP/2010 A 
+
+Date of filing of application number  =>  09/03/2010 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  ZSM-5, ITS PREPARATION AND USE IN ETHYLBENZENE DEALKYLATION 
+
+Name of applicant  =>  1)SHELL INTERNATIONALE RESEARCH MAATSCHAPPIJ B.V. 
+
+Name of inventor  =>  1)DOMOKOS, LASZLO 2)HASWELL, RALPH 3)LI, HONG-XIN 
+
+International Classification  =>  C07C4/18, B01J29/40, B01J29/44 
+
+Priority Doc No  =>  60/971,130 
+
+International Application Number  =>  PCT/EP2008/061967 
+
+International Publication Number  =>  WO 2009/0340936 A3 
+
+Abstract  =>  A new configuration of ZSM-5 is provided whereby the crystals have a higher average silica to alumina ratio at the edges of each crystallite than in the centre as determined from a narrow slit line scan profile obtained from SEM/EDX or TEM/EDX elemental analysis. Such ZSM-5 crystals are obtained by a preparation process using L-tartaric acid. The new configuration ZSM-5 provides significantly reduces xylene losses in ethylbenxene dealkylation.esepecially when combined with silican as binder and one or more hydrogenation metals selected from platinum,tin,lead,silver,copper and nickel. Further advantages are found if used in combination with a small crystal size ZSM-5. 
+

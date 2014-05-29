@@ -1,0 +1,22 @@
+Application number  =>  4185/KOLNP/2010 A 
+
+Date of filing of application number  =>  08/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  BLOOD ANALYZER, BLOOD ANALYSIS METHOD AND HEMOLYTIC AGENT 
+
+Name of applicant  =>  1)SYSMEX CORPORATION 
+
+Name of inventor  =>  1)MATSUMOTO, HIDEAKI 2)UCHIHASHI, KINYA 3)ITOSE, YUJI 4)KONISHI, AYA 
+
+International Classification  =>  G01N 33/49 
+
+Priority Doc No  =>  2008-123347 
+
+International Application Number  =>  PCT/JP2009/058316 
+
+International Publication Number  =>  WO 2009/136570 
+
+Abstract  =>  This blood analyzer includes a sample preparation portion preparing a measurement sample containing no labeled substance from a blood sample and a hemolytic agent containing no labeled substance, a light information generation portion generating fluorescent information and at least two types of scattered light information from the measurement sample and a control portion performing a first classification of white blood cells in the measurement sample into at least four groups of monocytes, neutrophils, eosinophils and a group of the others on the basis of the fluorescent information and the two types of scattered light information. 
+

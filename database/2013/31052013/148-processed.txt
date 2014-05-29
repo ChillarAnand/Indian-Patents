@@ -1,0 +1,22 @@
+Application number  =>  9910/CHENP/2011 A 
+
+Date of filing of application number  =>  28/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  A METHOD FOR SECURE TRANSACTIONS 
+
+Name of applicant  =>  1)ACCUMULATE AB 
+
+Name of inventor  =>  1)HULTBERG, STEFAN 2)WESTLING, MAGNUS 
+
+International Classification  =>  G06Q20/00 
+
+Priority Doc No  =>  0950411-9 
+
+International Application Number  =>  PCT/SE2010/050614 
+
+International Publication Number  =>  WO 2010/140970A1 
+
+Abstract  =>  The present invention relates to a method for a secure transaction utilizing a portable radio communication device (10), wherein both parts in the secure transaction are protected against fraudulent actions, among other things by use of a common transaction identity on a predefined transaction server. 
+

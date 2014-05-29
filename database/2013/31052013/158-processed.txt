@@ -1,0 +1,22 @@
+Application number  =>  9917/CHENP/2011 A 
+
+Date of filing of application number  =>  28/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  METHOD AND APPARATUS FOR MULTI-STATION REQUEST MESSAGING 
+
+Name of applicant  =>  1)QUALCOMM Incorporated 
+
+Name of inventor  =>  1)ABRAHAM Santosh P. 2)SAMPATH Hemanth 3)VERMANI Sameer 
+
+International Classification  =>  H04W 72/04 
+
+Priority Doc No  =>  61/221,362 
+
+International Application Number  =>  PCT/US2010/040313 
+
+International Publication Number  =>   
+
+Abstract  =>  A process for wireless communications is disclosed herein that includes specifying transmission parameters for a plurality of wireless nodes in a single frame; and transmitting the single frame. An apparatus for performing the process is also disclosed herein. 
+

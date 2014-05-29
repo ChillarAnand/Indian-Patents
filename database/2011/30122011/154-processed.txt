@@ -1,0 +1,22 @@
+Application number  =>  1039/MUMNP/2011 A 
+
+Date of filing of application number  =>  24/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  INCLUSIVE OR EXCLUSIVE RFID TAG INTERROGATION AND QUERY ROUND 
+
+Name of applicant  =>  1)Intelleflex Corporation 
+
+Name of inventor  =>  1)FARRON DACUS 
+
+International Classification  =>  G06K 7/00 
+
+Priority Doc No  =>  61/121,906 
+
+International Application Number  =>  PCT/US2009/067353 
+
+International Publication Number  =>  WO/2010/068678 
+
+Abstract  =>  Embodiments of the present invention allow for dynamic selection and query of different types of RFID tags into a session. Embodiments of the present invention also allow for dynamic activation of different types of RFID tags. In certain embodiments of the invention, an inclusive operation is performed on the RFID tags and in other embodiments an exclusive operation is performed. 
+

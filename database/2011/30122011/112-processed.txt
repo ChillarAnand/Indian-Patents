@@ -1,0 +1,22 @@
+Application number  =>  219/DEL/2010 A 
+
+Date of filing of application number  =>  01/02/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  A PROCESS FOR FABRICATION OF AN ELECTROLYTE INSULATOR SEMICONDUCTOR DEVICE HAVING MULTISTEP RESERVOIR 
+
+Name of applicant  =>  1)INDIAN INSTITUTE OF TECHNOLOGY KANPUR 
+
+Name of inventor  =>  1)MR. SIDDHARTHA PANDA 2)MR. ABHISHEK AGARWAL 
+
+International Classification  =>  G01B 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The invention relates to a process for fabricating an electrolyte insulator semiconductor device having more than one step reservoir by adapting a multiple exposure lithographic technique, the process comprising the steps of-providing a substrate and depositing and photolithographically patering a dielectric material which acts as a mask, the depositing of the photoresist material initially made to both the surfaces of the substrate, the first surface after oxidization retained as an oxidized surface weile the second surface being made free of oxidized material through removal of the deposits; applying a photoresist on the oxidized surface of the substrate; creating an inner opening to generate a single step reservoir by fully exposing the photoresist surface according to a first pattern; creating an outer opening to generate a two step reservoir by partially exposing the photoresist corresponding a second pattern; and configuring the contacts adapting a first metal on the back side, and a second metal on the shoulder of an upper step by metal evaporation through the mask. {FIGURE 1} 
+

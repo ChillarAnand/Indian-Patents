@@ -1,0 +1,40 @@
+The Patent Office Journal 31/05/2013 12111
+(12) PATENT APPLICATION PUBLICATION (21) Application No.989/CHENP/2012 A
+(19) INDIA
+(22) Date of filing of Application :31/01/2012 (43) Publication Date : 31/05/2013
+(54) Title of the invention : METHOD FOR COATING COMPONENTS
+(51) International classification :B05C1/00
+(31) Priority Document No :102010008821.8
+(32) Priority Date :22/02/2010
+(33) Name of priority country :Germany
+(86) International Application No
+Filing Date
+:PCT/EP2011/052623
+:22/02/2011
+(87) International Publication No :WO 2011/101494A1
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)HOMAG HOLZBEARBEITUNGSSYSTEME AG
+Address of Applicant :HOMAGSTRASSE 3-5, 72296
+SCHOPFLOCH Germany
+(72)Name of Inventor :
+1)SCHMID, JOHANNES
+2)REICH, KLAUS
+3)GAUSS, ACHIM
+(57) Abstract :
+A method for coating preferably flat workpieces (10), which preferably consist at least in certain portions of wood, wood-based
+materials, plastic or the like, with the following process steps: provision of a workpiece (10) having at least one workpiece surface
+(12), in particular a narrow workpiece surface, in which the workpiece surface (12) is improved by the application of at least a
+first curable liquid on the workpiece surface (12) and at least partial curing of the first liquid (16);exposure to energy, in particular
+heating of the workpiece (10) at least on the workpiece surface (12) and/or of a coating (14) which is intended to be applied to the
+work piece surface (12); and application of the coating (14), in particular of an edge banding (14), on the liquid-coated workpiece
+surface (12) and preferably pressing of the edge banding (14) onto the liquid-coated workpiece surface (12).
+No. of Pages : 20 No. of Claims : 14

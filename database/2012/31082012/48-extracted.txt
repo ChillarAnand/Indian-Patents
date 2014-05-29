@@ -1,0 +1,50 @@
+ 
+The Patent Office Journal 31/08/2012 
+13890
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2852/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :27/04/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : NOVEL IMMUNOTHERAPY AGAINST SEVERAL TUMORS INCLUDING NEURONAL AND 
+BRAIN TUMORS  
+  
+(51) International classification  :A61K39/00, A61K38/08, A61K38/16 
+(31) Priority Document No  :08017305.7  
+(32) Priority Date  :01/10/2008 
+(33) Name of priority country  :EPO 
+(86) International Application No 
+        Filing Date 
+:PCT/EP2009/006980 
+:28/09/2009 
+(87) International Publication No  :WO 2010/037514 A3  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)IMMATICS BIOTECHNOLOGIES GMBH 
+      Address of Applicant :PAUL-EHRLICH-STRASSE 15, 72076 
+TUBINGEN Germany 
+(72)Name of Inventor : 
+   1)SCHOOR, OLIVER  
+   2)HILF, NORBERT  
+   3)WEINSCHENK, TONI 
+   4)TRAUTWEIN, CLAUDIA  
+   5)WALTER, STEFFEN 
+   6)SINGH, HARPREET   
+(57) Abstract : 
+The present invention relates to peptides, nucleic acids and cells for use in immunotherapeutic methods. In particular, the present 
+invention relates to the immunotherapy of cancer. The present invention furthermore relates to tumor-associated cytotoxic T cell 
+(CTL) peptide epitopes, alone or in combination with other tumor-associated peptides that serve as active pharmaceutical ingredients 
+of vaccine compositions that stimulate anti-tumor immune responses. The present invention relates to 30 peptide sequences and their 
+variants derived from HLA class I and class II molecules of human tumor cells that can be used in vaccine compositions for eliciting 
+anti-tumor immune responses. 
+  
+  
+No. of Pages : 133 No. of Claims : 22 

@@ -1,0 +1,22 @@
+Application number  =>  366/MUMNP/2012 A 
+
+Date of filing of application number  =>  13/02/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD,SYSTEM AND DEVICE FOR USING TERMINAL IDENTIFIER 
+
+Name of applicant  =>  1)CHINA ACADEMY OF TELECOMMUNICATIONS TECHNOLOGY 
+
+Name of inventor  =>  1)ZHAO YI 2)LIANG JING 3)LI HAITAO 
+
+International Classification  =>  H04W 72/04 
+
+Priority Doc No  =>  200910091263.7 
+
+International Application Number  =>  PCT/CN2010/075944 
+
+International Publication Number  =>  WO/2011/018043 
+
+Abstract  =>  The embodiments of the present invention disclose a method, a system and a device for using a terminal identifier, and the method includes: the network side configures, for a terminal performing carrier aggregation, a uniform Radio Network Temporary Identifier (RNTI) in the cells where the carrier aggregation is performed; the network side and the terminal perform data reception and transmission using the uniform RNTI configured in the cells where the carrier aggregation is performed. By the invention, a terminal with carrier aggregation technology is able to perform the data reception and transmission with each cell using the RNTI. 
+

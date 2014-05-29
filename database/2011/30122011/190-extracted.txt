@@ -1,0 +1,41 @@
+The Patent Office Journal 30/12/2011 
+ 
+25527
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1092/MUMNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :27/05/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : CODING SCHEME SELECTION FOR LOW-BIT-RATE APPLICATIONS  
+  
+(51) International classification  :G10L 19/14  
+(31) Priority Document No  :12/261,815  
+(32) Priority Date  :30/10/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/062559
+:29/10/2009 
+(87) International Publication No  :WO/2010/059374  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)QUALCOMM INCORPORATED 
+      Address of Applicant :Attn: International IP Administration  
+5775 Morehouse Drive  San Diego  California 92121-1714  
+United States of America  
+(72)Name of Inventor : 
+   1)GUPTA  Alok Kumar 
+   2)KANDHADAI  Ananthapadmanabhan A.  
+(57) Abstract : 
+Systems, methods, and apparatus for low-bit-rate coding of transitional speech frames are disclosed. 
+  
+ 
+No. of Pages : 199 No. of Claims : 44 

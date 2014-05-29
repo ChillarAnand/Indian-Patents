@@ -1,0 +1,44 @@
+The Patent Office Journal 30/12/2011 
+ 
+25382
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2119/DELNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :21/03/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : OPERATION AMOUNT DETECTING APPARATUS  
+  
+(51) International classification  :B60T 7/02  
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date 
+:PCT/JP2008/071929 
+:03/12/2008 
+(87) International Publication No  :WO 2010/064304  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)TOYOTA JIDOSHA KABUSHIKI KAISHA 
+      Address of Applicant :1-TOYOTA-CHO, TOYOTA-SHI, 
+AICHI 471-8571 JAPAN   
+(72)Name of Inventor : 
+   1)HIROSHI ISONO  
+(57) Abstract : 
+In an operation amount detecting apparatus, a brake pedal (11) is coupled with an operation rod (15) by a coupling shaft (18), 
+respective end portions of an elastic member (21) are supported at support positions of a brake pedal (11) by support shafts (28, 29), 
+the brake pedal (11) is away in a direction orthogonal to an axis line direction of an operation rod (15) with respect to the coupling 
+shaft (18), an intermediate portion of the elastic member (21) is relatively displaceably coupled by the coupling shaft (18) and a 
+coupling hole (11a), and the elastic member (21) is disposed with output strain sensors (30a, 30b, 31a, 31b) which detect an elastic 
+deformation amount of the elastic member (21) and output the elastic deformation amount as a brake operation amount. 
+  
+ 
+No. of Pages : 57 No. of Claims : 17 

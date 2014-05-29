@@ -1,0 +1,22 @@
+Application number  =>  728/KOL/2010 A 
+
+Date of filing of application number  =>  02/07/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD FOR THE AUTOMATED STARTUP AND/OR FOR THE AUTOMATED OPERATION OF CONTROLLERS OF AN ELECTRICAL DRIVE SYSTEM WITH VIBRATIONAL MECHANICS AS WELL AS AN ASSOCIATED DEVICE 
+
+Name of applicant  =>  1)BAUMÜLLER NÜRNBERG GMBH 
+
+Name of inventor  =>  1)VILLWOCK, SEBASTIAN 
+
+International Classification  =>  G06F17/00 
+
+Priority Doc No  =>  EP 09164670.3 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  Method for the automated startup and/or for the automated operation of controllers of an electrical drive system with vibrational mechanics with the following steps: - Determination of a preliminary value of at least one parameter, - Determination of a model of the electrical drive system by means of the determination of initially a non-parameterized model through the recording of frequency data during operation of the drive system subject to the utilization of the preliminary value of at least one parameter and the subsequent determination of parameters of the electrical drive system based on the frequency data and subject to the optimization of at least one preliminary value of at least one parameter by means of a numerical optimization method on the basis of the Levenberg- Marquardt algorithm and - Parameterization of the plurality of or at least one controller of the electrical drive system by means of at least one of the determined parameters. 
+

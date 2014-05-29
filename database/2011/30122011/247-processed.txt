@@ -1,0 +1,22 @@
+Application number  =>  1119/CHENP/2011 A 
+
+Date of filing of application number  =>  17/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHODS AND APPARATUS FOR SWITCHING BETWEEN A BASE CHANNEL AND A 60 GHZ CHANNEL 
+
+Name of applicant  =>  1)QUALCOMM Incorporated 
+
+Name of inventor  =>  1)WENTINK Maarten Menzo 2)JONES Vincent Knowles 
+
+International Classification  =>  H04W36/14 
+
+Priority Doc No  =>  61/090,334 
+
+International Application Number  =>  PCT/US2009/054498 
+
+International Publication Number  =>   
+
+Abstract  =>  A method for switching between channels on different bands is described. Communication with a wireless device occurs on a base channel. A channel switch request is sent to the wireless device. An acknowledgment is received from the wireless device. Communication with the wireless device switches to a 60 GHz channel. 
+

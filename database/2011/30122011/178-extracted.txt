@@ -1,0 +1,49 @@
+The Patent Office Journal 30/12/2011 
+ 
+25515
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1096/MUMNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :28/05/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : FLEXOGRAPHIC PRINTING PROCESS WITH WET ON WET CAPABILITY  
+  
+(51) International classification  :B41M 1/04,C09D 11/10  
+(31) Priority Document No  :PCT/BR2008/000399
+(32) Priority Date  :22/12/2008 
+(33) Name of priority country  :Brazil 
+(86) International Application No 
+        Filing Date 
+:PCT/BR2009/000416
+:22/12/2009 
+(87) International Publication No  :WO/2010/071952  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)TECHNOSOLUTIONS ASSESSORIA LTDA 
+      Address of Applicant :Alameda Mamore  535 - Sala 410 - 4º 
+Andar - Sub 02 Alphaville Industrial 06454-040 Barueri - SP 
+Brazil   
+(72)Name of Inventor : 
+   1)Baptista  Valter Marques 
+   2)Paduan  Wilson Andrade  
+(57) Abstract : 
+The invention refers to a flexographic printing process with wet on wet capability based on controlled polymer or polymer segment 
+precipitation that leads to gel formation of ink compounds by controlling the solubility parameter of the ink system. The mechanism to 
+obtain a desirable wet on wet color trapping is the formation and/or presence of a gel in the applied ink film due to a controlled 
+physicochemical mechanism of resin precipitation. This is accomplished either by controlling a change in the Hansen Solubility 
+Parameter of the liquid in the ink through evaporation of some or all of a non-reactive and volatile solvent, or alternatively by use of a 
+polymer comprised of two distinct and separate segments one of which is soluble in the monomer/oligomer mix and the other of 
+which is not. The insoluble segments form a reversible gel that is broken to a liquid by shear in the application process, allowing 
+application of a liquid ink, and is reestablished in the applied ink film in such a manner and with such strength as to allow overprinting 
+in the wet on wet flexographic printing process. 
+  
+ 
+No. of Pages : 56 No. of Claims : 27 

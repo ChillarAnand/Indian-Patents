@@ -1,0 +1,46 @@
+The Patent Office Journal 30/12/2011 
+ 
+25405
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2137/DELNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :22/03/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : FOLDING BLADE TURBINE  
+  
+(51) International classification  :F03D 1/06  
+(31) Priority Document No  :61/189,950  
+(32) Priority Date  :22/08/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/004768
+:21/08/2009 
+(87) International Publication No  :WO 2010/021732  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)NATURAL POWER CONCEPTS, INC. 
+      Address of Applicant :1515 UALAKAA PLACE, 
+HONOLULU, HAWAII 96822, U.S.A   
+(72)Name of Inventor : 
+   1)JOHN PITRE  
+(57) Abstract : 
+A turbine for capturing energy from a fluid moving from an from an upstream direction to a downstream direction, said turbine 
+comprising: (A) a drive shaft having an axis of rotation, a first end, and a second end remote from the first end along the axis of 
+rotation; (B) a drive hub coupled to the drive shaft proximately to the first end of the drive shaft; and (C) a plurality of airfoils, each 
+airfoil having an airfoil axis along a span, each airfoil being coupled to the hub such that (i) the airfoil is configured to exert a 
+rotational torque about the drive shaft axis of rotation in response to the fluid flow, and (ii) the airfoil is pivotal between a first 
+position with its airfoil axis generally parallel to the flow direction and a second position with its airfoil axis substantially normal to 
+the flow direction; and (D) an actuator coupled to the airfoils so as to move the airfoils between the second position toward the first 
+position.  
+  
+ 
+No. of Pages : 23 No. of Claims : 21 

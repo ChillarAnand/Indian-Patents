@@ -1,0 +1,22 @@
+Application number  =>  1477/DEL/2011 A 
+
+Date of filing of application number  =>  24/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  SINGLE PCR, SINGLE LIGATION AND SINGLE TRANSFORMATION METHOD TO GENERATE INTRON CONTAINING HAIRPIN RNA FOR RNA INTERFERENCE IN PLANTS 
+
+Name of applicant  =>  1)INDIAN COUNCIL OF AGRICULTURAL RESEARCH (ICAR) 
+
+Name of inventor  =>  1)MALIGEPPAGOL, MANAMOHAN, S. 2)ASOKAN, RAMASAMY 3)KRISHNA KUMAR, N.K. 4)SHARATH CHANDRA, G. 
+
+International Classification  =>  C12N 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  RNA interference is an important tool with huge potential in agriculture, medicine and industry. For example in agriculture, it is valuable for functional genomics and transgenic applications in plants to impart traits of interest by gene silencing among the others. It is cumbersome, relatively expensive and time consuming to assemble DNA molecules to form dsRNA molecules necessary for the biological function. The present invention provides for rapid, simple and comparatively cost effective technique and vector to assemble DNA molecules in a predetermined orientation of sense-intron/spacer-antisense or its combinations to produce DNA constructs useful in plant transformations not limiting to Agrobacterium mediated plant transformation. The method employs single PCR reaction, single ligation and single bacterial transformation reaction to generate the binary vector containing the DNA molecules in desired order for assembling a the inverted repeat interspersed with an intron. Using this approach, DNA constructs are assembled rapidly, cost effectively with minimized efforts. 
+

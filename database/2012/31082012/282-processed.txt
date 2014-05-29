@@ -1,0 +1,22 @@
+Application number  =>  3380/CHENP/2009 A 
+
+Date of filing of application number  =>  15/06/2009 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  A POWER SUPPLY HAVING TWO INVERTERS IN SERIES FOR A POLYPHASE ELECTROMECHANICAL ACTUATOR 
+
+Name of applicant  =>  1)MESSIER-BUGATTI-DOWTY 
+
+Name of inventor  =>  1)MATT, DANIEL, 2)JAC, JULIEN, 3)ZIEGLER, NICOLAS, 
+
+International Classification  =>  H02M7/5387, H02P27/06 
+
+Priority Doc No  =>  0610862 
+
+International Application Number  =>  PCT/FR07/02013 
+
+International Publication Number  =>  WO 2008/087270 A3 
+
+Abstract  =>  The invention relates to a power supply having two inverters (A, B) in series for powering an electromechanical actuator having an electric motor including a plurality of windings (Rl, R2, R3) forming phases, each inverter being connected to its own ground (50; 51) and having a voltage source (Ul; U2) having as many arms (Al, A2, A3; Bl, B2, B3) connected thereacross as there are windings to be powered, each arm including two controlled switches (5, 6) connected in series, with a point therebetween being provided for connection to one end of one of the windings. According to the invention, each inverter includes an additional arm (A4; B4) having two controlled switches, the two additional arms being interconnected by a bridge (7) that is connected to each of the additional arms at a point that is situated between the switches. 
+

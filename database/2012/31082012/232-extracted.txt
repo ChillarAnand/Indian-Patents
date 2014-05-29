@@ -1,0 +1,56 @@
+ 
+The Patent Office Journal 31/08/2012 
+14074
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3117/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :06/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : SPECTRUM AUTHORIZATION AND RELATED COMMUNICATIONS METHODS AND 
+APPARATUS  
+  
+(51) International classification  
+:H04W12/04, 
+H04W12/08, 
+H04L29/06  
+(31) Priority Document No  :12/272,988  
+(32) Priority Date  :18/11/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/064405
+:13/11/2009 
+(87) International Publication No  :WO 2010/059522 A3 
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)QUALCOMM INCORPORATED 
+      Address of Applicant :INTERNATIONAL IP 
+ADMINISTRATION, 5775 MOREHOUSE DRIVE, SAN 
+DIEGO, CALIFORNIA 92121-1714 U.S.A. 
+(72)Name of Inventor : 
+   1)VINCENT D. PARK 
+   2)THOMAS J. RICHARDSON 
+   3)MICHAELA VANDERVEEN 
+   4)JUNYI LI  
+   5)MATHEW SCOTT CORSON  
+(57) Abstract : 
+Various embodiments relate to wireless communications, and more particularly, to methods and apparatus for authorizing use of 
+spectrum, e.g., through the issuance of spectrum access keys, and/or preventing or discouraging the unauthorized use of licensed 
+spectrum. Peer to peer wireless communications between authorized users of licensed spectrum may involve scrambling/descrambling 
+of information communicated between authorized devices. In some embodiments air interface timing and/or other information 
+received from a second device, e.g., a beacon or GPS transmitter, is incorporated into a computation of a pseudo-random bit sequence 
+which is also computed based on a spectrum access key communicated to authorized spectrum users. In some embodiments authorized 
+peer to peer devices scramble communicated information based on the generated pseudo random bit sequence thereby preventing or 
+discouraging communication with devices which are not authorized to use the spectrum and lack a spectrum access key used to 
+generate the pseudo random bit sequence. 
+  
+  
+No. of Pages : 32 No. of Claims : 24 

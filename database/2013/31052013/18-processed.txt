@@ -1,0 +1,22 @@
+Application number  =>  1398/MUM/2012 A 
+
+Date of filing of application number  =>  07/05/2012 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  SYSTEM AND METHOD FOR SEGMENTATION OF SLAP FINGERPRINTS 
+
+Name of applicant  =>  1)C-DAC-CENTRE FOR DEVELOPMENT OF ADVANCED COMPUTING 
+
+Name of inventor  =>  1)SAQUIB ,ZIA 2)SONI, SANTOSH KUMAR 3)SUHASARIA,SWETA 4)T.K.VARUNKRISHNAN 5)MOKAL ,PRATIBHA 6)SINGH ,ANAMIKA 
+
+International Classification  =>  G06K9/00 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention is a system and method for automated segmentation of slap fingerprints. Slap segmentation is the process by which a single image containing four (or two in case of thumbs) fingerprints is segmented into four/two images of the corresponding individual fingers. The use of slap fingerprint offers operational improvements over the use of rolled fingerprints, since collecting slap fingerprints is a rapid process that does not require the same degree of operator training and manhandling of the subject. Slap segmentation can prove difficult for various reasons. The most common ones may include large rotations, background noise (the halo effect, residual latent prints, handwritten and printed texts, punch marks etc.), missing fingers, cropped fingers, etc. The present invention analyzes and segments the fingerprint slap images with high precision, and addresses most of the operational/field issues in civil and criminal applications. 
+

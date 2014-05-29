@@ -1,0 +1,48 @@
+ 
+The Patent Office Journal 31/08/2012 
+13670
+(12) PATENT APPLICATION PUBLICATION (21) Application No.613/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :13/03/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : POLYCONDENSATION CATALYST FOR PRODUCING POLYESTER AND METHOD FOR 
+PRODUCING POLYESTER USING THE SAME  
+  
+(51) International classification  :C08G 63/82  
+(31) Priority Document No  :2009-212938  
+(32) Priority Date  :15/09/2009 
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date 
+:PCT/JP2010/066107
+:10/09/2010 
+(87) International Publication No  :WO/2011/034156  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)SAKAI CHEMICAL INDUSTRY CO., LTD. 
+      Address of Applicant :2 EBISUJIMACHO 5-CHO, SAKAI-
+KU, SAKAI-SHI, OSAKA 590-8502 JAPAN. 
+(72)Name of Inventor : 
+   1)TABATA KEIICHI 
+   2)KAMON AKIHIRO 
+   3)NAITO JUN 
+   4)IKEGAWA KEIICHI  
+(57) Abstract : 
+Disclosed is a polycondensation catalyst for the production of polyesters by an esterification reaction or a transesterification reaction 
+between dicarboxylic acid or an ester-forming derivative of the same, and glycol. In order to obtain the polycondensation catalyst a 
+water-soluble titanium compound is hydrolyzed, in the absence of a water-soluble alkali, in an aqueous slurry having solid base 
+particles dispersed therein, and a coating layer is formed on the surfaces of the solid base particles. The coating layer comprises, in 
+terms of TiO2, 0.1-50 parts by weight of titanic acid per 100 parts by weight of solid bases. Also disclosed are a method for producing 
+the polycondensation catalyst, and polyesters obtained using the polycondensation catalyst. 
+  
+  
+No. of Pages : 27 No. of Claims : 16 

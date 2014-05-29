@@ -1,0 +1,22 @@
+Application number  =>  2154/DELNP/2011 A 
+
+Date of filing of application number  =>  22/03/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  DIESEL ENGINE 
+
+Name of applicant  =>  1)YANMAR CO., LTD. 
+
+Name of inventor  =>  1)HIROSHI MASUDA 
+
+International Classification  =>  F01N 3/02 
+
+Priority Doc No  =>  2008-226300 
+
+International Application Number  =>  PCT/JP2009/60363 
+
+International Publication Number  =>  WO 2010/026813 
+
+Abstract  =>  An object is to provide a diesel engine (2) capable of reliably preventing an excessive rise in temperature inside a particulate filter (10) and capable of rapidly enabling driving in a low-rotation and low-load area when there is no possibility of excessive rise in temperature, making it possible to prevent unnecessary consumption of fuel. A diesel engine (2) includes a diesel engine (2) exhaust emission purifier (1). The diesel engine (2) exhaust emission purifier (1) includes a particulate filter (10) and regenerating means (30) for forcibly removing a particulate accumulable in the particulate filter (10) to regenerate the particulate filter (10). The diesel engine (2) is configured to prohibit the diesel engine (2) from entering a predetermined low-rotation and low-load area if a load rotation changes when the particulate filter (10) has a temperature that is equal to or higher than a first predetermined temperature Tl and when the particulate is accumulated in an amount that is equal to or more than a predetermined amount. The diesel engine (2) includes notifying means (40) for notifying an operator that entering the low-rotation and low-load area is prohibited. 
+

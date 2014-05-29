@@ -1,0 +1,45 @@
+ 
+The Patent Office Journal 31/08/2012 
+13982
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3006/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :03/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : PHOSPHORUS-CONTAINING SILSESQUIOXANE DERIVATIVES AS FLAME RETARDANTS  
+  
+(51) International classification  :C07F9/40, C08G 59/30  
+(31) Priority Document No  :12/263,704  
+(32) Priority Date  :03/11/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US09/062912
+:02/11/2009 
+(87) International Publication No  :WO 2010/062709 A2  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)3M INNOVATIVE PROPERTIES COMPANY 
+      Address of Applicant :3M CENTER, POST OFFICE BOX 
+33427, SAINT PAUL, MINNESOTA 55133-3427 U.S.A. 
+(72)Name of Inventor : 
+   1)LIM, LISA, S. 
+   2)PYUN, EUMI 
+   3)RULE, JOSEPH, D.  
+(57) Abstract : 
+A phosphorus-containing silsesquioxane is represented by the formula 
+[Rl3SiO1/2]m[R2SiO3/2]n[R3siO3/2]p[(R4O)2PO(CH2)xSiO3/2]q wherein each of R1, R2, R3, and R4 independently represents a 
+hydrocarbyl group; x represents an integer of from 1 to 8; m is a positive number less than 1.5; n and q are positive numbers greater 
+than 0 and less than 1; and p is a number greater than or equal to 0 and less than 1. Further, (n + p)/q is in a range of from 0.5 to 99, 
+and (n + p + q) = 1. Curable and cured compositions comprising the phosphorus-containing silsesquioxane are disclosed. 
+  
+  
+No. of Pages : 17 No. of Claims : 15 

@@ -1,0 +1,22 @@
+Application number  =>  1329/CHENP/2011 A 
+
+Date of filing of application number  =>  25/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  PERFORMING ZONE-BASED WORKLOAD SCHEDULING ACCORDING TO ENVIRONMENTAL CONDITIONS 
+
+Name of applicant  =>  1)HEWLETT-PACKARD DEVELOPMENT COMPANY L.P. 
+
+Name of inventor  =>  1)Cullen E. BASH 2)George H. FORMAN 
+
+International Classification  =>  G06F15/16, G06F9/46 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/US2008/074393 
+
+International Publication Number  =>   
+
+Abstract  =>  To perform zone-based workload scheduling according to environmental conditions in a system having electronic devices, indicators of cooling efficiencies of the electronic devices in corresponding zones are aggregated (206, 406, 510) to form aggregated indicators for respective zones, where the zones include respective subsets of electronic devices. Workload is assigned (208, 408) to the electronic devices according to the aggregated indicators. [FIG. 2] 
+

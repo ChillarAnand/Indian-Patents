@@ -1,0 +1,22 @@
+Application number  =>  9834/CHENP/2011 A 
+
+Date of filing of application number  =>  27/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  IMAGE ENCODING DEVICE, IMAGE DECODING DEVICE, IMAGE ENCODING METHOD, AND IMAGE DECODING METHOD 
+
+Name of applicant  =>  1)MITSUBISHI ELECTRIC CORPORATION 
+
+Name of inventor  =>  1)SEKIGUCHI, SHUNICHI 2)SUGIMOTO, KAZUO 3)ITANI, YUSUKE 4)MINEZAWA, AKIRA 5)KATO, YOSHIAKI 
+
+International Classification  =>  H04N7/32 
+
+Priority Doc No  =>  2009-130433 
+
+International Application Number  =>  PCT/JP2010/003553 
+
+International Publication Number  =>  WO 2010/137324A1 
+
+Abstract  =>  Disclosed is an image encoding device including a predicting unit 4 for adaptively determining the size of each motion prediction unit block according to color component signals, and for dividing each motion prediction unit block into motion vector allocation regions to search for a motion vector, and a variable length encoding unit 8 for, when a motion vector is allocated to the whole of each motion prediction unit block, performing encoding in mc_skip mode if the motion vector is equal to an estimated vector and a prediction error signal 5 does not exist, and for, when each motion vector allocation region has a size equal to or larger than a predetermined size and a motion vector is allocated to the whole of each motion vector allocation region, performing encoding in sub_mc_skip mode if the motion vector is equal to an estimated vector and a prediction error signal 5 does not exist. 
+

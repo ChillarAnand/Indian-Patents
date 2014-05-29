@@ -1,0 +1,22 @@
+Application number  =>  840/KOL/2007 A 
+
+Date of filing of application number  =>  31/05/2007 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD AND APPARTUS FOR AUTHORIZING A SOFTWARE PRODUCT TO BE USED ON A COMPUTER SYSTEM 
+
+Name of applicant  =>  1)INTUIT, INC. 
+
+Name of inventor  =>  1)SUNG EDMUND YU LIANG 2)ROSEMORE TIMOTHY A 3)POSSIN JENNIFER 4)TENENBAUM RAYMOND S 5)MOLLOY STEPHEN L 
+
+International Classification  =>  G06F21/24; G06F9/445; G06F12/14 
+
+Priority Doc No  =>  11/476990 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  One embodiment of the present invention provides a system for authorizing a software product to be used on a computer system. During operation, the system receives authorization information at a database from a point of sale system located at a retailer, wherein the authorization information is associated with the software product. The system then modifies a database entry associated with the software product to authorize use of the software product. 
+

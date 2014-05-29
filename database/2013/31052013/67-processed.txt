@@ -1,0 +1,22 @@
+Application number  =>  2789/CHENP/2012 A 
+
+Date of filing of application number  =>  27/03/2012 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  METHOD OF CONVERTING FEEDS FROM RENEWABLE SOURCES IN CO-PROCESSING WITH A PETROLEUM FEED USING A CATALYST BASED ON NICKEL AND MOLYBDENUM 
+
+Name of applicant  =>  1)IFP ENERGIES NOUVELLES 
+
+Name of inventor  =>  1)DUPASIEUX, NATHALIE 2)DAUDIN, ANTOINE 3)CHAPUS, THIERRY 
+
+International Classification  =>  B01J 23/88 
+
+Priority Doc No  =>  09/04.162 
+
+International Application Number  =>  PCT/FR2010/000543 
+
+International Publication Number  =>  WO 2011/030009A1 
+
+Abstract  =>  The invention relates to a method of hydrotreatment in co-processing of petroleum feeds, in a mixture with at least one feed obtained from renewable sources, for producing fuel bases (kerosene and/or gas oil) having a sulphur content below 10 ppm, said method comprising the following stages: a) a first hydrotreatment stage in which said feed passes through at least one first fixed- bed catalytic zone comprising at least one bulk or supported catalyst comprising an active phase constituted by at least one group VIB element and at least one group VIII element, said elements being in the form of sulphide and the atomic ratio of the group VIII metal (or metals) to group VIB metal (or metals) being strictly greater than 0 and less than 0.095, b) a second hydrotreatment stage into which the effluent from the first hydrotreatment stage is sent directly, and in which said effluent passes through at least one second fixed-bed catalytic zone comprising at least one hydrotreatment catalyst. 
+

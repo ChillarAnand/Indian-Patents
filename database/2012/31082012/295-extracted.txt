@@ -1,0 +1,71 @@
+ 
+The Patent Office Journal 31/08/2012 
+14137
+(12) PATENT APPLICATION PUBLICATION (21) Application No.766/CHE/2009 A 
+(19) INDIA  
+(22) Date of filing of Application :02/04/2009 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : A METHOD OF IN-PLACE VISUALIZATION OF SENSED DATA AND A SYSTEM THEREOF  
+  
+(51) International classification  :A61B 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA 
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)INDIAN INSTITUTE OF SCIENCE 
+      Address of Applicant :BANGALORE - 560012 Karnataka 
+India 
+(72)Name of Inventor : 
+   1)VIJAY NATARAJAN  
+(57) Abstract : 
+A system for in-place visualization of sensed data is provided. The system includes a formable sheet comprising a display and sensors 
+embedded within the sheet underneath the display. The display will display information relating to sensed data on a portion of the 
+display corresponding to locations of the sensors located underneath the display. As a result, the display displays the information 
+above or directly above the sensors that output data.   
+  
+  
+No. of Pages : 31 No. of Claims : 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

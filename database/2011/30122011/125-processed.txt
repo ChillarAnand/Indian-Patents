@@ -1,0 +1,22 @@
+Application number  =>  1012/MUMNP/2011 A 
+
+Date of filing of application number  =>  19/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD AND APPARATUS FOR PRESSURE MEASUREMENT USING FILL TUBE 
+
+Name of applicant  =>  1)ROSE-MOUNT INC. 
+
+Name of inventor  =>  1)WILLCOX Charles R. 2)HEDTKE Robert C. 3)LU Liang-ju 
+
+International Classification  =>  G01L 9/16,G01L 13/02 
+
+Priority Doc No  =>  12/327,050 
+
+International Application Number  =>  PCT/US2009/064716 
+
+International Publication Number  =>  WO/2010/065286 
+
+Abstract  =>  A pressure sensor (56) includes a fill tube (93) which is arranged to couple to a process pressure. A sensor (98) is coupled to the fill tube (93) and is configured to measure pressure of fluid in the fill tube (93) as a function of a change of a physical property of the fill tube (93). Circuitry (74) is provided to measure pressure based upon the change of the physical property of the fill tube (93). 
+

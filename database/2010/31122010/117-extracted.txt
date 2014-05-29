@@ -1,0 +1,46 @@
+The Patent Office Journal 31/12/2010 
+ 
+5383
+(12) PATENT APPLICATION PUBLICATION (21) Application No.4095/CHENP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :01/07/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : SECURE AND EXTENSIBLE POLICY-DRIVEN APPLICATION PLATFORM  
+  
+(51) International classification  :G06F17/00  
+(31) Priority Document No  :61/020,597  
+(32) Priority Date  :11/01/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2008/087265
+:17/12/2008 
+(87) International Publication No  :WO 2009/088685 A1 
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)MICROSOFT CORPORATION 
+      Address of Applicant :ONE MICROSOFT WAY, 
+REDMOND WA 98052-6399. U.S.A. 
+(72)Name of Inventor : 
+   1)ISAACS, SCOTT 
+   2)YOLLECK, STEPHEN MARK 
+   3)LOGAN, RONALD KEITH  
+(57) Abstract : 
+System of evaluating security of script content. A processor executes computer- executable instructions for defining a policy for the 
+script content in a web page. The script content provides interactions between a user and other content within the web page. The 
+defined policy indicates an execution boundary of the script content. The processor further evaluates the script content against the 
+execution boundary in the defined policy. At run time, the processor transforms at least a portion of the web page in response to the 
+evaluating. An interface transmits the web page with the transformed portion of the script content to be rendered in an application on a 
+host device.FIG.1 
+  
+  
+No. of Pages : 44 No. of Claims : 20 

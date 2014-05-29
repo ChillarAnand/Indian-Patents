@@ -1,0 +1,43 @@
+ 
+The Patent Office Journal 31/08/2012 
+13731
+(12) PATENT APPLICATION PUBLICATION (21) Application No.726/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :21/03/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : TREATMENT SYSTEM OF WET ORGANIC WASTE  
+  
+(51) International classification  :B09B 3/00,C02F 11/12  
+(31) Priority Document No  :2009-239069  
+(32) Priority Date  :16/10/2009 
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date 
+:PCT/JP2010/068016
+:14/10/2010 
+(87) International Publication No  :WO/2011/046162  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)URAYASU DENSETSU K.K. 
+      Address of Applicant :2-3-9 SAKAECHO, FUNABASHI-
+SHI, CHIBA 2730018 JAPAN. 
+(72)Name of Inventor : 
+   1)KOBAYASHI, TAKAITSU  
+(57) Abstract : 
+Provided is a treatment system whereby a wet organic waste can be effectively treated and CO2 produced in the course of the 
+treatment can be stabilized to thereby contribute to the reduction of CO2 emission. The treatment system is characterized by 
+comprising microbiologically fermenting a wet organic waste in a fermenter, combusting in a furnace a fermented material obtained 
+from the fermenter and, at the same time, supplying to the furnace a fermentation gas produced by the microbiological fermentation in 
+the fermenter, and then recovering and stabilizing CO2 in a hot exhaust gas evolved during the combustion in the furnace. 
+  
+  
+No. of Pages : 33 No. of Claims : 6 

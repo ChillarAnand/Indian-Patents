@@ -1,0 +1,46 @@
+ 
+The Patent Office Journal 31/08/2012 
+13587
+(12) PATENT APPLICATION PUBLICATION (21) Application No.507/MUM/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :24/02/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : IMPROVED PROCESS FOR THE PREPARATION OF ZANAMIVIR  
+  
+(51) International classification  :A61K31/351; C07D309/28 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  :N/A  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)CADILA HEALTHCARE LIMITED 
+      Address of Applicant :ZYDUS TOWER, SATELLITE 
+CROSS ROAD, AHMEDABAD - 380 015, GUJARAT, INDIA. 
+(72)Name of Inventor : 
+   1)CHARAN GANPAT DAN SHIMBHU 
+   2)TEHARE AJAY ONKARSINGH 
+   3)SINGH KUMAR KAMLESH LAXMI  
+(57) Abstract : 
+The present invention provides a process for preparing 5-(acetylamino)-4-[(aminorminomethyl)amino]-2,6-anhydro-3,4,5-trideoxy-D-
+g)ycero-D-gaIacto-non-enonic acid Formula (I), which process comprises reducing compound of Formula (IV) by Lindlar catalyst in 
+presence of hydrogen to obtain compound of Formula (V). reacting compound of Formula (V) with pyrazole-1H-carboxamidine or its 
+suitable salt to obtain compound of Formula (VIII). hydrolyzing the compound of Formula (VIII) to give compound of Formula (I). 
+The present invention also provides compounds of formula (VIII) which may be used in the synthesis of zanamivir. The present 
+invention also provides process for preparing compound of formula (VIII) and process involving the use of Formula (VIII), including 
+in the synthesis of zanamivir. 
+  
+  
+No. of Pages : 26 No. of Claims : 48 

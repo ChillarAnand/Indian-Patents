@@ -1,0 +1,22 @@
+Application number  =>  9802/CHENP/2011 A 
+
+Date of filing of application number  =>  26/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  VIDEO ENCODING DEVICE, VIDEO DECODING DEVICE, VIDEO ENCODING METHOD, AND VIDEO DECODING METHOD 
+
+Name of applicant  =>  1)MITSUBISHI ELECTRIC CORPORATION 
+
+Name of inventor  =>  1)SUGIMOTO, KAZUO 2)SEKIGUCHI, SHUNICHI 3)ITANI, YUSUKE 4)MINEZAWA, AKIRA 5)YAMAGISHI, SHUICHI 
+
+International Classification  =>  H04N7/32 
+
+Priority Doc No  =>  2009-130459 
+
+International Application Number  =>  PCT/JP2010/003552 
+
+International Publication Number  =>  WO 2010/137323A1 
+
+Abstract  =>  A compressing unit 6 of a video encoding device selects whether or not to transform and quantize a prediction error signal 5 after a down sampling processing unit 36 performs a reduction transformation on the prediction error signal 5 by-using a transforming process determining unit 31, and then creates quantization coefficient data 7a or 7b. When the compressing unit creates the quantization coefficient data 7b, a local decoding unit located behind the compressing unit inverse-quantizes and inverse- transforms the quantization coefficient data 7b, and, after that, an up sampling processing unit performs an enlargement transformation on the quantization coefficient data to create a decoded prediction error signal. 
+

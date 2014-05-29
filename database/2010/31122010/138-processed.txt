@@ -1,0 +1,22 @@
+Application number  =>  947/CHE/2005 A 
+
+Date of filing of application number  =>  15/07/2005 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  FAULT RECOGNITION SYSTEM AND METHOD FOR AN INTERNAL COMBUSTION ENGINE 
+
+Name of applicant  =>  1)CUMMINS ENGINE COMPANY 
+
+Name of inventor  =>  1)JOHN M, IRONS 2)EDWARD J. LEWANDOWSKI 3)SCOTT G. DECKER 4)GREGG G. GREATHOUSE 5)IRFAN TUSNEEM 
+
+International Classification  =>  G06F11/36 
+
+Priority Doc No  =>  09/289,553 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A fault recognition system is implemented as an adjunct to fault determination software of an on-board engine control module (ECM). The ECMactivates a Type A or Type B fault code for each signal received from a plurality of sensors disposed about the engine when that signal exceeds a predetermined threshold. A Type C fault is recognized and activated when all of a predetermined group of underlying Type A or Type B fault codes have been activated. The Type C fault is displayed, while the underlying faults may or may not be displayed. The Type C fault provides a better and more immediate indication of the source of the engine problem than any of the underlying faults. Only those imderlying faults that aid in the recognition of the source of the engine problem are displayed. The remaining faults underlying the Type C fault are masked. When the Type C fauU becomes inactive, any underlying fauh codes are unmasked for subsequent evaluation. To avoid false positives or negatives, all of the underlying faults must be activated for a predetermined period before the Type C fault will be activated. Likewise, before the Type C fauh is de-activated, at least one of the underlying faults must be inactive for a predetermined period. 
+

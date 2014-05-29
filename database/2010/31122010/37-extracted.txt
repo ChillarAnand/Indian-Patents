@@ -1,0 +1,41 @@
+The Patent Office Journal 31/12/2010 
+ 
+5303
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1318/DEL/2009 A 
+(19) INDIA  
+(22) Date of filing of Application :26/06/2009 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : A TECHNIQUE AND DEVICE FOR MULTIPHASE ENCRYPTION  
+  
+(51) International classification  :H04L 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA
+:NA 
+(87) International Publication No  :NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA
+:NA  
+  
+(71)Name of Applicant :  
+   1)AMITY UNIVERSITY 
+      Address of Applicant :AMITY UNIVERSITY CAMPUS, 
+SECTOR-125, NOIDA-201303, UP, INDIA   
+(72)Name of Inventor : 
+   1)HIMANSHU GUPTA  
+(57) Abstract : 
+The present invention relates to a method and device for multi-phase data encryption that enhances the complexity of data encryption 
+by performing the same operation multiple times as in single phase encryption techniques. The advantage of multiple encryptions is 
+that it provides better security because even if some component ciphers are broken or some of the secret keys are recognized, the 
+confidentiality of original data is still maintained by the multiple encryptions. 
+  
+  
+No. of Pages : 12 No. of Claims : 9 

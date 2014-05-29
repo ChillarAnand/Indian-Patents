@@ -1,0 +1,22 @@
+Application number  =>  709/KOL/2010 A 
+
+Date of filing of application number  =>  30/06/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  HYDRAULIC CONTROL SYSTEM FOR A DUAL CLUTCH TRANSMISSION 
+
+Name of applicant  =>  1)GM GLOBAL TECHNOLOGY OPERATIONS, INC. 
+
+Name of inventor  =>  1)BRIAN W. WHITMARSH 2)BRET M. OLSON 3)PHILIP C. LUNDBERG 4)WAYNE B. VOGEL 
+
+International Classification  =>  F16H3/00 
+
+Priority Doc No  =>  61/230,015 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A hydraulic control system for a dual clutch transmission includes a plurality of solenoids and valves in fluid communication with a plurality of clutch actuators and with a plurality of synchronizer actuators. The clutch actuators are operable to actuate a plurality of torque transmitting devices and the synchronizer actuators are operable to actuate a plurality of synchronizer assemblies. Selective activation of combinations of the solenoids allows for a pressurized fluid to activate at least one of the clutch actuators and synchronizer actuators in order to shift the transmission into a desired gear ratio. 
+

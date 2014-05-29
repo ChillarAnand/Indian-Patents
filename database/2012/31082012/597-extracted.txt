@@ -1,0 +1,45 @@
+ 
+The Patent Office Journal 31/08/2012 
+13656
+(12) PATENT APPLICATION PUBLICATION (21) Application No.611/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :13/03/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : HIGH TEMPERATURE OPERATION INDUCTIVE POSITION SENSING DEVICE  
+  
+(51) International classification  :G01D 5/20,H03K 17/95  
+(31) Priority Document No  :0915670.4  
+(32) Priority Date  :08/09/2009 
+(33) Name of priority country  :GB 
+(86) International Application No 
+        Filing Date 
+:PCT/GB2010/051490
+:07/09/2010 
+(87) International Publication No  :WO/2011/030142  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)PERCEPTION SENSORS & INSTRUMENTATION LTD
+      Address of Applicant :1 TOWER CLOSE, GREEN LANE, 
+DONCASTER DN5, 7UP UNITED KINGDOM.  
+(72)Name of Inventor : 
+   1)HYDE, JOHN  
+(57) Abstract : 
+There is disclosed a position sensing device comprising: i) a cylindrical core (12) having a longitudinal axis; ii) at least three discs or 
+flanges (16 - 19) mounted about the longitudinal axis of the core; and iii) conductive wire coil windings (13 - 15) around the 
+longitudinal axis between each adjacent pair of discs or flanges, to define at least a first coil (14) between a first pair (17, 18) of discs 
+or flanges and a second coil (15) between a second pair (18, 19) of discs or flanges. The conductive wire of each coil winding 
+comprises a conductive metal with a substantially dielectric oxide or ceramic coating, and the discs or flanges are made of non-
+polymeric material. By avoiding the use of polymeric components, the device can be used at very high temperatures without requiring 
+a separate cooling arrangement. 
+  
+  
+No. of Pages : 25 No. of Claims : 20 

@@ -1,0 +1,22 @@
+Application number  =>  1048/MUMNP/2011 A 
+
+Date of filing of application number  =>  24/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  RADIO TRANSMITTING/RECEIVING APPARATUS AND METHOD, TERMINAL APPARATUS, BASE STATION APPARATUS AND WIRELESS COMMUNICATION SYSTEM 
+
+Name of applicant  =>  1)PANASONIC CORPORATION 
+
+Name of inventor  =>  1)ISHIDA Chie 2)AOYAMA Takahisa 
+
+International Classification  =>  H04W 36/04 
+
+Priority Doc No  =>  2008-279389 
+
+International Application Number  =>  PCT/JP2009/005447 
+
+International Publication Number  =>  WO/2010/050140 
+
+Abstract  =>  A terminal apparatus (1), which is a radio transmitting/receiving apparatus, receives a pilot channel signal for use in measuring reception quality and a sync channel signal for use in establishing synchronization from a small-cell base station (home eNB). The terminal apparatus (1), which has stored a white list indicating accessible small cells, determines, based on the white list and the PCIs of CSG cells acquired from a sync channel, whether the CSG cell of a handover destination can be accessed. The terminal apparatus (1) then adds the PCIs and CGIs to a reception quality measurement report and transmits the measurement report to a macro eNB (base station apparatus (2)). In this way, even when a plurality of CSG cells using the same PCI exist in a macro cell, needless signalings can be suppressed, while unnecessary resources can be prevented from being allocated. 
+

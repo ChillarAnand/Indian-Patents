@@ -1,0 +1,47 @@
+ 
+The Patent Office Journal 31/08/2012 
+14057
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3108/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :06/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : FULLY SUBMERGED INTEGRATED ELECTRIC OIL PUMP  
+  
+(51) International classification  
+:F04C2/10, 
+F04C11/00, 
+F04C15/00  
+(31) Priority Document No  :61/112,231  
+(32) Priority Date  :07/11/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/CA09/001614 
+:05/11/2009 
+(87) International Publication No  :WO 2010/051640 A1  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)STT TECHNOLOGIES INC., A JOINT VENTURE OF 
+MAGNA POWERTRAIN INC. AND SWH GMBH 
+      Address of Applicant :600 TESMA WAY, CONCORD, 
+ONTARIO L4K 5C2 Canada 
+(72)Name of Inventor : 
+   1)HADAR, GIL 
+   2)BENNETT, ANDY  
+(57) Abstract : 
+A submersible electric pump includes a housing adapted to be submerged within a fluid to be pumped having apertures extending 
+therethrough. An electric motor stator is positioned within the housing in communication with the apertures and is adapted to be in 
+contact with the fluid. Inner and outer pump rotors are positioned within the housing in meshed engagement with one another to pump 
+fluid when rotated. A plurality of permanent magnets are fixed for rotation with the outer rotor. 
+  
+  
+No. of Pages : 24 No. of Claims : 12 

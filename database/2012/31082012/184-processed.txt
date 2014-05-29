@@ -1,0 +1,22 @@
+Application number  =>  3079/CHENP/2011 A 
+
+Date of filing of application number  =>  05/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  PROCESSES AND COMPOSITIONS FOR LIPOSOMAL AND EFFICIENT DELIVERY OF GENE SILENCING THERAPEUTICS 
+
+Name of applicant  =>  1)MARINA BIOTECH, INC. 
+
+Name of inventor  =>  1)POLISKY, BARRY, A. 2)ADAMI, ROGER, C. 3)TEMPLIN, MICHAEL, V. 4)HARVIE, PIERROT 5)JOHNS, RACHEL, E. 6)GIYANANI, JAYA, S. 7)HOUSTON, MICHAEL, E. 
+
+International Classification  =>  A61K9/127, A61K48/00, C12N15/11 
+
+Priority Doc No  =>  61/106,062 
+
+International Application Number  =>  PCT/US2009/060930 
+
+International Publication Number  =>  WO 2010/045512 A3 
+
+Abstract  =>  Processes and compositions for liposomal delivery of therapeuticals prepared by contacting an aqueous solution of an active agent with a solution of liposome-forming components containing one or more DILA2 amino acid compounds or lipids in organic solvent to form an impinging stream. A protocol including flow rates, pH, and an incubation period are used to control formation of liposomal components for therapeutic applications. The impinging stream may be collected and incubated to prepare a liposomal formulation which encapsulates the active agent. The composition can be quenched with buffer and filtered by tangential flow and diafiltration and other means for finishing as a pharmaceutical composition. An efficiency for delivering a drug cargo is provided. Compositions can include a liposome containing one or more carrier particles, each carrier particle having an active agent and a peptide, wherein the ratio of the mass of the peptide plus the mass of the liposome to the mass of the active agent is less than about 15. 
+

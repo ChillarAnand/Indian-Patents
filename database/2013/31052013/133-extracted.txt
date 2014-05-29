@@ -1,0 +1,41 @@
+The Patent Office Journal 31/05/2013 12104
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9874/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :28/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : COMPRESSION SENSOR GASKET ASSEMBLY AND METHOD OF CONSTRUCTION
+(51) International classification :F16J15/08
+(31) Priority Document No :61/182,821
+(32) Priority Date :01/06/2009
+(33) Name of priority country :U.S.A.
+(86) International Application No
+Filing Date
+:PCT/US2010/036814
+:01/06/2010
+(87) International Publication No :WO 2010/141412 A2
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)FEDERAL-MOGUL CORPORATION
+Address of Applicant :26555 NORTHWESTERN
+HIGHWAY, SOUTHFIELD, MI 48033 U.S.A.
+(72)Name of Inventor :
+1)TOTH, DAVID
+2)TRIPATHY, BHAWANI
+3)FRACZ, MARCIN
+4)DEFRANCESCHI, DANIELE
+(57) Abstract :
+A compression sensor gasket assembly and method of construction thereof is provided. The compression sensor gasket assembly
+includes a gasket body having opposite surfaces extending between an outer periphery and an inner periphery with the inner
+periphery bounding a through opening. The gasket body has a extending from the outer periphery through the inner periphery and
+a pressure sensor assembly releasably attached to the gasket body in the passage and being configured to sense pressure within the
+through opening. The pressure sensor assembly can be removed from the gasket body in service without having to disassemble
+clamped members from clamped abutment with the gasket assembly. Further, the pressure sensor assembly can be routed over a
+curved path extending between the outer and inner peripheries to navigate about features that may be present in the gasket body.
+No. of Pages : 24 No. of Claims : 21

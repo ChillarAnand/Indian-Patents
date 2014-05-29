@@ -1,0 +1,60 @@
+ 
+The Patent Office Journal 31/08/2012 
+13446
+(12) PATENT APPLICATION PUBLICATION (21) Application No.5347/DELNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :12/07/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : PX OXIDATION REACTOR FOR PRODUCING TEREPHTHALIC ACID  
+  
+(51) International classification  :B01J 8/22  
+(31) Priority Document No  :200910076703.1  
+(32) Priority Date  :15/01/2009 
+(33) Name of priority country  :China 
+(86) International Application No 
+        Filing Date 
+:PCT/CN09/075384 
+:08/12/2009 
+(87) International Publication No  :WO 2010/081358 
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)CHINA NATIONAL PETROLEUM CORPORATION 
+      Address of Applicant :NO. 9, DONGZHIMEN NORTH 
+STREET, DONGCHENG DISTRICT, BEIJING 10007 CHINA 
+China 
+   2)CHINA TEXTILE INDUSTRIAL ENGINEERING 
+INSTITUTE 
+(72)Name of Inventor : 
+   1)WENDE LUO 
+   2)HUATANG ZHOU 
+   3)RUIKUI YAO 
+   4)CHUN ZHANG 
+   5)LIJUN LI 
+   6)YINGZHI WANG 
+   7)XIANGZHI XIE 
+   8)YADAN ZHANG 
+   9)GUORUI LAO 
+   10)HAO ZHENG 
+   11)XIANGYI CHEN  
+(57) Abstract : 
+A  PX  oxidation  reactor for  producing  terephthalic  acid comprises a reactor shell (1). The reactor shell (1) is in a tower shape and 
+has a ratio of height to diameter of 2.8-5. A distributed-type air intake device and a cyclonic-type air intake device are disposed at the 
+bottom of the reactor shell (1). The distributed-type air intake device comprises outer ring air distributing tube (4) and inner ring air 
+distributing tube (5), wherein the air distributing tubes (2) are in circle shape. The cyclonic-type air intake device comprises multiple 
+cyclonic air intake tubes (3) which are distributed around the vessel wall uniformly. Adopting combined air intake revolving device 
+can force the fluid at the bottom of the reactor to rotate by adequate quantity of air, and the reactor has good air dispersion thus 
+maintaining materials in normal suspension state. Moreover, adopting a ratio of height to diameter between that of high temperature 
+reactor and that of low temperature reactor can both avoid maldistribution phenomenon occurring in low temperature reactor with a 
+high ratio of height to diameter and have less power consumption superior to high temperature reactor. 
+  
+  
+No. of Pages : 15 No. of Claims : 9 

@@ -1,0 +1,22 @@
+Application number  =>  997/CHENP/2011 A 
+
+Date of filing of application number  =>  11/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  SEMICONDUCTOR DEVICE AND MANUFACTURING METHOD 
+
+Name of applicant  =>  1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+
+Name of inventor  =>  1)KLOOTWIJK Johan H. 2)TIMMERING Eugene 
+
+International Classification  =>  H01L23/29 
+
+Priority Doc No  =>  08160537.0 
+
+International Application Number  =>  PCT/IB2009/052982 
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention relates to a device (10) comprising a substrate (12) having a front surface (14) and a back surface (24); a semiconductor element (16) provided on the front surface of the substrate; a first passivation layer (18); and a second passivation layer (22) provided on the back surface of the substrate. The present invention also relates to a method of manufacturing such a device. Fig. 1a 
+

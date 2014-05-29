@@ -1,0 +1,22 @@
+Application number  =>  2188/DELNP/2011 A 
+
+Date of filing of application number  =>  24/03/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  DEVICE FOR TESTING THE MATERIAL OF TEST OBJECTS BY MEANS OF X-RAY RADIATION 
+
+Name of applicant  =>  1)GE SENSING & INSPECTION TECHNOLOGIES GMBH 
+
+Name of inventor  =>  1)JAN KRAEMER 2)INGO STUKE 3)NICOLAS BRETZKE 4)HOLGER LUX 5)MICHAEL WUESTENBECKER 
+
+International Classification  =>  G01N 23/04 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/EP08/008072 
+
+International Publication Number  =>  WO 2010/034323 
+
+Abstract  =>  A device (10) for x-ray material testing of test objects (15) includes a translational conveyor device (14) for automatically serially feeding and discharging test objects (15) to or from a testing position and an x-ray device (20) comprising an x-ray source (12) for irradiating a test object (15) held in the testing position on a carrier (33) and an x-ray detector (13), wherein the test object (15) and the x-ray device (20) can be rotated relative to each other around an essentially vertical rotational axis R, only, during x-ray testing. According to one aspect of the invention, the carrier (33) together with the test object (15) held thereon can be rotated as a whole around the rotational axis R for the x-ray testing. According to a further aspect of the invention, the x-ray device (20) can be rotated as a whole around the rotational axis R for the x-ray testing. The carrier (33) is a translational conveyor device for the test object. 
+

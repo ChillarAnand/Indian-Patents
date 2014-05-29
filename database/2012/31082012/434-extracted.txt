@@ -1,0 +1,48 @@
+ 
+The Patent Office Journal 31/08/2012 
+13493
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1037/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :24/04/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : BROACH CHIP REMOVAL APPARATUS AND BROACH CHIP REMOVAL METHOD  
+  
+(51) International classification  :B23D 39/00  
+(31) Priority Document No  :2010-020831  
+(32) Priority Date  :02/02/2010 
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date 
+:PCT/JP2010/065907
+:15/09/2010 
+(87) International Publication No  :WO/2011/096105  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)MITSUBISHI HEAVY INDUSTRIES, LTD. 
+      Address of Applicant :16-5, KONAN 2-CHOME, MINATO-
+KU, TOKYO 1088215, JAPAN. 
+(72)Name of Inventor : 
+   1)FUJITA YOSHIHITO 
+   2)TAKEHANA ISAMU  
+(57) Abstract : 
+Disclosed are a broach chip removal apparatus and a broach chip removal method with which chips attached inside cutting grooves 
+can be efficiently removed from a broach by inserting a brush up to the end of the cutting grooves of the broach. A broach chip 
+removal apparatus for removing chips from a broach (11) in which cutting edges (12) are provided in multiple stages at regular 
+intervals in the axial direction of the broach (11), wherein the broach chip removal apparatus is provided with: a broach movement 
+motor (22) which moves the broach (11) in the axial direction of the broach (11); a brush (33) which has a screw shape having a lead 
+equal to the pitch between the cutting edges (12) so that the brush (33) can mesh with cutting grooves (13) formed between the cutting 
+edges (12); a brush rotation motor (41) which rotates the brush (33) about the axis of the brush (33); and an NC apparatus (51) which 
+controls the broach movement motor (22) and the brush rotation motor (41) in such a way that the brush (33) meshes with the cutting 
+grooves (13). 
+  
+  
+No. of Pages : 12 No. of Claims : 2 

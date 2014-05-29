@@ -1,0 +1,22 @@
+Application number  =>  942/MUMNP/2012 A 
+
+Date of filing of application number  =>  16/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  AN ENCLOSURE FOR A CONDUCTOR OF ELECTRICITY, THE ENCLOSURE BEING PROVIDED WITH CURRENT SENSORS 
+
+Name of applicant  =>  1)ALSTOM TECHNOLOGY LTD. 
+
+Name of inventor  =>  1)JUGE, PATRICE 2)GRANELLI, GUILLAUME 
+
+International Classification  =>  H02B 13/035 
+
+Priority Doc No  =>  09 56651 
+
+International Application Number  =>  PCT/EP2010/064123 
+
+International Publication Number  =>  WO/2011/036241 
+
+Abstract  =>  The characteristic casing (1) for surrounding a linear conductor (4) includes at least one inner cavity (7) for receiving at least one fiber-optic or current transformer sensor wound around the casing and providing a current measurement. The cavity is closed except for small openings in the outer wall (14) through which the sensors are inserted, through which the sensors are removed for replacement, and through which the sensors are connected to a measuring instrument. Said cavity is provided with grooves (9) arranged on the surface thereof or in mounted tubes for guiding and supporting the turns of the sensors. One of the walls (14) of the casing (1) is advantageously aligned with the walls of the adjacent casings (2) in order to ensure an even flow of the induced current along the casing. 
+

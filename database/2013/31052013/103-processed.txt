@@ -1,0 +1,22 @@
+Application number  =>  9781/CHENP/2011 A 
+
+Date of filing of application number  =>  26/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  FLIP FLOP SHIFT REGISTER DISPLAY DRIVE CIRCUIT DISPLAY APPARATUS AND DISPLAY PANEL 
+
+Name of applicant  =>  1)SHARP KABUSHIKI KAISHA 
+
+Name of inventor  =>  1)YUHICHIROH MURAKAMI 2)SHIGE FURUTA 3)YASUSHI SASAKI 4)MAKOTO YOKOYAMA 5)TAKAHIRO YAMAGUCHI 
+
+International Classification  =>  H03K 3/356 
+
+Priority Doc No  =>  2009-144746 
+
+International Application Number  =>  PCT/JP2010/002196 
+
+International Publication Number  =>  WO 2010/146756A1 
+
+Abstract  =>  A flip-flop includes: a first (P), second (N), third (P), and fourth (N) transistors; input terminals; and first and second output terminals, the first and second transistors constituting a first CMOS circuit such that gate terminals are connected and drain terminals are connected, the third and fourth transistors constituting a second CMOS circuit such that gate terminals are connected and drain terminals are connected, the first output terminal connected to a gate side of the first CMOS circuit and a drain side of the second CMOS circuit, the second output terminal connected to a gate side of the second CMOS circuit and a drain side of the first CMOS circuit, at least one input transistor included in the group of the first through fourth transistors, a source terminal of the input transistor being connected to one of the input terminals. This can provide a further compact flip-flop. 
+

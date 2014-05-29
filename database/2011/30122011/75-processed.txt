@@ -1,0 +1,22 @@
+Application number  =>  2147/DEL/2010 A 
+
+Date of filing of application number  =>  09/09/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  A PROCESS OF MAINTAINING AND SETTING COMPRESSION FORCE ON A MEDIA BED IN A CHROMATOGRAPHY SYSTEM 
+
+Name of applicant  =>  1)MILLIPORE CORPORATION 
+
+Name of inventor  =>  1)JEREMY PERREAULT 2)AARON NOYES 3)MARK CARROLL 
+
+International Classification  =>  G01N 30/52 
+
+Priority Doc No  =>  11/072,081 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A process of maintaining compression on a media bed in a chromatography system said process comprising the steps of: using said load cell to measure said force exerted on said adjustable bed support; using said sensor to measure the pressure of said fluid; calculating compression force on said media bed, based on measurements from said load cell and said sensor; comparing said calculated compression force to an optimal compression force; and using said actuator to move said adjustable bed support based on said comparison. 
+

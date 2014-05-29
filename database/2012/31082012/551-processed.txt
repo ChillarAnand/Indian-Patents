@@ -1,0 +1,22 @@
+Application number  =>  519/MUMNP/2012 A 
+
+Date of filing of application number  =>  02/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  TRACKING THE PROBABILITY FOR IMMINENT HYPOGLYCEMIA IN DIABETES FROM SELF- MONITORING BLOOD GLUCOSE (SMBG) DATA 
+
+Name of applicant  =>  1)UNIVERSITY OF VIRGINIA PATENT FOUNDATION 
+
+Name of inventor  =>  1)KOVATCHEV, BORIS, P. 2)BRETON, MARC, D. 
+
+International Classification  =>  G01N 33/48 
+
+Priority Doc No  =>  61/239,291 
+
+International Application Number  =>  PCT/US2010/047711 
+
+International Publication Number  =>  WO/2011/028925 
+
+Abstract  =>  A method, system and related computer program product for tracking the probability of hypoglycemia from routine self-monitoring of blood glucose (SMBG) data in patients with diabetes. A specific bivariate probability distribution of low BG events based jointly on the Low BG Index (LBGI) and the Average Daily Risk Range (ADRR) is used to predict hypoglycemia probability of occurrence from inputted SMBG data. The SMBG data is retrieved from a series of SMBG data of a patient available from the patients glucose meter and allows tracking of the probability for future hypoglycemia over a predetermined duration, e.g. a 24 or 48 hour period. The tracking includes presentation of visual and/or numerical output, as well as construction of hypoglycemia risk trajectories that would enable warning messages for crossing of predefined thresholds, such as 50% likelihood for upcoming hypoglycemia below 50mg/dl. 
+

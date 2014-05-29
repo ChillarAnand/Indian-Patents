@@ -1,0 +1,22 @@
+Application number  =>  3171/CHENP/2011 A 
+
+Date of filing of application number  =>  09/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  PROCESS FOR PRODUCING LOW COLOR GLYCOLS 
+
+Name of applicant  =>  1)DOW TECHNOLOGY INVESTMENTS LLC 
+
+Name of inventor  =>  1)STEFANOV, ZDRAVKO, IVANOV 2)CHAUVEL, JEAN, PAUL, JR. 3)GONZALEZ, ABRAHAM 4)LENGYEL, ISTVAN 
+
+International Classification  =>  C07C29/10, C07C31/20 
+
+Priority Doc No  =>  61/112,897 
+
+International Application Number  =>  PCT/US09/063070 
+
+International Publication Number  =>  WO 2010/053900 A2 
+
+Abstract  =>  The present invention provides a process for producing low color glycols that comprises altering at least one condition of a reaction component and/or process stream within the process to be unfavorable for the formation of at least one color-producing contaminant intermediate. As such, such intermediates may be reduced in concentration, or even eliminated entirely, from glycols produced by the process. Since they are not present, or are present in reduced number, the intermediates cannot form color-producing contaminants in the glycols, and low color glycols are provided to the customer. 
+

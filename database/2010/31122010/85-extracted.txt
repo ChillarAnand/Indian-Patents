@@ -1,0 +1,48 @@
+The Patent Office Journal 31/12/2010 
+ 
+5351
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1994/MUMNP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :22/09/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : SYSTEMS FOR STORE ASSOCIATE MANAGEMENT IN A STORE  
+  
+(51) International classification  :G06F9/46  
+(31) Priority Document No  :61/046,820  
+(32) Priority Date  :22/04/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/002497
+:22/04/2009 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)SUNRISE R&D HOLDINGS  LLC. 
+      Address of Applicant :1014 Vine Street  Cincinnati  Ohio 
+45202  United States of America   
+(72)Name of Inventor : 
+   1)BONNER  Brett  Bracewell 
+   2)HJELM  Christopher  Todd 
+   3)JONES  Titus  Arthur 
+   4)JORDAN  Michael  Aaron 
+   5)PERKINS  Dion  Brent  
+(57) Abstract : 
+Described herein is a system for managing at least one store associate in the operation of a store through wireless electronic 
+communication through a communication network between a manager and at least one store associate. The manager uses a 
+manager™s communication device and the at least one store associate uses an associate™s communication device to communicate 
+through the communication network. The store associate is provided a list of orders to perform and the manager receives data on the 
+manager™s communication device pertaining to the performance of the list of orders created on the associate™s communication 
+device, wherein the manager uses said data to evaluate the job performance of the at least one store associate. 
+  
+  
+No. of Pages : 27 No. of Claims : 16 

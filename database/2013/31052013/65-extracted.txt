@@ -1,0 +1,43 @@
+The Patent Office Journal 31/05/2013 12036
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2620/CHENP/2012 A
+(19) INDIA
+(22) Date of filing of Application :22/03/2012 (43) Publication Date : 31/05/2013
+(54) Title of the invention : DEVICE AND METHOD FOR EXPRESSING HUMAN BREAST MILK
+(51) International classification :A61M1/06
+(31) Priority Document No :61/244,636
+(32) Priority Date :22/09/2009
+(33) Name of priority country :U.S.A.
+(86) International Application No
+Filing Date
+:PCT/CH2010/000225
+:17/09/2010
+(87) International Publication No :WO 2011/035447 A1
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)MEDELA HOLDING AG
+Address of Applicant :LATTICHSTRASSE 4B, 6340
+BAAR Switzerland
+(72)Name of Inventor :
+1)WEBER, BEDA
+2)FURRER, ETIENNE
+3)SCHLIENGER, ANDRE
+4)SILVER, BRIAN H.
+5)WACKERLIN, DANIELA
+6)FELBER, ARMIN
+(57) Abstract :
+A device for expressing human breast milk has a breast shield (4) for bearing against a mother's breast, a vacuum pump (1) for
+generating a vacuum, a line which connects the vacuum pump (1) to the breast shield (4) and is intended for transmitting the
+vacuum generated to the breast shield (4), and a chamber. The line (2) ends on the pump side in a first port (130) of said chamber.
+According to the invention, the chamber has a second port (131) for connection to a milk collecting container (7). The two ports
+(130, 131) in the chamber are connected to each other in terms of fluid communication. During the expressing operation, the line
+(2) forms a milk line for transporting breast milk expressed in the breast shield (4) to the chamber and from the chamber to the
+milk collecting container (7). Said pump can be designed to be quiet and small.
+No. of Pages : 35 No. of Claims : 15

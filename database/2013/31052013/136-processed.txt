@@ -1,0 +1,22 @@
+Application number  =>  9865/CHENP/2011 A 
+
+Date of filing of application number  =>  27/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  TRAJECTORY-BASED LOCATION DETERMINATION 
+
+Name of applicant  =>  1)QUALCOMM Incorporated 
+
+Name of inventor  =>  1)ISCHE Marc A. 2)SHEYNBLAT Leonid 3)ROWITCH Douglas Neal 
+
+International Classification  =>  G01S 19/49 
+
+Priority Doc No  =>  61/221,981 
+
+International Application Number  =>  PCT/US2010/040654 
+
+International Publication Number  =>   
+
+Abstract  =>  The subject matter disclosed herein relates to determining a location of a mobile device using an estimated trajectory of motion of the mobile device and in particular using a comparison of the estimated trajectory with one or more predetermined candidate trajectories. 
+

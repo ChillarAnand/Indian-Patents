@@ -1,0 +1,22 @@
+Application number  =>  4167/KOLNP/2010 A 
+
+Date of filing of application number  =>  04/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  VALVE PLATE FOR A COMPRESSOR, AND METHOD FOR COOLING COMPRESSED AIR IN A VALVE PLATE OF A COMPRESSOR 
+
+Name of applicant  =>  1)KNORR-BREMSE SYSTEME FÜR NUTZFAHRZEUGE GMBH 
+
+Name of inventor  =>  1)MEZZA, JEAN-LOUIS 2)BAPTISTE, YVAN 
+
+International Classification  =>  F04B 39/06 
+
+Priority Doc No  =>  10 2008 018 467.5 
+
+International Application Number  =>  PCT/EP2009/002167 
+
+International Publication Number  =>  WO 2009/124659 
+
+Abstract  =>  The invention relates to a valve plate (10) comprising a cooling medium duct (20) for a compressor (14) used for generating compressed air. According to the invention, from the perspective of a piston chamber (40) of the compressor (14), at least part of the cooling medium duct (20) extends between the piston chamber (40) and an air discharge valve (22, 24) that is arranged in the valve plate (10) . The invention further relates to a method for cooling compressed air in a valve plate (10) of a compressor (14). 
+

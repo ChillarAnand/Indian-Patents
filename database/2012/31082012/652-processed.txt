@@ -1,0 +1,22 @@
+Application number  =>  694/MUMNP/2012 A 
+
+Date of filing of application number  =>  19/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  ENGINEERED MICROPARTICLES FOR MACROMOLECULE DELIVERY 
+
+Name of applicant  =>  1)UNIVERSITY OF PITTSBURGH-OF THE COMMONWEALTH SYSTEM OF HIGHER EDUCATION 
+
+Name of inventor  =>  1)LITTLE , STEVEN , R. 2)ROTHSTEIN , SAM 
+
+International Classification  =>  A61K47/36,A61K47/30 
+
+Priority Doc No  =>  61/241,259 
+
+International Application Number  =>  PCT/US2010/048465 
+
+International Publication Number  =>  WO/2011/031996 
+
+Abstract  =>  A method for making a modified release composition, comprising: selecting a desired active agent and polymer matrix for formulating into a modified release composition; assessing degradation effect on release of the active agent from the composition including plotting polymer molecular weight (Mwr) at onset of active agent release vs. active agent molecular weight (MwA); predicting performance of multiple potential formulations for the composition based on the degradation assessment and average polymer matrix initial molecular weight (Mwo) to define a library of building blocks; determining the optimal ratio of the building blocks to satisfy a specified release profile; and making a modified release composition based on the optimal ratio determination. 
+

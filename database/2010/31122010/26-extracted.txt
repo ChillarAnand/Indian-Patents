@@ -1,0 +1,45 @@
+The Patent Office Journal 31/12/2010 
+ 
+5292
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3777/CHE/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :10/12/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : AERODYNAMIC DRAG REDUCTION OF A HATCH BACK CAR USING BASE BLEED  
+  
+(51) International classification  :G01M9/00 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)REGISTRAR, ANNA UNIVERSITY CHENNAI. 
+      Address of Applicant :THE DIRECTOR, CENTRE FOR 
+INTELLECTUAL PROPERTY RIGHTS, CPDE BUILDING, 
+ANNA UNIVERSITY CHENNAI, SARDAR PATEL ROAD, 
+GUINDY, CHENNAI - 600 025 Tamil Nadu India 
+(72)Name of Inventor : 
+   1)K.M. PARAMMASIVAM 
+   2)G. SIVARAJ 
+   3)S. SENTHILKUMAR  
+(57) Abstract : 
+The reduction of aerodynamic drag using base bleed improves the performance and fuel efficiency of the car. The low velocity air 
+from base bleed is injected into the rear side of the car. The analysis was performed on open circuit suction type wind tunnel and the 
+computational analysis was carried out using standard computational software. The wind tunnel testing was carried with a scale ratio 
+of 1:10 with and without the base bleed passage. The pressure measurement was done using the DSA 3217 Multichannel scani-valve 
+pressure transducer. The drag coefficient reduction by the base bleed method can be applied to the automobile industry. 
+  
+No. of Pages : 20 No. of Claims : 9 

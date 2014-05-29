@@ -1,0 +1,22 @@
+Application number  =>  830/MUMNP/2012 A 
+
+Date of filing of application number  =>  03/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  LIFTING DEVICE FOR A ROTOR OF A WIND TURBINE 
+
+Name of applicant  =>  1)SUZLON ENERGY GMBH 
+
+Name of inventor  =>  1)JUERGEN WAGNER 
+
+International Classification  =>  F03D 11/04 
+
+Priority Doc No  =>  DE102009040235.7 
+
+International Application Number  =>  PCT/EP2010/063030 
+
+International Publication Number  =>  WO/2011/026970 
+
+Abstract  =>  The invention relates to a lifting device for a rotor of a wind turbine, consisting of a turbine hub and rotor blades fixed thereon, having the following components: at least one receiving device which can be fixed to a blade root region of the rotor; guiding means which can be attached to the receiving device and which has at least one supporting element for receiving and fixing wire supports, wherein the supporting element is connected to the guiding means in a movement-flexible manner such that the rotor is aligned correctly for assembly before being mounted on a rotor shaft of the wind turbine. The aim of the invention is to provide a lifting device for rotors which is easy to assemble and disassemble and which enables the rotor to automatically align into a correspondingly optimal bearing position for assembling onto the turbine hub when undesired torques act on said rotor. 
+

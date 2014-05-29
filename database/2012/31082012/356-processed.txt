@@ -1,0 +1,22 @@
+Application number  =>  1094/DEL/1995 A 
+
+Date of filing of application number  =>  14/01/1995 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  A PROCESS FOR THE PREPARATION OF POLYMER USEFUL FOR THE CONVERSION OF ESTERS AND AMIDES TO CORRESPONDING ALCOHOLS AND AMINES 
+
+Name of applicant  =>  1)COUNCIL OF SCIENTEFIC AND INDUSTRIAL RESEARCH 
+
+Name of inventor  =>  1)RAGHUNATH ANANT MASHLKAR 2)MOHAN GOPALKRISHNA KULKARNI 3)ROHINI NITIN KARMALKAR 
+
+International Classification  =>  C08L 33/08 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention provides a process for the preparation of a new polymeric composition which exhibits catalytic activity similar to hydrolytic enzymes especially -chymotrypsin. The process of the present invention involves reacting vinyl monomers comprising functional groups present in the active site of a-chymotrypsin. The functional groups are brought together by complexation with a metal ion and an appropriate print molecule. The complex is then immobilized by polymerization in the presence of a cross-linker and a U.V. sensitive monomer. The resulting composition exhibits hydrolytic activity similar to -chymotrypsin and is useful for the conversion of esters and amides to. the corresponding alcohols and amines. The composition offers additional advantages such as enhanced catalytic activity due to improved accessibility in the high surface area .polymeric catalyst, stability at elevated temperatures, ease of recovery from the reaction mixture, ability to withstand pH variations and ability to switch on-off the catalytic activity by photoregulation. 
+

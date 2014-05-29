@@ -1,0 +1,48 @@
+The Patent Office Journal 31/12/2010 
+ 
+5473
+(12) PATENT APPLICATION PUBLICATION (21) Application No.4220/KOLNP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :10/11/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : REACTION ASSEMBLY AND FLOW SPLITTER  
+  
+(51) International classification  :G05D 7/06  
+(31) Priority Document No  :2001617  
+(32) Priority Date  :26/05/2008 
+(33) Name of priority country  :Netherlands 
+(86) International Application No 
+        Filing Date 
+:PCT/NL2009/000122 
+:26/05/2009 
+(87) International Publication No  :WO 2009/145614  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)AVANTIUM HOLDING B.V. 
+      Address of Applicant :29, ZEKERINGSTRAAT, NL-1014 BV 
+AMSTERDAM THE NETHERLANDS 
+(72)Name of Inventor : 
+   1)MOONEN, ROELANDUS HENDRIKUS WILHELMUS
+   2)BODENSTAFF, EMILIO RENÉ 
+   3)SMIT, MARTIN  
+(57) Abstract : 
+The invention pertains to reaction systems in which at least one capillary unit is applied. The capillary unit comprises: -a unit inlet for 
+receiving a fluid flow, - a unit outlet for releasing said fluid flow, - a capillary, which capillary is arranged between the unit inlet and 
+the unit outlet such that said fluid flow passes through the capillary, - a heater and/or a cooler for adjusting the temperature of the 
+capillary and therewith influencing the flow rate of the fluid flow passing through said capillary, - a housing for accommodating at 
+least the capillary and heater and/or cooler of said capillary unit, which housing provides thermal insulation of the capillary, - a flow 
+sensor for measuring the flow rate of the fluid flow through the capillary unit, which flow sensor can be arranged either inside or 
+outside the housing, A capillary unit is combined with or further has a flow adjustment unit for adjusting the flow rates of the 
+secondary fluid flows, which flow adjustment unit comprises a temperature control device for individually controlling the heater 
+and/or cooler of each capillary unit in response to the flow rate that is measured by the flow sensor of that capillary unit.  
+  
+No. of Pages : 31 No. of Claims : 14 

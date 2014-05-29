@@ -1,0 +1,22 @@
+Application number  =>  3123/CHENP/2011 A 
+
+Date of filing of application number  =>  06/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD FOR THE MANUFACTURE OF A COMPOUND PRODUCT WITH A SURFACE REGION OF A WEAR RESISTANT COATING, SUCH A PRODUCT AND THE USE OF A STEEL MATERIAL FOR OBTAINING THE COATING 
+
+Name of applicant  =>  1)UDDEHOLMS AKTIEBOLAG 
+
+Name of inventor  =>  1)SANDBERG, ODD 
+
+International Classification  =>  B22F7/04, B22F3/15 
+
+Priority Doc No  =>  0850068-8 
+
+International Application Number  =>  PCT/SE09/051242 
+
+International Publication Number  =>  WO 2010/053431 A1 
+
+Abstract  =>  A wear resistant steel material, produced in a powder metallurgical manner, has the following composition in weight-%: and, further, 0.5 to 14 of (V + Nb/2), wherein the contents of N, on one hand, and of (V + Nb/2), on the other hand, are balanced in relation to each other so that the contents of said elements are within a range A, B, G, H, A in a perpendicular plane coordinate system, where the content of N is the abscissa and the content of V + Nb/2 is the ordinate, and where the coordinates for said points are: and max 7 of any of Ti, Zr, and Al; balance essentially only iron and unavoidable impurities. This steel is excellent for obtaining a wear resistant surface region on a substrate of a metallic material by hot isostatic pressing of the steel material of the substrate. Especially when the wear resistant steel is void of Co, the compound body obtained is especially suitable for use in e.g. valves for nuclear power plants. 
+

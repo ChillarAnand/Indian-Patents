@@ -1,0 +1,22 @@
+Application number  =>  2348/MUM/2011 A 
+
+Date of filing of application number  =>  19/08/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  REAL TIME VISIBLE LIGHT WIRELESS COMMUNICATION 
+
+Name of applicant  =>  1)PROF. DIPASHREE MILIND BHALERAO 
+
+Name of inventor  =>  1)PROF. DIPASHREE MILIND BHALERAO 
+
+International Classification  =>  H04B10/10 ,H04L27/00 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention envisages a system and method of wireless data transmission using visible light. Visible light can be transmitted by LED bank and received via an optical assembly having telescopic lens attached to high speed camera. Light intensity is now focused at the center of said camera based upon which the data is treated as 1 or 0. The present system enabling data coding and transmission provides a high speed and low power consuming method for wireless communication for both short and long distances. 
+

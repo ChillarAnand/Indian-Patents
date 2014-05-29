@@ -1,0 +1,22 @@
+Application number  =>  3016/CHENP/2011 A 
+
+Date of filing of application number  =>  03/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  SYSTEM FOR MONITORING A SATELLITE CONSTELLATION OF A POSITIONING SYSTEM 
+
+Name of applicant  =>  1)ASTRIUM SAS 
+
+Name of inventor  =>  1)LAINE, ROBERT 
+
+International Classification  =>  G01S1/00 
+
+Priority Doc No  =>  0806162 
+
+International Application Number  =>  PCT/FR09/052107 
+
+International Publication Number  =>  WO 2010/052414 A1 
+
+Abstract  =>  The invention relates to a monitoring system (1) which comprises at least one monitoring satellite (S2) placed in orbit (02) at a lower altitude than that of the satellite (S1) of the satellite constellation (2) so as to be capable to receiving the positioning signals emitted towards the Earth (T) by said satellites (S1) and which comprises a processing unit(11) intended for verifying the integrity of said received positioning signals, using position information that is separate from said signals for this purpose. 
+

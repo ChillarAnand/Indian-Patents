@@ -1,0 +1,22 @@
+Application number  =>  3076/CHENP/2011 A 
+
+Date of filing of application number  =>  05/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHODS AND SYSTEMS WITH FRAME STRUCTURE FOR IMPROVED ADJACENT CHANNEL CO-EXISTENCE 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)PRANAV DAYAL 2)MIGUEL GRIOT 
+
+International Classification  =>  H04W16/14, H04W72/04 
+
+Priority Doc No  =>  61/114,668 
+
+International Application Number  =>  PCT/US2009/064282 
+
+International Publication Number  =>  WO 2010/056925 A1 
+
+Abstract  =>  Methods and systems are provided for supporting co-existence of two radio access technologies (RATs), which include determining the frame structure of a first RAT, including the boundary of subframes, the DL:UL subframe ratio, and switching periodicity, selecting a frame offset and a DL:UL subframe ratio in a second RAT to minimize the number of punctured symbols in the second RAT, and transmitting frames in the second RAT with the selected frame offset and subframe ratio. 
+

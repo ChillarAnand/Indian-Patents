@@ -1,0 +1,22 @@
+Application number  =>  4129/KOLNP/2010 A 
+
+Date of filing of application number  =>  02/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  MOBILE COMMUNICATION METHOD, MOBILE STATION, AND RADIO BASE STATION 
+
+Name of applicant  =>  1)NTT DOCOMO, INC. 
+
+Name of inventor  =>  1)ISHII, HIROYUKI 2)UMESH, ANIL 
+
+International Classification  =>  H04W 74/04 
+
+Priority Doc No  =>  2008-111922 
+
+International Application Number  =>  PCT/JP2009/058008 
+
+International Publication Number  =>  WO 2009/131154 
+
+Abstract  =>  Provided is a mobile communication method in which a mobile station UE uses an uplink radio resource allocated by predetermined scheduling information at a predetermined cycle so as to transmit uplink data transmitted from a radio base station eNB. The method includes: step A for reporting information on the predetermined cycle and the uplink radio resource to the mobile station UE; step B for reporting predetermined scheduling information to the mobile station UE; and step C for transmitting uplink data at a predetermined cycle starting at the moment decided by the received predetermined scheduling information by using the uplink radio resource allocated by the predetermined scheduling information. If step C finds that the information on the uplink radio resource contradicts with the information reported by the predetermined scheduling information, the predetermined scheduling information is discarded. 
+

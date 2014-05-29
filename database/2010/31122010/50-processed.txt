@@ -1,0 +1,22 @@
+Application number  =>  1427/DEL/2010 A 
+
+Date of filing of application number  =>  18/06/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  CONTROL APPARATUS, CONTROL MODEL ADJUSTING APPARATUS AND CONTROL MODEL ADJUSTING METHOD 
+
+Name of applicant  =>  1)HITACHI, LTD. 
+
+Name of inventor  =>  1)KAYAMA MASAHIRO 2)HAYASHI GOUSUKE 
+
+International Classification  =>  F16H61/662 
+
+Priority Doc No  =>  2009-150239 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A control apparatus includes a model adjustment activation unit which receives actual data from a control object at timing when a stable actual controlled value is measured to thereby create model adjustment execution permission timing, a first controlled value calculation unit to calculate a predicted controlled value using a current control model at timing activated by the model adjustment activation unit, a second controlled value calculation unit which changes, at timing activated by the model adjustment activation unit, an adjustment objective parameter of the control model to calculate a predicted controlled value in similar operation, and a control model tuning value calculation unit which receives the predicted controlled value predicted by the first controlled value calculation unit, the predicted controlled value predicted by the second controlled value calculation unit, actual controlled values, and the like to thereby calculate a tuning value of an adjustment objective parameter of the control model. 
+

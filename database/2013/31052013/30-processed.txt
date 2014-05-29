@@ -1,0 +1,22 @@
+Application number  =>  3403/DEL/2011 A 
+
+Date of filing of application number  =>  28/11/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  METHOD AND SYSTEM FOR DETERMINING SECURE ACCESS TO SPECIFIC WEB PAGES IN A WEB SERVER 
+
+Name of applicant  =>  1)RARENDRA PRATAP SINGH 
+
+Name of inventor  =>  1)RARENDRA PRATAP SINGH 
+
+International Classification  =>  G06M 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The various embodiments of the present invention provide a method and system for determining secure access to specific web pages in a web server. According to an embodiment of the present invention, the user using a web client logs in to a web application that is hosted on the web server with a valid credential. On successful authentication a web session is created comprising of a list of web page links that are accessible by the current web client user. The first page which the valid web client user is redirected to after successful login is registered in the web server as accessible to the valid web client user and any redirections from the accessible web page are also registered in the web server as accessible to the valid web client user by checking the web page id and the web page name in the current web session. FIG. 1 is selected. 
+

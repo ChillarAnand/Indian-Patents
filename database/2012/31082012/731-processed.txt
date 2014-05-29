@@ -1,0 +1,22 @@
+Application number  =>  898/MUMNP/2012 A 
+
+Date of filing of application number  =>  11/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  BORING TOOL 
+
+Name of applicant  =>  1)MITSUBISHI HEAVY INDUSTRIES, LTD. 
+
+Name of inventor  =>  1)NIITANI HARUHIKO 
+
+International Classification  =>  B23B 29/02 
+
+Priority Doc No  =>  2009-238891 
+
+International Application Number  =>  PCT/JP2010/064138 
+
+International Publication Number  =>  WO/2011/045980 
+
+Abstract  =>  Provided is a boring tool which not only is lightweight but also has both abrasion resistance and high stiffness. More specifically, provided is a boring tool wherein a shaft-like tool body (10) is equipped with cutting bits, and wherein the tool body (10) makes a reciprocating motion, thereby reaming a hole provided to a workpiece to be machined. The tool body (10) is provided with a substrate (11) formed by a carbon fiber reinforced composite material, a hard plating layer (13) consisting of hard plating applied to the surface (10b) of the tool body (10), and a backing layer (12) which is applied between the substrate (11) and the hard plating layer (13) and serves to improve the wettability of the hard plating layer (13). 
+

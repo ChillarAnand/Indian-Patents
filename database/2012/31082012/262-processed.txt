@@ -1,0 +1,22 @@
+Application number  =>  3166/CHENP/2011 A 
+
+Date of filing of application number  =>  09/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD FOR ADJUSTING BRAKE SYSTEM OF VEHICLE IN EVENT OF COLLISION 
+
+Name of applicant  =>  1)ROBERT BOSCH GMBH 
+
+Name of inventor  =>  1)CETINKAYA, FERAH 2)EISELE, SYBILLE 3)SCHMID, MICHAEL 4)SCHAEFFLER, RALF 
+
+International Classification  =>  B60T7/22, B60W50/08 
+
+Priority Doc No  =>  10 2008 042 962.7 
+
+International Application Number  =>  PCT/EP2009/060943 
+
+International Publication Number  =>  WO 2010/046160 A1 
+
+Abstract  =>  The present subject matter relates to a method for adjusting a brake system of a vehicle. The method includes building up braking power automatically in an event of a collision, and terminating the automatic building up of the braking power by a defined driver reaction. According to the present subject matter, the terminating of the automatic building up of the braking power is carried out when the driver maintains an actuation of an accelerator pedal of the vehicle with a defined pressure for a minimum actuation period. 
+

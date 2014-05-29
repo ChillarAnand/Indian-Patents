@@ -1,0 +1,22 @@
+Application number  =>  1076/CHENP/2011 A 
+
+Date of filing of application number  =>  16/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  MACHINE FOR DISPENSING BEVERAGES 
+
+Name of applicant  =>  1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+
+Name of inventor  =>  1)CASTELLANI Andrea 2)PILONE Ciro Adelmo 
+
+International Classification  =>  A47J31/52, G07F7/10 
+
+Priority Doc No  =>  FI2008A000141 
+
+International Application Number  =>  PCT/IT2009/000297 
+
+International Publication Number  =>   
+
+Abstract  =>  The machine (1) comprises: at least one infusion unit (29) for preparing coffee, a user interface (9) and an electronic programmable control unit (15). The control unit is associated with a recognition system (11) for recognizing a user, and is programmed to actuate at least one function of the machine based upon the recognition of the user. Fig. 1 
+

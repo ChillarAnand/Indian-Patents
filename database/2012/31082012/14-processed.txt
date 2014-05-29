@@ -1,0 +1,22 @@
+Application number  =>  2114/CHE/2011 A 
+
+Date of filing of application number  =>  22/06/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  MANUFACTURING METHOD OF HERMETIC CONTAINER, AND MANUFACTURING METHOD OF IMAGE DISPLAYING APPARATUS 
+
+Name of applicant  =>  1)CANON KABUSHIKI KAISHA 
+
+Name of inventor  =>  1)KAZUYA ISHIWATA 2)MAMO MATSUMOTO 3)TOMOHIRO SAITO 4)NOBUHIRO ITO 
+
+International Classification  =>  B32B37/16, B32B37/10, B32B37/12 
+
+Priority Doc No  =>  2010-144893 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A manufacturing method of a highly-reliable hermetic container having both joining strength and airtightness is provided. Sealants of which a viscosity has a negative temperature coefficient and of which softening point is lower than that of each of first and second glass substrates are formed in a frame shape having a discontinuous portion on the first glass substrate, and the second glass substrate is disposed to face the first glass substrate so as to press the sealants formed thereon by contacting them. Local heating light is irradiated to form the discontinuous portion at a boundary between a region irradiated by the local heating light and a region not irradiated by the local heating light, and a portion adjacent to the discontinuous portion is heated and melted to close the discontinuous portion, whereby a continuous sealed portion between the first and second glass substrates is formed. 
+

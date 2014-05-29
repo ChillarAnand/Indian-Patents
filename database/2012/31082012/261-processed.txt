@@ -1,0 +1,22 @@
+Application number  =>  3165/CHENP/2011 A 
+
+Date of filing of application number  =>  09/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  DEVICE, METHOD, AND PROGRAM FOR PROCESSING IMAGE 
+
+Name of applicant  =>  1)SONY CORPORATION 
+
+Name of inventor  =>  1)NORIYUKI YAMASHITA 2)JUN HIRAI 
+
+International Classification  =>  H04N5/225, H04N5/265 
+
+Priority Doc No  =>  P2009-214765 
+
+International Application Number  =>  PCT/JP2010/065329 
+
+International Publication Number  =>  WO 2011/033968 A1 
+
+Abstract  =>  The present invention relates to an image processing device and method, and a program, whereby a subject image imaged in a more effective manner can be displayed. An imaging apparatus 11 images multiple imaged images P(1) through P(N) in a state turning with a turning center C11 as the center. The imaging apparatus 11 trims from each of the obtained multiple imaged images a region determined by a predetermined reference position in the imaged image as a strip-of-paper image, and arrays and synthesizes these strip-of-paper images, thereby generating a panorama image with a predetermined region on imaging space as a subject. The imaging apparatus 11 generates multiple panorama images while shifting a trimming position of a strip-of-paper image from the imaged image, thereby obtaining a panorama moving image made up of the multiple panorama images. According to this panorama moving image, a subject in an imaged image can be displayed with motion. The present invention can be applied to cameras. 
+

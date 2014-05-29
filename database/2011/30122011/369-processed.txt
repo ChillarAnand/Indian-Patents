@@ -1,0 +1,22 @@
+Application number  =>  1318/KOL/2010 A 
+
+Date of filing of application number  =>  22/11/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  PAPER TOWEL DISPENSER 
+
+Name of applicant  =>  1)ACHTON, KIM 
+
+Name of inventor  =>  1)ACHTON, KIM 
+
+International Classification  =>  B65H43/00 
+
+Priority Doc No  =>  20096293 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The invention concerns a paper towel dispenser for dispensing rolled paper web sheet by sheet. The dispenser includes an electrically driven machinery for feeding the paper for displaying a sheet length after the previous length is torn off against a blade at the display opening of the dispenser. Devices are included to command the paper feeding machinery. The devices for commanding the paper feeding machinery include a vibration sensor connected to the blade and generating an electrical signal requesting a further sheet length from the paper feeding machinery. 
+

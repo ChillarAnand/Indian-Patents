@@ -1,0 +1,47 @@
+ 
+The Patent Office Journal 31/08/2012 
+14113
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3164/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :09/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : VISUALIZING RELATIONSHIPS BETWEEN DATA ELEMENTS AND GRAPHICAL 
+REPRESENTATIONS OF DATA ELEMENT ATTRIBUTES  
+  
+(51) International classification  :G06F3/048  
+(31) Priority Document No  :61/119,201  
+(32) Priority Date  :02/12/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US09/066390
+:02/12/2009 
+(87) International Publication No  :WO 2010/065623 A1  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)AB INITIO TECHNOLOGY LLC 
+      Address of Applicant :201 SPRING STREET, LEXINGTON, 
+MA 02421 U.S.A. 
+(72)Name of Inventor : 
+   1)ERIK BATOR 
+   2)JOEL GOULD 
+   3)DUSAN RADIVOJEVIC  
+(57) Abstract : 
+In general, metadata is stored in a data storage system (100). Summary data identifying one or more characteristics of each of multiple 
+metadata objects stored in the data storage system is computed, and the summary data characterizing a given metadata object in 
+association with the given metadata object is stored. A visual representation (200A) is generated of a diagram including nodes (300) 
+representing respective metadata objects and relationships among the nodes. Generating the visual representation includes 
+superimposing a representation (302) of a characteristic identified by the summary data characterizing a given metadata object in 
+proximity to the node representing the given metadata object. 
+  
+  
+No. of Pages : 28 No. of Claims : 11 

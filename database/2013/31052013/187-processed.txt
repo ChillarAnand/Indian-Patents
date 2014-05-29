@@ -1,0 +1,22 @@
+Application number  =>  9984/CHENP/2011 A 
+
+Date of filing of application number  =>  30/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  SYSTEMS AND METHODS FOR REDUCING AVERAGE CURRENT CONSUMPTION IN A LOCAL OSCILLATOR PATH 
+
+Name of applicant  =>  1)QUALCOMM Incorporated 
+
+Name of inventor  =>  1)QIAO Dongjiang 2)ASURI Bhushan S. 3)DENG Junxiong 4)BOSSU Frederic 
+
+International Classification  =>  H04B 1/40 
+
+Priority Doc No  =>  61/226,165 
+
+International Application Number  =>  PCT/US2010/042193 
+
+International Publication Number  =>   
+
+Abstract  =>  A method for reducing average current consumption in a local oscillator (LO) path is disclosed. An LO signal is received at a master frequency divider and a slave frequency divider. Output from the master frequency divider is mixed with an input signal to produce a first mixed output. Output from the slave frequency divider is mixed with the input signal to produce a second mixed output. The second mixed output is forced to be in phase with the first mixed output. 
+

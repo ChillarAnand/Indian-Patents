@@ -1,0 +1,47 @@
+ 
+The Patent Office Journal 31/08/2012 
+13997
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3024/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :03/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : IMAGE PROCESSING APPARATUS AND METHOD, AND IMAGE REPRODUCING APPARATUS, 
+METHOD AND PROGRAM  
+  
+(51) International classification  :H04N13/00, H04N 5/91  
+(31) Priority Document No  :2008-262818  
+(32) Priority Date  :09/10/2008 
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date 
+:PCT/JP09/005240 
+:08/10/2009 
+(87) International Publication No  :WO 2010/041450 A1  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)FUJIFILM CORPORATION 
+      Address of Applicant :26-30, NISHIAZABU 2-CHOME, 
+MINATO-KU, TOKYO Japan 
+(72)Name of Inventor : 
+   1)WATANABE, MIKIO 
+   2)NAKAMURA, SATOSHI 
+   3)YAHAGI, KOUICHI  
+(57) Abstract : 
+To make a three-dimensional image easily recognizable, in particular when three-dimensional images and two-dimensional images are 
+stored in a mixed manner. Interpolation image generation unit (5) generates an interpolation image from original images (L1, R1) 
+obtained by photographing a subject from different viewpoints. Motion picture generation unit (6) generates motion picture (DO) in 
+which original images (L1, R1), and the interpolation image are arranged in the order of viewpoint. File generation unit (7) generates 
+three-dimensional image file (F0) of original images (L1), (R1), motion picture file (M0) of the motion picture, and relational 
+information file (R0) representing the relation between three-dimensional image file (F0) and motion picture file (M0), and records 
+them on medium (10A) . 
+  
+  
+No. of Pages : 33 No. of Claims : 10 

@@ -1,0 +1,22 @@
+Application number  =>  1050/CHENP/2011 A 
+
+Date of filing of application number  =>  15/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  MEMORY MODULE INCLUDING VOLTAGE SENSE MONITORING INTERFACE 
+
+Name of applicant  =>  1)HEWLETT-PACKARD DEVELOPMENT COMPANY L.P. 
+
+Name of inventor  =>  1)Dennis CARR 2)Michael Bozich CALHOUN 3)Teddy LEE 4)Lidia WARNES 5)Dan VU 
+
+International Classification  =>  G06F12/00, G06F1/26 
+
+Priority Doc No  =>  12/262,038 
+
+International Application Number  =>  PCT/US2009/057967 
+
+International Publication Number  =>   
+
+Abstract  =>  Memory devices and systems include a voltage sense line for addressing voltage tolerances across variable loadings. The memory devices and systems comprise a memory module connector with a first plurality of pins coupled to circuitry on a memory module, and a second plurality of pins coupled to power rails on the memory module that enable monitoring of the power rails from external to the memory module. [FIG. 1E] 
+

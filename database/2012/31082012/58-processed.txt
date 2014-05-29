@@ -1,0 +1,22 @@
+Application number  =>  2888/CHENP/2011 A 
+
+Date of filing of application number  =>  28/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  MATING MECHANISM FOR A PRESSURIZING UNIT AND CORRESPONDING SLEEVE IN A MEDICAL FLUID INJECTION DEVICE 
+
+Name of applicant  =>  1)ACIST MEDICAL SYSTEMS, INC. 
+
+Name of inventor  =>  1)HIEB, MARTY 2)LE, KHOI 3)WEST, BILL 4)WROLOSN, DARRYL, T. 5)PILOSI, PAUL 
+
+International Classification  =>  A61M5/00, A61M5/145 
+
+Priority Doc No  =>  12/261,415 
+
+International Application Number  =>  PCT/US09/062390 
+
+International Publication Number  =>  WO 2010/056530 A2 
+
+Abstract  =>  In general, this disclosure relates to techniques for providing a mating mechanism between at least one pressurizing unit and at least one corresponding sleeve in a powered medical fluid injection device. An example powered medical fluid injection device includes a sleeve and an injector head coupled to the sleeve. The sleeve has a notch with a predefined shape and size. The sleeve is configured to receive a pressurizing unit (such as a syringe) having an external tab with a predefined shape and size that are substantially identical to the predefined shape and size of the notch in the sleeve, such that the tab mates with the notch when the sleeve receives the pressurizing unit. The injector head is configured to inject a quantity of a medical fluid from the pressurizing unit during operation. 
+

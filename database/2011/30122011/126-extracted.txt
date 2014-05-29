@@ -1,0 +1,48 @@
+The Patent Office Journal 30/12/2011 
+ 
+25463
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1013/MUMNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :19/05/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : LOCATION LOGGING AND LOCATION AND TIME BASED FILTERING  
+  
+(51) International classification  :H04W 4/02,H04L 29/08  
+(31) Priority Document No  :61/122,681  
+(32) Priority Date  :15/12/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/067902
+:14/12/2009 
+(87) International Publication No  :WO/2010/077821  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)QUALCOMM INCORPORATED 
+      Address of Applicant :Attn: International IP Administration  
+5775 Morehouse Drive  San Diego  California 92121-1714  
+United States of America  
+(72)Name of Inventor : 
+   1)GILLIES  Donald  William 
+   2)LO  Charles  N. 
+   3)EDGE  Stephen  W.  
+(57) Abstract : 
+Techniques for performing location logging and location and time based filtering are described. In one design of location logging, a 
+terminal periodically determines its location, e.g., during its paging slots. The terminal determines whether there is a change in its 
+location and stores its location if a change in location is detected. In one design of location and time based filtering, the terminal 
+obtains a location and time criterion with a target area and a time period. The terminal determines its location during the time period, 
+e.g., based on the location log. The terminal evaluates the location and time criterion based on the target area and its location during 
+the time period, e.g., based on at least one sector ID for the target area and one or more sector IDs for its location. The terminal 
+determines whether to download and/or present broadcast information based on the result of the evaluation. 
+  
+ 
+No. of Pages : 45 No. of Claims : 41 

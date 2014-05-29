@@ -1,0 +1,22 @@
+Application number  =>  2924/CHENP/2011 A 
+
+Date of filing of application number  =>  29/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  MANUFACTURING PROCESS 
+
+Name of applicant  =>  1)CORCEL IP LIMITED 
+
+Name of inventor  =>  1)VAN BERLO, PATRICK PETRUS ANTONIUS MARIA 
+
+International Classification  =>  B32B3/28, B32B29/08 
+
+Priority Doc No  =>  571716 
+
+International Application Number  =>  PCT/NZ2009/000206 
+
+International Publication Number  =>  WO 2010/039047 A1 
+
+Abstract  =>  The present invention relates to a method of forming a board from a number of substantially planar layers, including the steps of a) ensuring a layer is positioned substantially in a horizontal plane; and b) applying adhesive to the layer; and c) moving the layer to a holding station; and d) holding the layer horizontally against another layer within the holding station; and e) repeating steps a) to d) until a stack of layers is formed having a height substantially equivalent to the desired width of the board to be formed; the method characterised by the step of f) removing the stack from the holding device once the layers have had sufficient time to bond to each other. 
+

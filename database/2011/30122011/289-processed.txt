@@ -1,0 +1,22 @@
+Application number  =>  1278/CHENP/2011 A 
+
+Date of filing of application number  =>  23/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD AND SYSTEM FOR REMOVING CONTAMINANTS 
+
+Name of applicant  =>  1)SANDEEP SHARMA 
+
+Name of inventor  =>  1)Sandeep Sharma 
+
+International Classification  =>  B08B7/00, H01L21/30 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/SG2008/000274 
+
+International Publication Number  =>   
+
+Abstract  =>  A method and apparatus for removing contaminants from at least one portion of a semiconductor mold are disclosed. A nozzle is positioned at a preset position with respect to the portion of the semiconductor mold. Solid particles of a material that sublimes instantaneously along with at least one of the abrasives and additives are blasted at a predefined temperature and/or pressure over the portion, through the nozzle. On impact, the particles remove the contaminants from the portion of the semiconductor mold. 
+

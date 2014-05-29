@@ -1,0 +1,22 @@
+Application number  =>  1070/CHENP/2011 A 
+
+Date of filing of application number  =>  16/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  FAST CHARGER FOR SUPER CAPACITOR 
+
+Name of applicant  =>  1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+
+Name of inventor  =>  1)LIU Chenyang 
+
+International Classification  =>  H01G9/155 
+
+Priority Doc No  =>  200810142967.8 
+
+International Application Number  =>  PCT/IB2009/053021 
+
+International Publication Number  =>   
+
+Abstract  =>  This invention proposes a novel charging method for improving the efficiency of charging a super capacitor. The method comprises the steps of: charging the super capacitor with a first current; measuring a voltage of the super capacitor; stopping the supply of the first current when the measured voltage reaches a pre-defined voltage value; monitoring a voltage variation of the super capacitor; charging the super capacitor with a second current when the monitored voltage variation exceeds a pre-defined threshold within a pre- defined period. By using said two-phase charging, especially when using two different charging currents, it is easier to improve the charging efficiency without degrading the charging speed. Fig.3 
+

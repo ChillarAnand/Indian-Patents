@@ -1,0 +1,46 @@
+The Patent Office Journal 30/12/2011 
+ 
+25482
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1049/MUMNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :24/05/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : POWER FEEDING SYSTEM FOR VEHICLE, ELECTRICALLY POWERED VEHICLE AND POWER 
+FEEDING APPARATUS FOR VEHICLE  
+  
+(51) International classification  :B60L 11/18  
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date 
+:PCT/JP2008/070276
+:07/11/2008 
+(87) International Publication No  :WO/2010/052785  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)TOYOTA JIDOSHA KABUSHIKI KAISHA 
+      Address of Applicant :1  Toyota-cho  Toyota-shi  Aichi-ken  
+471-8571  Japan   
+(72)Name of Inventor : 
+   1)Shinji ICHIKAWA  
+(57) Abstract : 
+An IPA-ECU (410) recognizes the position of a power transmitting unit by image recognition, based on image information from a 
+camera (120) mounted on a vehicle. The IPA-ECU (410) then performs guidance control, according to the result of the image 
+recognition, so as to guide the vehicle to the power transmitting unit (first guidance control). A resonance ECU (460) estimates the 
+distance between the power transmitting unit and a power receiving unit according to a status of feeding from the power transmitting 
+unit to the power receiving unit. When the power transmitting unit reaches a position below the vehicle body, an HV-ECU (470) 
+performs, according to the distance information from the resonance ECU (460), guidance control so that the vehicle performs an 
+alignment between the power transmitting unit and the power receiving unit (second guidance control). 
+  
+ 
+No. of Pages : 47 No. of Claims : 21 

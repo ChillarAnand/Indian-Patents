@@ -1,0 +1,44 @@
+The Patent Office Journal 31/12/2010 
+ 
+5313
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1993/DEL/2009 A 
+(19) INDIA  
+(22) Date of filing of Application :24/09/2009 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : SYSTEM AND METHOD FOR ENHANCING PRAYER AND HEALING RITUALS  
+  
+(51) International classification  :G09B19/00; 
+(31) Priority Document No  :12,493232 
+(32) Priority Date  :28/06/2009
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  :NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)ABOUELSAADAT, WAEL 
+      Address of Applicant :3216-280 WELLESLEY ST. EAST, 
+TORONTO, ON, M4X1G7, CANADA.   
+(72)Name of Inventor : 
+   1)ABOUELSAADAT, WAEL  
+(57) Abstract : 
+Interactive prayer systems are provided, which include a pad that is adapted to be repeatedly stepped upon by a user; a first detection 
+means for detecting when the user steps on the pad; a second detection means for detecting, and for creating proximity event data 
+based upon, when the user is standing in proximity of specific areas within the pad; a communications means for communicating 
+touch event data and proximity event data to a computer and a computer program executing on the computer; a display means 
+connected to the computer, which displays the scripture to the user during prayer; and a notification means embedded in the pad for 
+notifying the user when, and if, an error in the users performance of the one or more prayer rituals is detected by the computer 
+program. Methods of using such interactive prayer systems are also provided. 
+  
+  
+No. of Pages : 103 No. of Claims : 21 

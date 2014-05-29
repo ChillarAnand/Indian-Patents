@@ -1,0 +1,22 @@
+Application number  =>  3118/CHENP/2011 A 
+
+Date of filing of application number  =>  06/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  PROCESSING INFORMATION BLOCKS FOR WIRELESS TRANSMISSION 
+
+Name of applicant  =>  1)NORTEL NETWORKS LIMITED 
+
+Name of inventor  =>  1)LAI-KING TEE 2)YI SONG 3)NENG WANG 4)CHUANDONG LI 
+
+International Classification  =>  H04J11/00 
+
+Priority Doc No  =>  61/111,036 
+
+International Application Number  =>  PCT/US2009/063267 
+
+International Publication Number  =>  WO 2010/053985 A2 
+
+Abstract  =>  In general, according to an embodiment, a wireless transmitter includes a plurality of coding and modulation modules to apply corresponding coding and modulation algorithms to input information blocks. A discrete Fourier transform (DFT) precoder applies DFT processing to outputs of the coding and modulation modules, and an inverse fast Fourier transform (IFFT) module receives a DFT output of the DFT precoder, which is mapped to different subcarriers according to the resource allocation indicated by the base station, and applies IFFT processing to the DFT output. An output processing stage produces output signals based on the of the IFFT module to transmit wirelessly to a wireless receiver. In a different implementation, the outputs of the coding and modulation modules can be provided to an IFFT module to produce IFFT-processed output information. 
+

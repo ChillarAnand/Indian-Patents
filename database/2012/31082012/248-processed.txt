@@ -1,0 +1,22 @@
+Application number  =>  3136/CHENP/2011 A 
+
+Date of filing of application number  =>  06/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  OPTICAL FIBERS 
+
+Name of applicant  =>  1)FURUKAWA ELECTRIC CO., LTD. 
+
+Name of inventor  =>  1)NAKAJIMA, YASUO 2)TANAKA, HIROKI 3)MOCHIZUKI, KOUJI 
+
+International Classification  =>  G02B6/44 
+
+Priority Doc No  =>  2009-067156 
+
+International Application Number  =>  PCT/JP10/054436 
+
+International Publication Number  =>  WO 2010/107026 A1 
+
+Abstract  =>  An optical fiber, which is less likely to increase its transmission loss even when it is exposed to a high-humidity environment or immersed in water, is provided. The optical fiber comprises a glass fiber and at least two coating layers (a soft layer and a hard layer) coated at the circumference of the glass fiber, wherein the limit-adhesion strength between the glass fiber and the coating layer under a hot and humid environment is 0.50N/10mm or more. Preferably, the glass-transition temperature of the hard layer is less than 90 ˚ C. 
+

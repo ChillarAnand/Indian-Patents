@@ -1,0 +1,22 @@
+Application number  =>  5342/DELNP/2011 A 
+
+Date of filing of application number  =>  12/07/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  SPLIT CYCLE RECIPROCATING PISTON ENGINE 
+
+Name of applicant  =>  1)RICARDO UK LIMITED 
+
+Name of inventor  =>  1)JACKSON, NEVILLE, STUART 2)ATKINS, ANDREW, FARQUHAR 
+
+International Classification  =>  F02B 41/06 
+
+Priority Doc No  =>  0822720.9 
+
+International Application Number  =>  PCT/GB2009/002867 
+
+International Publication Number  =>  WO 2010/067080 
+
+Abstract  =>  A split cycle reciprocating piston engine includes a compression cylinder (2) accommodating a compression piston (4) and an expansion cylinder (12) accommodating an expansion piston (14). The compression cylinder (2) has an inlet port (30) for the admission of air and an outlet port (36) which communicates with a first path of a heat exchanger (5). The expansion cylinder (12) has an inlet port (52), which communicates with the first path of the heat exchanger (5), and an outlet port (56), which communicates with a second path of the heat exchanger (5) in heat exchange relationship with the first path. The method of operating the engine includes injecting a liquefied, non-oxidising, non-combustible gas, such as nitrogen, into the compression cylinder (2). 
+

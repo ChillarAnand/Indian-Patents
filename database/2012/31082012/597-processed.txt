@@ -1,0 +1,22 @@
+Application number  =>  611/MUMNP/2012 A 
+
+Date of filing of application number  =>  13/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  HIGH TEMPERATURE OPERATION INDUCTIVE POSITION SENSING DEVICE 
+
+Name of applicant  =>  1)PERCEPTION SENSORS & INSTRUMENTATION LTD 
+
+Name of inventor  =>  1)HYDE, JOHN 
+
+International Classification  =>  G01D 5/20,H03K 17/95 
+
+Priority Doc No  =>  0915670.4 
+
+International Application Number  =>  PCT/GB2010/051490 
+
+International Publication Number  =>  WO/2011/030142 
+
+Abstract  =>  There is disclosed a position sensing device comprising: i) a cylindrical core (12) having a longitudinal axis; ii) at least three discs or flanges (16 - 19) mounted about the longitudinal axis of the core; and iii) conductive wire coil windings (13 - 15) around the longitudinal axis between each adjacent pair of discs or flanges, to define at least a first coil (14) between a first pair (17, 18) of discs or flanges and a second coil (15) between a second pair (18, 19) of discs or flanges. The conductive wire of each coil winding comprises a conductive metal with a substantially dielectric oxide or ceramic coating, and the discs or flanges are made of non- polymeric material. By avoiding the use of polymeric components, the device can be used at very high temperatures without requiring a separate cooling arrangement. 
+

@@ -1,0 +1,22 @@
+Application number  =>  1026/MUMNP/2011 A 
+
+Date of filing of application number  =>  20/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  SODIUM CHLORIDE PRODUCTION PROCESS 
+
+Name of applicant  =>  1)AKZO NOBEL N.V. 
+
+Name of inventor  =>  1)BAKKENES Hendrikus Wilhelmus 2)MEIJER Johannes Albertus Maria 3)SCHOKKER Allert 4)STEENSMA Maria 
+
+International Classification  =>  C01D 3/06,B01D 9/00 
+
+Priority Doc No  =>  08168209.8 
+
+International Application Number  =>  PCT/EP2009/064247 
+
+International Publication Number  =>  WO/2010/060718 
+
+Abstract  =>  The present invention pertains to a process for producing sodium chloride comprising the steps of: (i) preparing a brine having a sodium chloride concentration which is higher than the sodium chloride concentration of the eutectic point but lower than the sodium chloride concentration of a saturated brine by dissolving a sodium chloride source in water; (ii) cooling the resulting brine by indirect cooling in a self-cleaning fluidized bed heat exchanger/crystallizer to a temperature lower than 00C but higher than the eutectic temperature of the resulting brine, thereby forming a slurry comprising sodium chloride dihydrate and a mother liquor; (iii) feeding the sodium chloride dihydrate to a recrystallizer to form sodium chloride and a mother liquor, and (iv) recycling at least part of the mother liquor obtained in step (ii) and/or step (iii) to step (i). 
+

@@ -1,0 +1,38 @@
+The Patent Office Journal 31/05/2013 11982
+(12) PATENT APPLICATION PUBLICATION (21) Application No.211/DEL/2012 A
+(19) INDIA
+(22) Date of filing of Application :24/01/2012 (43) Publication Date : 31/05/2013
+(54) Title of the invention : A LOW POWER HIGH PERFORMANCE STATE FLIP-FLOP BASED ON DUAL
+REGENERATIVE FEEDBACK LOOP STRATEGY
+(51) International classification :G03F
+(31) Priority Document No :NA
+(32) Priority Date :NA
+(33) Name of priority country :NA
+(86) International Application No
+Filing Date
+:NA
+:NA
+(87) International Publication No :NA
+(61) Patent of Addition to Application Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)S.C. TIWARI
+Address of Applicant :CF - 278, ANSAL GOLF LINKS - 1,
+SECTOR OHEGA - GREATER NOIDA 201308 Uttar
+Pradesh India
+2)KUNWAR SINGH
+(72)Name of Inventor :
+1)KUNWAR SINGH
+2)S.C. TIWARI
+(57) Abstract :
+Flip-flops and latches are indispensable components of modern digital systems.Flip-flops and latches along with the clock
+network account for 30-70% of the total system power dissipation. Flip-flops also determine the highest operating speed of any
+synchronous digital system driven by clock. Hence there is always a need for high performance and low power flip flop designs
+implemented with minimum number of transistors to save chip area.
+No. of Pages : 14 No. of Claims : 5

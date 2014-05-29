@@ -1,0 +1,22 @@
+Application number  =>  1309/DEL/2009 A 
+
+Date of filing of application number  =>  25/06/2009 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  Continous Liquid Level Detector 
+
+Name of applicant  =>  1)Saurabh Nagar 2)Saurabh Nagar 
+
+Name of inventor  =>  1)Saurabh Nagar 
+
+International Classification  =>  G01M 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  This device or arrangement help in continous estimation or measurement of a liquid (generally water) in a container (eg. Overhead or underground tank). This is important especially in situation where the container is not transparent or is not easily accessible (eg. overhead tanks). This is achieved by measuring the potential difference (voltage) across the resistor in the circuit which changes with the height of the liquid column in the container. This device is relevant because most of the commonly available devices only indicate a few discrete levels in a container not giving the complete information about the liquid level. Using the proposed device will solve this problem. 
+

@@ -1,0 +1,53 @@
+The Patent Office Journal 30/12/2011 
+ 
+25481
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1051/MUMNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :24/05/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : VALVE FOR UNIVERSAL UTILIZATION AND SEVERAL PURPOSES  
+  
+(51) International classification  :F16K 15/14  
+(31) Priority Document No  :P 08 00613  
+(32) Priority Date  :04/11/2008 
+(33) Name of priority country  :Hungary 
+(86) International Application No 
+        Filing Date 
+:PCT/HU2009/000089 
+:03/11/2009 
+(87) International Publication No  :WO/2010/052511  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)HORVTH  Gabor 
+      Address of Applicant :H-1196 Budapest  Bathori u. 130  
+Hungary.   
+   2)KOVCS  Attila 
+(72)Name of Inventor : 
+   1)HORVTH  Gabor 
+   2)KOVCS  Attila 
+   3)STORI  Gyula  
+(57) Abstract : 
+The subject of the invention is a valve for universal utilization and several purposes allowing by its formation the relatively high flow 
+in the basic state and slightly open state of the valve even in case of small pressure differences in case of low pressure; furthermore the 
+formation of the valve allows to ensure providing functions depending on the direction of flow that in given case can be regulated 
+regarding back-pressure, partial back-pressure, pressure relief, partial relief limiting functions. The valve according to the invention is 
+made in one piece from a soft, flexible material, and it has a full cross-sectional open basic part (2) at one end, and an intermediate 
+part (3) of decreasing cross-section joining the said basic part (2), as well as a flattened part (4) joining the intermediate part (3) in the 
+other end of the valve (1). It is characterized by that, the flattened part (4) is a structure sintered or pressed or glued in the material of 
+the valve (1), and on the flattened part (4) of the valve (1) a pressed rim (7) made by airtight fixing of the edges of the flattened part 
+(4), preferably by sintering, or pressing or glueing is formed, furthermore the length (L) of the intermediate part (3) is L = 0,5...6 (K/ 
+π), compared to perimeter (K) in the basic part of the valve (1), in connection with the medium in motion, and the length (N) of the 
+pressed rim (7) in the basic part of the valve (1) compared to perimeter (K) in connection with the medium in motion is N = 0,1...2 (K/ 
+π). 
+  
+ 
+No. of Pages : 26 No. of Claims : 12 

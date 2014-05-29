@@ -1,0 +1,22 @@
+Application number  =>  1049/MUMNP/2011 A 
+
+Date of filing of application number  =>  24/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  POWER FEEDING SYSTEM FOR VEHICLE, ELECTRICALLY POWERED VEHICLE AND POWER FEEDING APPARATUS FOR VEHICLE 
+
+Name of applicant  =>  1)TOYOTA JIDOSHA KABUSHIKI KAISHA 
+
+Name of inventor  =>  1)Shinji ICHIKAWA 
+
+International Classification  =>  B60L 11/18 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/JP2008/070276 
+
+International Publication Number  =>  WO/2010/052785 
+
+Abstract  =>  An IPA-ECU (410) recognizes the position of a power transmitting unit by image recognition, based on image information from a camera (120) mounted on a vehicle. The IPA-ECU (410) then performs guidance control, according to the result of the image recognition, so as to guide the vehicle to the power transmitting unit (first guidance control). A resonance ECU (460) estimates the distance between the power transmitting unit and a power receiving unit according to a status of feeding from the power transmitting unit to the power receiving unit. When the power transmitting unit reaches a position below the vehicle body, an HV-ECU (470) performs, according to the distance information from the resonance ECU (460), guidance control so that the vehicle performs an alignment between the power transmitting unit and the power receiving unit (second guidance control). 
+

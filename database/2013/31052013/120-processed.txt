@@ -1,0 +1,22 @@
+Application number  =>  9847/CHENP/2011 A 
+
+Date of filing of application number  =>  27/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  A THERMAL INKJET PRINT HEAD WITH SOLVENT RESISTANCE 
+
+Name of applicant  =>  1)VIDEOJET TECHNOLOGIES INC. 
+
+Name of inventor  =>  1)LAMBRIGHT Terry M. 2)SELMECZY Anthony 3)LEE Francis Chee-Shuen 4)HALUZAK Charles C. 5)TRUEBA Kenneth E. 
+
+International Classification  =>  B41J 2/335 
+
+Priority Doc No  =>  61/221,439 
+
+International Application Number  =>  PCT/US2010/040135 
+
+International Publication Number  =>   
+
+Abstract  =>  An inkjet printing system includes a print head in fluid communication with an ink reservoir and having a plurality of orifices and a corresponding plurality of associated ejection chambers. The print head includes a substrate and a barrier layer disposed on the substrate. The barrier layer defines in part a plurality of fluid channels and the plurality of ejection chambers. The barrier layer includes a material selected from epoxy-based photo resist materials and methyl methacrylate-based photo resist materials. An orifice plate is disposed over the substrate. The orifice plate includes the plurality of orifices in fluid communication with the ejection chambers. The orifice plate comprises a material selected from polyirnides and nickel. 
+

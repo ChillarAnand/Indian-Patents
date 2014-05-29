@@ -1,0 +1,44 @@
+ 
+The Patent Office Journal 31/08/2012 
+13399
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2192/MUM/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :31/07/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : A SYSTEM AND METHOD FOR SPEND ANALYSIS OF THE SERVICE CATEGORY.  
+  
+(51) International classification  :G06F 17/60 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA
+:NA 
+(87) International Publication No  :N/A 
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA
+:NA  
+  
+(71)Name of Applicant :  
+   1)ZYCUS INFOTECH PVT. LTD. 
+      Address of Applicant :GJ-07, SEEPZ++, SEEPZ SEZ, 
+ANDHERI(EAST), MUMBAI - 400096., MAHARASHTRA, 
+INDIA.   
+(72)Name of Inventor : 
+   1)MR. SACHIN SHARMA 
+   2)CHITRESH JAIN  
+(57) Abstract : 
+The present invention introduces a system containing an integration of iContract module and SPM module for analyzing and taking 
+actions pertaining to contracts and suppliers performance in procurement process, comprising: iContract module containing database 
+of contracts of suppliers; and SPM module adapted for measuring, analyzing and managing the performance of a supplier; it allows to 
+view the supplier performance report corresponding to the specific contract being selected as well as to view contracts corresponding 
+to the specific supplier being selected; present system allows the user to make a decision regarding renewal or termination of the 
+contract with specified supplier, based on the performance report of the supplier. 
+ 
+No. of Pages : 19 No. of Claims : 16 

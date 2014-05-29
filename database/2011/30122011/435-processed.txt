@@ -1,0 +1,22 @@
+Application number  =>  821/KOL/2010 A 
+
+Date of filing of application number  =>  26/07/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  SOLAR RECEIVER FOR A SOLAR CONCENTRATOR WITH A LINEAR FOCUS 
+
+Name of applicant  =>  1)THESAN S.P.A. 
+
+Name of inventor  =>  1)BALBO DI VINADIO, AIMONE 2)PALAZZETTI, MARIO 
+
+International Classification  =>  H01L31/00 
+
+Priority Doc No  =>  09425303.6 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A solar receiver (26) for a linear-focusing solar concentrator, comprising: - a base (28), which is elongated in a direction parallel to a focal line (A) and carries an array of strip-shaped targets (34) arranged orthogonal to said focal line (A) and set at a distance apart from one another in a direction parallel to the focal line (A); - a focusing assembly (40) including an array of optical elements (44) arranged for focusing solar radiation on said strip-shaped targets (34), the focusing assembly (40) being mobile with respect to the base (28) of the photovoltaic receiver (26) in a direction parallel to said focal line (A); and - an azimuthal pointing device (58, 60), designed to move the focusing assembly (40) with respect to said base (28) as a function of the position of the sun. 
+

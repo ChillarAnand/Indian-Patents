@@ -1,0 +1,22 @@
+Application number  =>  948/CHENP/2011 A 
+
+Date of filing of application number  =>  09/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  SUPPORTING MULTIPLE ACCESS TECHNOLOGIES IN A WIRELESS ENVIRONMENT 
+
+Name of applicant  =>  1)QUALCOMM Incorporated 
+
+Name of inventor  =>  1)MONTOJO Juan 2)FARAJIDANA Amir 3)BHATTAD Kapil 
+
+International Classification  =>  H04W16/14 
+
+Priority Doc No  =>  61/092,456 
+
+International Application Number  =>  PCT/US2009/055228 
+
+International Publication Number  =>   
+
+Abstract  =>  Support for multiple wireless access technologies at a common terrestrial radio access network is described herein. By way of example, wireless resources can be reserved in a manner that facilitates transmission of control and reference signals to advanced or emerging-technology user terminals (e.g., LTE-A), while mitigating adverse affects on legacy user terminals (e.g., LTE Release 8). As such, information designated for LTE-A terminals can be embedded in predetermined reserved locations, which exploit known standardized behavior of legacy terminals in expecting information at specific locations. Such reserving of resources can occur typically without the legacy terminals being affected, mitigating or avoiding performance degradation for legacy terminals. 
+

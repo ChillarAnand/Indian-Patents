@@ -1,0 +1,22 @@
+Application number  =>  9863/CHENP/2011 A 
+
+Date of filing of application number  =>  27/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  SYSTEM AND METHOD FOR VOICE SERVICE IN AN EVOLVED PACKET SYSTEM 
+
+Name of applicant  =>  1)Research In Motion Limited 
+
+Name of inventor  =>  1)BUCKLEY Adrian 2)BAKKER Jan Hendrik Lucas 3)FACCIN Stefano 
+
+International Classification  =>  H04W 48/18 
+
+Priority Doc No  =>  61/221,509 
+
+International Application Number  =>  PCT/US2010/040500 
+
+International Publication Number  =>   
+
+Abstract  =>  A method for enabling services using a network component in a communication system including a user equipment (UE) is provided. The UE is configured to require a first message which may be a SIP request. The network component is configured to create a second message or SIP request based upon the first message. The network component further configured to subsequently receive a SIP response and select a subsequent action upon receiving the SIP response. 
+

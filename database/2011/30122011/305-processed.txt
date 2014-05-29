@@ -1,0 +1,22 @@
+Application number  =>  1323/CHENP/2011 A 
+
+Date of filing of application number  =>  25/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  NETWORK AND MOBILE DEVICE INITIATED QUALITY OF SERVICE 
+
+Name of applicant  =>  1)QUALCOMM Incorporated 
+
+Name of inventor  =>  1)KLINGENBRUNN Thomas 2)BALASUBRAMANIAN Srinivasan 3)RAMACHANDRAN Shyamal 4)SWAMINATHAN Arvind 
+
+International Classification  =>  H04W76/02 
+
+Priority Doc No  =>  61/098,647 
+
+International Application Number  =>  PCT/US2009/057584 
+
+International Publication Number  =>   
+
+Abstract  =>  Systems and methodologies are described that facilitate avoidance of duplicative resource allocation and/or erroneous service charges via unambiguously indicating an entity responsible for quality of service (QoS) initiation. In one example, an indication is provided to a mobile device to indicate a preference for network-initiated QoS or a preference for device -initiated QoS. QoS for a data flow can be established in accordance with the indication. For instance, the mobile device initiates QoS when the indication specifies a preference for device-initiated QoS while a network establishes QoS when the indication specifies a preference for network-initiated QoS. 
+

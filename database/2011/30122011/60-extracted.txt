@@ -1,0 +1,44 @@
+The Patent Office Journal 30/12/2011 
+ 
+25397
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2126/DELNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :21/03/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : INTERRELATED ITEM SEARCH  
+  
+(51) International classification  :G06F 7/00  
+(31) Priority Document No  :61/090,893  
+(32) Priority Date  :21/08/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/054701
+:21/08/2009 
+(87) International Publication No  :WO 2010/022378  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)SATYA REDDY 
+      Address of Applicant :3401, KENNETH DRIVE, PALO 
+ALTO, CA 94303 (US) U.S.A. 
+(72)Name of Inventor : 
+   1)SATYA REDDY  
+(57) Abstract : 
+Systems and methods to search in response to query consisting of a plurality of keywords, by processing for relevance of all possible 
+valid relations among keywords in the query The overall space of all possible valid relations among all of the keywords in the 
+underlying documents are pre-computed based on transitivity rules using common property items in associated ontologies The query 
+keyword are substituted by considering each keyword as well as valid groups as a whole, based on all reachable valid keywords along 
+every relation computed in the overall merged ontologies Building the knowledgebase with the classification of keywords in different 
+ontologies, fundamentals of building hierarchical part-of graph augmented with same-as and kind. 
+  
+ 
+No. of Pages : 72 No. of Claims : 10 

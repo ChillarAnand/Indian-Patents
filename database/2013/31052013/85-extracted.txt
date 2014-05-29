@@ -1,0 +1,42 @@
+The Patent Office Journal 31/05/2013 12056
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9729/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :23/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : OPTICAL ASSEMBLIES FOR ADJUSTING WORKING DISTANCE AND FIELD OF VIEW IN
+AN IMAGING SYSTEM
+(51) International classification :G02B 7/04
+(31) Priority Document No :12/504,531
+(32) Priority Date :16/07/2009
+(33) Name of priority country :U.S.A.
+(86) International Application No
+Filing Date
+:PCT/US2010/039549
+:22/06/2010
+(87) International Publication No : NA
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)MICROSCAN SYSTEMS INC.
+Address of Applicant :700 SW 39th Street Renton
+Washington 98057 U.S.A.
+(72)Name of Inventor :
+1)BARNES Danny S.
+2)STOCKINGER Erik R.
+3)BAJORINS David P.
+4)FADLOVICH Chace H.
+(57) Abstract :
+Embodiments of an apparatus comprising a base including a proximal end adistal end and a receptacle in the distal end that is
+adapted to interchangeably receive a lens adapter; a set of base optics positioned in the proximal end of the base; and adjustable-
+focus optics positioned in the base and optically coupled to the baseoptics and when the lens adapter is present to the lens
+adapter. Embodiments of a process including forming a base including a proximal end a distal end and a receptacle in the distal
+end that is adapted to interchangeably receive any one of a plurality of lens adapters; positioning a set of base optics in the
+proximal end of the base and positioning adjustable-focus optics positioned in the base such that they are optically coupled to the
+base optics and when the lens adapter is present to the lens adapterOther embodiments are disclosed and claimed.
+No. of Pages : 23 No. of Claims : 27

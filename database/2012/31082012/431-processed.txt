@@ -1,0 +1,22 @@
+Application number  =>  1029/MUMNP/2012 A 
+
+Date of filing of application number  =>  24/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  SUPPORT DEVICE AND MAIN BUILDING OF CONCRETE MIXING PLANT USING THE SAME 
+
+Name of applicant  =>  1)HUNAN SANY INTELLIGENT CONTROL EQUIPMENT CO., LTD 2)SANY HEAVY INDUSTRY CO., LTD 
+
+Name of inventor  =>  1)ZHANG, JIAPING 2)NI, XIAOQING 3)JIANG, ZHIHUI 
+
+International Classification  =>  B28C 5/00,E04B 1/24 
+
+Priority Doc No  =>  CN 200920220128.3 
+
+International Application Number  =>  PCT/CN2010/074696 
+
+International Publication Number  =>  WO/2011/050625 
+
+Abstract  =>  A support device (100) and a main building of a concrete mixing plant using the same are provided. The support device (100) comprises: a first support bar (2) having a first end (21) connected to a first supported body (13), a second support bar (7) having a first end (71) connected to a second supported body (12), an adjusting bar (6) having opposite threads on both ends and respectively threadedly connected to a second end (22) of the first support bar (2) and a second end (72) of the second support bar (7). The adjusting bar (6) is arranged between the first support bar (2) and the second support bar (7) in the support device (100), and rotation directions of the threads on two ends of the adjusting bar (6) are different, hence when the adjusting bar (6) is rotated, the first support bar (2) and the second support bar (7) can be screwed in or out simultaneously in order to adapt different support distances to make up for a problem of a major error deviation in an actual installation process. 
+

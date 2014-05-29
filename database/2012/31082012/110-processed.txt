@@ -1,0 +1,22 @@
+Application number  =>  2969/CHENP/2011 A 
+
+Date of filing of application number  =>  02/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  DEVICE, SYSTEM AND METHOD FOR PROVIDING DISTRIBUTED ONLINE SERVICES 
+
+Name of applicant  =>  1)SNAPTU LTD. 
+
+Name of inventor  =>  1)MAKAVY, RAN 2)BERDICHEVSKY, MICHA 3)NAVEH, BARAK, R. 4)ARTZI, YOAV 
+
+International Classification  =>  G06F15/16 
+
+Priority Doc No  =>  12/246,078 
+
+International Application Number  =>  PCT/IL09/000952 
+
+International Publication Number  =>  WO 2010/041244 A1 
+
+Abstract  =>  A device system and method is provided for running mobile applications, including a server for running applications and a client installed in a mobile device .The client may connect to the server via a network. The client may display content, receive user input and send user input to the server. The server may use the client to receive user input and to display content for running applications for the mobile device. 
+

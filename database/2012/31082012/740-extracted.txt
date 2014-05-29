@@ -1,0 +1,47 @@
+ 
+The Patent Office Journal 31/08/2012 
+13799
+(12) PATENT APPLICATION PUBLICATION (21) Application No.914/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :12/04/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : CONTROL OF PESTS IN PLANTS  
+  
+(51) International classification  :C12N 15/83  
+(31) Priority Document No  :61/246,597  
+(32) Priority Date  :29/09/2009 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/SG2010/000339 
+:15/09/2010 
+(87) International Publication No  :WO/2011/040880  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)TEMASEK LIFE SCIENCES LABORATORY LIMITED
+      Address of Applicant :1 RESEARCH LINK, NATIONAL 
+UNIVERSITY OF SINGAPORE, SINGAPORE 117604 
+SINGAPORE   
+(72)Name of Inventor : 
+   1)YE, JIAN 
+   2)CHUA, NAM-HAI 
+   3)QU, JING 
+   4)GAO, SHI-QIANG  
+(57) Abstract : 
+The present invention relates to the field of controlling pests, such as insects, using a virus to express pest genes in hosts. More 
+specifically, the present invention relates to a method for rapidly screening for pest genes which can lead to mortality of the pest when 
+the pest has ingested host tissues expressing virus-linked pest gene sequences. The present invention also relates to a method for 
+controlling pests by viral expression of target pest sequences to modify endogenous expression of pest genes in cells or tissues of the 
+pest. 
+  
+  
+No. of Pages : 83 No. of Claims : 37 

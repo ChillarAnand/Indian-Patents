@@ -1,0 +1,22 @@
+Application number  =>  3642/CHE/2010 A 
+
+Date of filing of application number  =>  01/12/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  SYSTEM AND METHOD FOR CONTROLLING AND MANAGING ACCESS TO WIRELESS LOCAL AREA NETWORK 
+
+Name of applicant  =>  1)DHARUMARAJ ASWATHAMAN 
+
+Name of inventor  =>  1)DHARUMARAJ ASWATHAMAN 
+
+International Classification  =>  H04L29/02 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A system and method for managing and controlling access to wireless local area network is provided. The system includes a wireless local area network (102), configured to be accessed by one or more guest data processing systems (108, 110 and 112) only after successful authentication. The system further includes, plurality of security keys (108a, 110a and 112a), wherein each of the security keys (108a, 1l0a and 112a) is configured to, store authentication data and facilitate extraction of the authentication data by any of the guest data processing systems (108, 110 and 112), with which the security key is engaged. Furthermore, the system includes an authentication device (106) configured to receive authentication data from each of the guest data processing systems (108, 110 and 112), and at least, based on the authentication data communicated by the respective guest data processing systems (108, 110 and 112), allow or deny accessing the wireless local area network (102) by the respective guest data processing systems (108, 110 and 112). Reference figure: FIG. 1 
+

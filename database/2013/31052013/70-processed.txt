@@ -1,0 +1,22 @@
+Application number  =>  2941/CHENP/2012 A 
+
+Date of filing of application number  =>  30/03/2012 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  FREQUENCY BAND EXTENDING DEVICE AND METHOD, ENCODING DEVICE AND METHOD, DECODING DEVICE AND METHOD AND PROGRAM 
+
+Name of applicant  =>  1)SONY CORPORATION 
+
+Name of inventor  =>  1)YUKI YAMAMOTO 2)TORU CHINEN 3)HIROYUKI HONMA 4)YUHKI MITSUFUJI 
+
+International Classification  =>  G10L 21/04 
+
+Priority Doc No  =>  2009-233814 
+
+International Application Number  =>  PCT/JP2010/066882 
+
+International Publication Number  =>  WO 2011/043227A1 
+
+Abstract  =>  The present invention relates to a frequency band extending device and method, an encoding device and method, a decoding device and method, and a program, whereby music signals can be played with higher sound quality due to the extension of frequency bands. A bandpass filter 13 divides an input signal into multiple sub-band signals, a feature amount calculating circuit 14 calculates feature amount using at least one of the multiple divided sub-band signals and the input signal, a high frequency sub- band power estimating circuit 15 calculates an estimated value of a high frequency sub-band power based on the calculated feature amount, a high frequency signal generating circuit 16 generates a high frequency signal component based on the multiple sub-band signals divided by the bandpass filter 13, and the estimated value of the high frequency sub-band power calculated by the high frequency sub-band power estimating circuit 15. A frequency band extending device 10 extends the frequency band of the input signal using a high frequency signal component. The present invention may be applied to a frequency band extending device, for example. 
+

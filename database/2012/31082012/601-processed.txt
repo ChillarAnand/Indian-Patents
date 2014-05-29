@@ -1,0 +1,22 @@
+Application number  =>  567/MUMNP/2012 A 
+
+Date of filing of application number  =>  07/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  ELECTROMAGNETIC DETECTION OF ANALYTES 
+
+Name of applicant  =>  1)VIROGENOMICS, INC. 
+
+Name of inventor  =>  1)CLARE, BRIAN, H. 2)ETHERINGTON, EDWARD, J. 
+
+International Classification  =>  G01F 1/64,C25B 9/00 
+
+Priority Doc No  =>  61/247,227 
+
+International Application Number  =>  PCT/US2010/050972 
+
+International Publication Number  =>  WO/2011/041586 
+
+Abstract  =>  Disclosed herein are functionalized electrodes and biosensors that can be used to detect biomolecules, such as a target analyte. In some embodiments, a functionalized electrode includes an electrically conducting surface, a first thiol compound and a second thiol compound. Also provided are kits and biosensor arrays including one or more disclosed functionalized electrodes and/or biosensors. Moreover, systems and methods for detecting biomolecules, such as a target analyte, with the disclosed functionalized electrodes and/or biosensors are also provided. 
+

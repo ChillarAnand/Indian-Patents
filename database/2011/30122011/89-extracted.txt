@@ -1,0 +1,47 @@
+The Patent Office Journal 30/12/2011 
+ 
+25426
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2168/DELNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :23/03/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : MULTI-FACTOR AUTHORIZATION SYSTEM AND METHOD  
+  
+(51) International classification  :G06Q 20/00  
+(31) Priority Document No  :61/095,290  
+(32) Priority Date  :08/09/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/056276
+:08/09/2009 
+(87) International Publication No  :WO 2010/082960  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)OBOPAY, INC. 
+      Address of Applicant :350 MARINE PARKWAY #100 
+REDWOOD CITY, CA 94065, U.S.A   
+(72)Name of Inventor : 
+   1)AJIT THOMAS 
+   2)RODNEY ROBINSON 
+   3)JOHN MICHAEL TUMMINARO 
+   4)JOHN TUMMINARO  
+(57) Abstract : 
+A method for authenticating the identity of a party to a transaction being executed over wired or wireless networks, using a personal 
+device, comprising the steps of receiving, over a network, a message to initiate one of a plurality of transactions, identifying at least 
+one indicia of the device transmitting the message, identifying the type of transaction, where at least one of the plurality of 
+transactions requires further authentication and at least another one of the plurality of transactions does not, applying a set of rules 
+appropriate to the transaction, for transactions requiring further authentication, comparing the party's response to predetermined 
+acceptable responses, and accepting or rejecting the transaction request depending upon the outcome of the comparison.  
+  
+ 
+No. of Pages : 23 No. of Claims : 2 

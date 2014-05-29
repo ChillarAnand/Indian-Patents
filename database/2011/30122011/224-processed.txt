@@ -1,0 +1,22 @@
+Application number  =>  1040/CHENP/2011 A 
+
+Date of filing of application number  =>  14/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  POWER SPECTRUM DENSITY CONTROL FOR WIRELESS COMMUNICATIONS 
+
+Name of applicant  =>  1)QUALCOMM Incorporated 
+
+Name of inventor  =>  1)LUO Xiliang 2)ATTAR Rashid Ahmed Akbar 3)LOTT Christopher Gerard 
+
+International Classification  =>  H04W52/24, H04W52/14 
+
+Priority Doc No  =>  61/092,185 
+
+International Application Number  =>  PCT/US2009/055203 
+
+International Publication Number  =>   
+
+Abstract  =>  Systems and methodologies are described that facilitate adjusting power spectrum density (PSD) for wireless devices according to multiple possible step sizes. A step size for an adjustment can be selected based at least in part on a received overload indicator from one or more access points, a PSD required to achieve a target signal-to-interference-and-noise ratio (SINR) for a wireless device, and a PSD previously assigned to the wireless device. Once the step size is selected, it can be applied to the previous PSD to generate a new PSD for the wireless device, and the wireless device can accordingly adjust PSD to mitigate inter-cell interference with the one or more access points. 
+

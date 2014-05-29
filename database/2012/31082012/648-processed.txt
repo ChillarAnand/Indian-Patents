@@ -1,0 +1,22 @@
+Application number  =>  708/MUMNP/2012 A 
+
+Date of filing of application number  =>  20/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  MANUAL INSTRUMENTED MEDICAL TOOL SYSTEM 
+
+Name of applicant  =>  1)ENGINEERING SERVICES INC. 2)UNIVERSITY HEALTH NETWORK 
+
+Name of inventor  =>  1)GOLDENBERG, ANDREW A. 2)TRACHTENBERG, JOHN 3)YANG, YI 4)MA, LIANG 
+
+International Classification  =>  A61B 19/00 
+
+Priority Doc No  =>  61/272,296 
+
+International Application Number  =>  PCT/CA2010/001409 
+
+International Publication Number  =>  WO/2011/029190 
+
+Abstract  =>  A medical device is for use in association with a medical image of the gland or organ having a known reference point. The medical device comprises a structural frame, a horizontal joint, a vertical joint, a pan join, a tilt joint a medical instrument assembly and a control system. The medical device is positioned at a predetermined location relative to the medical image reference point. Each of the horizontal joint, the vertical joint, the pan joint and the tilt joint have a position sensor and are operably connected to the frame. The medical instrument assembly is operably connected to a sensor and to the horizontal joint, the vertical joint, the pan joint and the tilt joint. The control system is operably connected to the other elements whereby the control system determines the position of a predetermined location on the medical instrument assembly relative to the structural frame. 
+

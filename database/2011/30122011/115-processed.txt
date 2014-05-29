@@ -1,0 +1,22 @@
+Application number  =>  218/DELNP/2011 A 
+
+Date of filing of application number  =>  11/01/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  NOVEL COMPOUNDS, USE THEREOF AS MEDICAMENTS, AND METHOD FOR THE PREPARATION THEREOF 
+
+Name of applicant  =>  1)UNIVERSITE HENRI POINCARE NANCY 1 
+
+Name of inventor  =>  1)DUVAL RAPHAEL EMMANUEL 2)GRARE MARION 3)MOURER MAXIME 4)REGNOUF-DE-VAINS JEAN-BERNARD 
+
+International Classification  =>  C07C 257/14 
+
+Priority Doc No  =>  08/03940 
+
+International Application Number  =>  PCT/FR2009/051388 
+
+International Publication Number  =>  WO 2010/004231 
+
+Abstract  =>  The invention relates to novel compounds of the following formula (I):in which: n represents an integer from 1 to 12, in particular from 1 to 8, m and m' represent, independently of one another, integers from 0 to 8. q and q' represent, independently of one another, integers from 0 to 2, p and p' represent, independently of one another, integers from 0 to 4, A and A' represent, independently of one another, a CH2 group, (particular case of amidines) an NH group or an NR group, in which R is a linear or branched alkyl group with 1 to 3 carbon atoms, B and B' represent, independently of one another, an oxygen atom or a CH2 group, R and R' are, independently of one another, a halogen, such as chlorine, bromine, iodine or fluorine atoms, or a linear or branched alkyl group with 1 to 3 carbon atoms.use thereof as medicaments and the method of preparation thereof. 
+

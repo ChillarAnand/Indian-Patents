@@ -1,0 +1,22 @@
+Application number  =>  513/MUM/2011 A 
+
+Date of filing of application number  =>  24/02/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  PORTABLE BANKING APPARATUS 
+
+Name of applicant  =>  1)FORBES TECHNOSYS LTD 
+
+Name of inventor  =>  1)AJAY SINGH 2)FEROZE KATILA 
+
+International Classification  =>  G06Q40/00 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  PORTOBANKER is a cost-effective, portable and scalable device that can deliver an array of banking, finance and commerce services, all from a single platform. Additional services can be easily added, based on specific requirements of the service provider and/or the consumer. This device meets all financial security standards like two factor authentication, biometric plus smart cards based access, secure communication to core banking system through the financial switch and many more. The device is also compliant with all the IBA/UIDAI guidelines that have been published. The device is made with state of the art hardware technology, has a Solar charged battery backup and can function in online/offline modes, thus making it an ideal platform for the rural markets. 
+

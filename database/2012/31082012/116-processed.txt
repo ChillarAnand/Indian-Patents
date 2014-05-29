@@ -1,0 +1,22 @@
+Application number  =>  2971/CHENP/2011 A 
+
+Date of filing of application number  =>  02/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  BINDING PROTEINS INHIBITING THE VEGF-A RECEPTOR INTERACTION 
+
+Name of applicant  =>  1)MOLECULAR PARTNERS AG 
+
+Name of inventor  =>  1)BINZ, HANS KASPAR 2)FORRER, PATRIK 3)STUMPP, MICHAEL TOBIAS 
+
+International Classification  =>  C07K14/47 
+
+Priority Doc No  =>  08168166.0 
+
+International Application Number  =>  PCT/EP09/064483 
+
+International Publication Number  =>  WO 2010/060748 A1 
+
+Abstract  =>  The present invention relates to binding proteins specific for VEGF-A, in particular to recombinant binding proteins comprising a binding domain, which inhibits VEGF-Axxx binding to VEGFR-2. Examples of such binding proteins are proteins which comprise an ankyrin repeat domain with the desired binding specificity. The binding proteins are useful in the treatment of cancer and other pathological conditions, e.g. eye diseases such as age-related macular degeneration. 
+

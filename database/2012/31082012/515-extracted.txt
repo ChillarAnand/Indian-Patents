@@ -1,0 +1,45 @@
+ 
+The Patent Office Journal 31/08/2012 
+13574
+(12) PATENT APPLICATION PUBLICATION (21) Application No.450/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :22/02/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : METHOD AND DEVICE FOR CONVERTING THERMAL ENERGY FROM BIOMASS INTO 
+MECHANICAL WORK  
+  
+(51) International classification  :F02C 3/28,F02C 1/04  
+(31) Priority Document No  :10 2009 038 322.0  
+(32) Priority Date  :21/08/2009 
+(33) Name of priority country  :Germany 
+(86) International Application No 
+        Filing Date 
+:PCT/EP2010/061754
+:12/08/2010 
+(87) International Publication No  :WO/2011/020768  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)KRONES AG 
+      Address of Applicant :BOEHMERWALDSTRASSE 5, 93073 
+NEUTRABLING, GERMANY. 
+(72)Name of Inventor : 
+   1)DRAGAN STEVANOVIC  
+(57) Abstract : 
+The invention relates in particular to a method for converting thermal energy from carbonaceous raw materials into mechanical work, 
+having at least one first (4) and one second (6) device for storing and releasing thermal energy connected to least intermittently 
+alternatingly in a turbine branch (T) having a gas turbine (8) connected downstream thereof, comprising the steps of: a) combusting a 
+gas in a gas combustor (2); b) passing the smoke gases (3) arising in the gas combustor (2) through a device (4, 6) for storing thermal 
+energy; and c) feeding the hot air released by at least one device (4, 6) into the gas turbine (8), wherein the hot air (7) released by the 
+gas turbine (8) is fed to at least one heat exchanger () connected downstream of the gas turbine (8). 
+  
+  
+No. of Pages : 19 No. of Claims : 17 

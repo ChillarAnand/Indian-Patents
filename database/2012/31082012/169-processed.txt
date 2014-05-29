@@ -1,0 +1,22 @@
+Application number  =>  3050/CHENP/2011 A 
+
+Date of filing of application number  =>  04/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  TRANSMISSION WITH HOPPING FOR PEER-TO PEER COMMUNICATION 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)JUNYI LI 2)SAURABH R. TAVILDAR 3)THOMAS J. RICHARDSON 4)YING WANG 5)ALEKSANDAR JOVICIC 
+
+International Classification  =>  H04W72/02, H04B 1/713 
+
+Priority Doc No  =>  12/264,661 
+
+International Application Number  =>  PCT/US2009/061260 
+
+International Publication Number  =>  WO 2010/053686 A1 
+
+Abstract  =>  Techniques for transmitting signals using time hopping or time and frequency hopping are described. In one design, a terminal selects different slots to use for transmission in multiple frames with time hopping. Each frame includes multiple slots, and each slot covers a particular time duration. The selected slots are at different time locations in the multiple frames. In another design, a terminal selects different resource units to use for transmission in multiple frames with time and frequency hopping. The selected resource units are at different time and frequency locations in the multiple frames. For both designs, the terminal sends a signal (e.g., a peer discovery signal) in the selected slots or resource units in the multiple frames. The terminal may detect for signals (e.g., peer discovery signals) from other terminals in slots not used for transmission by the terminal. 
+

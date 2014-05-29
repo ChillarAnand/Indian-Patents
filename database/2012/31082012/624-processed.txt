@@ -1,0 +1,22 @@
+Application number  =>  646/MUMNP/2012 A 
+
+Date of filing of application number  =>  15/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  APPARATUS FOR THE TREATMENT OF SOLIDS AND / OR GASES 
+
+Name of applicant  =>  1)OUTOTEC OYJ 
+
+Name of inventor  =>  1)ERLER RENE-ARNDIT 2)MISSALLA MICHAEL 3)GILGEN ROLF 
+
+International Classification  =>  B01J8/00,B01J 8/18 
+
+Priority Doc No  =>  10 2009 050 165.7 
+
+International Application Number  =>  PCT//EP2010/006405 
+
+International Publication Number  =>  WO/2011/047848 
+
+Abstract  =>  An apparatus for the treatment of solids and/or gases includes a fluidized-bed reactor (1) in which the solids are fluidized by means of fluidizing gas and are thermally and/or chemically treated, and a centrifugal separator (2) in which gas and solids are separated from each other, wherein the fluidized-bed reactor (1) is connected with the centrifugal separator (2) via a transfer duct (3). To avoid the formation of a streak extremely loaded with solids in the upper region of the centrifugal separator, the transfer duct (3) branches off from the fluidized-bed reactor (1) with a cross-section whose horizontal dimension is greater than the vertical dimension, wherein the cross-section of the transfer duct (3) expands downwards in vertical direction from the fluidized-bed reactor (1) to the centrifugal separator (2). 
+

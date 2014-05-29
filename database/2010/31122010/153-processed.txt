@@ -1,0 +1,22 @@
+Application number  =>  4132/KOLNP/2010 A 
+
+Date of filing of application number  =>  02/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  DATA TRANSMISSION CONTROL METHODS AND DEVICES 
+
+Name of applicant  =>  1)TELEFONAKTIEBOLAGET LM ERICSSON (PUBL) 
+
+Name of inventor  =>  1)LUDWIG, REINER 2)ENSTRÖM, DANIEL 3)JOHANSSON, INGEMAR 4)HEDBERG, TOMAS 
+
+International Classification  =>  H04L 12/56 
+
+Priority Doc No  =>  07016492.6 
+
+International Application Number  =>  PCT/EP2008/060939 
+
+International Publication Number  =>  WO 2009/024596 
+
+Abstract  =>  A method of controlling a network entity of a data unit communication network is described. The network entity is involved in providing respective transport services to a plurality of terminals of the data unit communication network, each transport service being characterized by a set of values associated with respective service quality parameters. The method comprises: - monitoring (860) for a presence of a collective feedback condition, and - if the presence of said collective feedback condition is determined, setting (862) a congestion indication marking in data units of a defined group of said transport services. 
+

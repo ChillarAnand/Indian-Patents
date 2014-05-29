@@ -1,0 +1,46 @@
+The Patent Office Journal 31/12/2010 
+ 
+5347
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1990/MUMNP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :21/09/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : MULTIFUNCTIONAL EQUIPMENT FOR MEASURING VITAL DATA, PROVIDED WITH A 
+CENTRALISED DATA PROCESSING SYSTEM  
+  
+(51) International classification  :G07F17/04,A61B5/02 
+(31) Priority Document No  :P200800847  
+(32) Priority Date  :26/03/2008 
+(33) Name of priority country  :Spain 
+(86) International Application No 
+        Filing Date 
+:PCT/ES2009/000144 
+:13/03/2009 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)TUYLEK  S.L. 
+      Address of Applicant :C/ Garbi  23  casa E-08349 Cabrera de 
+Mar  Barcelona Spain   
+(72)Name of Inventor : 
+   1)PONS FERR‰  Angel  
+(57) Abstract : 
+The invention relates to multifunctional equipment intended for measuring the vital data of a user, such as weight, height, body fat 
+index and blood pressure. For this purpose, the equipment includes a platform for supporting the user, a device for emitting an 
+ultrasonic beam and a receiver for receiving the reflected beam, a device for measuring blood pressure, a keyboard and screens for 
+providing help and displaying the results, as well as payment means. The equipment also includes a digital fingerprint reader intended 
+for the unequivocal identification of a user, together with an internal data processing device provided with inlet/outlet ports for 
+connecting same to a computer associated with the equipment or to a remote computer forming a central database which can be 
+accessed both from the first computer associated with the equipment and from other external computers over the Internet. 
+  
+ 
+No. of Pages : 12 No. of Claims : 2 

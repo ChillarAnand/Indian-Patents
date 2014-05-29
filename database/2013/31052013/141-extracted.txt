@@ -1,0 +1,45 @@
+The Patent Office Journal 31/05/2013 12112
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9891/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :28/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : METHOD AND DEVICE FOR DYNAMICALLY ADJUSTING PRE EMPHASIS AND
+EQUALIZATION PARAMETERS OF CHIPS
+(51) International classification :H04B10/02
+(31) Priority Document No :200910108500.6
+(32) Priority Date :02/07/2009
+(33) Name of priority country :China
+(86) International Application No
+Filing Date
+:PCT/CN2010/074158
+:21/06/2010
+(87) International Publication No :WO 2011/000273 A1
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)ZTE CORPORATION
+Address of Applicant :ZTE PLAZA, KEJI ROAD SOUTH,
+HI-TECH INDUSTRIAL PARK, NANSHAN SHENZHEN,
+GUANGDONG 518057. China
+(72)Name of Inventor :
+1)JUANJUAN MA
+(57) Abstract :
+The invention discloses a method for dynamically adjusting pre-emphasis and equalization parameters of chips and a device
+thereof, wherein the device includes: a mapping relationship creating module, an adjusted information obtaining module and a
+parameter calculating module; the dynamic adjustment method comprises: the mapping relationship creating module creating an
+element mapping relationship table; when the plug-in board information in an optical transmission device is adjusted, the adjusted
+information obtaining module obtaining adjusted information and reporting to the parameter calculating module; the parameter
+calculating module firstly recalculating a total length of transmission lines between interconnected cards according to the adjusted
+plug-in board information and the element mapping relationship table, and then recalculating pre-emphasis and equalization
+parameter values according to the total length of transmission lines and chip types of the interconnected cards, and notifying the
+pre-emphasis and equalization parameter values to a master control board, which then issues the pre-emphasis and equalization
+parameter values to each card. By using the invention, the master control board can dynamically adjust pre-emphasis and
+equalization parameters and notify them to each card timely, which ensures that each card can adjust message signals according to
+the adjusted pre-emphasis and equalization parameters, thereby improving transmission quality of message signals.
+No. of Pages : 26 No. of Claims : 10

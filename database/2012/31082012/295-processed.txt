@@ -1,0 +1,22 @@
+Application number  =>  766/CHE/2009 A 
+
+Date of filing of application number  =>  02/04/2009 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  A METHOD OF IN-PLACE VISUALIZATION OF SENSED DATA AND A SYSTEM THEREOF 
+
+Name of applicant  =>  1)INDIAN INSTITUTE OF SCIENCE 
+
+Name of inventor  =>  1)VIJAY NATARAJAN 
+
+International Classification  =>  A61B 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A system for in-place visualization of sensed data is provided. The system includes a formable sheet comprising a display and sensors embedded within the sheet underneath the display. The display will display information relating to sensed data on a portion of the display corresponding to locations of the sensors located underneath the display. As a result, the display displays the information above or directly above the sensors that output data. 
+

@@ -1,0 +1,22 @@
+Application number  =>  9862/CHENP/2011 A 
+
+Date of filing of application number  =>  27/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  SYSTEM AND METHOD FOR VOICE SERVICE IN AN EVOLVED PACKET SYSTEM 
+
+Name of applicant  =>  1)Research In Motion Limited 
+
+Name of inventor  =>  1)BUCKLEY Adrian 2)BAKKER Jan Hendrik Lucas 3)FACCIN Stefano 
+
+International Classification  =>  H04W 48/18 
+
+Priority Doc No  =>  61/221,502 
+
+International Application Number  =>  PCT/US2010/040489 
+
+International Publication Number  =>   
+
+Abstract  =>  A system and method for accessing voice services using a user equipment (UE) in a communication system is provided. The UE is configured to receive a first message which may include an audio session indication. The method includes the step of sending a second message in response to the first message with the second message being based on one or more voice service indicators comprising at least one value. The second message may be a response indicating not to select an alternative domain. The second message may also be a not acceptable response. 
+

@@ -1,0 +1,45 @@
+ 
+The Patent Office Journal 31/08/2012 
+13474
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1007/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :20/04/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : HYDRAULIC COUPLER WITH PIN RETENTION SYSTEM FOR COUPLING AN ATTACHMENT 
+TO A WORK MACHINE  
+  
+(51) International classification  :E02F 3/36,F15B 15/00  
+(31) Priority Document No  :0916613.3  
+(32) Priority Date  :22/09/2009 
+(33) Name of priority country  :U.K. 
+(86) International Application No 
+        Filing Date 
+:PCT/EP2010/005770
+:21/09/2010 
+(87) International Publication No  :WO/2011/035883  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)HILL, IAN. 
+      Address of Applicant :30 SHINN ROAD, NEWRY, 
+COUNTY DOWN, BT34 1PB, UNITED KINGDOM.  
+(72)Name of Inventor : 
+   1)HILL, IAN.  
+(57) Abstract : 
+A coupler (10) for coupling an attachment to an excavator having a latching member (30) for retaining a rear pin (26) of the 
+attachment and a blocking member (40) for retaining the front pin of the attachment. A hydraulic actuator (32) and spring (90) are 
+provided for holding the latching and blocking members (30, 40) in their closed states. In the event of a failure of the actuator, the 
+spring (90), the latching member (30) and the blocking member (40) together hold the front and rear pins (26, 26) in their respective 
+recesses (20, 22) to allow continued operation of the coupler (10), while allowing the pins to move with respect to the coupler to 
+create a rattling movement that can indicate to the operator that a failure has occurred. 
+  
+  
+No. of Pages : 51 No. of Claims : 27 

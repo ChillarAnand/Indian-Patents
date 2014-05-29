@@ -1,0 +1,55 @@
+ 
+The Patent Office Journal 31/08/2012 
+13400
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1960/MUM/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :06/07/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : METHOD FOR CONTINUOUS PRODUCTION OF ALCOHOL  
+  
+(51) International classification  :C12O 7/06  
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  :N/A 
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)IBI CHEMATUR (ENGINEERING AND 
+CONSULTANCY) LTD. 
+      Address of Applicant :IBI HOUSE, S-86 ANDHERI KURLA 
+ROAD, CHIMATPADA, MAROL NAKA, ANDHERI(EAST), 
+MUMBAI - 400 059, MAHARASHTRA, INDIA.   
+   2)MITSUI ENGINEERING & SHIPBUILDING CO., LTD.
+   3)CHEMATUR ENGINEERING A B 
+(72)Name of Inventor : 
+   1)SHAH, A., MANOJ 
+   2)SAJGURE, ASHWINI 
+   3)OHNO, KATSUHIRO 
+   4)TAKAOKA, KAZUE 
+   5)FURUKAWA, JUN 
+   6)ERIKSSON, ANNA  
+(57) Abstract : 
+A method for continuous production of an alcohol to produce ethanol from molasses, including a fermentation step of continuously 
+fermenting a mixed liquid containing molasses and ethanol fermentation yeast having flocculating and settling properties in a 
+fermentor to obtain a fermentation liquor; a yeast separation step of continuously withdrawing the fermentation liquor from the 
+fermentor and sending the fermentation liquor to a yeast separation tank, and separating yeast cells of the ethanol fermentation yeast 
+by gravity settling from the fermentation liquor in the yeast separation tank to obtain a de-yeasted fermentation liquor and a yeast cell 
+suspension; a yeast cell return step of continuously withdrawing the yeast cell suspension from the yeast separation tank and returning 
+the yeast cell suspension to the fermentor; and a suspended solids separation step of continuously withdrawing the de-yeasted 
+fermentation liquor from the yeast separation tank, sending the de-yeasted fermentation liquor to a suspended solids separation tank, 
+and separating suspended solids derived from molasses by gravity settling from the de-yeasted fermentation liquor in the suspended 
+solids separation tank to obtain a suspended solids-separated fermentation liquor and a suspension of suspended solids.   
+ 
+No. of Pages : 51 No. of Claims : 12 

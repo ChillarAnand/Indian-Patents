@@ -1,0 +1,45 @@
+ 
+The Patent Office Journal 31/08/2012 
+13377
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2100/DEL/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :05/07/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : THE NEW AGE STARTING BLOCK  
+  
+(51) International classification  :A63B24/00 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)HARJASLEEN MALVAI 
+      Address of Applicant :H.NO. 571, SECTOR-16D, 
+CHANDIGARH-160015, Punjab India 
+(72)Name of Inventor : 
+   1)HARJASLEEN MALVAI  
+(57) Abstract : 
+When the race begins the athletes are given the following instructions - On Your Marks-Get Set and a gunshot is fired. There is a split 
+second reaction time to leave the blocks. This can seal the fate of the race. To give the athlete an advantage right at the beginning I 
+have designed a starting block which can  Record the reaction time  Indicate a false start The starting block is a cylindrical bar(l) 
+anchored to the ground using steel pegs(10) and has two handles(2,12) with rubber pads(4) on opposite sides to place the feet. The 
+circuit will include one part which is placed away from this device and is fitted with an electronic counter (7) which will start when 
+the button (9) on the sound source (8) (i.e. gunshot) is pressed. This is also attached with a cable to the starting block where the tiny 
+Infra red sensors are placed in the middle of horizontal sides of the rubber pad(5,14) which are kept on after the athlete has taken the 
+stance and break the circuit after that to stop the counter. An additional feature is a beep to indicate the foot left the block before the 
+gun was fired and hence is a false start. 
+ 
+No. of Pages : 5 No. of Claims : 1 

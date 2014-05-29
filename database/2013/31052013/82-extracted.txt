@@ -1,0 +1,44 @@
+The Patent Office Journal 31/05/2013 12053
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9719/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :23/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : WRAPPED OPTOELECTRONIC DEVICES AND METHODS FOR MAKING SAME•
+(51) International classification :H01L 51/52
+(31) Priority Document No :61/187,131
+(32) Priority Date :15/06/2009
+(33) Name of priority country : .S.A.
+(86) International Application No
+Filing Date
+:PCT/US2010/038723
+:15/06/2010
+(87) International Publication No : NA
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)UNIVERSITY OF HOUSTON
+Address of Applicant :316 East Cullen Houston TX 77204
+USA.
+(72)Name of Inventor :
+1)CURRAN Seamus
+2)DIAS Sampath
+3)ALLEY Nigel
+4)HALDAR Amrita
+5)DEVI Soniya
+6)KANG-SHYANG Liao
+7)CHAUDHARI Prajakta
+(57) Abstract :
+In various embodiments optoelectronic devices are described herein. The optoelectronic device may include an optoelectronic
+cell arranged so as to wrap around a central axis wherein the cell includes a first conductive layer a semi-conductive layer
+disposed over and in electrical communication with the first conductive layer and a second conductive layer disposed over and in
+electrical communication with the semi-conductive layer. In various embodiments methods for making optoelectronic devices are
+described herein. The methods may include forming an optoelectronic cell while flat and wrapping the optoelectronic cell around
+a central axis. The optoelectronic devices may be photovoltaic devices. Alternatively the optoelectronic devices may be organic
+light emitting diodes.
+No. of Pages : 55 No. of Claims : 22

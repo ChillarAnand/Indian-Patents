@@ -1,0 +1,22 @@
+Application number  =>  2883/CHENP/2011 A 
+
+Date of filing of application number  =>  28/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  INSTRUMENT AND SYSTEM FOR PRODUCING A SAMPLE OF A BODY LIQUID AND FOR ANALYSIS THEREOF 
+
+Name of applicant  =>  1)F. HOFFMANN-LA ROCHE AG 
+
+Name of inventor  =>  1)HOERAUF, CHRISTIAN 
+
+International Classification  =>  A61B5/155, A61B5/00 
+
+Priority Doc No  =>  08018873.3 
+
+International Application Number  =>  PCT/EP09/007042 
+
+International Publication Number  =>  WO 2010/049048 A1 
+
+Abstract  =>  Instrument for producing a sample of body liquid for analysis by piercing the skin with a lancing element (12) having a skin piercing tip. The instrument (11) has a housing (13) and a lancing drive (14) for driving a lancing element (12) connected thereto in a puncturing movement. A pressure ring (1) surrounds a skin contact opening (4) and is adapted for pressing against the skin. The skin contact opening (4) has an opening area corresponding to a circle with a diameter of at least 1.5 mm and at most 4 mm, and the instrument comprises a pressing force control device (37) for controlling the pressing force between the pressure ring (1) and the skin (3) at the time of triggering the puncturing movement, to be at least 3 N. 
+

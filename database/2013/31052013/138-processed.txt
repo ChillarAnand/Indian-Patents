@@ -1,0 +1,22 @@
+Application number  =>  9868/CHENP/2011 A 
+
+Date of filing of application number  =>  27/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  LOW POWER LO DISTRIBUTION USING A FREQUENCY-MULTIPLYING SUBHARMONICALLY INJECTION-LOCKED OSCILLATOR 
+
+Name of applicant  =>  1)QUALCOMM Incorporated 
+
+Name of inventor  =>  1)PARK Dongmin 2)SAVOJ Jafar 
+
+International Classification  =>  H03L 7/24 
+
+Priority Doc No  =>  12/496,422 
+
+International Application Number  =>  PCT/US2010/040843 
+
+International Publication Number  =>   
+
+Abstract  =>  A local oscillator communicates a signal of relatively low frequency across an integrated circuit to the location of a mixer. Near the mixer a frequency-multiplying SubHarmonically Injection-Locked Oscillator (SHILO) receives the signal and generates therefrom a higher frequency signal. If the SHILO outputs I and Q quadrature signals then the I and Q signals drive the mixer. If the SHILO does not generate quadrature signals then a quadrature generating circuit receives the SHILO output signal and generates therefrom I and Q signals that drive the mixer. In one advantageous aspect the frequency of the signal communicated over distance from the local oscillator to the SHILO is lower than the frequency of the I and Q signals that drive the mixer locally. Reducing the frequency of the signal communicated over distance can reduce power consumption of the LO signal distribution system by more than fifty percent as compared to conventional systems. 
+

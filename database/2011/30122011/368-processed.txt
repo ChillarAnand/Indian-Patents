@@ -1,0 +1,22 @@
+Application number  =>  1319/KOL/2010 A 
+
+Date of filing of application number  =>  22/11/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD OF OPERATING A NAVIGATION SYSTEM TO PROVIDE ROUTE GUIDANCE 
+
+Name of applicant  =>  1)NAVTEQ NORTH AMERICA, LLC 
+
+Name of inventor  =>  1)HOLSINGER, DAVID J. 
+
+International Classification  =>  G06F15/16 
+
+Priority Doc No  =>  12/694,405 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A method of operating a navigation system to provide a route guidance message for traveling a route is disclosed. A preferred name of a feature visible from a road segment is obtained in a native language from a geographic database associated with the navigation system. The parts-of-speech of the preferred name are identified and converted into a target language text providing the preferred name in a target language. A guidance message includes the target language text in the target language. 
+

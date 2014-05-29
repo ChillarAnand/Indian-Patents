@@ -1,0 +1,22 @@
+Application number  =>  2944/CHENP/2011 A 
+
+Date of filing of application number  =>  29/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD AND APPARATUS FOR VOICEMAIL MANAGEMENT 
+
+Name of applicant  =>  1)VONAGE NETWORK, LLC 
+
+Name of inventor  =>  1)GEOFFREY LANGOS 
+
+International Classification  =>  H04W4/12, H04W4/18 
+
+Priority Doc No  =>  12/289,699 
+
+International Application Number  =>  PCT/US2009/005596 
+
+International Publication Number  =>  WO 2010/062301 A2 
+
+Abstract  =>  Methods and apparatus for managing a media file having media recorded for a user in a communication system. A first message is sent to the user containing text converted from a portion of speech content of the media. A second message is received from the user containing an instruction from the user indicating an operation to be performed on the media file. The operation is performed on the media file in response to the users instruction in the second message. 
+

@@ -1,0 +1,44 @@
+The Patent Office Journal 30/12/2011 
+ 
+25768
+(12) PATENT APPLICATION PUBLICATION (21) Application No.829/KOL/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :27/07/2010 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : PLASMA TORCH WITH ELECTRODE WEAR DETECTION SYSTEM  
+  
+(51) International classification  :H05H1/00 
+(31) Priority Document No  :12/544,777 
+(32) Priority Date  :20/08/2009
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)THE ESAB GROUP, INC. 
+      Address of Applicant :POST OFFICE BOX 100545 
+FLORENCE, SOUTH CAROLINA 29501 UNITED STATES OF 
+AMERICA 
+(72)Name of Inventor : 
+   1)GRIFFIN, DAVID C.  
+(57) Abstract : 
+A plasma arc torch is provided that includes a wear stop designed to detect wear of an electrode and prevent the use of the electrode 
+once the electrode has experienced a certain amount of wear. Either the electrode or the nozzle is movable with respect to the main 
+torch body, and the movable component defines a projection. The wear stop is positioned a predetermined distance from a nozzle of 
+the torch, such that prior to experiencing an excessive amount of wear, the electrode is able to contact the nozzle and initiate a pilot arc 
+for starting a torch operation. Once the length of the electrode becomes shorter than a predetermined length due to wear, the projection 
+of the electrode engages the wear stop, and the wear stop prevents the electrode from contacting the nozzle. In this way, an electrode 
+that is excessively worn cannot be used in subsequent torch operations.  
+ 
+No. of Pages : 29 No. of Claims : 26 

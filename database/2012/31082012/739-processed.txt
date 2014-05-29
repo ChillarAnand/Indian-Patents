@@ -1,0 +1,22 @@
+Application number  =>  912/MUMNP/2012 A 
+
+Date of filing of application number  =>  12/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  UNDERWATER COMPRESSOR ARRANGEMENT AND UNDERWATER PROCESS FLUID CONVEYING ARRANGEMENT EQUIPPED THEREWITH 
+
+Name of applicant  =>  1)MAN DIESEL & TURBO SE 
+
+Name of inventor  =>  1)KLEYNHANS, GEORGE 2)SUTER, ROGER 3)STALDER, CLAUDE 
+
+International Classification  =>  F04D 13/06 
+
+Priority Doc No  =>  10 2009045633.3 
+
+International Application Number  =>  PCT/DE2010/050052 
+
+International Publication Number  =>  WO/2011/044892 
+
+Abstract  =>  The invention relates to an underwater compressor arrangement (10, 10A) and an underwater process fluid conveying arrangement equipped therewith, wherein the underwater compressor arrangement comprises: a housing (100), a turbocompressor (200) having a compressor rotor (210), and a rotary drive unit (300) having a drive rotor (310), wherein the turbocompressor (200) and the rotary drive unit (300) are arranged in the housing (100) and the compressor rotor (210) is connected to the drive rotor (310) such that the drive rotor rotatably drives the compressor rotor, wherein the housing (100) is hermetically sealed, with the exception of operating connections for the turbocompressor (200) and for the rotary drive unit (300), and wherein the compressor rotor (210) is rotatably supported in the housing (100) by means of a rolling bearing (410). 
+

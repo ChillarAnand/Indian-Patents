@@ -1,0 +1,22 @@
+Application number  =>  1276/KOL/2010 A 
+
+Date of filing of application number  =>  11/11/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  REAL-TIME RUN-TIME SYSTEM AND FUNCTIONAL MODULE FOR SUCH A RUN-TIME SYSTEM 
+
+Name of applicant  =>  1)BECKHOFF AUTOMATION GMBH 
+
+Name of inventor  =>  1)DIRK JANSSEN 2)GERD HOPPE 3)JAN LÜMKEMANN 
+
+International Classification  =>  G06F9/48 
+
+Priority Doc No  =>  102009047025.5-55 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A real-time run-time system comprises a plurality of functional modules and an administration module. The plurality of functional modules is configured to log on to the administration module by means of an assigned module identification during a transitional state between initialization and pre-operation and to log off during a transitional state between pre-operation and initialization. At least one of the plurality of functional modules is configured to establish communication connections with further functional modules via the administration module during the transitional state between pre-operation and trial operation, to break down the communication connections during the transitional state between trial operation and pre-operation, to log on to the further functional modules during the transitional state between trial operation and real-time operation and to log off during the transitional state between real-time operation and trial operation. 
+

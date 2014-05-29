@@ -1,0 +1,22 @@
+Application number  =>  1007/MUMNP/2012 A 
+
+Date of filing of application number  =>  20/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  HYDRAULIC COUPLER WITH PIN RETENTION SYSTEM FOR COUPLING AN ATTACHMENT TO A WORK MACHINE 
+
+Name of applicant  =>  1)HILL, IAN. 
+
+Name of inventor  =>  1)HILL, IAN. 
+
+International Classification  =>  E02F 3/36,F15B 15/00 
+
+Priority Doc No  =>  0916613.3 
+
+International Application Number  =>  PCT/EP2010/005770 
+
+International Publication Number  =>  WO/2011/035883 
+
+Abstract  =>  A coupler (10) for coupling an attachment to an excavator having a latching member (30) for retaining a rear pin (26) of the attachment and a blocking member (40) for retaining the front pin of the attachment. A hydraulic actuator (32) and spring (90) are provided for holding the latching and blocking members (30, 40) in their closed states. In the event of a failure of the actuator, the spring (90), the latching member (30) and the blocking member (40) together hold the front and rear pins (26, 26) in their respective recesses (20, 22) to allow continued operation of the coupler (10), while allowing the pins to move with respect to the coupler to create a rattling movement that can indicate to the operator that a failure has occurred. 
+

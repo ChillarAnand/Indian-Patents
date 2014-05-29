@@ -1,0 +1,47 @@
+ 
+The Patent Office Journal 31/08/2012 
+13831
+(12) PATENT APPLICATION PUBLICATION (21) Application No.972/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :18/04/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : LOCATION METHOD, APPARATUS AND SYSTEM  
+  
+(51) International classification  :H04W 4/02  
+(31) Priority Document No  :CN200910237241.7 
+(32) Priority Date  :05/11/2009 
+(33) Name of priority country  :China 
+(86) International Application No 
+        Filing Date 
+:PCT/CN2010/078415
+:04/11/2010 
+(87) International Publication No  :WO/2011/054302  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)CHINA ACADEMY OF TELECOMMUNICATIONS 
+TECHNOLOGY 
+      Address of Applicant :NO.40 XUEYUAN RD., HAIDIAN 
+DISTRICT, BEIJING 100191, P.R.CHINA . 
+(72)Name of Inventor : 
+   1)ZHANG, DAJUN 
+   2)FANG, JIAYI 
+   3)QUAN, HAIYANG  
+(57) Abstract : 
+The present invention discloses a location method, apparatus and system, and the method comprises the following steps: a Mobility 
+Management Entity (MME) receives a location service request, selects an Evolved Service Mobile Location Center (E-SMLC), and 
+transmits the location service request including a location identifier to the selected E-SMLC; the MME receives a User Equipment 
+(UE) specific message including the location identifier transmitted by the E-SMLC, and communicates the location information with 
+the E-SMLC using the location identifier. The embodiments of the present invention can ensure the correct delivery of the location 
+information, and further improve the correctness of the location technology. 
+  
+  
+No. of Pages : 32 No. of Claims : 18 

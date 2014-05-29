@@ -1,0 +1,78 @@
+ 
+The Patent Office Journal 31/08/2012 
+13378
+(12) PATENT APPLICATION PUBLICATION (21) Application No.67/DEL/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :06/01/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : A FERRITE MATERIAL, ISOLATOR DEVICE AND METHOD THEREOF  
+  
+(51) International classification  :H01P 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA
+:NA 
+(87) International Publication No  :NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA
+:NA  
+  
+(71)Name of Applicant :  
+   1)DIRECTOR GENERAL,  DEFENCE RESEARCH & 
+DEVELOPMENT ORGANIZATION 
+      Address of Applicant :MINISTRY OF DEFENCE, GOVT. OF 
+INDIA, ROOM NO. 348, B-WING, DRDO BHAWAN, RAJAJI 
+MARG, NEW DELHI – 110105  India 
+(72)Name of Inventor : 
+   1)C.G. BALAJI 
+   2)P. VENUGOPAL REDDY 
+   3)K. RAJU 
+   4)P. VENUGOPAL REDDY 
+   5)K. RAJU  
+(57) Abstract : 
+The present disclosure relates to a ferrite material with chemical composition Ni0.9Zn0.1Fe2O4 and a process thereof The present 
+disclosure also relates to an isolator device designed using a ferrite material with chemical composition Ni0.9Zn0.1Fe2O4 developed 
+for applications in the microwave frequency region of X band. The instant disclosure relates to ferrite co-axial isolators, which have 
+been developed in the microwave frequency region of X-band using nickel-zinc ferrite. These materials have isolation of greater than 
+40 dB and insertion loss of less than 0.6 dB. The test results indicate negligible variation over a temperature range of-30 to + 75 °C. 
+These materials have high isolation with a bandwidth of 50 MHz and the values of return loss and VSWR are 20 dB and 1.15 
+respectively. 
+ 
+No. of Pages : 15 No. of Claims : 11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

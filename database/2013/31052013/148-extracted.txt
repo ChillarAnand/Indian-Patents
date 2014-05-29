@@ -1,0 +1,35 @@
+The Patent Office Journal 31/05/2013 12119
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9910/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :28/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : A METHOD FOR SECURE TRANSACTIONS
+(51) International classification :G06Q20/00
+(31) Priority Document No :0950411-9
+(32) Priority Date :04/06/2009
+(33) Name of priority country :Sweden
+(86) International Application No
+Filing Date
+:PCT/SE2010/050614
+:04/06/2010
+(87) International Publication No :WO 2010/140970A1
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)ACCUMULATE AB
+Address of Applicant :NORRLANDSGATAN 23, S-111 43
+STOCKHOLM. Sweden
+(72)Name of Inventor :
+1)HULTBERG, STEFAN
+2)WESTLING, MAGNUS
+(57) Abstract :
+The present invention relates to a method for a secure transaction utilizing a portable radio communication device (10), wherein
+both parts in the secure transaction are protected against fraudulent actions, among other things by use of a common transaction
+identity on a predefined transaction server.
+No. of Pages : 22 No. of Claims : 16

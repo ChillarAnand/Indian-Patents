@@ -1,0 +1,39 @@
+The Patent Office Journal 31/05/2013 11990
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1548/MUM/2012 A
+(19) INDIA
+(22) Date of filing of Application :22/05/2012 (43) Publication Date : 31/05/2013
+(54) Title of the invention : HYDRAULIC POWER PLANT
+(51) International classification :F02B63/04;F03B13/22
+(31) Priority Document No :NA
+(32) Priority Date :NA
+(33) Name of priority country :NA
+(86) International Application No
+Filing Date
+:NA
+:NA
+(87) International Publication No : NA
+(61) Patent of Addition to Application Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)SANDEEP MURALIDHARAN PILLAI
+Address of Applicant :1/201 SHREE DARSHAN
+APARTMENTS OPPOSITE VEGETABLE MARKET
+GORWA VADODARA 390003 Gujarat India
+2)SHIVAMKUMAR SUBHASHCHANDRA PUROHIT
+(72)Name of Inventor :
+1)SANDEEP MURALIDHARAN PILLAI
+2)SHIVAMKUMAR SUBHASHCHANDRA PUROHIT
+(57) Abstract :
+A system (100) for generating electricity. The system includes an electric motor (106), which is connected to a hydraulic pump
+(110). The hydraulic pump (110), receives oil from an oil reservoir (104), and thereupon, pressurises the oil. The pressurised oil is
+fed to a hydraulic cylinder (114) through pipes (108). The pressurised oil imparts liner motion to the piston of the hydraulic
+cylinder (114). The liner motion is converted into rotary motion by the mechanical linkages connected to the end of the piston rod.
+The rotary motion is fed to the electric generator (118) to generate electricity, after stepping up the rotation using a step up
+gearbox (116).
+No. of Pages : 14 No. of Claims : 13

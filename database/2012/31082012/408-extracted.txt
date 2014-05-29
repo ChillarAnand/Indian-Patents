@@ -1,0 +1,46 @@
+ 
+The Patent Office Journal 31/08/2012 
+13467
+(12) PATENT APPLICATION PUBLICATION (21) Application No.538/DEL/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :28/02/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : OPTIMIZATION OF AN ACCESS NETWORK  
+  
+(51) International classification  :H04L 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA
+:NA 
+(87) International Publication No  :NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA
+:NA  
+  
+(71)Name of Applicant :  
+   1)ALCATEL-LUCENT 
+      Address of Applicant :3, AVENUE OCTAVE GREARD, 
+PARIS 75007, FRANCE France 
+(72)Name of Inventor : 
+   1)HAUMIK, SOURJYA 
+   2)NARLIKAR, GIRIJA 
+   3)WILFONG, GORDON THOMAS  
+(57) Abstract : 
+Embodiments of a method to optimize an access network are described. According to one embodiment, the method comprises 
+computing an optimal outgoing configuration for all possible incoming configurations of each node in the access network. The 
+plurality of nodes in the access network include at least one access node and one or more child nodes. A principal incoming 
+configuration for one or more child nodes of the access network is determined based on the optimal outgoing configuration of the 
+access node. A principal outgoing configuration corresponding to the principal incoming configuration is identified for the one or 
+more child nodes. Further, based on the principal incoming configuration and the principal outgoing configuration of the nodes, an 
+optimized configuration for the access network is obtained. 
+  
+ 
+No. of Pages : 33 No. of Claims : 20 

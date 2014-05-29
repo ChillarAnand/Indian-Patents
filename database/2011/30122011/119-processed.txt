@@ -1,0 +1,22 @@
+Application number  =>  1002/MUMNP/2011 A 
+
+Date of filing of application number  =>  18/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  SYSTEM AND METHOD TO AUTOFOCUS ASSISTED BY AUTOEXPOSURE CONTROL  
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)LI Jingqiang 2)VELARDE Ruben M. 3)HUNG Szepo R. 
+
+International Classification  =>  H04N 5/232 
+
+Priority Doc No  =>  12/338,147 
+
+International Application Number  =>  PCT/US2009/065687 
+
+International Publication Number  =>  WO/2010/071731 
+
+Abstract  =>  In a particular embodiment, a method is disclosed that includes comparing a frame rate of image capture by an image sensor to a frame rate threshold at an image capture device. The method also includes when the frame rate is less than the frame rate threshold, increasing the frame rate to a modified frame rate that is greater than or at least equal to the frame rate threshold. The method further includes performing an autofocus operation on an image to be captured at the modified frame rate. 
+

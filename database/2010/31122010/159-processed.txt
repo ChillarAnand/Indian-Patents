@@ -1,0 +1,22 @@
+Application number  =>  4144/KOLNP/2010 A 
+
+Date of filing of application number  =>  03/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  ELECTRICAL SWITCHING APPARATUS HAVING A CRADLE WITH COMBINED PIVOT AND OVER-TOGGLE REVERSING PIN 
+
+Name of applicant  =>  1)EATON CORPORATION 
+
+Name of inventor  =>  1)GIBSON, PERRY, R. 2)MARKS, DOUGLAS, C 3)RATKUS, PAUL, R 4)SLEPIAN, ROBRT, M 5)OLSZEWSKI, DAVID, M 
+
+International Classification  =>  H01H 71/52 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/IB2008/001122 
+
+International Publication Number  =>  WO 2009/136215 
+
+Abstract  =>  The present invention provides for an electrical switching apparatus operating mechanism opening assembly wherein the toggle assembly stop/kicker pin has been separated into a kicker pin and a stop pin. By separating the functions of the stop/kicker pin into separate pins, the kicker pin may now be located at the pivot point of the associated link. Further, the kicker pin and the stop pin are now disposed upon a cradle assembly as opposed to an elongated link. The cradle assembly further supports one of the toggle assembly links. Thus, rotation of the cradle assembly causes the toggle assembly to move. The operating mechanism opening assembly is configured so that, when an associated latch assembly latch plate assembly is released, the cradle assembly rotates so that the toggle assembly is moved away from a closing assembly closing device. 
+

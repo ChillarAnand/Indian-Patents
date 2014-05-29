@@ -1,0 +1,50 @@
+ 
+The Patent Office Journal 31/08/2012 
+13985
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3001/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :03/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : PARTITIONED TRAFFIC SEGMENT COMMUNICATIONS METHODS AND APPARATUS  
+  
+(51) International classification  :H04W 72/04  
+(31) Priority Document No  :12/267,962  
+(32) Priority Date  :10/11/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US09/063297
+:04/11/2009 
+(87) International Publication No  :WO 2010/054005 A1  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)QUALCOMM INCORPORATED 
+      Address of Applicant :ATTN: INTERNATIONAL IP 
+ADMINISTRATION, 5775 MOREHOUSE DRIVE, SAN 
+DIEGO, CALIFORNIA 92121-1714 U.S.A. 
+(72)Name of Inventor : 
+   1)GAVIN BERNARD HORN 
+   2)ASHWIN SAMPATH 
+   3)JUNYI LI 
+   4)RAJIV LAROIA  
+(57) Abstract : 
+Methods and apparatus related to partitioning traffic segments are described. An access router, having concurrent connections with 
+two access terminals, each desiring to transmit traffic signals to the access router in the same traffic segment, partitions a traffic 
+segment. The partition is such that a first portion of the traffic segment is allocated to a first access terminal and a second portion of 
+the traffic segment is allocated to the second access terminal. Control information, e.g., conveying partition information, is 
+communicated to access terminals prior to the traffic segment. In some embodiments, the partition information is communicated as 
+part of a transmission request response signal, e.g., via phase of the request response signal. An access terminal which has been 
+allocated a traffic segment partition portion identifies is allocation from the transmitted control information, and subsequently 
+transmits traffic signals to the access router in its allocated portion of the traffic segment. 
+  
+  
+No. of Pages : 55 No. of Claims : 40 

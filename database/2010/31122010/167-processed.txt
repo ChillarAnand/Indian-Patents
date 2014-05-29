@@ -1,0 +1,22 @@
+Application number  =>  4118/KOLNP/2010 A 
+
+Date of filing of application number  =>  02/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  THICKNESS MEASURER FOR METAL SHEET AND RELATIVE MEASURING METHOD 
+
+Name of applicant  =>  1)DANIELI AUTOMATION SPA 
+
+Name of inventor  =>  1)CIANI, LORENZO 
+
+International Classification  =>  G01B 15/02 
+
+Priority Doc No  =>  UD2008A000072 
+
+International Application Number  =>  PCT/EP2009/053901 
+
+International Publication Number  =>  WO 2009/121916 
+
+Abstract  =>  Thickness measures for metal elements(11), comprising a source device(20), able to emit a bundle(F) of ionizing radiations, at a predetermined or predeterminable intensity, a receiver device(24), disposed on an opposite side with respect to the metal element(11) and suitable to detect the residual intensity of the bundle(F) of ionizing radiations. The measurer comprises a cooling device, associated with the source device(20). The cooling device comprises a heat pump element(30), to remove heat from the source device(20) so as to keep the source device(20) at a predetermined and controlled temperature. The thickness measurer also comprises detection means (46, 124) for the direct or indirect detection of the intensity, or the variation in intensity, of the bundle (F) emitted by the source device (20). The detection means (46,124) is associated with the heat pump element(30), in order to keep the emission of the bundle(F) of ionizing radiations stable. 
+

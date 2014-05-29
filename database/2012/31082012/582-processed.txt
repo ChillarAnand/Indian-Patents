@@ -1,0 +1,22 @@
+Application number  =>  559/MUMNP/2012 A 
+
+Date of filing of application number  =>  06/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD FOR PREPARING PYRIMIDINE DERIVATIVES USEFUL AS PROTEIN KINASE INHIBITORS 
+
+Name of applicant  =>  1)VERTEX PHARMACEUTICALS INCORPORATED 
+
+Name of inventor  =>  1)CHARRIER, JEAN-DAMIEN 2)DURRANT, STEVEN 3)KAY, DAVID 
+
+International Classification  =>  C07D 487/14 
+
+Priority Doc No  =>  61/245,769 
+
+International Application Number  =>  PCT/US2010/050132 
+
+International Publication Number  =>  WO/2011/038185 
+
+Abstract  =>  A method of preparing a compound represented by Structural Formula (I), or a pharmaceutically acceptable salt thereof, wherein the variables of Structural Formula (I) are as described in the specification and claims, comprises the step of: a) cyclizing a compound represented by Structural Formula (A) under suitable reductive cyclisation conditions to form a compound represented by Structural Formula (B) wherein R10 is LG1 or -X1R1, and -LG1 is a suitable leaving group; and b) optionally, when R10 of Structural Formula (B) is LG1, further comprising the step of replacing the -LG1 of Structural Formula (B) with -X1R1 to form the compound represented by Structural Formula (I). 
+

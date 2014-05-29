@@ -1,0 +1,45 @@
+ 
+The Patent Office Journal 31/08/2012 
+13655
+(12) PATENT APPLICATION PUBLICATION (21) Application No.594/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :12/03/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : SURFACE MODIFYING COMPOSITIONS  
+  
+(51) International classification  :D06M 13/513  
+(31) Priority Document No  :61/238,250  
+(32) Priority Date  :31/08/2009 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2010/047295
+:31/08/2010 
+(87) International Publication No  :WO/2011/026093  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)BATTELLE MEMORIAL INSTITUTE 
+      Address of Applicant :505 KING AVENUE, 
+COLUMBUS,OH 43201 UNITED STATES OF AMERICA. 
+(72)Name of Inventor : 
+   1)LALGUDI , RAMANATHAN ,S. 
+   2)CAIN , ROBERT , J.  
+(57) Abstract : 
+A surface modifying composition comprises an amphiphilic compound which is non-cellulose based, the amphiphilic compound 
+including a covalently linked ionic moiety with the following formula: where M= metal oxide or binary metal oxide, Ai is selected 
+from compounds with surface energy greater than or equal to 25 dynes cm-1, A2 is selected from compounds with surface energy 
+greater than or equal to 12 dynes cm-1, A3 is selected from compounds having more than one reactive functional group, x = NH2, 
+NHR or NR2 (R= methyl, ethyl, propyl or isopropyl), y= COOH, SO3H or PO3H, and R= H or halogen; and where one of the A1 -x, 
+A2, or A3-y may be replaced by a second O-R. 
+  
+  
+No. of Pages : 15 No. of Claims : 14 

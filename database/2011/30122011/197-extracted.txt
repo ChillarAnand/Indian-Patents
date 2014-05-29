@@ -1,0 +1,48 @@
+The Patent Office Journal 30/12/2011 
+ 
+25534
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1122/MUMNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :01/06/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : METHOD AND DEVICE FOR LASER LITHOTRIPSY  
+  
+(51) International classification  :A61B 18/26  
+(31) Priority Document No  :61/119,190  
+(32) Priority Date  :02/12/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/066413
+:02/12/2009 
+(87) International Publication No  :WO/2010/065638  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)CERAMOPTEC INDUSTRIES  INC. 
+      Address of Applicant :515 Shaker Road East Longmeadow  
+MA 01028 UNITED STATES OF AMERICA  
+(72)Name of Inventor : 
+   1)CECCHETTI  Leonardo 
+   2)CECCHETTI  Walter 
+   3)NEUBERGER  Wolfgang  
+(57) Abstract : 
+A system and method for the destruction/ablation of stones, calculi or other hard substances by means of laser energy is disclosed. As 
+a consequence, several important medical treatments can be performed, especially lithotripsy. The system comprises a diode laser 
+source emitting at least at one wavelength, one or more optical fibers which convey laser radiation to the treatment site and a liquid 
+delivery system used for creating a liquid environment around the stones (calculi). The laser device emits at least one wavelength 
+which is highly absorbed in the surrounding/covering medium, thus causing evaporation and cavitation effects that lead to 
+stone/calculi destruction. Different radiation configurations may be used. In one embodiment continuous radiation is used to create 
+sparkler-less plasma bubbles able to destroy hard substances. In another embodiment high peak power pulsed radiation is used. 
+Wavelengths of 1470 nm, 1940 nm, or 1550 nm are preferred. 
+  
+ 
+No. of Pages : 18 No. of Claims : 14 

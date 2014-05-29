@@ -1,0 +1,50 @@
+ 
+The Patent Office Journal 31/08/2012 
+13671
+(12) PATENT APPLICATION PUBLICATION (21) Application No.575/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :07/03/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : DEVICE FOR PRODUCING CONTAINERS FOR LIQUID  
+  
+(51) International classification  :B67C 7/00  
+(31) Priority Document No  :10 2009 041 160.7  
+(32) Priority Date  :14/09/2009 
+(33) Name of priority country  :Germany 
+(86) International Application No 
+        Filing Date 
+:PCT/EP2010/063202
+:09/09/2010 
+(87) International Publication No  :WO/2011/029856  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)KRONES AG 
+      Address of Applicant :BOEHMERWALDSTRABE 5, 93073 
+NEUTRABLING, GERMANY. 
+(72)Name of Inventor : 
+   1)CHRISTOPH KLENK  
+(57) Abstract : 
+The invention relates to a device for producing containers for liquid (10) comprising a shaping unit (2), for shaping plastic preforms 
+(10) into plastic containers (20), and a filling unit (4) for filling the plastic containers with a liquid medium, wherein the filling unit (4) 
+lies downstream in a transport direction (R) of the plastic containers relative to the shaping unit (2). The shaping unit (2) has a feeding 
+region (22) for feeding the plastic preforms (10) and a discharging region (24) in order to discharge the plastic containers (20) from 
+the shaping unit (2). The filling unit (4) has a feeding region (42) for feeding the plastic containers to the filling unit (4) and a 
+discharging region (44) for discharging the plastic containers from the shaping unit (4), wherein at least one transporting device (30), 
+which is used as an interface, lies between the discharging region (24) of the shaping unit (2) and the feeding region (42) of the filling 
+unit (4), said transporting device transporting plastic containers at least along some sections and individually between the shaping unit 
+(2) and the filling unit (4). The transporting device (30) is designed such that at least one further unit (6, 7) for manipulating the 
+containers into the device can be inserted between the shaping unit (2) and the filling unit (4). Said further unit (6, 7) can be connected 
+to the transporting device (30) such that the transport flow of the containers (20) between the shaping unit (2) and the filling unit runs 
+via the additional unit (32). 
+  
+  
+No. of Pages : 29 No. of Claims : 16 

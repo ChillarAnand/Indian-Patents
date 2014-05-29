@@ -1,0 +1,22 @@
+Application number  =>  9822/CHENP/2011 A 
+
+Date of filing of application number  =>  27/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  MOBILE COMMUNICATION METHOD AND RADIO BASE STATION 
+
+Name of applicant  =>  1)NTT DOCOMO, INC. 
+
+Name of inventor  =>  1)HAPSARI, WURI ANDARMAWANTI 2)TAKAHASHI, HIDEAKI 3)IWAMURA, MIKIO 4)ISHII, MINAMI 5)ZUGENMAIER, ALF 
+
+International Classification  =>  H04W12/04 
+
+Priority Doc No  =>  2009-159376 
+
+International Application Number  =>  PCT/JP2010/061347 
+
+International Publication Number  =>  WO 2011/004775A1 
+
+Abstract  =>  Provided is a mobile communication method which comprises: a step of transmitting X2-AP (UF): Handover Request to a wireless base station (DeNB#2) by a relay node (RN); a step of obtaining K_eNB and MAC from a wireless base station (DeNB#l) by the wireless base station (DeNB#2); a step of generating KeNB by the wireless base station (DeNB#2) based on the obtained K_eNB and MAC; and a step of generating K_RRCint, KRRCenc, and KUPenc by the wireless base station (DeNB#2) based on the generated KeNB. 
+

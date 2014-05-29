@@ -1,0 +1,22 @@
+Application number  =>  3126/CHENP/2011 A 
+
+Date of filing of application number  =>  06/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  COIL SHOOTING MODE 
+
+Name of applicant  =>  1)GECO TECHNOLOGY B.V 
+
+Name of inventor  =>  1)WELKER, KENNETH, E. 
+
+International Classification  =>  G01V1/38, B63B21/66, B63C11/48 
+
+Priority Doc No  =>  12/267,561 
+
+International Application Number  =>  PCT/US09/063538 
+
+International Publication Number  =>  WO 2010/054186 A3 
+
+Abstract  =>  The technique disclosed herein includes a method and apparatus for controlling streamer steering devices to maintain a coil streamer shape that gives coverage for a coil shooting plan. The technique uses solved positions and a target coil streamer shape identified in the shooting plan to determine steering instructions to the streamer steering devices along the streamer. 
+

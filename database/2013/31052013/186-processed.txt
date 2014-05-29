@@ -1,0 +1,22 @@
+Application number  =>  9983/CHENP/2011 A 
+
+Date of filing of application number  =>  30/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  ENHANCEMENTS FOR MULTI-MODE SYSTEM SELECTION (MMSS) AND MMSS SYSTEM PRIORITY LISTS (MSPLS) 
+
+Name of applicant  =>  1)QUALCOMM Incorporated 
+
+Name of inventor  =>  1)YOON Young Cheul 2)BALASUBRAMANIAN Srinivasan 3)RAMACHANDRAN Shyamal 4)SWAMINATHAN Arvind 
+
+International Classification  =>  H04W 48/20 
+
+Priority Doc No  =>  61/226,991 
+
+International Application Number  =>  PCT/US2010/042659 
+
+International Publication Number  =>   
+
+Abstract  =>  A mobile device or access terminal of a wireless wide area network (WWAN) communication system is provisioned for Multi- Mode System Selection (MMSS) wherein an MMSS System Priority List (MSPL) is used with respect to the underlying system selection priority list (e.g. Private Land Mobile Network (PLMN) list). Relating a current location to one or more entries in an MMSS Location Associated Priority List (MLPLs) enables scaling a range of entries in the PLMN list indicating whether the MSPL apply to the entire list of PLMNs stored in an access terminal or to some subset of the PLMN List. Similarly the present innovation addresses whether the MSPL applies to the entire Preferred Roaming List (PRL) or some subset of a geo-spatial location (GEO) area. 
+

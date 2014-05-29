@@ -1,0 +1,22 @@
+Application number  =>  9965/CHENP/2011 A 
+
+Date of filing of application number  =>  29/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  METHOD AND COMMUNICATION DEVICE FOR ASSIGNING SCHEDULING GRANT 
+
+Name of applicant  =>  1)Huawei Technologies Co. Ltd. 
+
+Name of inventor  =>  1)YAN Kun 2)LI Jing 3)FAN Shuju 4)GAO Yongqiang 5)MA Xueli 
+
+International Classification  =>  H04W 72/12 
+
+Priority Doc No  =>  200910088051.3 
+
+International Application Number  =>  PCT/CN2010/074883 
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention discloses a method and a communication device for assigning a scheduling grant. The method for assigning a scheduling grant includes: receiving a grant value, an E-TFCI offset value, and a data stream identifier corresponding to the E- TFCI offset value, where the grant value, the E-TFCI offset value, and the data stream identifier are returned by a Node B and the E-TFCI offset value is determined by the Node B according to data transmitted by a mobile terminal through two data streams, and the two data streams include a data stream identified by the data stream identifier and the other data stream; determining, according to the grant value, a transport block size of the data stream identified by the data stream identifier in a current TT1; and determining a transport block size of the other data stream in the current TTI according to the transport block size and the E-TFCI offset value, in the embodiments of the present invention the MIMO technology may be applied to the HSUPA technology, in order to improve spectrum utilization, coverage performance, and user peak rate in an uplink direction, and ensure demodulation performance of an uplink data stream at a receiving end. 
+

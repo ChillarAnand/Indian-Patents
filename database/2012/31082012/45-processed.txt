@@ -1,0 +1,22 @@
+Application number  =>  2875/CHENP/2011 A 
+
+Date of filing of application number  =>  28/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  ELECTRICAL POWER CONVERSION APPARATUS 
+
+Name of applicant  =>  1)MITSUBISHI ELECTRIC CORPORATION 
+
+Name of inventor  =>  1)KONO, MASAKI 2)HATANAKA, KEITA 
+
+International Classification  =>  H02M7/48 
+
+Priority Doc No  =>  PCT/JP2008/003132 
+
+International Application Number  =>  PCT/JP09/002349 
+
+International Publication Number  =>  WO 2010/050086 A1 
+
+Abstract  =>  An electrical conversion apparatus including a converter 2 and an inverter 4 comprises a capacitor 3 that stores a DC electrical power; a ripple detection unit 8 that detects a ripple of an RMS power that is generated from the inverter 4; a voltage measuring instrument 15 that measures a voltage across the capacitor 3: a DC voltage command generation unit 16 that calculates a command value of the voltage across the capacitor 3 according to a frequency of the AC voltage generated from the inverter 4, and a DC voltage control unit 17 that receives the voltage measured by the voltage measuring instrument 15 and the command value calculated by the DC voltage command generation unit 16, to control the converter 2 so that the voltage across the capacitor 3 becomes the command value, wherein the DC voltage command generation unit 16 makes the command value of the voltage across the capacitor 3 higher than usual, in situations where the voltage across the capacitor 3 is within a predetermined range including a frequency of a ripple component of the voltage across the capacitor 3. 
+

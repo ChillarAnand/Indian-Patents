@@ -1,0 +1,22 @@
+Application number  =>  1039/CHENP/2006 A 
+
+Date of filing of application number  =>  27/03/2006 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD OF MANUFACTURING OXIDE SUPERCONDUCTING WIRE, METHOD OF MODIFYING OXIDE SUPERCONDUCTING WIRE AND OXIDE SUPERCONDUCTING WIRE 
+
+Name of applicant  =>  1)M/S. SUMITOMO ELECTRIC INDUSTRIES, LTD. 
+
+Name of inventor  =>  1)KOBAYASHI, Shinichi 2)KATO, Takeshi, 3)YAMAZAKI, Kouhei 
+
+International Classification  =>  H01B 13/00 
+
+Priority Doc No  =>  2003-304536 
+
+International Application Number  =>  PCT/JP2004/011133 
+
+International Publication Number  =>  WO 2005/022563 
+
+Abstract  =>  A method of manufacturing an oxide superconducting wire according to the present invention comprises a step (SI, S2) of preparing a wire formed by covering raw material powder of an oxide superconductor with a metal (3) and a heat treatment step (S4, S6) of heat- treating the wire in a pressurized atmosphere having a total pressure of at least 1 MPa and less than 50 MPa in the heat treatment. At a heat-up time before the heat treatment in the heat treatment step (S4, S6), pressurization is started from a temperature reducing 0.2 % yield strength of the metal (3) below the total pressure in the heat treatment. Thus, formation of voids between oxide superconducting crystals and blisters of the oxide superconducting wire is suppressed while the partial oxygen pressure can be readily controlled in the heat treatment, whereby the critical current density can be improved. 
+

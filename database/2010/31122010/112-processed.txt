@@ -1,0 +1,22 @@
+Application number  =>  4078/CHENP/2010 A 
+
+Date of filing of application number  =>  01/07/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  A SECURE DATA TRANSFER METHOD 
+
+Name of applicant  =>  1)SAGEM SECURITE 
+
+Name of inventor  =>  1)DECROIX, DAVID 2)PEPIN, CYRILLE 3)ROUDIERE GUILLAUME 
+
+International Classification  =>  G06F21/00 
+
+Priority Doc No  =>  08 00156 
+
+International Application Number  =>  PCT/FR09/000014 
+
+International Publication Number  =>  WO 2009/106757 A1 
+
+Abstract  =>  The invention relates to a method of securely transferring data, in which method the source data stored in a source memory (NV_MEM) is compared with the transferred data (COPY_ELT_X_V_MEM) that has been copied from the source memory (NV_MEM) into a destination memory (V_MEM). The method consists in reading from the source memory (NV_MEM) an integrity value (PI_ELT_X) associated with an element (ELEMENT_X_NV_MEM) such as file containing the source data, in calculating the integrity of a reconstituted element made up of the transferred data (COPY_ELT_X_V_MEM) associated, where appropriate, with the data of the source element (ELEMENT_X_NV_MEM) other than the data that was transferred, and in deciding that the transferred data (COPY_ELT_X_V_MEM) is identical to the source data when the integrity calculation gives a value identical to the integrity value of the source element (PI_ELT_X). The method applies to transferring data between components of a smart card. 
+

@@ -1,0 +1,49 @@
+ 
+The Patent Office Journal 31/08/2012 
+13864
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2060/CHE/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :17/06/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : INFORMATION PROCESSING DEVICE, INFORMATION PROCESSING METHOD, AND 
+PROGRAM  
+  
+(51) International classification  :H04L29/06, G06F21/00 
+(31) Priority Document No  :P2010-143360  
+(32) Priority Date  :24/06/2010
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)SONY CORPORATION  
+      Address of Applicant :1-7-1 KONAN, MINATO-KU, 
+TOKYO Japan 
+(72)Name of Inventor : 
+   1)KENJIRO UEDA 
+   2)KOJI YOSHIMURA 
+   3)HIROSHI KUNO 
+   4)TAKAMICHI HAYASHI 
+   5)MUNETAKE EBIHARA  
+(57) Abstract : 
+An information processing device includes: a data processing unit that executes a process of reproducing content recorded in a 
+medium; and a memory storing a content revocation list in which an identifier (ID) of revoked content is recorded, wherein the data 
+processing unit compares a minimum allowable version of a content revocation list recorded in a token which is management data 
+corresponding to content recorded in the medium with a version of a content revocation list acquired from the memory, and when the 
+version of the content revocation list acquired from the memory is an old version lower than the minimum allowable version of the 
+content revocation list recorded in the token, the data processing unit halts determination on revocation of content based on the content 
+revocation list acquired from the memory and reproduction of content. 
+  
+  
+No. of Pages : 162 No. of Claims : 19 

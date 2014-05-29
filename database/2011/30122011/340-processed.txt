@@ -1,0 +1,22 @@
+Application number  =>  1360/CHENP/2011 A 
+
+Date of filing of application number  =>  26/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  SYSTEM AND METHOD FOR ROUTING COMMANDS IN A MODULARIZED SOFTWARE SYSTEM 
+
+Name of applicant  =>  1)JUMA TECHNOLOGY CORP. 
+
+Name of inventor  =>  1)KIEFER Matthew 2)BAYDIAN Edmond 3)FUCCILLO Joseph 
+
+International Classification  =>  G06F15/173 
+
+Priority Doc No  =>  61/085,407 
+
+International Application Number  =>  PCT/US2009/052204 
+
+International Publication Number  =>   
+
+Abstract  =>  Converged network management application and system is provided that delivers a management platform as a service that can view and/or manage all managed networks in the aggregate, or any one of them individually (including individual devices within the managed networks), in a secure and efficient manner, providing continuously available intelligence in real time on the managed networks and systems, and overcoming integration issues including conflicting address schemas, the need to avoid unnecessary infrastructure, and the need acquire all necessary information in real time within applicable memory and bandwidth constraints. 
+

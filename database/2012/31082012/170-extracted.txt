@@ -1,0 +1,49 @@
+ 
+The Patent Office Journal 31/08/2012 
+14012
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3051/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :04/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : GALVANNEALED STEEL SHEET AND PRODUCTION METHOD THEREOF  
+  
+(51) International classification  :C23C2/06, C21D 9/46, C22C 38/00  
+(31) Priority Document No  :2008-285705  
+(32) Priority Date  :06/11/2008 
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date 
+:PCT/JP2009/068780 
+:02/11/2009 
+(87) International Publication No  :WO 2010/053074 A1  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)KABUSHIKI KAISHA KOBE SEIKO SHO (KOBE 
+STEEL, LTD.) 
+      Address of Applicant :10-26, WAKINOHAMA-CHO 2-
+CHOME, CHUO-KU, KOBE-SHI, HYOGO 651-8585 Japan 
+(72)Name of Inventor : 
+   1)YUSE, FUMIO 
+   2)TAKEDA, MIKAKO 
+   3)NANBA, SHIGENOBU 
+   4)MIYAKE, YOSHIHIRO  
+(57) Abstract : 
+Disclosed is a galvannealed steel sheet having an excellent surface appearance, wherein plating failure and non-uniform alloying are 
+suppressed. Also disclosed is a method for producing such a galvannealed steel sheet. The galvannealed steel sheet is obtained by hot-
+dip galvanizing a base steel, and then alloying the plating layer. The base steel is obtained by hot rolling a steel which contains 0.02-
+0.25 mass% of C, 0.5-3 mass% of Si, 1-4 mass% of Mn, 0.03-1 mass% of Cr, not more than 1.5 mass% of Al (excluding 0 mass%), 
+not more than 0.03 mass% of P (excluding 0 mass%) , not more than 0.03 mass% of S (excluding 0 mass%) and 0.003-1 mass% Ti, 
+and additionally contains 0.25-5.0 mass% of Cu and 0.05-1.0 mass% of Ni, while satisfying formula (1) , with the balance being made 
+up of iron and unavoidable impurities. [Cu] / [Ni] ≥ 5 In formula (1), [] represents the content (mass%) of each element. 
+  
+  
+No. of Pages : 74 No. of Claims : 12 

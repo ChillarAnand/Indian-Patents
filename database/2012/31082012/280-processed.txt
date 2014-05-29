@@ -1,0 +1,22 @@
+Application number  =>  3512/CHENP/2011 A 
+
+Date of filing of application number  =>  23/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  A PROPPANT 
+
+Name of applicant  =>  1)BASF 
+
+Name of inventor  =>  1)TANGUAY, CHRISTOPHER, M. 2)ERICKSON, JOHN 3)MANEA, VICTORIA 4)HUARNG, JYH-CHIARNG 5)KUMAR, RAJESH 6)ALEMDAROGLU, FIKRI EMRAH 
+
+International Classification  =>  C09K8/80, C09K8/62 
+
+Priority Doc No  =>  61/109,226 
+
+International Application Number  =>  PCT/EP2009/064244 
+
+International Publication Number  =>  WO 2010/049467 A1 
+
+Abstract  =>  A proppant comprises a particle and a polycarbodiimide coating disposed on the particle. The polycarbodiimide coating comprises the reaction product of a polymeric isocyanate and a monomeric isocyanate, in the presence of a catalyst. A method of forming the proppant comprises the steps of providing the particle, providing the polymeric isocyanate, providing the monomeric isocyanate, providing the catalyst, reacting the polymeric isocyanate and the monomeric isocyanate in the presence of the catalyst to form the polycarbodiimide coating, and coating the particle with the polycarbodiimide coating. 
+

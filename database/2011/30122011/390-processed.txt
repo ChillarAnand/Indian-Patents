@@ -1,0 +1,22 @@
+Application number  =>  727/KOL/2010 A 
+
+Date of filing of application number  =>  02/07/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD FOR IDENTIFICATION OF AN ELECTRIC DRIVE SYSTEM TO BE MODELED AS A MULTIMASS OSCILLATOR AND/OR FOR DETECTION OF DAMAGE IN BEARINGS AND/OR ON ELEMENTS SUSCEPTIBLE TO WEAR AND A CORRESPONDING DEVICE AND ELECTRIC DRIVE SYSTEM 
+
+Name of applicant  =>  1)BAUMÜLLER NÜRNBERG GMBH 
+
+Name of inventor  =>  1)VILLWOCK, SEBASTIAN 2)PACAS, JOSÉ MARIO 
+
+International Classification  =>  G06F17/00 
+
+Priority Doc No  =>  EP 09164675.2 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A method for identification of an electric drive system to be modeled as a multimass oscillator and/or for detection of damages in bearings and/or on elements susceptible to wear in an electric drive system, whereby a mechanical angular velocity of the electric drive system is determined in a sensorless method as part of the present method, and signal processing is performed on the basis of correlograms and/or Welch"s method, using the mechanical angular velocity determined without a sensor, such that the frequency response of the mechanics of the electric drive system is determined as part of the signal processing, the data thereof being used for determination of at least one parameter of the electric drive system. 
+

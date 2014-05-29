@@ -1,0 +1,50 @@
+ 
+The Patent Office Journal 31/08/2012 
+14032
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3083/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :05/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : OXAZOLIDINYL ANTIBIOTICS  
+  
+(51) International classification  
+:C07D413/14, 
+A61K31/4709, 
+A61K31/498  
+(31) Priority Document No  :PCT/IB2008/054175
+(32) Priority Date  :10/10/2008 
+(33) Name of priority country  :PCT 
+(86) International Application No 
+        Filing Date 
+:PCT/IB2009/054433
+:09/10/2009 
+(87) International Publication No  :WO 2010/041218 A3  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)ACTELION PHARMACEUTICALS LTD.  
+      Address of Applicant :GEWERBESTRASSE 16, CH-4123 
+ALLSCHWIL Switzerland 
+(72)Name of Inventor : 
+   1)HUBSCHWERLEN, CHRISTIAN  
+   2)RUEEDI, GEORG 
+   3)SURIVET, JEAN-PHILIPPE 
+   4)ZUMBRUNN ACKLIN, CORNELIA   
+(57) Abstract : 
+The invention relates to antibacterial compounds of formula I wherein R1 is alkoxy or halogen; U and V each independently are CH or 
+N;  is a bond or is absent; W is CH or N or, when  is absent, W is CH2 or NH, with the proviso that U, V and W are not all N; A is a 
+bond or CH2; R2 is H or, provided A is CH2, may also be OH; m and n each independently are 0 or 1; D is CH2 or a bond; G 
+represents a phenyl group substituted once or twice in the meta and/or para position(s) by substituents selected from alkyl, (C1-
+C3)alkoxy and halogen, or G is a group G1 or G2 wherein Z1, Z2 and Z3 may each represent CH or N; X is N or CH and Q is O or S; 
+it being understood that if m and n each are 0, then A is CH2; and salts of such compounds. 
+  
+  
+No. of Pages : 66 No. of Claims : 14 

@@ -1,0 +1,45 @@
+ 
+The Patent Office Journal 31/08/2012 
+13410
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3593/MUM/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :02/11/2010 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : COMBINED REMOTE CONTROL FOR AC AND CEILING FAN.  
+  
+(51) International classification  :G05F1/02 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  :N/A  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)PATEL PANKAJ HIRALAL 
+      Address of Applicant :C-1,SHUBHAM 
+FLATS,OPP:KUSHAL FLATS,LAD SOCIETY 
+ROAD,VASTRAPUR,AHMEDABAD-380 015,GUJARAT 
+STATE,INDIA.   
+(72)Name of Inventor : 
+   1)PATEL PANKAJ HIRALAL  
+(57) Abstract : 
+The present invention provides combined controlling system for air conditioner and ceiling fan which allows automatic alternative 
+working of air conditioner (2) and ceiling fan (5) on the desired mode such as normal mode (Ml), cool mode (M2), comfort mode 
+(M3) and economy mode (M4) for the desired time duration, wherein the said combined controlling system (1) mainly comprising of 
+Main unit (3) and Secondary unit (4). The main unit (3) mainly consists of ON/OFF switch (OS), bypass switch (BS), timer key (TK), 
+and the mode key (MK). The main unit (3) is provided with the encoder IC which sends RF/IR encoded signals to secondary unit 
+whereby the said signals are converted to DC voltages and decodes the said signals and further transfers them to the microcontroller to 
+turn ON/OFF the ceiling fan (5).   
+ 
+No. of Pages : 15 No. of Claims : 14 

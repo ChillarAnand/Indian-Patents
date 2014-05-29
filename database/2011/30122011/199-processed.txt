@@ -1,0 +1,22 @@
+Application number  =>  1123/MUMNP/2011 A 
+
+Date of filing of application number  =>  01/06/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  THIN FILM DEPOSITION VIA A SPATIALLY-COORDINATED AND TIME-SYNCHRONIZED PROCESS 
+
+Name of applicant  =>  1)OVSHINSKY INNOVATION LLC 
+
+Name of inventor  =>  1)OVSHINSKY Stanford 
+
+International Classification  =>  H01L 21/205 
+
+Priority Doc No  =>  12/316,417 
+
+International Application Number  =>  PCT/US2009/067810 
+
+International Publication Number  =>  WO/2010/068941 
+
+Abstract  =>  A deposition system and process for the formation of thin film materials. In one embodiment, the process includes forming an initial plasma from a first material stream and allowing the plasma to evolve in space and/or time to extinguish species that are detrimental to the quality of the thin film material. After the initial plasma evolves to an optimum state, a second material stream is injected into the deposition chamber to form a composite plasma that contains a distribution of species more conducive to formation of a high quality thin film material. The deposition system includes a deposition chamber having a plurality of delivery points for injecting two or more streams (source materials or carrier gases) into a plasma region. The delivery points are staggered in space to permit an upstream plasma formed from a first material stream deposition source material to evolve before combining a downstream material stream with the plasma. Injection of different material streams is also synchronized in time. The net effect of spatial coordination and time synchronization of material streams is a plasma whose distribution of species is optimized for the deposition of a thin film photovoltaic material at high deposition rates. Delivery devices include nozzles and remote plasma sources. 
+

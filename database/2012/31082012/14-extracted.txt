@@ -1,0 +1,51 @@
+ 
+The Patent Office Journal 31/08/2012 
+13856
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2114/CHE/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :22/06/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : MANUFACTURING METHOD OF HERMETIC CONTAINER, AND MANUFACTURING METHOD 
+OF IMAGE DISPLAYING APPARATUS  
+  
+(51) International classification  
+:B32B37/16, 
+B32B37/10, 
+B32B37/12 
+(31) Priority Document No  :2010-144893  
+(32) Priority Date  :25/06/2010
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)CANON KABUSHIKI KAISHA 
+      Address of Applicant :30-2, SHIMOMARUKO 3-CHOME, 
+OHTA-KU, TOKYO Japan 
+(72)Name of Inventor : 
+   1)KAZUYA ISHIWATA 
+   2)MAMO MATSUMOTO 
+   3)TOMOHIRO SAITO 
+   4)NOBUHIRO ITO  
+(57) Abstract : 
+A manufacturing method of a highly-reliable hermetic container having both joining strength and airtightness is provided. Sealants of 
+which a viscosity has a negative temperature coefficient and of which softening point is lower than that of each of first and second 
+glass substrates are formed in a frame shape having a discontinuous portion on the first glass substrate, and the second glass substrate 
+is disposed to face the first glass substrate so as to press the sealants formed thereon by contacting them. Local heating light is 
+irradiated to form the discontinuous portion at a boundary between a region irradiated by the local heating light and a region not 
+irradiated by the local heating light, and a portion adjacent to the discontinuous portion is heated and melted to close the discontinuous 
+portion, whereby a continuous sealed portion between the first and second glass substrates is formed. 
+  
+  
+No. of Pages : 49 No. of Claims : 6 

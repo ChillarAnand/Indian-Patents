@@ -1,0 +1,22 @@
+Application number  =>  3391/DEL/2011 A 
+
+Date of filing of application number  =>  25/11/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  SYNTHESIS OF GOLD AND SILVER NANOCRYSTALLINE FILMS USING SPRAY PYROLYSIS TECHNIQUES 
+
+Name of applicant  =>  1)INDIAN INSTITUTE OF TECHNOLOGY DELHI 
+
+Name of inventor  =>  1)DUTTA, VIRESH 2)KRISHNA, VAMSI K 3)KUMAR, NEETESH 
+
+International Classification  =>  C07D 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention relates to the method of fabricating nanoparticulate films of gold (au) and Silver (Ag) by spray pyrolysis technique and also tuning of surface plasmon resonance peaks. The method involves the atomization of solution containing the appropriate metal salt for making a nanoparticulate film. The nanoparticulate film formation takes place onto a heated substrate upon thermal decomposition of salt and the volatile non-constituent elements related to the salt are removed along with the solvent. The size and distribution of isolated nanoparticles in films are controlled by simply changing the spray deposition parameters. 
+

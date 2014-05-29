@@ -1,0 +1,22 @@
+Application number  =>  22/CHENP/2012 A 
+
+Date of filing of application number  =>  02/01/2012 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  SHIFT REGISTER, DISPLAY-DRIVING CIRCUIT, DISPLAYING PANEL, AND DISPLAYING DEVICE 
+
+Name of applicant  =>  1)SHARP KABUSHIKI KAISHA 
+
+Name of inventor  =>  1)HIROYUKI OHKAWA 2)YASUSHI SASAKI 3)YUHICHIROH MURAKAMI 4)SHIGE FURUTA 5)MAKOTO YOKOYAMA 
+
+International Classification  =>  G09G3/36 
+
+Priority Doc No  =>  2009-144749 
+
+International Application Number  =>  PCT/JP2010/001972 
+
+International Publication Number  =>  WO 2010/146753A1 
+
+Abstract  =>  Disclosed is a shift register for use in a display driving circuit that simultaneously selects signal lines, including, in a stage thereof: a flip-flop (FF) including an initialization terminal (INITB); and a signal generating circuit that receives a simultaneous selection signal (AONB signal) and that generates an output signal (OUTB) of the stage by use of an output (Q, QB) of the flip-flop, wherein: the output signal (OUTB) of the stage becomes active due to an activation of the simultaneous selection signal so as to be active during a period of the simultaneous selection; the output (Q, QB) of the flip-flop (FF) is non-active while the initialization terminal (INITB), a set terminal (SB), and a reset terminal (R) of the flip-flop; and the initialization terminal (INITB) of the flip-flop receives the simultaneous selection signal (AONB signal). This shift register makes it possible to downsize various drivers. 
+

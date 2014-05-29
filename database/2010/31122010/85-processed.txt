@@ -1,0 +1,22 @@
+Application number  =>  1994/MUMNP/2010 A 
+
+Date of filing of application number  =>  22/09/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  SYSTEMS FOR STORE ASSOCIATE MANAGEMENT IN A STORE 
+
+Name of applicant  =>  1)SUNRISE R&D HOLDINGS LLC. 
+
+Name of inventor  =>  1)BONNER Brett Bracewell 2)HJELM Christopher Todd 3)JONES Titus Arthur 4)JORDAN Michael Aaron 5)PERKINS Dion Brent 
+
+International Classification  =>  G06F9/46 
+
+Priority Doc No  =>  61/046,820 
+
+International Application Number  =>  PCT/US2009/002497 
+
+International Publication Number  =>   
+
+Abstract  =>  Described herein is a system for managing at least one store associate in the operation of a store through wireless electronic communication through a communication network between a manager and at least one store associate. The manager uses a manager™s communication device and the at least one store associate uses an associate™s communication device to communicate through the communication network. The store associate is provided a list of orders to perform and the manager receives data on the manager™s communication device pertaining to the performance of the list of orders created on the associate™s communication device, wherein the manager uses said data to evaluate the job performance of the at least one store associate. 
+

@@ -1,0 +1,22 @@
+Application number  =>  700/KOL/2010 A 
+
+Date of filing of application number  =>  29/06/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  APPARATUS ON A FLAT CARD OR ROLLER CARD FOR SETTING THE WORKING SPACING BETWEEN THE CYLINDER AND AT LEAST ONE NEIGHBOURING ROLLER 
+
+Name of applicant  =>  1)TRÜTZSCHLER GMBH & CO. KG 
+
+Name of inventor  =>  1)BRITTA JACOBS 2)ROBERT PISCHEL 
+
+International Classification  =>  D01G15/82 
+
+Priority Doc No  =>  10 2009 031 978.6 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  In an apparatus on a flat card or roller card for setting the working spacing between the clothed cylinder and at least one clothed neighbouring roller, for example doffer and/or licker-in, which co-operate with one another with a small spacing between their cylindrical surfaces (working spacing) at the fibre transfer points and in which the working spacing can be reset to a pre-determined value as a result of changes in dimensions caused by thermal expansion and/or centrifugal forces, an adjustment device operable by supplying thermal energy is provided for the neighbouring roller. In order to enable the setting of a pre-determined spacing between neighbouring rollers to be effected in a simple way and within a short space of time in the event of changes in the dimensions of the rollers, there is provided a device for actively supplying and/or dissipating thermal energy which is associated with the adjustment device, wherein in the event of a change in the dimensions of the rollers the working spacing between the cylinder and at least one neighbouring roller can be set or reset. 
+

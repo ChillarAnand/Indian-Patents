@@ -1,0 +1,22 @@
+Application number  =>  4095/CHENP/2010 A 
+
+Date of filing of application number  =>  01/07/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  SECURE AND EXTENSIBLE POLICY-DRIVEN APPLICATION PLATFORM 
+
+Name of applicant  =>  1)MICROSOFT CORPORATION 
+
+Name of inventor  =>  1)ISAACS, SCOTT 2)YOLLECK, STEPHEN MARK 3)LOGAN, RONALD KEITH 
+
+International Classification  =>  G06F17/00 
+
+Priority Doc No  =>  61/020,597 
+
+International Application Number  =>  PCT/US2008/087265 
+
+International Publication Number  =>  WO 2009/088685 A1 
+
+Abstract  =>  System of evaluating security of script content. A processor executes computer- executable instructions for defining a policy for the script content in a web page. The script content provides interactions between a user and other content within the web page. The defined policy indicates an execution boundary of the script content. The processor further evaluates the script content against the execution boundary in the defined policy. At run time, the processor transforms at least a portion of the web page in response to the evaluating. An interface transmits the web page with the transformed portion of the script content to be rendered in an application on a host device.FIG.1 
+

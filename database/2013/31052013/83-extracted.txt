@@ -1,0 +1,40 @@
+The Patent Office Journal 31/05/2013 12054
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9720/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :23/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : METHOD AND APPARATUS FOR PROVIDING A COLLABORATIVE REPLY OVER AN AD-
+HOC MESH NETWORK
+(51) International classification :H04W 84/18
+(31) Priority Document No :12/475,351
+(32) Priority Date :29/05/2009
+(33) Name of priority country :U.S.A.
+(86) International Application No
+Filing Date
+:PCT/IB2010/052406
+:29/05/2010
+(87) International Publication No : NA
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)NOKIA CORPORATION
+Address of Applicant :Keilalahdentie 4 FIN-02150 Espoo
+Finland
+(72)Name of Inventor :
+1)Kari Leppanen
+2)Mika Kasslin
+3)Mikko Tirronen
+4)Markku T.Turunen
+5)Sami Virtanen
+(57) Abstract :
+An approach is provided for providing a collaborative reply to a flooding message over an ad-hoc mesh network. A reply message
+to a flooding message is received by a wireless node within the ad-hoc network. The wireless node monitors for an
+acknowledgement of receipt of the reply message according to a routing table and initiates a scheduled transmission of the reply
+message based on the monitoring.
+No. of Pages : 76 No. of Claims : 11

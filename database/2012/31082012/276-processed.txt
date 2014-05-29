@@ -1,0 +1,22 @@
+Application number  =>  3176/CHENP/2011 A 
+
+Date of filing of application number  =>  09/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  POT TENDING MACHINE FOR WORKING ON ELECTROLYSIS CELLS FOR THE PRODUCTION OF ALUMINUM BY IGNEOUS ELECTROLYSIS 
+
+Name of applicant  =>  1)E.C.L. 
+
+Name of inventor  =>  1)WATTEL, ARNAUD 2)DAVID, STEPHANE 
+
+International Classification  =>  C25C7/08, C25C3/06, C25C3/10 
+
+Priority Doc No  =>  08 05719 
+
+International Application Number  =>  PCT/FR2009/001095 
+
+International Publication Number  =>  WO 2010/031919 A8 
+
+Abstract  =>  Pot tending machine (3) for a series of electrolysis cells (2) designed for the production of aluminum by igneous electrolysis including: a) an overhead traveling crane (4) which can be relocated above said electrolysis cells, b) a tool carriage (6) onto which is fixed a service module comprising tools (10); c) a tapping winch (13), interdependent of said overhead traveling crane, designed to grasp and position near cell (2) a tapping assembly including a ladle (40), a tapping tube (41) and a vacuum device; d) a freestanding device (50, 50) able to generate compressed air; characterized in that said compressed air generating device of includes a first compressor (50), able to provide a flow of compressed air at least equal to the minimum air flow necessary for operations other than tapping, and at least one second compressor (50) mounted in such a way that, when operating simultaneously with said first compressor, the unit provides a flow of compressed air at least equal to the minimum output of air necessary during tapping. 
+

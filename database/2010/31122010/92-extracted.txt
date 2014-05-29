@@ -1,0 +1,47 @@
+The Patent Office Journal 31/12/2010 
+ 
+5358
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2007/MUMNP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :23/09/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : POWER MANAGEMENT USING AT LEAST ONE OF A SPECIAL PURPOSE PROCESSOR AND 
+MOTION SENSING  
+  
+(51) International classification  :H04W52/02  
+(31) Priority Document No  :12/101,930  
+(32) Priority Date  :11/04/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/039630
+:06/04/2009 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)QUALCOMM INCORPORATED 
+      Address of Applicant :Attn: International IP Administration  
+5775 Morehouse Drive  San Diego  California 92121-1714  
+United States of America   
+(72)Name of Inventor : 
+   1)SHEYNBLAT  Leonid 
+   2)WOLF  Thomas G.  
+(57) Abstract : 
+A power management device useable in a mobile station includes a main processor configured to execute applications including signal 
+processing applications and further configured to enter a sleep mode in response to predetermined criteria. The device further includes 
+a circuit configured to operate when the main processor is in the sleep mode comprising at least one of a low power processor and a 
+sensor to monitor at least one of signals, commands, inputs, and changes in environment, the circuit waking up the main processor 
+responsive to one of the low power processor and the sensor. The device may operate a method and may execute instructions based on 
+a machine readable medium. 
+  
+  
+No. of Pages : 38 No. of Claims : 37 

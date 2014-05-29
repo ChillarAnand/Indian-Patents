@@ -1,0 +1,22 @@
+Application number  =>  1167/CHENP/2011 A 
+
+Date of filing of application number  =>  19/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  APPARATUS AND METHODS FOR CONTROLLING AN IDLE MODE IN A WIRELESS DEVICE 
+
+Name of applicant  =>  1)QUALCOMM Incorporated 
+
+Name of inventor  =>  1)GOROKHOV Alexei Y. 2)PALANKI Ravi 3)KADOUS Tamer A. 4)ULUPINAR Fatih 
+
+International Classification  =>  H04W52/02 
+
+Priority Doc No  =>  61/096,718 
+
+International Application Number  =>  PCT/US2009/056745 
+
+International Publication Number  =>   
+
+Abstract  =>  Apparatus and methods are disclosed for control of an idle mode in a wireless device. In particular, the idle mode duty cycle of a preamble transmission by an access point (AP), as an example, is variably or adaptively set in response to determined conditions of the wireless neighborhood. The conditions determined include the whether or not other wireless devices are present in the vicinity of sensing wireless device, as well as the state of those devices present, such as whether they are in an idle mod or an active mode. 
+

@@ -1,0 +1,40 @@
+The Patent Office Journal 30/12/2011 
+ 
+25705
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1319/KOL/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :22/11/2010 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : METHOD OF OPERATING A NAVIGATION SYSTEM TO PROVIDE ROUTE GUIDANCE  
+  
+(51) International classification  :G06F15/16 
+(31) Priority Document No  :12/694,405 
+(32) Priority Date  :27/01/2010
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)NAVTEQ NORTH AMERICA, LLC 
+      Address of Applicant :425 WEST RANDOLPH STREET, 
+SUITE 1200, CHICAGO, ILLINOIS 60606 U.S.A. 
+(72)Name of Inventor : 
+   1)HOLSINGER, DAVID J.  
+(57) Abstract : 
+A method of operating a navigation system to provide a route guidance message for traveling a route is disclosed. A preferred name of 
+a feature visible from a road segment is obtained in a native language from a geographic database associated with the navigation 
+system. The parts-of-speech of the preferred name are identified and converted into a target language text providing the preferred 
+name in a target language. A guidance message includes the target language text in the target language.  
+ 
+No. of Pages : 31 No. of Claims : 20 

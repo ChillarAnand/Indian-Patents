@@ -1,0 +1,22 @@
+Application number  =>  726/MUMNP/2012 A 
+
+Date of filing of application number  =>  21/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  TREATMENT SYSTEM OF WET ORGANIC WASTE 
+
+Name of applicant  =>  1)URAYASU DENSETSU K.K. 
+
+Name of inventor  =>  1)KOBAYASHI, TAKAITSU 
+
+International Classification  =>  B09B 3/00,C02F 11/12 
+
+Priority Doc No  =>  2009-239069 
+
+International Application Number  =>  PCT/JP2010/068016 
+
+International Publication Number  =>  WO/2011/046162 
+
+Abstract  =>  Provided is a treatment system whereby a wet organic waste can be effectively treated and CO2 produced in the course of the treatment can be stabilized to thereby contribute to the reduction of CO2 emission. The treatment system is characterized by comprising microbiologically fermenting a wet organic waste in a fermenter, combusting in a furnace a fermented material obtained from the fermenter and, at the same time, supplying to the furnace a fermentation gas produced by the microbiological fermentation in the fermenter, and then recovering and stabilizing CO2 in a hot exhaust gas evolved during the combustion in the furnace. 
+

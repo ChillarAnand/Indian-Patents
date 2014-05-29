@@ -1,0 +1,22 @@
+Application number  =>  2060/CHE/2011 A 
+
+Date of filing of application number  =>  17/06/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  INFORMATION PROCESSING DEVICE, INFORMATION PROCESSING METHOD, AND PROGRAM 
+
+Name of applicant  =>  1)SONY CORPORATION 
+
+Name of inventor  =>  1)KENJIRO UEDA 2)KOJI YOSHIMURA 3)HIROSHI KUNO 4)TAKAMICHI HAYASHI 5)MUNETAKE EBIHARA 
+
+International Classification  =>  H04L29/06, G06F21/00 
+
+Priority Doc No  =>  P2010-143360 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  An information processing device includes: a data processing unit that executes a process of reproducing content recorded in a medium; and a memory storing a content revocation list in which an identifier (ID) of revoked content is recorded, wherein the data processing unit compares a minimum allowable version of a content revocation list recorded in a token which is management data corresponding to content recorded in the medium with a version of a content revocation list acquired from the memory, and when the version of the content revocation list acquired from the memory is an old version lower than the minimum allowable version of the content revocation list recorded in the token, the data processing unit halts determination on revocation of content based on the content revocation list acquired from the memory and reproduction of content. 
+

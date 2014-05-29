@@ -1,0 +1,22 @@
+Application number  =>  2668/CHENP/2012 A 
+
+Date of filing of application number  =>  23/03/2012 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  DIGITAL TACHOGRAPH 
+
+Name of applicant  =>  1)HISHIKI TRANSPORT CO., LTD. 
+
+Name of inventor  =>  1)HISHIKI, HIROKAZU 2)SEKI, SABURO 
+
+International Classification  =>  G07C 5/04 
+
+Priority Doc No  =>  2010-126448 
+
+International Application Number  =>  PCT/JP2010/007261 
+
+International Publication Number  =>  WO 2011/151870A1 
+
+Abstract  =>  Disclosed is a digital tachograph wherein a display device displays so that a driver can. perform the driving while satisfying conditions set forth in the Labor Standards Law, and thereby, the driver can drive safely in compliance with the content of the display device, and perform the driving while satisfying the conditions set forth in the Labor Standards Law. A digital tachograph comprises a digital tachograph main body attached to a vehicle of a forwarder, a labor state calculation device con¬nected to the digital tachograph main body to calculate labor state data, a labor standard law compliance assessment device con¬nected to the labor state calculation device to assess whether the. labor condition of the driver of the vehicle satisfies the conditions of the Labor Standards Law on the basis of the labor state data calculated by the labor state calculation device, a storing device which stores the assessment result of the labor standard law compliance assessment device and the labor state data by the labor state calculation device, and a display device connected to the digital tachograph main body to display and notify the driver of the assessment result by the labor standard law compliance assessment device. 
+

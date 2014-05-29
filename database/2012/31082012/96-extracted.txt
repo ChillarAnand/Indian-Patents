@@ -1,0 +1,45 @@
+ 
+The Patent Office Journal 31/08/2012 
+13938
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2941/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :29/04/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : METHODS AND SYSTEMS FOR HANDOVER USING INCREASED PROBABILITY FOR FAST 
+RANGING SUCCESS  
+  
+(51) International classification  :H04W36/08, H04W56/00  
+(31) Priority Document No  :12/260,387  
+(32) Priority Date  :29/10/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US09/060916
+:15/10/2009 
+(87) International Publication No  :WO 2010/051168 A1  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)QUALCOMM INCORPORATED 
+      Address of Applicant :5775 MOREHOUSE DRIVE, SAN 
+DIEGO, CALIFORNIA 92121-1714 U.S.A. 
+(72)Name of Inventor : 
+   1)JONG RO PARK 
+   2)CHUN WOO LEE 
+   3)KUO-CHUN LEE  
+(57) Abstract : 
+Techniques presented herein disclose handover using increased probability of the fast ranging success. Propagation delay of the RF 
+signal transmitted from an MS to a target BS may be estimated based on a known propagation delay to a current serving BS and a 
+relative difference in propagation delays to the current serving BS and the target BS, for example, as indicated by different receive 
+times of preamble sequences transmitted from the current serving BS and the target BS. 
+  
+  
+No. of Pages : 30 No. of Claims : 24 

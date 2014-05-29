@@ -1,0 +1,42 @@
+ 
+The Patent Office Journal 31/08/2012 
+13770
+(12) PATENT APPLICATION PUBLICATION (21) Application No.827/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :03/04/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : VANE PUMP  
+  
+(51) International classification  :F04C 2/344  
+(31) Priority Document No  :102009049532.0  
+(32) Priority Date  :07/10/2009 
+(33) Name of priority country  :Germany 
+(86) International Application No 
+        Filing Date 
+:PCT/EP2010/005540
+:09/09/2010 
+(87) International Publication No  :WO/2011/042105  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)IXETIC BAD HOMBURG GMBH 
+      Address of Applicant :GEORG-SCHAEFFLER-STRASSE 3, 
+61352 BAD HOMBURG, GERMANY. 
+(72)Name of Inventor : 
+   1)SCHULZ-ANDRES, HEIKO 
+   2)BOEHM, CHRISTIAN  
+(57) Abstract : 
+The invention relates to a vane pump, comprising an upper vane pump, which is associated with a first load, and a lower vane pump, 
+which has a lower vane pressure area and a lower vane suction area, which is connected to the upper vane pump. The invention is 
+characterized in that the lower vane pressure area is separated from the lower vane suction area and is associated with a second load. 
+  
+  
+No. of Pages : 29 No. of Claims : 17 

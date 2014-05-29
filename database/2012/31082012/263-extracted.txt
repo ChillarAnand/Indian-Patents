@@ -1,0 +1,44 @@
+ 
+The Patent Office Journal 31/08/2012 
+14105
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3167/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :09/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : HIGH-PRESSURE FUEL PUMP FOR INTERNAL COMBUSTION ENGINE  
+  
+(51) International classification  :F02M59/34  
+(31) Priority Document No  :10 2008 043 237.7  
+(32) Priority Date  :28/10/2008 
+(33) Name of priority country  :Germany 
+(86) International Application No 
+        Filing Date 
+:PCT/EP2009/061724
+:10/09/2009 
+(87) International Publication No  :WO 2010/049203 A1  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)ROBERT BOSCH GMBH 
+      Address of Applicant :POSTFACH 30 02 20, STUTTGART-
+70442 Germany 
+(72)Name of Inventor : 
+   1)SCHROEDER, BERND 
+   2)PFUHL, BERTHOLD  
+(57) Abstract : 
+The present subject matter relates to a high-pressure fuel pump (10) for an internal combustion engine (9) with direct injection. The 
+high-pressure fuel pump (10) includes a low-pressure region (12) and a quantity control device. According to the present subject 
+matter, the quantity control device includes a control valve (28) that is disposed upstream from an inlet valve (22) of the high-pressure 
+fuel pump (10). The control valve (28) has a first control position and at least one second control position, where the first control 
+position differ from the second control position in their flow restriction effect.    
+  
+  
+No. of Pages : 16 No. of Claims : 12 

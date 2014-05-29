@@ -1,0 +1,22 @@
+Application number  =>  2124/CHE/2011 A 
+
+Date of filing of application number  =>  23/06/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  REMOTE CONTROL DEVICE, REMOTE CONTROL SETTING METHOD AND PROGRAM 
+
+Name of applicant  =>  1)SONY CORPORATION 
+
+Name of inventor  =>  1)RYO SAKABE 2)HIROKI INAMITSU 3)TAKAHIRO USHIODA 4)NAOKI YUASA 
+
+International Classification  =>  G06F15/173 
+
+Priority Doc No  =>  P2010-149368 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  There is provided a remote control device including: a communication unit that can perform communication through a network; a remote control unit that can transmit one or more control commands to a controlled device in response to an operation by a user; a storage unit that stores control command information specifying the one or more control commands to be transmitted from the remote control unit; and a setting unit that sets the control command information to the storage unit based on a result of communication by the communication unit with a controlled device through the network, wherein the setting unit detects a controlled device connected to the network by transmitting a device search signal from the communication unit, acquires device information of the detected controlled device from the controlled device, and decides the control command information to be set to the storage unit based on the acquired device information. 
+

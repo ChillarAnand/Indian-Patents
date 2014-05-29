@@ -1,0 +1,22 @@
+Application number  =>  5346/DELNP/2011 A 
+
+Date of filing of application number  =>  12/07/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  SPRAYING METHOD AND DEVICE FOR A ROLLING PLANT 
+
+Name of applicant  =>  1)SIEMENS VAI METALS TECHNOLOGIES SAS 
+
+Name of inventor  =>  1)VINCENT CRONIER 2)BERNARD ROSSIGNEUX 
+
+International Classification  =>  B21B 27/10 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/FR2009/000113 
+
+International Publication Number  =>  WO 2010/086514 
+
+Abstract  =>  The invention relates to a spraying method and device for a plant for rolling a strip (1), said plant comprising at least one rolling stand, said device including: a pair of working rolls (2a, 2b) between which the strip (1) runs; a plane (P) perpendicular to the running direction of the strip; at least one pair of supporting rolls (3a, 3b) for said working rolls (2a, 2b); two pairs of bearing rolls (5a, 5a, 5b, 5b), each of said pairs having the rolls (5a, 5a, 5b, 5b) thereof substantially symmetrically arranged on either side of the working rolls (2a, 2b) in a plane substantially parallel to the strip so as to transfer, to said working rolls (2a, 2b), a force for maintaining said working rolls in a predetermined position relative to the supporting roll; a support for said bearing rolls (5a, 5a, 5b, 5b) in the form of two rows including a plurality of bearing rollers (6) mounted side by side; at least one nozzle system for spraying at least a portion of the strip and at least a portion of said rolls, characterized in that at least one of the nozzle systems is capable of directly spraying at least a portion of the working rolls on either side of said plane which is perpendicular to the running direction of the strip. 
+

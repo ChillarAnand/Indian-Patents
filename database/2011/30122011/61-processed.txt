@@ -1,0 +1,22 @@
+Application number  =>  2128/DELNP/2011 A 
+
+Date of filing of application number  =>  22/03/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  APPARATUS FOR THE DIAGNOSIS AND TREATMENT OF BRUXISM 
+
+Name of applicant  =>  1)WISEMED LTD. 
+
+Name of inventor  =>  1)TOAM SHEMESH 2)AYELET RUBINOVITCH TROP 
+
+International Classification  =>  A61N 1/38 
+
+Priority Doc No  =>  193669 
+
+International Application Number  =>  PCT/IL2009/000770 
+
+International Publication Number  =>  WO 2010/023655 
+
+Abstract  =>  The present invention is an apparatus for detecting and treating bruxism. The apparatus of the invention comprises a sensing unit, a calculation unit and a stimulation unit. The sensing unit is in charge of measuring the interocclusal distance and reporting this distance to the calculation unit. After receiving the information from the sensing unit, the calculation unit archives and processes the information to determine if the sensing event is a bruxism event. When a sensing event is confirmed as a bruxism event, the calculation unit selects an adequate stimulation and sends a request to the stimulation unit, which applies the selected stimulation. The apparatus of the present invention may be suitable for treating both diurnal and nocturnal bruxism and the intrabuccal components may be removed from the mouth when bruxism events are not expected to occur, i.e., during the day for an individual who suffers only from nocturnal bruxism. 
+

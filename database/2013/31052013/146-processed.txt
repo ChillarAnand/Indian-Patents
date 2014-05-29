@@ -1,0 +1,22 @@
+Application number  =>  9889/CHENP/2011 A 
+
+Date of filing of application number  =>  28/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  METHOD AND DEVICE OF HOST WITH IPV4 APPLICATION FOR PERFORMING COMMUNICATION 
+
+Name of applicant  =>  1)CHINA MOBILE COMMUNICATIONS CORPORATION 
+
+Name of inventor  =>  1)HUANG, BILL 2)CHEN, GANG 3)DENG, HUI 4)WEI, BING 5)WANG, XIAOYUN 
+
+International Classification  =>  H04L12/56 
+
+Priority Doc No  =>  200910085886.3 
+
+International Application Number  =>  PCT/CN2010/000793 
+
+International Publication Number  =>  WO 2010/139194 A1 
+
+Abstract  =>  Provided are a method and a device of a host with IPv4 application for performing communication. The method of the host with IPv4 application for performing data communication includes the following steps: the IPv4 application generates an IPv4 packet sent to a communication end; when confirming the type of the network the host is located in is an IPv6 network, the host transforms the IPv4 packet head of the IPv4 packet to an IPv6 packet header, and sends it to the communication end via the IPv6 network. With this invention, it can be accomplished that according to the type of the network the host is located in, the host with IPv4 application communicates with a communication end; the processing load of the system is lightened; the probability that invalidation occurs at a single node is reduced; the smooth migration and transition from original IPv4 application to IPv6 system are facilitated. 
+

@@ -1,0 +1,22 @@
+Application number  =>  1320/CHENP/2011 A 
+
+Date of filing of application number  =>  25/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHODS, SYSTEMS, AND COMPUTER READABLE MEDIA FOR SESSION INITIATION PROTOCOL (SIP) DIALOG IDENTIFICATION 
+
+Name of applicant  =>  1)Tekelec 
+
+Name of inventor  =>  1)SPARKS Robert J. 
+
+International Classification  =>  H04W80/10, H04L12/58 
+
+Priority Doc No  =>  61/085,677 
+
+International Application Number  =>  PCT/US2009/052600 
+
+International Publication Number  =>   
+
+Abstract  =>  Methods, systems, and computer readable media for session initiation protocol (SIP) dialog identification are disclosed. According to one method, a first SIP message associated with a SIP dialog is received. A dialog ID that is associated with the SIP dialog is computed using fields of the first SIP message. A second SIP message associated with the SIP dialog is generated. The computed dialog ID is included in the second message. 
+

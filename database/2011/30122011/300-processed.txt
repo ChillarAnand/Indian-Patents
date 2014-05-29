@@ -1,0 +1,22 @@
+Application number  =>  1275/CHENP/2011 A 
+
+Date of filing of application number  =>  23/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  Method and Apparatus for Multiplexing Data and Reference Signal in a Wireless Communication System 
+
+Name of applicant  =>  1)QUALCOMM Incorporated 
+
+Name of inventor  =>  1)LUO Xiliang 2)MONTOJO Juan 3)LUO Tao 
+
+International Classification  =>  H04L5/00 
+
+Priority Doc No  =>  61/098,002 
+
+International Application Number  =>  PCT/US2009/057576 
+
+International Publication Number  =>   
+
+Abstract  =>  Certain aspects of the present disclosure allow reference and data-conveying modulations symbols to be multiplexed in the time domain to form an SC-FDM waveform. 
+

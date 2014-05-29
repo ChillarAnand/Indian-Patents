@@ -1,0 +1,22 @@
+Application number  =>  4104/CHENP/2010 A 
+
+Date of filing of application number  =>  02/07/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  METHOD OF SPLICING ENCODED MULTIMEDIA DATA STREAMS 
+
+Name of applicant  =>  1)ALCATEL-LUCENT USA INC. 
+
+Name of inventor  =>  1)MATTHEWS, KIM N 
+
+International Classification  =>  H04N7/24 
+
+Priority Doc No  =>  11/972,188 
+
+International Application Number  =>  PCT/US09/030082 
+
+International Publication Number  =>  WO 2009/089135 A4 
+
+Abstract  =>  The present invention provides a method of splicing data streams flowing between an encoder and a decoder. The method includes accessing a first encoded data stream. The first encoded data stream is encoded by the encoder based upon a first buffer size associated with the decoder. The method also includes delaying the first encoded data stream by an offset determined based on a second buffer size associated with the decoder. The second buffer size is larger than the first buffer size. The method farther includes splicing one or more second encoded data stream(s) into the delayed first encoded data stream. 
+

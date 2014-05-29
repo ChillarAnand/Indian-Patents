@@ -1,0 +1,45 @@
+ 
+The Patent Office Journal 31/08/2012 
+13391
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2011/MUM/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :12/07/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : CONGESTION AVOIDANCE AND CONTROL NEAR SINK IN WIRELESS SENSOR NETWORK 
+FOR RANDOM TOPOLOGY  
+  
+(51) International classification  :G08C 17/00 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA 
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)Mr. Vivek Shankar Deshpande 
+      Address of Applicant :D-19  Prathmesh  Chintamani Nagar  
+Bibwewadi  Pune 411037 Maharashtra India 
+(72)Name of Inventor : 
+   1)Mr. Vivek shankar Deshpande 
+   2)Jagdish B Helonde 
+   3)Vijay M Wadhai  
+(57) Abstract : 
+When several sensors observe an event and try to periodically report it  congestion around sink may set or when many sensors stream 
+data to a sink  congestion around the sink may occur. The congestion in the network leads to packet loss and it costs precious energy. 
+This shortens the lifetime of nodes. This also adversely affects the data traffic. With the help of proposed congestion avoidance and 
+control mechanism algorithm we can achieve the increased lifetime and increase in the Packet Delivery Ratio. The invention is 
+described by way of example with reference to the following drawings FIG. 1 of sheet 1 is schematic view illustration of relay system 
+where 1 denotes sink and other points denotes various sensors 
+ 
+No. of Pages : 10 No. of Claims : 4 

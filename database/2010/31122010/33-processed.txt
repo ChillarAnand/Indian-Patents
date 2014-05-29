@@ -1,0 +1,22 @@
+Application number  =>  1334/DEL/2010 A 
+
+Date of filing of application number  =>  09/06/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  ELECTRICAL JUNCTION BOX 
+
+Name of applicant  =>  1)SUMITOMO WIRING SYSTEMS, LTD. 
+
+Name of inventor  =>  1)SHUNSUKE MIZUKAMI 
+
+International Classification  =>  H02G3/08 
+
+Priority Doc No  =>  JP2009-150237 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  To provide an electrical junction box having a new structure that can prevent an unused fuse from being broken and can easily house and remove the unused fuse. A casing body 12 is provided with an unused fuse containing section 24 that is open in the same direction as an opening direction of the casing body 12. The unused fuse containing section 24 is provided on a periphery with at least one protective wall 28. A cover member 14 for closing an opening 16 in the casing body 12 is provided at a position opposed to the unused fuse containing section 24 with a presser portion 66 for preventing an unused fuse 36 from disconnecting from the unused fuse containing section 24. 
+

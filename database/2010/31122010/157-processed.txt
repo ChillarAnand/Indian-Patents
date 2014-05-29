@@ -1,0 +1,22 @@
+Application number  =>  4142/KOLNP/2010 A 
+
+Date of filing of application number  =>  03/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  DRY-TYPE TRANSFORMER 
+
+Name of applicant  =>  1)ABB TECHNOLOGY AG 
+
+Name of inventor  =>  1)JOHNSON, CHARLES W. 2)LEANDER, JAN 3)BILEK, KAREL 4)WEBER, BENJAMIN 
+
+International Classification  =>  H01F 27/30 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/EP2008/003820 
+
+International Publication Number  =>  WO 2009/138095 
+
+Abstract  =>  The invention relates to a dry-type transformer comprising at least one high-voltage winding and at least one low-voltage winding which interact by means of an electromagnetic field. Every winding is constituted of winding conductors, the high-voltage winding and the low-voltage winding having a defined distance to each other, spacers (10) being provided between the windings to maintain said distance. The invention further relates to a method for producing the spacers (10). 
+

@@ -1,0 +1,22 @@
+Application number  =>  1264/CHENP/2011 A 
+
+Date of filing of application number  =>  23/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  SYSTEM AND METHOD FOR COMMUNICATING INFORMATION BETWEEN IMPLANTABLE DEVICES 
+
+Name of applicant  =>  1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+
+Name of inventor  =>  1)MARTENS Hubert Cecile Francois 2)BUDZELAAR Franciscus Paulus Maria. 3)TOL Jeroen Jacob Arnold 
+
+International Classification  =>  A61B5/00, A61N1/372 
+
+Priority Doc No  =>  08161331.7 
+
+International Application Number  =>  PCT/IB2009/053165 
+
+International Publication Number  =>   
+
+Abstract  =>  A system (2000) for communicating information between at least two medical devices implanted within the body of a subject using volume conduction of electrical signals as a means of communication and wherein one of the implanted medical devices is configured to provide electrical stimulation to the tissue is disclosed. The system comprises a first implant device (202) having at least two transmit electrodes (204, 206) configured to transmit electrical stimulation pulses, wherein one of the electrodes may be a common return electrode, an encoding means (240) configured to employ a channel as a transmission medium for stimulation pulses and encoding the information into the stimulation pulses, a second implant device (252) having at least two receive electrodes (254, 256) Fig.2a 
+

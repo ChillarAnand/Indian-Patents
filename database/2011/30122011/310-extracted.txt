@@ -1,0 +1,45 @@
+The Patent Office Journal 30/12/2011 
+ 
+25647
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1401/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :28/02/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : FLEXIBLE SUBSTRATE AND ELECTRIC CIRCUIT STRUCTURE  
+  
+(51) International classification  :H05K1/11, G02F1/1345  
+(31) Priority Document No  :2008-207186  
+(32) Priority Date  :11/08/2008 
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date 
+:PCT/JP2009/063726
+:03/08/2009 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)SHARP KABUSHIKI KAISHA 
+      Address of Applicant :22-22  Nagaike-cho  Abeno-ku  Osaka-
+shi  Osaka 5458522  Japan 
+(72)Name of Inventor : 
+   1)Yukihiro SUMIDA 
+   2)Takeshi MURAOKA  
+(57) Abstract : 
+Provided is a flexible substrate wherein a connection portion between the flexible substrate and an electric circuit board meets 
+requirements of narrow wiring pitch and low resistance at the connection portion. An electric circuit structure, which has the flexible 
+substrate and the electric circuit board to which the flexible substrate is connected, is also provided. A wiring pattern (22) is formed on 
+a flexible base film (21), a connection terminal (25) connected electrically to an electrode terminal of another electric circuit board is 
+arranged at an end portion of the wiring pattern (22), and the connection terminal (25) includes wide connection terminals (25b, 25c) 
+having a terminal width extending across plural lines of the wiring pattern (22). [Figure 2] 
+  
+ 
+No. of Pages : 25 No. of Claims : 5 

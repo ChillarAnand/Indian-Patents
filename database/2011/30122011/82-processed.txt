@@ -1,0 +1,22 @@
+Application number  =>  2155/DELNP/2011 A 
+
+Date of filing of application number  =>  22/03/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  OVENIZED CRYSTAL OSCILLATOR ASSEMBLY 
+
+Name of applicant  =>  1)CTS CORPORATION 
+
+Name of inventor  =>  1)STOLPMAN JAMES 
+
+International Classification  =>  H03L 1/04 
+
+Priority Doc No  =>  61/195,164 
+
+International Application Number  =>  PCT/US2009/059213 
+
+International Publication Number  =>  WO 2010/039946 
+
+Abstract  =>  An oscillator assembly includes a substrate having a top surface, a bottom surface, and a plurality of side surfaces. At least one of the side surfaces has at least one castellation which is covered with conductive material and includes a lower end spaced from the bottom surface of the substrate. The space is defined by an elongate groove in the side surface which is devoid of conductive material and extends between the lower end of the castellation and the bottom surface of the substrate to eliminate the risk of a short circuit with any of the connection pads on a customer's motherboard. The oscillator assembly further incorporates an oscillator circuit in which a current limiting resistor is located in series between the power supply and the heater control circuit. 
+

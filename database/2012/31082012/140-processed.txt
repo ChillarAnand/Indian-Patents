@@ -1,0 +1,22 @@
+Application number  =>  3006/CHENP/2011 A 
+
+Date of filing of application number  =>  03/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  PHOSPHORUS-CONTAINING SILSESQUIOXANE DERIVATIVES AS FLAME RETARDANTS 
+
+Name of applicant  =>  1)3M INNOVATIVE PROPERTIES COMPANY 
+
+Name of inventor  =>  1)LIM, LISA, S. 2)PYUN, EUMI 3)RULE, JOSEPH, D. 
+
+International Classification  =>  C07F9/40, C08G 59/30 
+
+Priority Doc No  =>  12/263,704 
+
+International Application Number  =>  PCT/US09/062912 
+
+International Publication Number  =>  WO 2010/062709 A2 
+
+Abstract  =>  A phosphorus-containing silsesquioxane is represented by the formula [Rl3SiO1/2]m[R2SiO3/2]n[R3siO3/2]p[(R4O)2PO(CH2)xSiO3/2]q wherein each of R1, R2, R3, and R4 independently represents a hydrocarbyl group; x represents an integer of from 1 to 8; m is a positive number less than 1.5; n and q are positive numbers greater than 0 and less than 1; and p is a number greater than or equal to 0 and less than 1. Further, (n + p)/q is in a range of from 0.5 to 99, and (n + p + q) = 1. Curable and cured compositions comprising the phosphorus-containing silsesquioxane are disclosed. 
+

@@ -1,0 +1,46 @@
+The Patent Office Journal 31/12/2010 
+ 
+5309
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1455/DEL/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :23/06/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : MULTISTAGE COMPRESSOR INSTALLATION  
+  
+(51) International classification  :F04D17/12; 
+(31) Priority Document No  :12/490,819 
+(32) Priority Date  :24/06/2009
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  :NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)PRAXAIR TECHNOLOGY, INC. 
+      Address of Applicant :39 OLD RIDGEBURY ROAD, 
+DANBURY, CONNECTICUT 06810, U.S.A.   
+(72)Name of Inventor : 
+   1)ROBERT LEROY BAKER 
+   2)JEFFREY CHARLES GOODBAND 
+   3)RICHARD JOHN JIBB 
+   4)JOHN HENRI ROYAL  
+(57) Abstract : 
+A multistage compressor installation in which compression stages utilizing centrifugal compressors are independently driven by 
+drivers that can be electric motors configured to be controlled by a speed controller. Intercoolers are located between stages to remove 
+the heat of compression and the stages are connected such that outlets are located opposite to inlets of the compressors and conduits 
+connecting the intercoolers to the stages are in an in-line relationship to inhibit the formation of pressure drops between stages. The 
+conduits connecting the stages incorporate tapered transition sections configured such that flow velocity gradually decreases towards 
+the intercooler and gradually increases from the intercooler to the next succeeding compression stage to further inhibit pressure drops.
+  
+  
+No. of Pages : 26 No. of Claims : 14 

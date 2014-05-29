@@ -1,0 +1,51 @@
+The Patent Office Journal 31/12/2010 
+ 
+5363
+(12) PATENT APPLICATION PUBLICATION (21) Application No.4045/CHENP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :30/06/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : PROCESS FOR POLYMERIZING OLEFIN-BASED POLYMERS  
+  
+(51) International classification  :C08F10/14  
+(31) Priority Document No  :61/017,986  
+(32) Priority Date  :31/12/2007 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US08/087581
+:19/12/2008 
+(87) International Publication No  :WO/2009/088701 A1  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)DOW GLOBAL TECHNOLOGIES INC 
+      Address of Applicant :2040 DOW CENTRE, MIDLAND, 
+MICHIGAN 48674 U.S.A. 
+(72)Name of Inventor : 
+   1)JORGENSEN, ROBERT 
+   2)WAGNER, BURKHARD 
+   3)TURNER, MICHAEL  
+(57) Abstract : 
+A process for producing an olefin-based polymer, said process comprising polymerizing at least one monomer, in the gas phase, or in 
+a slurry process, in the presence of at least the following components: A) at least one catalyst; B) at least one cocatalyst; C) a 
+composition comprming at least one compound selected from formula (I), and/or at least one compound selected from formula (11): 
+(RICO2)2 A1OH (I), (R2)xN(R3OH)y(II); wherein R1 is a hydrocarbon radical containing from 13 to 25 carbons; R2 is a 
+hydrocarbon radical containing from 14 to 26 carbons; R3 is a hydrocarbon radical containing from 1 to 4 carbons; and x + y = 3, and 
+x has a value of 1 or 2. A process for producing an olefin-based polymer, said process comprising polymerizing at least one monomer 
+in the presence of at least the following components: A) a Ziegler Natta type catalyst comprising at least two transition metals; B) a 
+trialkylaluminum compound; C) optionally a composition comprising at least one compound selected from formula (I), and/or at least 
+one compound selected from formula (II): (RICO2)2 AIOH (I), (R2)xN(R3OH)y(II); wherein R1 is a hydrocarbon radical containing 
+from 13 to 25 carbons; R2 is a hydrocarbon radical containing from 14 to 26 carbons; R3 is a hydrocarbon radical containing from 1 to 
+4 carbons; and x + y = 3, and x has a value of 1 or 2. 
+  
+  
+No. of Pages : 67 No. of Claims : 17 

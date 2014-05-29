@@ -1,0 +1,22 @@
+Application number  =>  2899/CHENP/2011 A 
+
+Date of filing of application number  =>  28/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  PROVISIONED PROVIDER LINK STATE BRIDGING (PLSB) WITH ROUTED BACK-UP 
+
+Name of applicant  =>  1)NORTEL NETWORKS LIMITED 
+
+Name of inventor  =>  1)DAVID ALLAN 2)NIGEL BRAGG 3)HADI NASRALLAH 4)PREBEN HUNNERUP 
+
+International Classification  =>  H04L29/14, H04L12/56 
+
+Priority Doc No  =>  12/259,560 
+
+International Application Number  =>  PCT/CA09/001505 
+
+International Publication Number  =>  WO 2010/048697 A1 
+
+Abstract  =>  A method of managing traffic flow in a packet network, the method comprising: providing a working sub-network comprising one or more provisioned static working paths between at least one source node and one or more destination nodes in the network, and associating a service instance with the working sub-network; providing a dynamic backup sub-network comprising one or more dynamically maintained protection paths between the at least one source node and the one or more destination nodes, and associating the service instance with the dynamic backup sub-network; during a normal operation of the network, forwarding subscriber traffic associated with the service instance through the network using the working sub-network; and following detection of a network failure affecting the service instance, switching the subscriber traffic associated with the service instance for forwarding through the network using the dynamic backup sub-network. 
+

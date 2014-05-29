@@ -1,0 +1,46 @@
+ 
+The Patent Office Journal 31/08/2012 
+13383
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1906/MUM/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :01/07/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : A SYSTEM AND METHOD FOR INTEGRATING BIOMETRIC AND DEMOGRAPHIC DATA  
+  
+(51) International classification  :G06F3/00 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  :N/A  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)VFS GLOBAL SERVICES PVT. LTD. 
+      Address of Applicant :9TH FLOOR, UEMI ESTATE, 95, 
+GANPATRAO KADAM MARG, NEAR LOWAR PAREL 
+STATION, LOWER PAREL(W), MUMBAI - 400 013, 
+MAHARASHTRA, INDIA.   
+(72)Name of Inventor : 
+   1)LAHIRY UTTAM  
+(57) Abstract : 
+The present disclosure envisages a computer implemented system for capturing and integrating biometric data item(s) and 
+demographic data item(s) corresponding to users. The system includes a capturing module for capturing biometric data item(s) and 
+demographic data item(s) corresponding to a first user. The captured biometric data item(s) and demographic data item(s) are 
+temporarily stored in a repository. The system includes a user interface accessible to at least one second user and configured to display 
+selectable biometric data item(s) and demographic data item(s) for the purpose of selection. The biometric data item(s) and 
+demographic data item(s) specified by the user are selected from the repository by the selector and are controllably interlinked by a 
+linker. The biometric item(s) and demographic data item(s) selected by the selector are further integrated to form an integrated profile. 
+Subsequent to integration the biometric data item(s) and demographic data item(s) are permanently erased from the repository. 
+ 
+No. of Pages : 21 No. of Claims : 12 

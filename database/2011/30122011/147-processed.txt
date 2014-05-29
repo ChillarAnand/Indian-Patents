@@ -1,0 +1,22 @@
+Application number  =>  1050/MUMNP/2011 A 
+
+Date of filing of application number  =>  24/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  SYNTHESIS OF FUCOSYLATED COMPOUNDS 
+
+Name of applicant  =>  1)JENNEWEIN BIOTECHNOLOGIE GMBH 
+
+Name of inventor  =>  1)HFNER Eric 2)PARKOT Julia 3)JENNEWEIN Stefan 
+
+International Classification  =>  C12N 1/21,A23L 1/29 
+
+Priority Doc No  =>  08172267.0 
+
+International Application Number  =>  PCT/EP2009/067531 
+
+International Publication Number  =>  WO/2010/070104 
+
+Abstract  =>  A method for making a genetically modified cell having the ability to produce fucosylated compounds comprising the steps of - transforming the cell to express a fucose kinase - transforming the cell to express a fucose-1-phosphate guanylyltransferase - transforming the cell to express a fucosyltransferase. 
+

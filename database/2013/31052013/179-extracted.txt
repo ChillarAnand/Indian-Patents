@@ -1,0 +1,43 @@
+The Patent Office Journal 31/05/2013 12150
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9968/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :29/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : METHOD AND SYSTEM FOR DIAGNOSING APPARATUS
+(51) International classification :G06F 11/22
+(31) Priority Document No :200910188485.0
+(32) Priority Date :30/11/2009
+(33) Name of priority country :China
+(86) International Application No
+Filing Date
+:PCT/CN2010/079142
+:25/11/2010
+(87) International Publication No : NA
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)Huawei Technologies Co. Ltd.
+Address of Applicant :Huawei Administration Building
+Bantian Longgang District Shenzhen Guangdong 518129 P.R.
+China.
+(72)Name of Inventor :
+1)WANG Feizhou
+2)TAO Lin
+3)LI Yi
+4)CHANG Lin
+(57) Abstract :
+A method and a system for diagnosing an apparatus are provided. The method for diagnosing the apparatus comprises:
+determining whether the apparatus is to enter a diagnostic mode after a system is started; performing a diagnosis of the apparatus
+by executing a diagnostic program when the apparatus is determined to enter the diagnostic mode; and performing a normal BIOS
+or EFI startup when the apparatus is determined not to enter the diagnostic mode. An accurate diagnosis of the apparatus can be
+realized by firstly determining whether the apparatus is to enter a diagnostic mode after a system is started, if yes, then the
+apparatus entering the diagnostic mode, and if not, then the apparatus performing a normal BIOS or EFI startup. Moreover, in case
+of a memory or PCI/PCIB bus error in the apparatus, since the diagnostic program is loaded prior to the BIOS startup, the fault
+can be diagnosed.
+No. of Pages : 20 No. of Claims : 12

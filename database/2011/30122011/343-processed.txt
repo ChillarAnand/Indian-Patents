@@ -1,0 +1,22 @@
+Application number  =>  995/CHENP/2011 A 
+
+Date of filing of application number  =>  11/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  PROCESS FOR PROVIDING AN ASSEMBLY OF CELL MICROCARRIERS 
+
+Name of applicant  =>  1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+
+Name of inventor  =>  1)HALTER David 2)PEETERS Emiel 3)PENTERMAN Roel 4)KURT Ralph 5)BROER Dirk J. 
+
+International Classification  =>  C12N5/00 
+
+Priority Doc No  =>  08104740.9 
+
+International Application Number  =>  PCT/IB2009/052757 
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention is related to a process for providing an assembly of cell microcarriers, comprising the steps of providing planar, two-dimensional objects having two sides (flakes), wherein these objects comprise a material which, upon application of an extrinsic stimulus, is transferred from the planar state into a rolled state, providing cells on one side of said flakes (cell-bearing side), transferring the flakes from the planar state into a rolled state (cell wrap) by application of said extrinsic stimulus, and coupling at least one type of binding agent to the flakes (Fig. 2) 
+

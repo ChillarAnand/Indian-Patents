@@ -1,0 +1,22 @@
+Application number  =>  546/MUMNP/2012 A 
+
+Date of filing of application number  =>  05/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  PHARMACEUTICAL COMPOSITION COMPRISING TRANSIENTLY SURVIVING CTL 
+
+Name of applicant  =>  1)THE UNIVERSITY OF TOKYO 
+
+Name of inventor  =>  1)YAMASHITA, NAOHIDE 2)NAGAYAMA, HITOMI 3)FUJITA, SHIGEHARU 
+
+International Classification  =>  A61K 35/28 
+
+Priority Doc No  =>  2009-188251 
+
+International Application Number  =>  PCT/JP2010/063181 
+
+International Publication Number  =>  WO/2011/021503 
+
+Abstract  =>  Disclosed are transplantation cells for an immunotherapy, which are applicable to a wider variety of patients compared to conventional transplantation cells for immunotherapies, and which can survive transiently so that severe GVH disease cannot be induced. Specifically disclosed is a pharmaceutical composition containing cells derived from human hematopoietic stem cells. In the pharmaceutical composition, the genetic locus of at least one human HLA class I molecule in the cells contains at least one antigen for which the type of matching of the cell is identical to that of a patient. The genetic locus of each of the human HLA class I and II molecules in the cells contains at least one antigen for which the type of matching of the cell is not identical to that of a patient, and the cells derived from the hematopoietic stem cells do not cause acute GVH disease having a severity of level III or IV in the body of a patient even when the cells survive in the patient permanently. 
+

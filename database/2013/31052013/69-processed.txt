@@ -1,0 +1,22 @@
+Application number  =>  2813/CHENP/2012 A 
+
+Date of filing of application number  =>  27/03/2012 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  TREATMENT ELEMENT FOR TREATING MATERIAL IN A MULTI-SHAFT WORM MACHINE MULTI-SHAFT WORM MACHINE 
+
+Name of applicant  =>  1)COPERION GMBH 
+
+Name of inventor  =>  1)BURKHARDT, ULRICH 
+
+International Classification  =>  B29C 47/40 
+
+Priority Doc No  =>  09012358.9 
+
+International Application Number  =>  PCT/EP2010/062660 
+
+International Publication Number  =>  WO 2011/039016A1 
+
+Abstract  =>  A treatment element (31, 32) to treat material in a multi-shaft worm machine has an outer contour (A(∆ф)) with at least one outer contour portion (A(∆ф)), the associated evolute (E) of which is a quantity of at least three points, each of t he points lying outside the longitudinal axis (M) and within the outer radius (Ra ) of the treatment element (31, 32) and two respective adjacent points having a spacing from one another, which is less than half the core radius (Rj). The treatment element (31, 32) ensures high flexibility during the adjustment of shear and/or extensional flows on the material to be treated. 
+

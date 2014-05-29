@@ -1,0 +1,44 @@
+ 
+The Patent Office Journal 31/08/2012 
+13758
+(12) PATENT APPLICATION PUBLICATION (21) Application No.753/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :26/03/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : ORGANIC PHOTOVOLTAIC CELL STRUCTURE  
+  
+(51) International classification  :H01L 31/04  
+(31) Priority Document No  :61/237,824  
+(32) Priority Date  :28/08/2009 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/CA2010/001316
+:27/08/2010 
+(87) International Publication No  :WO/2011/022825  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)POWNALL-RYAN, CHARLES V 
+      Address of Applicant :38 TORR LANE, AJAX, ONTARIO 
+LIS 7 M9 (CA). Canada 
+(72)Name of Inventor : 
+   1)POWNALL-RYAN, CHARLES V  
+(57) Abstract : 
+The present invention provides a photovoltaic (PV) cell structure for enabling the conversion of incident light to potential electrical 
+energy. The PV cell comprises at least one energy guiding means for converting incident light to potential electrical energy. The 
+energy guiding means includes at least one electron donor and at least one electron acceptor adapted to be linked to a load 
+therebetween. The electron donor is operable to release electrons based on absorption of photons and the electron acceptor may be 
+operable to accelerate photons towards the electron donor and attract electrons released by the electron donor. The electron donor may 
+include at least one photon receptor adapted to have a surface disposed at an angle normal to a range of incident photon angles. 
+  
+  
+No. of Pages : 50 No. of Claims : 16 

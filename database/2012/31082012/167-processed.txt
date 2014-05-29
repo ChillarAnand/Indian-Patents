@@ -1,0 +1,22 @@
+Application number  =>  3047/CHENP/2011 A 
+
+Date of filing of application number  =>  04/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  WIRELESS POWER AND DATA TRANSFER FOR ELECTRONIC DEVICES 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)MILES A. KIRBY 2)ERNEST T. OZAKI 3)RINAT BURDO 4)VIRGINIA W. KEATING 5)MICHAEL J. MANGAN 6)ANNE KONERTZ 7)PAUL E. JACOBS 8)WILLIAM H. VON NOVAK 9)ROY FRANKLIN QUICK JR. 10)ROY H. DAVIS 11)NIGEL P. COOK 12)LUKAS SIEBER 13)HANSPETER WIDMER 
+
+International Classification  =>  H02J5/00, H02J 7/02 
+
+Priority Doc No  =>  61/114,436 
+
+International Application Number  =>  PCT/US2009/068580 
+
+International Publication Number  =>  WO 2010/057224 A1 
+
+Abstract  =>  Exemplary embodiments are directed to wireless power. A wireless charging device may comprise a charging region configured for placement of one or more chargeable devices. The charging device may further include at least one transmit antenna configured for transmitting wireless power within the charging region. Furthermore, the charging device is configured to exchange data between at least one chargeable device of the one or more chargeable devices. 
+

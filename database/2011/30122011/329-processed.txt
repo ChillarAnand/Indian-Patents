@@ -1,0 +1,22 @@
+Application number  =>  915/CHENP/2011 A 
+
+Date of filing of application number  =>  09/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  NOX REMOVAL CATALYST FOR HIGH-TEMPERATURE FLUE GAS, MANUFACTURING METHOD THEREOF, AND NOX REMOVAL METHOD FOR HIGH-TEMPERATURE FLUE GAS 
+
+Name of applicant  =>  1)MITSUBISHI HEAVY INDUSTRIES, LTD. 
+
+Name of inventor  =>  1)NOCHI, KATSUMI 2)YASUTAKE, TOSHINOBU 3)YONEMURA, MASANAO 
+
+International Classification  =>  B01D53/94, B01D 53/86 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/JP2009/067414 
+
+International Publication Number  =>  WO 2011/042953 
+
+Abstract  =>  A NOx removal catalyst for high-temperature flue gas according to the present invention is a NOx removal catalyst for high- temperature flue gas that contains nitrogen oxide in which tungsten oxide with the number of molecular layers of tungsten oxide (WO3) being five or less is supported on a complex oxide carrier containing titanium oxide. Even when high-temperature denitration is continued,, a bonding force with a carrier of WO3 can be properly maintained and volatilization can be suppressed while maintaining a high NOx removal performance. For example, the NOx removal catalyst is particularly suitable for reducing and removing nitrogen oxide contained in high- temperature gas discharged from a thermal power plant and a high-temperature boiler. 
+

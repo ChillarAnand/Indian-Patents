@@ -1,0 +1,45 @@
+The Patent Office Journal 31/12/2010 
+ 
+5337
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1489/MUM/2009 A 
+(19) INDIA  
+(22) Date of filing of Application :23/06/2009 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : INFORMATION SYSTEMS  
+  
+(51) International classification  :G06T17/00 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)TATA CONSULTANCY SERVICES LIMITED 
+      Address of Applicant :NIRMAL BUILDING, 9TH FLOOR, 
+NARIMAN POINT, MUMBAI-40021, MAHARASHTRA, 
+INDIA.   
+(72)Name of Inventor : 
+   1)CHAKRABARTY TANMOY  
+(57) Abstract : 
+A system and method for managing digitization of information in plurality of working environments is provided, the system including 
+an information storage means, input means, file management means, business application means, dashboard means, administrative 
+application supporting means collation means, data management means, workflow means and organization model means. The 
+information is inputted using input means, information is given to knowledge management means for further capture, storage and 
+dissemination. The system also supports file management in plurality of working environments using file management means, 
+business application support by governing functions of a business using business application means. The dashboard means works as 
+central console for various subsystems. All the information is stored in plurality of databases using information storage means. 
+  
+  
+No. of Pages : 48 No. of Claims : 19 

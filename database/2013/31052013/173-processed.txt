@@ -1,0 +1,22 @@
+Application number  =>  9962/CHENP/2011 A 
+
+Date of filing of application number  =>  29/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  A METHOD AND AN APPARATUS FOR CONTINUOUSLY STERILIZING WATER FOR SPRAYING THE PISTONS IN A PISTON PUMP OR A HOMOGENIZER 
+
+Name of applicant  =>  1)Tetra Laval Holdings & Finance S.A. 
+
+Name of inventor  =>  1)JOHANSSON Fredrik 
+
+International Classification  =>  C02F 9/10 
+
+Priority Doc No  =>  0900901-0 
+
+International Application Number  =>  PCT/SE2010/000173 
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention relates to a method and an apparatus for continuously sterilizing water for spraying the pistons in a piston pump or a homogenizer. The heating takes place in a first stage in a first heat exchanger (3) and in a second stage in a second heat exchanger (5). The first heat exchanger (3) operates regeneratively so that incoming cold water is heated in the first heat exchanger (3) by water which has been heated by steam in the second heat exchanger. After the second heat exchanger (5) the water is at a temperature of at least 1210°C and is to stay at this temperature in a holding cell (8) during a predetermined period of time. After the water has been cooled regeneratively in the first heat exchanger (3) it is to be at a temperature which exceeds 75°C. 
+

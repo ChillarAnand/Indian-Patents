@@ -1,0 +1,39 @@
+The Patent Office Journal 31/05/2013 12114
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9893/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :28/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : CYLINDER-PISTON UNIT OF A DISPOSABLE INJECTOR HAVING INCREASED
+OPERATIONAL SAFETY
+(51) International classification :A61M 5/30
+(31) Priority Document No :10 2009 031 303.6
+(32) Priority Date :30/06/2009
+(33) Name of priority country :Germany
+(86) International Application No
+Filing Date
+:PCT/EP2010/03674
+:17/06/2010
+(87) International Publication No : NA
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)LTS Lohmann Therapie-Systeme AG
+Address of Applicant :Lohmannstrasse 2 D-56626
+Andernach Germany
+(72)Name of Inventor :
+1)MATUSCH Rudolf
+(57) Abstract :
+The invention relates to a cylinder-piston unit (10) of a one-time injector having at least one penetration (25) connecting the
+cylinder interior (31) to a face end opening (29). The end face (12) of the cylinder-piston unit comprises a press- in area (60)
+surrounding the opening and a press-on area (80) surrounding the press-on area. The press-in area comprises an interior bar (62)
+bounding the opening and an external bar (63). The bars bound a recess surrounding the interior bar the depth thereof measured
+parallel to the center axis (15) of the cylinder- piston unit is at least a fourth of the width thereof in a plane oriented normal
+thereto. The press-on area is shifted at least during an injection against the injec¬tion direction (2) toward the end face (61) of
+the insertion area.
+No. of Pages : 26 No. of Claims : 10

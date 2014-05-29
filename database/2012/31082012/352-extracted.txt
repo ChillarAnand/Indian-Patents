@@ -1,0 +1,47 @@
+ 
+The Patent Office Journal 31/08/2012 
+13411
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3410/MUM/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :05/12/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : MULTI LEVEL LOW FREQUENCY TECHNOLOGY FOR INCITING MINERALS IN WATER TO 
+PREVENT HARD SCALE & COMBO EFFECT OF ULTRA SOUND WITH METAL IONS IMPLEMENTATION TO PREVENT 
+BIO FOULING  
+  
+(51) International classification  :C02F1/48 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)MR.SUBODH SAWANT 
+      Address of Applicant :15, VARSHADEEP VANSHRUSHTI 
+NAGAR, BADLAPUR [W], THANE - 421503 Maharashtra India
+(72)Name of Inventor : 
+   1)MR. SUBODH SAWANT  
+(57) Abstract : 
+Equipment for Water treatment using multilevel low frequency technology for inciting minerals in water to prevent hard scale and 
+effect of ultrasound with metal ions implementation to prevent Bio fouling. An equipment for auto ascendancy and prevention bio 
+foulness in still and unclear water is in non-chemical way, the said equipment comprises of: 1) Power unit 2) Bio- fouling control unit 
+3) Descaling unit 4) Reservoir which includes microprocessor based multi frequency circuit wherein, said circuit includes: a) set of 
+metal electrodes immersed in a cooling lower sump and electrically connected to 110/230V AC wherein when current passes through 
+the metal electrodes ionization takes place and minor amount of metal parts are released in water for prevention of bacteria, algae. 
+b)the set of inductors coils immersed in a cooling lower sump connected electrically to i 10/230 V AC here in current passes through 
+inductor coil to generate low level frequencies in water because of which there is less precipitation of chemicals like calcium and 
+magnesium salt on the reservoir body. 
+ 
+No. of Pages : 13 No. of Claims : 3 

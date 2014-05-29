@@ -1,0 +1,22 @@
+Application number  =>  2890/CHENP/2011 A 
+
+Date of filing of application number  =>  28/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  SEPARATING LAYER FOR SEPARATING THE ANODE CATHODE IN LITHIUM-ION ACCUMULATORS OR BATTERIES 
+
+Name of applicant  =>  1)CERAMTEC GMBH 
+
+Name of inventor  =>  1)KELNBERGER, ALFONS 2)SCHREINER, HANS-JURGEN 
+
+International Classification  =>  H01M2/14, H01M10/0525, H01M10/0565 
+
+Priority Doc No  =>  10 2008 043 272.5 
+
+International Application Number  =>  PCT/EP09/064266 
+
+International Publication Number  =>  WO 2010/049478 A1 
+
+Abstract  =>  To prevent electronic short-circuiting between the anode and cathode in Li ion accumulators or batteries, an electronic separation of anode must be present with minimal electronic separation of anode must be present with minimal electronic conductivity. To this end, in general a separating layer (separator) in the form of porous films, non-woven fabrics or nets made of polypropylene or similar polymers and containing Li ion-conducting salts and ceramic particles is used. Disadvantages of the known separating layers are the low thermal resistance and thereby the low operational safety, in particular for large volume embodiments with a high energy content, expensive manufacturing processes and complex interactions of the chemical substances used in the separating layers. According to the invention, therefore, a separating layer is proposed in which the Li ion- conducting salts and the ceramic particles are embedded in an organic matrix of polymers or polymeric substances when the separating layer is manufactured. 
+

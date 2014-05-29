@@ -1,0 +1,22 @@
+Application number  =>  1075/CHENP/2011 A 
+
+Date of filing of application number  =>  16/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  VERSATILE 3-D PICTURE FORMAT 
+
+Name of applicant  =>  1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+
+Name of inventor  =>  1)BRULS Wilhelmus H. A. 2)KLEIN GUNNEWIEK Reinier B. M. 3)VAN DER HEIJDEN Gerardus W. T. 4)NEWTON Philip S. 
+
+International Classification  =>  H04N13/02 
+
+Priority Doc No  =>  08305420.5 
+
+International Application Number  =>  PCT/IB2009/053180 
+
+International Publication Number  =>   
+
+Abstract  =>  A 3-D picture is provided as follows. A pair of pictures (LP, RP) is provided that comprises a first picture (LP) being intended for one eye of a viewer, and a second picture (RP) being intended for the other eye of the viewer. In addition, a depth map (DM) specifically dedicated to the first picture (LP) is provided. The depth map (DM) comprises depth indication values. A depth indication value relates to a particular portion of the first picture (LP) and indicates a distance between an object at least partially represented by that portion of the first picture and the viewer. Such a 3-D picture allows a satisfactory 3-D visual rendering on a great variety of display devices. Preferably, the 3-D picture is supplemented with rendering guidance data (GD) that specifies respective parameters for respective rendering contexts. Fig. 2 
+

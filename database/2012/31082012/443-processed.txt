@@ -1,0 +1,22 @@
+Application number  =>  1062/MUMNP/2012 A 
+
+Date of filing of application number  =>  26/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  COMMUNICATION CAPACITY EVALUATING APPARATUS, RADIO RELAY APPARATUS AND COMMUNICATION CAPACITY EVALUATING METHOD 
+
+Name of applicant  =>  1)PANASONIC CORPORATION 
+
+Name of inventor  =>  1)YOKOUCHI, YASUO 2)IMAI, JUN 3)SHIMIZU, TOMOAKI 4)AMAO, YUKINORI 5)KU, RICHOL 6)SOTOYAMA, TAKAYUKI 
+
+International Classification  =>  H04J 99/00 
+
+Priority Doc No  =>  2009-260222 
+
+International Application Number  =>  PCT/JP2010/006395 
+
+International Publication Number  =>  WO/2011/058711 
+
+Abstract  =>  Provided is a communication capacity evaluating apparatus whereby the communication capacity can be grasped and the necessity of changing the content of a dead spot measure after the placement of a relay apparatus can be eliminated. In the communication capacity evaluating apparatus, a system information analyzing unit (121) acquires, from a received signal, used-band information of the communication using a MIMO mode. An S/N calculating unit (122) analyzes the received signal to determine a signal-to-noise ratio. A channel estimating unit (123) analyzes the received signal to determine a channel matrix. A throughput limit calculating unit (124) calculates the limit value of the communication capacity on the basis of the used-band information, information about the number of transmission antennas of a base station (180), information about the number of reception antennas of a radio relay apparatus (100) stored in advance, the signal-to-noise ratio and the channel matrix. A display unit (133) displays the result of a comparison between the limit value and a desired value of communication capacity set in advance. 
+

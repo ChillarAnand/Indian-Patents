@@ -1,0 +1,44 @@
+The Patent Office Journal 31/12/2010 
+ 
+5381
+(12) PATENT APPLICATION PUBLICATION (21) Application No.4093/CHENP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :01/07/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : BLOCK COUNT BASED PROCEDURE LAYOUT AND SPLITTING  
+  
+(51) International classification  :G06F9/06  
+(31) Priority Document No  :12/016,099  
+(32) Priority Date  :17/01/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2008/088483
+:29/12/2008 
+(87) International Publication No  :WO 2009/091493 A3 
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)MICROSOFT CORPORATION 
+      Address of Applicant :ONE MICROSOFT WAY, 
+REDMOND WA 98052-6399 U.S.A. 
+(72)Name of Inventor : 
+   1)RICHINS, GRANT A  
+(57) Abstract : 
+The present invention extends to methods, systems, and computer program products for block count based procedure layout and 
+splitting. Embodiments of the invention utilize code block counts to provide a total ordering of code blocks that improves execution 
+time of generated procedure code by minimizing branches along more frequently executed paths. The total ordering is optimized using 
+prioritized precedence relationships. For example, the total ordering is optimized to maximize the appropriate placement of code block 
+chains after other code block chains. The total ordering is also optimized to place zero count (untouched) code blocks after any non-
+zero (touched) code blocks. FIG. 1 
+  
+  
+No. of Pages : 33 No. of Claims : 20 

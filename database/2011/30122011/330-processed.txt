@@ -1,0 +1,22 @@
+Application number  =>  837/CHENP/2011 A 
+
+Date of filing of application number  =>  07/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  A SYSTEM AND METHOD FOR ENCLOSING DISTRIBUTED KIOSK SERVICE 
+
+Name of applicant  =>  1)MR. GIRISH PATIL 
+
+Name of inventor  =>  1)MR. GIRISH PATIL 
+
+International Classification  =>  G06F17/30, G06Q10/00 
+
+Priority Doc No  =>  PCT/IN2008/000597 
+
+International Application Number  =>  PCT/IN2008/000597 
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention discloses a customisable, multi-lingual, modular, distributed architectural framework for kiosks, which enable self-service to multiple users, while being aware of the users orientation and agnostic to the users mobility constraints and changes in the facility or the kiosks dispensing information. The key components of the framework are a system, which includes means to assimilate and process data from various sources, to convert the same into meaningful information and to process queries from the users. The architecture of the system of the present invention has a client-server model to enable distributed and networked processing. The system of the present invention further encompasses the means to place advertisements, gather summary information, presented as reports, allow the user to provide feedback and access help material for navigation. A method to enable this distributed framework, which encompasses the main features of the system, is also proposed in this invention. 
+

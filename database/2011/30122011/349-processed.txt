@@ -1,0 +1,22 @@
+Application number  =>  998/CHENP/2011 A 
+
+Date of filing of application number  =>  11/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD AND SYSTEM FOR PREVENTING OVERHEARING OF PRIVATE CONVERSATIONS IN PUBLIC PLACES 
+
+Name of applicant  =>  1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+
+Name of inventor  =>  1)MASON Jonathan David 2)LOENEN Evert Jan van 3)BULLENS Gerardus 
+
+International Classification  =>  G10K11/175 
+
+Priority Doc No  =>  08160716.0 
+
+International Application Number  =>  PCT/IB2009/052996 
+
+International Publication Number  =>   
+
+Abstract  =>  A method for preventing overhearing of private conversations in public spaces is disclosed. The method comprises detecting the social activity of the people in the public space and assessing the social situation and adapting the degree of sound masking and/or sound absorption at the desired locations to suit the assessed social situation. The method can be useful in public environments such as airports, city centers, club, bars, cafes and shopping centers where it is required to prevent overhearing of private conversations. Fig.1&2 
+

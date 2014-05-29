@@ -1,0 +1,22 @@
+Application number  =>  723/MUMNP/2012 A 
+
+Date of filing of application number  =>  21/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  GEAR GRINDING MACHINE 
+
+Name of applicant  =>  1)MITSUBISHI HEAVY INDUSTRIES, LTD. 
+
+Name of inventor  =>  1)OCHI MASASHI 2)YANASE YOSHIKOTO 
+
+International Classification  =>  B24B 53/075 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/JP2009/066951 
+
+International Publication Number  =>  WO/2011/039838 
+
+Abstract  =>  Provided is a gear grinding machine the maintainability of which can be improved and which is capable of being miniaturized. More specifically, provided is a gear grinding machine wherein a threaded grinding stone (17) and a workpiece (W) are engaged with each other and are rotated in this state, resulting in the workpiece (W) being ground, and wherein between a dressing position (P2) where the threaded grinding stone (17) can be dressed and a retreat position (P1) to which a retreat is made from the dressing position (P2) during grinding, a disk dresser (66) which, by being driven into rotation, dresses the threaded grinding stone (17) is swung about an axis (C2) which is parallel to an axis (C1) that is the rotational axis for the workpiece (W) and which intersects, at right angles, the direction in which the threaded grinding stone (17) is fed toward the workpiece (W). 
+

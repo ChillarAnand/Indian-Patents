@@ -1,0 +1,22 @@
+Application number  =>  5358/DELNP/2011 A 
+
+Date of filing of application number  =>  12/07/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHODS AND SYSTEMS FOR PRESSURE EXCHANGE 
+
+Name of applicant  =>  1)GENERAL ELECTRIC COMPANY 
+
+Name of inventor  =>  1)SHI RUIJIE 2)LAZATIN PATRICK 3)ERNO JEFFREY DAVID 4)ERNO DANIEL JASON 
+
+International Classification  =>  B01D 61/06 ;B01D 53/22 
+
+Priority Doc No  =>  12/361,647 
+
+International Application Number  =>  PCT/US2010/020862 
+
+International Publication Number  =>  WO 2010/101669 
+
+Abstract  =>  Methods and systems for energy recovery in desalination or other systems are provided to transfer the pressure energy from one fluid to anther fluid. A system for energy recovery (300) with a container comprises two sections (302,304) separated by one or plurality of flexible impermeable diaphragms (306) and pressures of the two fluids in the two sections are transmitted-during the cyclical filling and pumping operations, as well as flow control valves (308,310,312,314) As one embodiment, two flexible impermeable tubes operable to receive two fluids of different pressures respectively connect to flow control valves. The first fluid and the second fluid are separated b\ the flexible impermeable diaphragm formed by the flexible tubes. Cyclical inflows of the two fluids transmit the higher pressure of one fluid to the other through the diaphragm and transfer the energy from one fluid to the other. 
+

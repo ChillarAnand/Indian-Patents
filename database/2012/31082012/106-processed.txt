@@ -1,0 +1,22 @@
+Application number  =>  2967/CHENP/2011 A 
+
+Date of filing of application number  =>  02/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  MOBILE DEVICE AND APPLICATION SWITCHING METHOD 
+
+Name of applicant  =>  1)NTT DOCOMO, INC. 
+
+Name of inventor  =>  1)AKIKO TOBE 2)NIROU TSUCHIYA 3)MASA YUKI TSUDA 
+
+International Classification  =>  G06F9/50, H04M 1/00 
+
+Priority Doc No  =>  2008-280253 
+
+International Application Number  =>  PCT/JP2009/068492 
+
+International Publication Number  =>  WO 2010/050502 A1 
+
+Abstract  =>  An object is to switch executions of applications appropriately from one to another when a plurality of applications use a limited resource. A mobile device (1) is provided with an execution state shift unit (61) for shifting an execution state between a multiplex- execution state and a single-execution state in a multi-application execution environment, a resource release unit (62) for releasing a resource used by applications being executed in the multi-application execution environment, an application stop unit (63) for stopping an application other than the application to be executed in the single-execution state, and a resource allocation unit (64) for allocating the resource released by the resource release unit (62) to the application to be executed in the single-execution state when the execution state is shifted from the multiplex-execution state to the single-execution state by the execution state shift unit (61). 
+

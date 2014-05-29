@@ -1,0 +1,47 @@
+The Patent Office Journal 31/12/2010 
+ 
+5316
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1427/DEL/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :18/06/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : CONTROL APPARATUS, CONTROL MODEL ADJUSTING APPARATUS AND CONTROL 
+MODEL ADJUSTING METHOD  
+  
+(51) International classification  :F16H61/662 
+(31) Priority Document No  :2009-150239  
+(32) Priority Date  :24/06/2009 
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  :NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)HITACHI, LTD. 
+      Address of Applicant :6-6, MARUNOUCHI 1-CHOME, 
+CHIYODA-KU, TOKYO, JAPAN.   
+(72)Name of Inventor : 
+   1)KAYAMA MASAHIRO 
+   2)HAYASHI GOUSUKE  
+(57) Abstract : 
+A control apparatus includes a model adjustment activation unit which receives actual data from a control object at timing when a 
+stable actual controlled value is measured to thereby create model adjustment execution permission timing, a first controlled value 
+calculation unit to calculate a predicted controlled value using a current control model at timing activated by the model adjustment 
+activation unit, a second controlled value calculation unit which changes, at timing activated by the model adjustment activation unit, 
+an adjustment objective parameter of the control model to calculate a predicted controlled value in similar operation, and a control 
+model tuning value calculation unit which receives the predicted controlled value predicted by the first controlled value calculation 
+unit, the predicted controlled value predicted by the second controlled value calculation unit, actual controlled values, and the like to 
+thereby calculate a tuning value of an adjustment objective parameter of the control model. 
+  
+  
+No. of Pages : 67 No. of Claims : 6 

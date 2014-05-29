@@ -1,0 +1,22 @@
+Application number  =>  3051/CHENP/2011 A 
+
+Date of filing of application number  =>  04/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  GALVANNEALED STEEL SHEET AND PRODUCTION METHOD THEREOF 
+
+Name of applicant  =>  1)KABUSHIKI KAISHA KOBE SEIKO SHO (KOBE STEEL, LTD.) 
+
+Name of inventor  =>  1)YUSE, FUMIO 2)TAKEDA, MIKAKO 3)NANBA, SHIGENOBU 4)MIYAKE, YOSHIHIRO 
+
+International Classification  =>  C23C2/06, C21D 9/46, C22C 38/00 
+
+Priority Doc No  =>  2008-285705 
+
+International Application Number  =>  PCT/JP2009/068780 
+
+International Publication Number  =>  WO 2010/053074 A1 
+
+Abstract  =>  Disclosed is a galvannealed steel sheet having an excellent surface appearance, wherein plating failure and non-uniform alloying are suppressed. Also disclosed is a method for producing such a galvannealed steel sheet. The galvannealed steel sheet is obtained by hot- dip galvanizing a base steel, and then alloying the plating layer. The base steel is obtained by hot rolling a steel which contains 0.02- 0.25 mass% of C, 0.5-3 mass% of Si, 1-4 mass% of Mn, 0.03-1 mass% of Cr, not more than 1.5 mass% of Al (excluding 0 mass%), not more than 0.03 mass% of P (excluding 0 mass%) , not more than 0.03 mass% of S (excluding 0 mass%) and 0.003-1 mass% Ti, and additionally contains 0.25-5.0 mass% of Cu and 0.05-1.0 mass% of Ni, while satisfying formula (1) , with the balance being made up of iron and unavoidable impurities. [Cu] / [Ni] ≥ 5 In formula (1), [] represents the content (mass%) of each element. 
+

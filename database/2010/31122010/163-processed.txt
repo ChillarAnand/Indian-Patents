@@ -1,0 +1,22 @@
+Application number  =>  4151/KOLNP/2010 A 
+
+Date of filing of application number  =>  03/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  METHOD FOR INTRODUCTION OF GENE INTO YEAST CELL, AND VECTOR FOR THE METHOD 
+
+Name of applicant  =>  1)BIO-ENERGY CORPORATION 2)KANSAI CHEMICAL ENGINEERING CO., LTD. 
+
+Name of inventor  =>  1)NODA, HIDEO 2)KANEKO, SHOHEI 3)KONDO, AKIHIKO 
+
+International Classification  =>  C12N 15/09,C12N 1/19 
+
+Priority Doc No  =>  2008-126720 
+
+International Application Number  =>  PCT/JP2009/058765 
+
+International Publication Number  =>  WO 2009/139349 
+
+Abstract  =>  Disclosed is a method for introducing a foreign gene into a yeast cell having no auxotrophic marker. Specifically disclosed is a method for imparting a target auxotrophy to a yeast cell and introducing a gene to be expressed into the yeast cell. The method comprises the step of transforming a yeast cell with an expression cassette for a gene to be expressed, a cassette for a yeast selection marker and a fragment containing two homologously recombined fragments which are homologous to regions located on both sides of a target auxotrophy-controlling gene in a predetermined array. According to the method, a target auxotrophy-controlling gene can be deleted from a yeast cell, a gene to be expressed can be introduced into the yeast cell, and a yeast selection marker can be removed from the tansformed yeast cell. 
+

@@ -1,0 +1,47 @@
+The Patent Office Journal 30/12/2011 
+ 
+25717
+(12) PATENT APPLICATION PUBLICATION (21) Application No.700/KOL/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :29/06/2010 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : APPARATUS ON A FLAT CARD OR ROLLER CARD FOR SETTING THE WORKING SPACING 
+BETWEEN THE CYLINDER AND AT LEAST ONE NEIGHBOURING ROLLER  
+  
+(51) International classification  :D01G15/82 
+(31) Priority Document No  :10 2009 031 978.6  
+(32) Priority Date  :06/07/2009
+(33) Name of priority country  :Germany 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)TRÜTZSCHLER GMBH & CO. KG 
+      Address of Applicant :DUVENSTRASSE 82-92 D-41199 
+MÖNCHENGLADBACH GERMANY 
+(72)Name of Inventor : 
+   1)BRITTA JACOBS 
+   2)ROBERT PISCHEL  
+(57) Abstract : 
+In an apparatus on a flat card or roller card for setting the working spacing between the clothed cylinder and at least one clothed 
+neighbouring roller, for example doffer and/or licker-in, which co-operate with one another with a small spacing between their 
+cylindrical surfaces (working spacing) at the fibre transfer points and in which the working spacing can be reset to a pre-determined 
+value as a result of changes in dimensions caused by thermal expansion and/or centrifugal forces, an adjustment device operable by 
+supplying thermal energy is provided for the neighbouring roller. In order to enable the setting of a pre-determined spacing between 
+neighbouring rollers to be effected in a simple way and within a short space of time in the event of changes in the dimensions of the 
+rollers, there is provided a device for actively supplying and/or dissipating thermal energy which is associated with the adjustment 
+device, wherein in the event of a change in the dimensions of the rollers the working spacing between the cylinder and at least one 
+neighbouring roller can be set or reset.  
+ 
+No. of Pages : 43 No. of Claims : 77 

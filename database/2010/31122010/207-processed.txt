@@ -1,0 +1,22 @@
+Application number  =>  4220/KOLNP/2010 A 
+
+Date of filing of application number  =>  10/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  REACTION ASSEMBLY AND FLOW SPLITTER 
+
+Name of applicant  =>  1)AVANTIUM HOLDING B.V. 
+
+Name of inventor  =>  1)MOONEN, ROELANDUS HENDRIKUS WILHELMUS 2)BODENSTAFF, EMILIO RENÉ 3)SMIT, MARTIN 
+
+International Classification  =>  G05D 7/06 
+
+Priority Doc No  =>  2001617 
+
+International Application Number  =>  PCT/NL2009/000122 
+
+International Publication Number  =>  WO 2009/145614 
+
+Abstract  =>  The invention pertains to reaction systems in which at least one capillary unit is applied. The capillary unit comprises: -a unit inlet for receiving a fluid flow, - a unit outlet for releasing said fluid flow, - a capillary, which capillary is arranged between the unit inlet and the unit outlet such that said fluid flow passes through the capillary, - a heater and/or a cooler for adjusting the temperature of the capillary and therewith influencing the flow rate of the fluid flow passing through said capillary, - a housing for accommodating at least the capillary and heater and/or cooler of said capillary unit, which housing provides thermal insulation of the capillary, - a flow sensor for measuring the flow rate of the fluid flow through the capillary unit, which flow sensor can be arranged either inside or outside the housing, A capillary unit is combined with or further has a flow adjustment unit for adjusting the flow rates of the secondary fluid flows, which flow adjustment unit comprises a temperature control device for individually controlling the heater and/or cooler of each capillary unit in response to the flow rate that is measured by the flow sensor of that capillary unit. 
+

@@ -1,0 +1,22 @@
+Application number  =>  868/KOL/2010 A 
+
+Date of filing of application number  =>  06/08/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  NODE MANAGEMENT METHOD AND CONTROL PLANE 
+
+Name of applicant  =>  1)HUAWEI TECHNOLOGIES CO., LTD 
+
+Name of inventor  =>  1)LUO, XIANLONG 2)LIN, DONGQIAO 3)HU, MING 4)CHEN, CHUNHUI 
+
+International Classification  =>  G06F21/00 
+
+Priority Doc No  =>  200910171239.4 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  In the field of optical network technology, a node management method and a control plane are provided, thereby solving a problem of an existing optical network that it is impossible to perform segment switching and automatically create a new protection path at the same time. The node management method includes the following steps. After a working path creating request is received, bi- directional cross is created between working paths of two segments connected by a segment node. After a protection path creating request is received, the bi-directional cross is modified as Sub-network Connection Protections (SNCPs) among paths of the two segments connected by the segment node, in which the paths of the two segments include the working paths and protection paths of the two segments. The control plane may compute a new standby protection path according to a corresponding algorithm, so that when a fault occurs in the existing protection path, a service may be borne by the standby protection path, and the service is ensured to be normally implemented. 
+

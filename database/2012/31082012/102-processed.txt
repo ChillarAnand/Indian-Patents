@@ -1,0 +1,22 @@
+Application number  =>  2938/CHENP/2011 A 
+
+Date of filing of application number  =>  29/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  GAS DIFFUSION LAYER FOR FUEL CELL, MANUFACTURING METHOD THEREFOR, MEMBRANE ELECTRODE ASSEMBLY, AND FUEL CELL 
+
+Name of applicant  =>  1)PANASONIC CORPORATION 
+
+Name of inventor  =>  1)YAMAUCHI, MASAKI 2)TSUJI, YOICHIRO 
+
+International Classification  =>  H01M4/96, H01M4/88 
+
+Priority Doc No  =>  2008-281548 
+
+International Application Number  =>  PCT/JP09/005740 
+
+International Publication Number  =>  WO 2010/050219 A1 
+
+Abstract  =>  A gas diffusion layer for fuel cell of the present invention is structured with a porous member mainly comprised of conductive particles such as acetylene black, graphite and a polymer resin such as PTFE. This makes it possible to achieve both an improvement in power generation performance of the fuel cell and a reduction in costs. 
+

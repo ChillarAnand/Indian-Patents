@@ -1,0 +1,22 @@
+Application number  =>  3100/CHENP/2011 A 
+
+Date of filing of application number  =>  05/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  A PROCESS AND AN APPARATUS FOR CONVERTING SOLID ORGANIC MATERIALS INTO CARBON OR ACTIVATED CARBON 
+
+Name of applicant  =>  1)KRISHNAN BALU RAVI 2)APURVA VISHNUKUMAR DAVE 
+
+Name of inventor  =>  1)KRISHNAN BALU RAVI 
+
+International Classification  =>  C01B31/10, B01J8/10 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/IN08/000774 
+
+International Publication Number  =>  WO 2010/058408 A1 
+
+Abstract  =>  A process and an apparatus for converting solid organic materials into carbon or activated carbon. The processing of solid organic materials is oxygen-free and wholly under endothermic condition. The apparatus comprises a pressure vessel (1), thermal insulation with protective cladding for pressure vessel (2), a perforated or non-perforated rotary drum (3), a sealed dish end (4), a rotating shaft (5), a geared motor with belt or chain drive (6), a steam super heater (7) for generating superheated steam, at least one inlet valve (8) for regulating the super heated steam, at least one feed pipe (9), tilting or swivel support (10), at least one cylindrical roller (11), an open or close door end (12), a feeding or removal port (13), a connecting chute (14), at least one pressure safety valve (15), a gas exit pipe (16), at least one outlet valve (17), a gas treatment unit (18) for treating the generated reaction gases, at least one pressure gauge (19) and at least one temperature indicator (20). The pressure vessel is tilted along with its accessories supported on a tilting or swivel support and solid organic materials are feeded into the rotary drum and then realigned. Gas or steam is feeded inside the pressure vessel till the entire air inside the pressure vessel is purged out and thereafter superheated steam continuously feeded into the rotary drum. The rotary drum is constantly rotated by geared motor and generated reaction gases are evacuated from the pressure vessel to the gas treatment unit wherein the organic solid materials are converted into carbon or activated carbon. 
+

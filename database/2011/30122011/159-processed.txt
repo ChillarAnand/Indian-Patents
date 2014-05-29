@@ -1,0 +1,22 @@
+Application number  =>  1064/MUMNP/2011 A 
+
+Date of filing of application number  =>  25/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  GENERATION OF ANNOTATION TAGS BASED ON MULTIMODAL METADATA AND STRUCTURED SEMANTIC DESCRIPTORS 
+
+Name of applicant  =>  1)TELEFONAKTIEBOLAGET LM ERICSSON (PUBL) 
+
+Name of inventor  =>  1)S–DERBERG Joakim 2)FASBENDER Andreas 3)BJ–RK Jonas 
+
+International Classification  =>  G06F 17/24 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/SE2009/050060 
+
+International Publication Number  =>  WO/2010/085186 
+
+Abstract  =>  In one embodiment, a method of generating annotation tags (28) for a digital image (22) includes maintaining a library (16) of human- meaningful words or phrases organized as category entries (72) according to a number of defined image description categories (70), and receiving context metadata (20) associated with the capture of a given digital image (22). The method further includes selecting particular category entries (72-1, 72-2) as vocabulary metadata (24) for the digital image (22) by mapping the context metadata (20) into the library (16), and generating annotation tags (28) for the digital image (22) by logically combining the vocabulary metadata (24) according to a defined set of deductive logic rules (30) that are predicated on the defined image description categories (70). In another embodiment, a processing apparatus (12), such as a digital processor (18, 26) and supporting memory (14), etc., is configured to carry out the above method, or to carry out variations of the above method. 
+

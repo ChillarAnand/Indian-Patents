@@ -1,0 +1,46 @@
+The Patent Office Journal 31/12/2010 
+ 
+5355
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1517/MUM/2009 A 
+(19) INDIA  
+(22) Date of filing of Application :25/06/2009 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : HEADER FOR FILTERING MEMBRANE MODULE AND FILTERING MEMBRANE MODULE 
+USING THE SAME  
+  
+(51) International classification  :B01D65/00 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  :N/A  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)KOLON INDUSTRIES INC. 
+      Address of Applicant :KOLON TOWER, 1-23, BYULYANG-
+DONG, KWACHEON-SI, KYUNGGI-DO, 427-040, REPUBLIC 
+OF KOREA.   
+(72)Name of Inventor : 
+   1)LEE KWANG-JIN 
+   2)LEE, MOO-SEOK 
+   3)SHIN YONG-CHEOL  
+(57) Abstract : 
+A header for filtering membrane module and a filtering membrane module using the same is disclosed, which is capable of 
+maximizing efficiency in power consumption by securing a constant flow of permeate through the use of a relatively-low negative 
+pressure, the header for filtering membrane module comprising a body with a permeate collecting space therein; and a conduit at one 
+end of the body, the conduit being in fluid communication with the permeate collecting space, wherein at least a portion of the 
+permeate collecting space has an inclined shape. 
+  
+  
+No. of Pages : 20 No. of Claims : 12 

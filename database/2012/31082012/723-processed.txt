@@ -1,0 +1,22 @@
+Application number  =>  878/MUMNP/2012 A 
+
+Date of filing of application number  =>  09/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  EXTENDIBLE COILED TUBE 
+
+Name of applicant  =>  1)WESTFALIA METALLSCHLAUCHTECHNIK GMBH & CO. KG 
+
+Name of inventor  =>  1)WEISS, MATTHIAS 2)MUENKER, KARL-HEINZ 3)BAUMHOFF, DIETMAR 4)GERHARD, ANDREAS 5)SCHENK, KARSTEN 6)SELTER, OLIVER 7)HAUCK, STEFAN 8)HENKELMANN, MICHAEL 
+
+International Classification  =>  F16L 11/16 
+
+Priority Doc No  =>  102009042755.4 
+
+International Application Number  =>  PCT/EP10/064134 
+
+International Publication Number  =>  WO/2011/036245 
+
+Abstract  =>  The invention relates to a stretchable wound tube (200) comprising at least two helically wound strips (210, 220) which, in longitudinal section, has at least three telescopic sections (TA1, TA2, TA3). Said telescopic sections are arranged so as to overlap axially in the compressed state of the wound tube, are arranged axially next to one another in the stretched state of the wound tube, and are hooked with one another in relation to an axial extension. The wound tube can achieve an elongation of over 100%. Its axial length in the compressed state is determined substantially by one of the two strips, and its axial length in the stretched state is determined by all the strips which are contained in the tube geometry. In order to achieve this, the different profiles move into one another telescopically during the compression and stretching. The wound tube is used, for example, in exhaust gas systems for insulating pipes with small bending radii. 
+

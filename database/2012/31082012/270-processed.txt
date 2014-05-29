@@ -1,0 +1,22 @@
+Application number  =>  3163/CHENP/2011 A 
+
+Date of filing of application number  =>  09/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  DATA MAINTENANCE SYSTEM 
+
+Name of applicant  =>  1)AB INITIO TECHNOLOGY LLC 
+
+Name of inventor  =>  1)CHRISTOPHER J. WINTERS 2)ANTHONY YERACARIS 3)JOEL GOULD 
+
+International Classification  =>  G06F12/00 
+
+Priority Doc No  =>  61/119,148 
+
+International Application Number  =>  PCT/US2009/066206 
+
+International Publication Number  =>  WO 2010/065507 A1 
+
+Abstract  =>  Maintaining data in a data management system (10) including at least one processor and a storage system (150) includes accessing a first data source (130) providing one or more source elements of data; accessing a storage system (120) storing one or more subsets of data, each subset including at least one element of data, and storing one or more descriptors identifying a data source for a subset and identifying a data source for each of one or more elements of the subset; and processing rules that determine if, according to the descriptors, an element in the storage system is allowed to be changed. 
+

@@ -1,0 +1,22 @@
+Application number  =>  458/MUMNP/2012 A 
+
+Date of filing of application number  =>  23/02/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD AND MEANS FOR DATA SEARCHING AND LANGUAGE TRANSLATION 
+
+Name of applicant  =>  1)VAANANEN, MIKKO 
+
+Name of inventor  =>  1)VAANANEN, MIKKO 
+
+International Classification  =>  G06F 17/30 
+
+Priority Doc No  =>  09168388.8 
+
+International Application Number  =>  PCT/EP2010/061611 
+
+International Publication Number  =>  WO/2011/020742 
+
+Abstract  =>  The invention relates to data searching and translation. In particular, the invention relates to searching documents from the Internet or databases. Even further, the invention also relates to translating words in documents, WebPages, images or speech from one language to the next. A computer implemented method comprising at least one computer in accordance with the invention is characterised by the following steps: receiving a search query comprising at least one search term, deriving at least one synonym for at least one search term, expanding the received search query with the at least one synonym, searching at least one document using the said expanded search query, retrieving the search results obtained with the said expanded query, ranking the said search results based on context of occurrence of at least one search term. The best mode of the invention is considered to be an Internet search engine that delivers better search results. 
+

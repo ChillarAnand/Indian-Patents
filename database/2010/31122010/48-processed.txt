@@ -1,0 +1,22 @@
+Application number  =>  2453/DEL/2009 A 
+
+Date of filing of application number  =>  27/11/2009 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  APPARATUS, METHOD AND SYSTEM FOR RECONFIGURING ITEMS 
+
+Name of applicant  =>  1)PIONEER HI-BRED INTERNATIONAL, INC. 
+
+Name of inventor  =>  1)BECKER STEVEN M. 2)COPE JASON 3)DIMOND JAMES DAVID 
+
+International Classification  =>  B65B1/04; 
+
+Priority Doc No  =>  12/491,524 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  Apparatuses, methods, and systems for reconfiguring some or all content from one or more first containers into a second container are provided. In an example of the apparatus, the apparatus has a dispensing system having a dispenser to dispense content from one container into another, and a delivery system adapted to reconfigure the dispensed content from the one container into another container. In another example, a method includes dispensing selected contents from one container and reconfiguring the dispensed contents from the one container into another. In another example, the system includes a controller, a machine controlled by the controller, wherein the machine has a pair of container handlers, a content dispenser, and a content delivery system. The controller is adapted to control the machine using a selection criterion to operate the content dispenser to dispense selected content from one container to move with the delivery system into another container. 
+

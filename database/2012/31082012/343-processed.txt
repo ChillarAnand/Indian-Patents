@@ -1,0 +1,22 @@
+Application number  =>  2028/MUM/2012 A 
+
+Date of filing of application number  =>  13/07/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  CHEMICAL BATH DEPOSITION EQUIPMENT 
+
+Name of applicant  =>  1)BETKAR MAHESHWAR MALLIKARJUN 
+
+Name of inventor  =>  1)BETKAR MAHESHWAR MALLIKARJUN 
+
+International Classification  =>  C25D 19/00 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention concerns chemical bath deposition equipment for depositing the thin films and method thereof. The deposition method implemented by the invented equipment is advantageous in that, the integrated embodiment bi-directional DC motor successfully optimizes the thermal field distribution and flow field distribution inside the chemical bath reaction fluid, which improves the quality of thin films synthesized. The multiple substrate design enhances the quantity, hence less consumption of experimental compound solutions. The reaction ambience inside the housing is well isolated from the outside atmosphere for creating the toxic free surrounding. 
+

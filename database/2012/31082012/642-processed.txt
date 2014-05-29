@@ -1,0 +1,22 @@
+Application number  =>  691/MUMNP/2012 A 
+
+Date of filing of application number  =>  19/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD,SYSTEM AND APPARTUS FOR TRANSMITTING CHANNEL QUALITY INDICATOR INFORMATION OF MULTIPLE USER TERMINALS 
+
+Name of applicant  =>  1)CHINA ACADEMY OF TELECOMMUNICATIONS TECHNOLOGY 
+
+Name of inventor  =>  1)SHEN , ZUKANG 2)PAN , XUEMING 3)LIN , YANAN 
+
+International Classification  =>  H04W 68/00 
+
+Priority Doc No  =>  200910091275.X 
+
+International Application Number  =>  PCT/CN2010/001248 
+
+International Publication Number  =>  WO/2011/020297 
+
+Abstract  =>  Provide are a method, a system and an apparatus for transmitting channel quality indicator information of multiple user terminals. The method includes: at least two user terminals transmit their own channel quality indicator information using the same time and frequency resources, wherein the time and frequency resources include at least one frequency-domain unit in frequency domain and at least two sets of data time-domain units in time domain, each set of data time-domain units including at least two data time-domain units; and the channel quality indicator information of each user terminal is transmitted on at least one set of data time-domain units by means of time-domain Code Division Multiple Address. Therefore, it is possible to adjust the transmitted bits according to size of the channel quality indicator information. 
+

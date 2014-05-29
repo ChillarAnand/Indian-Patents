@@ -1,0 +1,22 @@
+Application number  =>  4154/KOLNP/2010 A 
+
+Date of filing of application number  =>  03/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  CELL-LIKE STRUCTURE MANUFACTURING METHOD, CELL-LIKE STRUCTURE, AND CORRESPONDING EQUIPMENT 
+
+Name of applicant  =>  1)LE MONNIER, MARC 
+
+Name of inventor  =>  1)LE MONNIER, MARC 
+
+International Classification  =>  B29D 99/00 
+
+Priority Doc No  =>  08/01929 
+
+International Application Number  =>  PCT/FR2009/000407 
+
+International Publication Number  =>  WO 2009/130419 
+
+Abstract  =>  Method for manufacturing a cell-like honeycomb structure, formed from a plurality of thermoplastic sheets (101) attached to each other, wherein contoured areas (2a and 3a) are provided in each sheet, and each free sheet (101b) is attached to an adjacent sheet (101a) of an intermediate block (21) formed by the different sheets previously attached therebetween, welding at least some of the flat areas (3a and 2b) contacting this free sheet and this adjacent sheet with a laser source along a continuous line (L) parallel to the contour axis. 
+

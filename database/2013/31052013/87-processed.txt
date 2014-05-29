@@ -1,0 +1,22 @@
+Application number  =>  9673/CHENP/2011 A 
+
+Date of filing of application number  =>  22/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  NETWORK SYSTEM 
+
+Name of applicant  =>  1)NEC CORPORATION 
+
+Name of inventor  =>  1)YAMASHITA, ATSUYA 2)KUROSAKI, SHINYA 3)ISHIURA, SATOSHI 4)NAKAJIMA, HIROAKI 
+
+International Classification  =>  H04L12/28 
+
+Priority Doc No  =>  2009-147317 
+
+International Application Number  =>  PCT/JP2010/003915 
+
+International Publication Number  =>  WO 2010/150478A1 
+
+Abstract  =>  A link control function unit 506 of a device 500 notifies a counterpart device 600 of a line in which a link disconnection occurs among lines 508 to 510 and L500 terminated at line terminals 501 to 503 or a lower stage line terminal 504 of the self device 500 and the cause of the link disconnection is not a forcible closure of a line terminal of the self device. Further, the link control function unit 506 does not forcibly close the lower stage line terminal 504 of the self device 500 if a line in which a link disconnection occurs, notified from the counterpart device 600, is a line terminated at a lower stage line terminal 604 of the counterpart device 600. 
+

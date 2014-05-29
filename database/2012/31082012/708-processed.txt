@@ -1,0 +1,22 @@
+Application number  =>  762/MUMNP/2012 A 
+
+Date of filing of application number  =>  26/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  APPARATUS FOR TOLERANCE RING CONTROL OF SLIP INTERFACE SLIDING FORCES 
+
+Name of applicant  =>  1)SAINT-GOBAIN PERFORMANCE PLASTICS RENCOL LTD. 
+
+Name of inventor  =>  1)SLAYNE, ANDREW 2)NATU, PARAG 
+
+International Classification  =>  F16D 3/06 
+
+Priority Doc No  =>  61/245,883 
+
+International Application Number  =>  PCT/EP10/063828 
+
+International Publication Number  =>  WO/2011/036126 
+
+Abstract  =>  A tolerance ring comprising a metallic band for spring features and a complementary low friction material for frictional considerations is disclosed. The tolerance ring is designed to operate within a precisely controlled torque or axial force band to provide a defined amount of resistance and sliding force control between components that move relative to each other. Isolated portions of the tolerance ring form regions of contact with adjacent ones of the components. Other surfaces of the tolerance ring comprise portions with spring features that have geometry suitable for their spring rate, rather than conforming to mating surfaces of the adjacent components . 
+

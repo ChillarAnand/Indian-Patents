@@ -1,0 +1,22 @@
+Application number  =>  756/KOL/2010 A 
+
+Date of filing of application number  =>  12/07/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  DRIVE UNIT WITH OVERLOAD PROTECTION FOR DRIVING A RING GEAR 
+
+Name of applicant  =>  1)LIEBHERR-WERK BIBERACH GMBH 
+
+Name of inventor  =>  1)NORBERT HAUSLADEN 2)MATTHIAS SEDLMAIER 
+
+International Classification  =>  B66C23/84 
+
+Priority Doc No  =>  102009035197.3 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  This invention relates to a drive unit for driving a ring gear, comprising a motor, a transmission and a drive shaft, on which a pinion is arranged for driving the ring gear, wherein the drive unit includes a mechanical overload protection. In accordance with the invention the overload protection is arranged between the transmission and the pinion. 
+

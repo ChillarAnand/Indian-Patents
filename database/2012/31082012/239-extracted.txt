@@ -1,0 +1,45 @@
+ 
+The Patent Office Journal 31/08/2012 
+14081
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3123/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :06/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : METHOD FOR THE MANUFACTURE OF A COMPOUND PRODUCT WITH A SURFACE REGION 
+OF A WEAR RESISTANT COATING, SUCH A PRODUCT AND THE USE OF A STEEL MATERIAL FOR OBTAINING THE 
+COATING  
+  
+(51) International classification  :B22F7/04, B22F3/15  
+(31) Priority Document No  :0850068-8  
+(32) Priority Date  :06/11/2008 
+(33) Name of priority country  :Sweden 
+(86) International Application No 
+        Filing Date 
+:PCT/SE09/051242
+:03/11/2009 
+(87) International Publication No  :WO 2010/053431 A1  
+(61) Patent of Addition to Application Number 
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)UDDEHOLMS AKTIEBOLAG  
+      Address of Applicant :SE-683 85 HAGFORS Sweden 
+(72)Name of Inventor : 
+   1)SANDBERG, ODD  
+(57) Abstract : 
+A wear resistant steel material, produced in a powder metallurgical manner, has the following composition in weight-%: and, further, 
+0.5 to 14 of (V + Nb/2), wherein the contents of N, on one hand, and of (V + Nb/2), on the other hand, are balanced in relation to each 
+other so that the contents of said elements are within a range A, B, G, H, A in a perpendicular plane coordinate system, where the 
+content of N is the abscissa and the content of V + Nb/2 is the ordinate, and where the coordinates for said points are: and max 7 of 
+any of Ti, Zr, and Al; balance essentially only iron and unavoidable impurities. This steel is excellent for obtaining a wear resistant 
+surface region on a substrate of a metallic material by hot isostatic pressing of the steel material of the substrate. Especially when the 
+wear resistant steel is void of Co, the compound body obtained is especially suitable for use in e.g. valves for nuclear power plants. 
+  
+  
+No. of Pages : 47 No. of Claims : 22 

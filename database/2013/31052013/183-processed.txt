@@ -1,0 +1,22 @@
+Application number  =>  9974/CHENP/2011 A 
+
+Date of filing of application number  =>  30/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  A METHOD FOR SECURE TRANSACTIONS 
+
+Name of applicant  =>  1)ACCUMULATE AB 
+
+Name of inventor  =>  1)HULTBERG, STEFAN 2)WESTLING, MAGNUS 
+
+International Classification  =>  G06Q20/00 
+
+Priority Doc No  =>  0950408-5 
+
+International Application Number  =>  PCT/SE2010/050613 
+
+International Publication Number  =>  WO 2010/140969A1 
+
+Abstract  =>  The present invention relates to a method for a secure transaction, wherein a buying part utilizes a portable radio communication device (10), wherein the secure transaction preferably is performed by mobile payment through NFC, and otherwise by use of a predefined identify on a predefined transaction server. 
+

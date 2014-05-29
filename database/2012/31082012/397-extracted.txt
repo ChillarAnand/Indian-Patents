@@ -1,0 +1,48 @@
+ 
+The Patent Office Journal 31/08/2012 
+13456
+(12) PATENT APPLICATION PUBLICATION (21) Application No.5356/DELNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :12/07/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : ELECTROMECHANICAL PRESSURE SWITCH WITH DISADVANTAGEOUS-LEVER 
+AMPLIFICATION SYSTEM  
+  
+(51) International classification  :H01H 35/26  
+(31) Priority Document No  :MI2008A002250  
+(32) Priority Date  :18/12/2008 
+(33) Name of priority country  :Italy 
+(86) International Application No 
+        Filing Date 
+:PCT/EP2009/0067063
+:14/12/2009 
+(87) International Publication No  :WO 2010/069911  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)MA-TER S.R.I. 
+      Address of Applicant :VIA TORRICELLI, 8, I - 20060 
+PESSANO CON BORNAGO, MILAN, ITALY, Italy 
+(72)Name of Inventor : 
+   1)OMATI, MARCO GEROLAMO 
+   2)OMATI, ENNIO  
+(57) Abstract : 
+An electromechanical pressure switch is described comprising a hollow body formed by a base (1) and a cap (9), between which an 
+elastically deformable membrane (5) is clamped and closes a pressure sensing chamber (4) which communicates with an inlet hole (3) 
+for a pressurized fluid, and lever means (15) for transmitting the deformation of the membrane (5) caused by the pressurized fluid to 
+an actuating push button (22) of a switchable microswitch (23). The lever means (15) consist of a one-piece third-kind lever (15), 
+comprising a first end bend (16) clamped together with said membrane (5) between said base (1) and said cap (9) and a flat part (18) 
+which bears at the free end a projecting rib (21) for controlling said actuating push button (22) of the microswitch (23). The flat part 
+(18) of the lever (15) is adjustably fixed to an adjusting screw (13) having an axis coinciding with that of the pressure switch which 
+has a spherical tip (12) in contact with a central point (11) of the membrane (5). Fig.1 
+  
+  
+No. of Pages : 17 No. of Claims : 10 

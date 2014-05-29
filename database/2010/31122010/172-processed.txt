@@ -1,0 +1,22 @@
+Application number  =>  4166/KOLNP/2010 A 
+
+Date of filing of application number  =>  04/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  COOLANT PUMP 
+
+Name of applicant  =>  1)BORGWARNER INC. 
+
+Name of inventor  =>  1)BUCHHOLZ, THOMAS 2)ROTH, JUERGEN 
+
+International Classification  =>  F04D 29/58,F01P 5/10 
+
+Priority Doc No  =>  102008019369.0 
+
+International Application Number  =>  PCT/US2009/039112 
+
+International Publication Number  =>  WO 2009/129050 
+
+Abstract  =>  The invention relates to a coolant pump (15) having a pump wheel (13) which is arranged on a pump wheel shaft (3, 11); and having a drive device (1; 8, 9) for the pump wheel (13), which drive device has a mechanical drive (1) and which drive device has an electric- motor drive (8, 9), wherein the pump wheel shaft is divided into a driving section (3) and a driven section (11), and an openable and closable clutch (4) is arranged between the driving section (3) and the driven section (11). 
+

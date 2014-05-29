@@ -1,0 +1,42 @@
+ 
+The Patent Office Journal 31/08/2012 
+13425
+(12) PATENT APPLICATION PUBLICATION (21) Application No.5326/DELNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :11/07/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : LATCHES  
+  
+(51) International classification  :E05B 65/12  
+(31) Priority Document No  :0822529.4  
+(32) Priority Date  :10/12/2008 
+(33) Name of priority country  :U.K. 
+(86) International Application No 
+        Filing Date 
+:PCT/GB2009/002858
+:10/12/2009 
+(87) International Publication No  :WO 2010/067074  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)JOHN PHILIP CHEVALIER 
+      Address of Applicant :19 CHALTON DRIVE, LONDON N2 
+0QW, UNITED KINGDOM; U.K. 
+(72)Name of Inventor : 
+   1)CHEVALIER, JOHN, PHILIP  
+(57) Abstract : 
+A latch for an automotive closure comprises a claw (2), which is spring- biased towards the semi-latched position, for engaging a 
+striker (15) fixed to the closure, a pawl (4) for latching open the claw (2) and a single electric motor (40) selectively coupled to the 
+pawl to cause it to release the claw to open the latch, in one direction of rotation of the motor, and to claw to move it into the fully 
+latched position, in the opposite direction of the motor. 
+  
+  
+No. of Pages : 25 No. of Claims : 7 

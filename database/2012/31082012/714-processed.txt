@@ -1,0 +1,22 @@
+Application number  =>  818/MUMNP/2012 A 
+
+Date of filing of application number  =>  02/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  HAND PUMP FOR PUMPING FLUIDS, AND FILTER SYSTEM FOR FLUIDS, COMPRISING A HAND PUMP 
+
+Name of applicant  =>  1)MANN+HUMMEL GMBH 
+
+Name of inventor  =>  1)THALMANN, CHRISTIAN 
+
+International Classification  =>  F02M 37/16 
+
+Priority Doc No  =>  102009048211.3 
+
+International Application Number  =>  PCT/EP2010/062479 
+
+International Publication Number  =>  WO/2011/042252 
+
+Abstract  =>  The invention relates to a hand pump (16) for pumping fluids, in particular fuel, and a filter system (10) for fluids, comprising a hand pump (16), in particular of a motor vehicle. The hand pump (16) comprises a pump housing (22), which has an inlet (18) and an outlet (26) for the fluid, and an actuating body (32), which is movably mounted in the pump housing axially to a stroke axis (34). A membrane (46) has a flexible ring section (48) surrounding the stroke axis (34), said ring section being fixed radially inward in a fixing region (50) of the actuating body (32) and radially outward in a retaining region (54) of the pump housing (22). During a stroke movement, the actuating body (32) can be pressed with the membrane (46) against the force of an elastic element (42) from a resting position (I) into the pump housing (22) and into an actuating position, and led back out into the resting position (I) by means of the elastic element (72). Thus, the volume of a pump chamber (20) can be modified. A stroke height (77) of the actuating body (32) is greater than a smallest radial distance (74) between the retaining region (54) and the fixing region (50) during a stroke. The retaining region (54) of the pump housing (22) lies between the position (73) of the fixing region (50) in the resting position (I) and the position (75) of the fixing region (50) in the actuating position when viewed axially to the stroke axis (34). 
+

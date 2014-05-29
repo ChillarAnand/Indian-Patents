@@ -1,0 +1,22 @@
+Application number  =>  4082/CHENP/2010 A 
+
+Date of filing of application number  =>  01/07/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  IMAGE ENCODING DEVICE, IMAGE DECODING DEVICE, IMAGE ENCODING METHOD, AND IMAGE DECODING METHOD 
+
+Name of applicant  =>  1)MITSUBISHI ELECTRIC CORPORATION 
+
+Name of inventor  =>  1)SEKIGUCHI, SHUNICHI 2)OTOI, KENJI 3)IDEHARA, YUICHI 4)YAMADA, YOSHIHISA 5)ASAI, KOHTARO 6)MURAKAMI, TOKUMICHI 
+
+International Classification  =>  H04N7/32 
+
+Priority Doc No  =>  2008-002223 
+
+International Application Number  =>  PCT/JP09/050142 
+
+International Publication Number  =>  WO 2009/088038 A1 
+
+Abstract  =>  To provide a method of efficiently compressing information by performing improved removal of signal correlations according to statistical and local properties of a video signal in a 4:4:4 format which is to be encoded, an image encoding device for dividing each picture of a digital video signal into predetermined unit regions, and carrying out, for each of the predetermined unit regions, compression encoding using a motion compensation prediction includes: a prediction unit for searching for a motion vector based on virtual-pixel-accuracy specification information for specifying an upper limit of an accuracy of a pixel position indicated by the motion vector, and generating, based on the motion vector that is searched for, a motion-compensation predicted image; and an encoding unit for multiplexing the virtual-pixel-accuracy specification information with a bit stream, and multiplexing, based on a magnitude of the motion vector that is searched for and a magnitude of a motion vector used for prediction of the motion vector that is searched for, motion vector data to be encoded with the bit stream. 
+

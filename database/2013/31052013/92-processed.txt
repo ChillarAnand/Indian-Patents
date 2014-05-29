@@ -1,0 +1,22 @@
+Application number  =>  9746/CHENP/2011 A 
+
+Date of filing of application number  =>  23/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  ORGANIC ELECTRONIC DEVICE AND METHOD FOR MANUFACTURING THE SAME• 
+
+Name of applicant  =>  1)MITSUBISHI CHEMICAL CORPORATION 
+
+Name of inventor  =>  1)OIZUMI Junichi 2)FUNAYAMA Katsuya 3)FUJIWARA Takashi 4)YONEYAMA Takahiro 5)HANDA Keishin 
+
+International Classification  =>  H01L 51/42 
+
+Priority Doc No  =>  2009-150143 
+
+International Application Number  =>  PCT/JP2010/ 
+
+International Publication Number  =>   
+
+Abstract  =>  An organic electronic device which does not deteriorate a device function over a long period of time for example in a thin film organic solar cell element suppresses a lowering of the power generation efficiency and a method for manufacturing the same are provided. Disclosed is an organic electronic device comprising an organic semiconductor element (B) containing at least a pair of electrodes a layer (C) containing a scavenger which absorbs at least one of moisture and oxygen and a gas barrier film (D) in this ... 
+

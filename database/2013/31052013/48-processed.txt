@@ -1,0 +1,22 @@
+Application number  =>  1770/CHENP/2012 A 
+
+Date of filing of application number  =>  27/02/2012 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  MOBILE COMMUNICATION METHOD 
+
+Name of applicant  =>  1)NTT DOCOMO, INC. 
+
+Name of inventor  =>  1)HAPSARI, WURI ANDARMAWANTI 2)TAKAHASHI, HIDEAKI 3)UMESH, ANIL 4)IWAMURA, MIKIO 5)ISHII, MINAMI 6)OKAMOTO, TAKESHI 
+
+International Classification  =>  H04W36/04 
+
+Priority Doc No  =>  2009-189598 
+
+International Application Number  =>  PCT/JP2010/063603 
+
+International Publication Number  =>  WO 2011/021547A1 
+
+Abstract  =>  (Disclosed is a mobile communication method including: a step in which an exchange station (MME) manages access information specifying a CSG-ID which allows access by a mobile station (UE); a step in which the ex¬change station (MME) acquires a combination of the CSG-ID and eNB-ID of a wireless base station (HeNB2) from a gateway device (HeNB-GW); and a step in which the exchange station (MME) determines whether or not access to the wireless base station (HeNB2) by the mobile station (UE) is possible, by referring to the access information and said combination, using the identification information of the mobile station (UE) and the eNB-ID of the wireless base station (HeNB2) contained in OHO required received from the wireless base station (eNB). 
+

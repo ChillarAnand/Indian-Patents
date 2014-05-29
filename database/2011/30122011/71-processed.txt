@@ -1,0 +1,22 @@
+Application number  =>  2143/DELNP/2011 A 
+
+Date of filing of application number  =>  22/03/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  LASER CLADDING OF A THERMOPLASTIC POWDER ON PLASTICS 
+
+Name of applicant  =>  1)VLAAMSE INSTELLING VOOR TECHNOLOGISCH ONDERZOEK (VITO) 
+
+Name of inventor  =>  1)VERHEYDE, BERT 2)ROMBOUTS, MARLEEN 3)VANHULSEL, ANNICK 4)REGO, ROBBY 5)MOTMANS, FILIP 
+
+International Classification  =>  B05D 3/06 
+
+Priority Doc No  =>  08166722.2 
+
+International Application Number  =>  PCT/EP2009/063505 
+
+International Publication Number  =>  WO 2010/043684 
+
+Abstract  =>  A method of applying a coating (17) of a thermoplastic material on a substrate (11) made of a polymeric material, wherein said thermoplastic material and said polymeric material are incompatible, comprising the following steps. Firstly, exposing the substrate and/or the powder to a plasma discharge (12) or the reactive gas stream resulting therefrom in order to obtain a plasma treated surface layer (14) introducing compatibility at the interface between substrate and coating. Secondly, laser cladding (15) the powder (16) on the substrate in order to form a coating on the substrate. 
+

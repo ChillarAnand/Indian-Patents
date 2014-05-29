@@ -1,0 +1,41 @@
+The Patent Office Journal 31/05/2013 12103
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9872/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :28/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : MOBILE COMMUNICATION METHOD RADIO BASE STATION AND RELAY NODE
+(51) International classification :H04W16/26
+(31) Priority Document No :2009-148134
+(32) Priority Date :22/06/2009
+(33) Name of priority country :Japan
+(86) International Application No
+Filing Date
+:PCT/JP2010/060549
+:22/06/2010
+(87) International Publication No :WO 2010/150776A1
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)NTT DOCOMO, INC.
+Address of Applicant :11-1, NAGATACHO 2-CHOME,
+CHIYODA-KU, TOKYO, 100-6150 Japan
+(72)Name of Inventor :
+1)TAKAHASHI, HIDEAKI
+2)HAPSARI, WURI ANDARMAWANTI
+3)UMESH, ANIL
+4)IWAMURA, MIKIO
+5)ISHII, MINAMI
+(57) Abstract :
+A mobile communication method according to the present invention comprising a step A in which, when a predetermined trigger
+is detected, the radio base station DeNB notifies the relay node RN of a transmission timing of an MBSFN subframe by a signal
+for changing the configuration of an RRC connection that is set between the radio base station DeNB and the relay node RN, a
+step B in which the radio base station DeNB performs scheduling such that a downlink signal is transmitted to the relay node RN
+at the transmission timing of the MBSFN subframe, and a step G in which the relay node RN performs scheduling such that a
+downlink signal is transmitted at a timing other than the transmission timing of the MBSFN subframe.
+No. of Pages : 21 No. of Claims : 9

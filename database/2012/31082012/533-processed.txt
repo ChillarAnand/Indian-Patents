@@ -1,0 +1,22 @@
+Application number  =>  488/MUMNP/2012 A 
+
+Date of filing of application number  =>  27/02/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  FLOW METER ASSEMBLY, GATE ASSEMBLIES AND METHODS OF FLOW MEASUREMENT 
+
+Name of applicant  =>  1)RUBICON RESEARCH PTY LTD 
+
+Name of inventor  =>  1)AUGHTON, DAVID JOHN 2)PEARSON, DAMIEN VERNON 
+
+International Classification  =>  G01F 1/66,E02B 13/02 
+
+Priority Doc No  =>  2009903893 
+
+International Application Number  =>  PCT/AU2010/001052 
+
+International Publication Number  =>  WO/2011/020143 
+
+Abstract  =>  The present invention provides an acoustic flow meter assembly for pipes or open channels, said assembly including a frame with a predetermined geometry. The frame has at least one user accessible port adapted to receive an interchangeable cartridge which contains at least one acoustic transducer to measure fluid velocity through said frame. The invention also relates to vertical, lift and tilt lift gate assemblies for use in measuring fluid flows, methods of measuring fluid velocity in pipes and open channels characterised by the use of a delay circuit, fluid flow meters characterised by the use of redundant pairs of transducers, and a method of synchronisation of two transducers in a flow measuring apparatus for an open channel. 
+

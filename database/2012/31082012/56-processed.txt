@@ -1,0 +1,22 @@
+Application number  =>  2892/CHENP/2011 A 
+
+Date of filing of application number  =>  28/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  SEAWATER FLUE-GAS DESULFURIZATION APPARATUS AND METHOD OF TREATING DESULFURIZATION SEA WATER 
+
+Name of applicant  =>  1)MITSUBISHI HEAVY INDUSTRIES, LTD. 
+
+Name of inventor  =>  1)AKIYAMA, TOMOO 2)OKINO, SUSUMU 3)OCHI, EIJI 
+
+International Classification  =>  B01D53/50, B01D19/00, B01D53/18 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/JP2009/058780 
+
+International Publication Number  =>  WO 2010/131327 A1 
+
+Abstract  =>  A first seawater processing apparatus 10-1 according to the present embodiment includes a flue-gas desulfurization absorber 13, a dilution mixing basin 16, and a gas retaining unit 20A. In the flue-gas desulfurization absorber 13, a sulfur content in a flue gas 11 is brought into contact with absorbent seawater 12A as a portion of seawater 12, and thereby purifying the flue gas 11. The dilution mixing basin 16 is integrally provided on the underside of the flue-gas desulfurization absorber 13. In the dilution mixing basin 16, sulfur-content absorbent seawater 14A produced by seawater desulfurization in which the sulfur content in the flue gas 11 is reduced by the contact with the absorbent seawater 12A in the flue-gas desulfurization absorber 13 is mixed/diluted with dilution seawater 12B fed into a main body 15 thereof. The gas retaining unit 20A includes a cover portion 18 and a first weir 19. The cover portion 18 is provided on the lower-end side of a sidewall 17 of the flue-gas desulfurization absorber 13 to extend along a long side of the dilution mixing basin 16 so as to cover the dilution mixing basin 16. The first weir 19 is hung from the side of a rear surface of the cover portion 18, and an end of the first weir 19 is submerged under the surface of seawater in the dilution mixing basin 16. 
+

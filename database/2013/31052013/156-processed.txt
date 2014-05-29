@@ -1,0 +1,22 @@
+Application number  =>  9925/CHENP/2011 A 
+
+Date of filing of application number  =>  29/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  AUTHENTICATION TOKEN WITH INCREMENTAL KEY ESTABLISHMENT CAPABILITY 
+
+Name of applicant  =>  1)VASCO DATA SECURITY INTERNATIONAL GMBH 
+
+Name of inventor  =>  1)HOORNAERT, FRANK 2)MENNES, FREDERIK 
+
+International Classification  =>  H04L9/32 
+
+Priority Doc No  =>  12/501,131 
+
+International Application Number  =>  PCT/US2010/041486 
+
+International Publication Number  =>  WORLDWIDE BUSINESS CENTER, BALZ-ZIMMERMANNSTRASSE 7, CH8152 
+
+Abstract  =>  An apparatus comprising storage tor a secret key, said secret key for use in the generation of cryptographic values, and a cryptographic agent for generating said cryptographic values using said secret key, selects one of a predetermined set of key transformations in an unpredictable-way and applies said selected key transformation to said secret key prior to generating one of said cryptographic values A server receives and authenticates a credential generated using a transformed secret and derives the transformed secret, by generating a plurality of verification values using a set of known permitted transformations of a stored secret, determining whether said credential matches one of said plurality of verification values, and, if said credential matches one of said plurality of verification values, storing the corresponding one of said set of known permitted transformations as an updated value for said stored secret. 
+

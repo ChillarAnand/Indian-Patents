@@ -1,0 +1,22 @@
+Application number  =>  765/CHENP/2006 A 
+
+Date of filing of application number  =>  03/03/2006 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  BUFFER MANAGEMENT SYSTEM, DIGITAL AUDIO RECEIVER, HEADPHONES, LOUDSPEAKER, METHOD OF BUFFER MANAGEMETN 
+
+Name of applicant  =>  1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+
+Name of inventor  =>  1)PHILIPS, NORBERT, J., L 2)DEROM, KOEN, W 3)VOS, ERIC 
+
+International Classification  =>  H04Q 11/04 
+
+Priority Doc No  =>  03102434.2 
+
+International Application Number  =>  PCT/IB04/051309 
+
+International Publication Number  =>  WO 2005/013639 
+
+Abstract  =>  The buffer management system (100) is arranged to control in a data communication system an end to end delay (∆) of a data unit (150) from input to output. Blocks (104, 106) of data units (150, 152) are written in a buffer (102) with a block write rate (Rw), and data units (154, 156) are read from this buffer (102) with a read rate (Rr). The end to end delay (∆) is controlled by adapting the read rate (Rr) from the buffer (102), and hence the buffer filling (F) on the basis of measurements of delays in the buffer management system (100). For the calculation of the read rate (Rr) at least an input time measurement (mTa) of an input time instant (Ta) of input of the data unit (150) in the buffer management system (100) is required 
+

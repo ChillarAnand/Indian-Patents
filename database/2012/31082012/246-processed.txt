@@ -1,0 +1,22 @@
+Application number  =>  3149/CHENP/2011 A 
+
+Date of filing of application number  =>  09/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  PNEUMATIC DRIVING MACHINE 
+
+Name of applicant  =>  1)HITACHI KOKI CO., LTD. 
+
+Name of inventor  =>  1)KITAGAWA, HIROKI 2)NISHIDA, MASASHI 3)SHIGE, TETSUHITO 4)AKUTSU, KOUSUKE 5)NAGAO, MASAYA 6)HIRAI, SHOUICHI 
+
+International Classification  =>  B25C1/00, B25C1/04 
+
+Priority Doc No  =>  2008-265124 
+
+International Application Number  =>  PCT/JP09/067965 
+
+International Publication Number  =>  WO 2010/044480 A1 
+
+Abstract  =>  The nailing machine (1) comprises an air passage (510) allowing communication between a cylinder (200) and a return air chamber (500) in which compressed air for returning a piston (300) to the initial position is accumulated. The air passage (510) is provided with a control valve (520) controlling entry of compressed air into the return air chamber (500) from the cylinder (200). The control valve (520) opens the air passage 510 and allows entry of compressed air into the return air chamber (500) in the case wherein the nailed object produces a small reaction force upon driving the nail, namely when the upward moving distance of the body (100) relative to the push lever (700) is smaller than a predetermined distance. The compressed air that has entered the return air chamber (500) further enters a below-the-piston chamber and serves as air damper, reducing excess energy absorbed by a piston bumper (360). 
+

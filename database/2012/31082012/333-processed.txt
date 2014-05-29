@@ -1,0 +1,22 @@
+Application number  =>  2031/MUM/2011 A 
+
+Date of filing of application number  =>  15/07/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  APPARATUS FOR FOCUS OPTIMIZATION AND TRACKING OF SUN BY SOLAR CONCENTRATORS 
+
+Name of applicant  =>  1)MULLER, HANS CHRISTOPH 
+
+Name of inventor  =>  1)MULLER, HANS CHRISTOPH 
+
+International Classification  =>  H01L31/052,G02B 26/08 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  Disclosed is a system for focus optimization and tracking of sun by solar concentrators. The system comprises one or more solar concentrators, at least one imaging device per focus, at least one processor, at least one drive unit, and a plurality of actuators. The system performs tracking of sun by the plurality of solar concentrator on basis of a real focus position obtained by the plurality if imaging devices rather than on calculated or measured sun position. The system optimizes size and position of the focus until a maximum efficiency of the solar system is achieved. 
+

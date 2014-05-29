@@ -1,0 +1,45 @@
+The Patent Office Journal 30/12/2011 
+ 
+25365
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1460/DEL/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :23/06/2010 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : SYSTEM AND METHOD FOR OFFERING A REPLICA OF A RADIO STATION BROADCAST ON 
+TELECOM NETWORKS  
+  
+(51) International classification  :G06F13/00; 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  :NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)MOHAN, TARON 
+      Address of Applicant :E-46/9, OKHLA INDUSTRIAL AREA, 
+PHASE II, NEW DELHI-110020, INDIA  
+(72)Name of Inventor : 
+   1)MOHAN, TARON  
+(57) Abstract : 
+A system for offering a replica of radio station broadcast on fixed line/mobile telephony services even if the radio station is not local 
+to the telephone. The system comprises a plurality of servers, the playlist integration servers being connected through the internet to a 
+plurality of radio station playback servers which are dedicated to different radio stations located anywhere in the world and also to 
+music hosting servers, output of integration servers being fed to programme management servers which also receive inputs from 
+playlist management interface, output of programme management servers being fed to fixed line/mobile network playback servers 
+which also receive inputs from advertising management systems, a plurality of mobile users being connected to the fixed line/mobile 
+network playback servers through their telephone networks. 
+  
+ 
+No. of Pages : 29 No. of Claims : 30 

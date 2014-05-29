@@ -1,0 +1,22 @@
+Application number  =>  3164/CHENP/2011 A 
+
+Date of filing of application number  =>  09/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  VISUALIZING RELATIONSHIPS BETWEEN DATA ELEMENTS AND GRAPHICAL REPRESENTATIONS OF DATA ELEMENT ATTRIBUTES 
+
+Name of applicant  =>  1)AB INITIO TECHNOLOGY LLC 
+
+Name of inventor  =>  1)ERIK BATOR 2)JOEL GOULD 3)DUSAN RADIVOJEVIC 
+
+International Classification  =>  G06F3/048 
+
+Priority Doc No  =>  61/119,201 
+
+International Application Number  =>  PCT/US09/066390 
+
+International Publication Number  =>  WO 2010/065623 A1 
+
+Abstract  =>  In general, metadata is stored in a data storage system (100). Summary data identifying one or more characteristics of each of multiple metadata objects stored in the data storage system is computed, and the summary data characterizing a given metadata object in association with the given metadata object is stored. A visual representation (200A) is generated of a diagram including nodes (300) representing respective metadata objects and relationships among the nodes. Generating the visual representation includes superimposing a representation (302) of a characteristic identified by the summary data characterizing a given metadata object in proximity to the node representing the given metadata object. 
+

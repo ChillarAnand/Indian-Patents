@@ -1,0 +1,22 @@
+Application number  =>  1051/MUMNP/2012 A 
+
+Date of filing of application number  =>  25/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD OF MELT BONDING HIGH-TEMPERATURE THERMOPLASTIC BASED HEATING ELEMENT TO A SUBSTRATE 
+
+Name of applicant  =>  1)DATEC COATING CORPORATION 
+
+Name of inventor  =>  1)RUGGIERO, MARY, ANN 2)SOLTANI, REZA 3)YANG, MAIZHI 4)TALALLA, DOMINIC 5)OLDING, TIMOTHY, RUSSELL 6)STOCKTON, JOHN 
+
+International Classification  =>  B23B 37/04 
+
+Priority Doc No  =>  61/254,058 
+
+International Application Number  =>  PCT/CA2010/001652 
+
+International Publication Number  =>  WO/2011/047471 
+
+Abstract  =>  A method for producing a thermoplastic film-substrate resistive thick film heating element is described, involving the melt bonding of an electrically insulating, optionally filled high temperature thermoplastic film to a substrate. This thick film heating element includes an optionally filled high temperature thermoplastic film-substrate onto which is deposited at least a resistive thick film, and is capable of operating over a wide range of power densities for consumer and industrial heating element applications. 
+

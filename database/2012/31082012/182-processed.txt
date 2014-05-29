@@ -1,0 +1,22 @@
+Application number  =>  3048/CHENP/2011 A 
+
+Date of filing of application number  =>  04/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  MIXER ARCHITECTURES 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)HIMANSHU KHATRI 2)LI LIU 
+
+International Classification  =>  H03D7/14 
+
+Priority Doc No  =>  61/109,771 
+
+International Application Number  =>  PCT/US2009/062867 
+
+International Publication Number  =>  WO 2010/062702 A2 
+
+Abstract  =>  Techniques for designing a single-balanced mixer coupled to a dummy portion with a dummy load to improve noise rejection. In an aspect, a single-ended signal (RF) from a stage preceding the mixer, e.g., a low-noise amplifier (LNA), is coupled to the input of the single-balanced mixer to be mixed with a local oscillator (LO) signal. A dummy portion replicating the topology of the single- balanced mixer is coupled to the single-balanced mixer to improve noise rejection, with the LO signal also provided to the dummy portion. The input of the dummy portion may be coupled, e.g., to a dummy load, which is designed to replicate the loading characteristics of the preceding stage, e.g., the LNA. 
+

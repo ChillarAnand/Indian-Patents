@@ -1,0 +1,45 @@
+ 
+The Patent Office Journal 31/08/2012 
+13615
+(12) PATENT APPLICATION PUBLICATION (21) Application No.513/MUM/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :24/02/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : PORTABLE BANKING APPARATUS  
+  
+(51) International classification  :G06Q40/00 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  :N/A  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)FORBES TECHNOSYS LTD 
+      Address of Applicant :PLOT NO C-17/18, ROAD NO. 16, 
+WAGLE INDUSTRIAL ESTATE, THANE-400604 Maharashtra 
+India 
+(72)Name of Inventor : 
+   1)AJAY SINGH 
+   2)FEROZE KATILA  
+(57) Abstract : 
+PORTOBANKER is a cost-effective, portable and scalable device that can deliver an array of banking, finance and commerce 
+services, all from a single platform. Additional services can be easily added, based on specific requirements of the service provider 
+and/or the consumer. This device meets all financial security standards like two factor authentication, biometric plus smart cards based 
+access, secure communication to core banking system through the financial switch and many more. The device is also compliant with 
+all the IBA/UIDAI guidelines that have been published. The device is made with state of the art hardware technology, has a Solar 
+charged battery backup and can function in online/offline modes, thus making it an ideal platform for the rural markets. 
+  
+  
+No. of Pages : 14 No. of Claims : 5 

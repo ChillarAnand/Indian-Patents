@@ -1,0 +1,59 @@
+ 
+The Patent Office Journal 31/08/2012 
+14078
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3134/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :06/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : METHOD FOR GENERATING A DOWNWARD SOUND FORMAT  
+  
+(51) International classification  :H04S3/00  
+(31) Priority Document No  :10 2008 056 704.3 
+(32) Priority Date  :11/11/2008 
+(33) Name of priority country  :Germany 
+(86) International Application No 
+        Filing Date 
+:PCT/EP09/007971 
+:07/11/2009 
+(87) International Publication No  :WO 2010/054780 A1  
+(61) Patent of Addition to Application Number 
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)INSTITUT FUR RUNDFUNKTECHNIK GMBH 
+      Address of Applicant :FLORIANSMUHLSTRASSE 60, 
+80939 MUNCHEN Germany 
+(72)Name of Inventor : 
+   1)STOLL, GERHARD (DECEASED) 
+   2)GROH, JENS  
+   3)LINK, MARTIN 
+   4)DEIGMOLLER, JORG 
+   5)RUNOW, BERNFRIED  
+   6)KEIL, MARTIN  
+(57) Abstract : 
+In order to convert multi-channel sound formats, in particular five-channel sound formats with the following sound channels:- left 
+channel (L) - right channel (R) - centre channel (C) - rear left channel (Ls) - rear right channel (Rs), into downward-compatible sound 
+formats, in particular into two-channel sound formats with a right channel and a left channel, the following steps are proposed 
+according to ITU-R BS.775: the level of the centre channel (C) is lowered (for example - 3 dB), the centre channel (C), the level of 
+which has been lowered, is distributed to the left channel (L) so as to form a first sum signal (L), the level of the rear left channel (Ls) 
+is lowered (for example by - 3 dB), the rear left channel (Ls), the level of which has been lowered, is distributed to the first sum signal 
+so as to form the third sum signal which corresponds to the left channel (LIRT) of the two-channel sound format, the centre channel 
+(C), the level of which has been lowered, is distributed to the right channel (R) so as to form a second sum signal (R), the level of the 
+rear right channel (Rs) is lowered (for example by - 3dB), the rear right channel (Rs), the level of which has been lowered, is 
+distributed to the second sum signal so as to form a fourth sum signal which corresponds to the right channel (RIRT) of the two-
+channel sound format. In order to largely compensate for a shift in the phantom sound sources, a change in the level difference 
+between coherent and incoherent signal components and timbre changes, the invention provides for the spectral values of overlapping 
+time windows to each be dynamically corrected with k samples of the left channel (L) and right channel (R) when forming the first 
+sum signal (L) and the second sum signal (R) and for the spectral values of overlapping time windows to each be dynamically 
+corrected with k samples of the first sum signal (L) and the second sum signal (R) when forming the third and fourth sum signals, and 
+for each sum of the spectral values to be compared with a desired value (Asoll, where Asoll e R) before each dynamic correction of 
+spectral values of the left channel (L) and right channel (R). 
+  
+  
+No. of Pages : 17 No. of Claims : 2 

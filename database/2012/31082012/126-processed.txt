@@ -1,0 +1,22 @@
+Application number  =>  2978/CHENP/2011 A 
+
+Date of filing of application number  =>  02/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHODS AND APPARATUS FOR PLANNING AND DYNAMICALLY UPDATING SAMPLING OPERATIONS WHILE DRILLING IN A SUBTERRANEAN FORMATION 
+
+Name of applicant  =>  1)PRAD RESEARCH AND DEVELOPMENT LIMITED 
+
+Name of inventor  =>  1)POP, JULIAN, J. 2)CHANG, YONG 
+
+International Classification  =>  E21B47/00 
+
+Priority Doc No  =>  61/110,587 
+
+International Application Number  =>  PCT/US09/062303 
+
+International Publication Number  =>  WO 2010/062635 A2 
+
+Abstract  =>  Methods and apparatus for planning and dynamically updating sampling operations while drilling in a subterranean formation are described. An example method of planning a sampling while drilling operation for a subterranean formation includes identifying a plurality of processes and related parameters, the processes including drilling and sampling processes and the related parameters including drilling and sampling parameters. The example method also involves processing the parameters for each of the processes via a simulation engine to generate predictions associated with sampling the formation, the simulation engine including at least one of a wellbore hydraulics simulator, a mudcake simulator, a formation flow simulator, or a tool response simulator. The example method also involves ranking the predictions associated with sampling the formation based on at least one of a sample fluid quality, a sampling process duration, a sampling process efficiency or a cost of sampling, and planning the sampling operation based on the ranked predictions 
+

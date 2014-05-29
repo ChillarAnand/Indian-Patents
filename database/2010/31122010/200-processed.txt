@@ -1,0 +1,22 @@
+Application number  =>  4210/KOLNP/2010 A 
+
+Date of filing of application number  =>  09/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  REPRODUCTION DEVICE, REPRODUCTION METHOD, AND PROGRAM 
+
+Name of applicant  =>  1)PANASONIC CORPORATION 
+
+Name of inventor  =>  1)KEIICHI TANAKA 2)TAKAHIRO YAMAGUCHI 3)KEN YAMASHITA 
+
+International Classification  =>  G11B 20/10 
+
+Priority Doc No  =>  2008-184871 
+
+International Application Number  =>  PCT/JP2009/003282 
+
+International Publication Number  =>  WO 2010/007757 
+
+Abstract  =>  A problem with high resource-consuming managed copy is that simultaneous execution of the managed copy, which is controlled by a playback device, and a BD-J application, which is recorded on a recording medium, leads to a shortage in resources. Provided is a playback device that enables simultaneous execution of the managed copy and the BD-J application while preventing resource contention therebetween, by imposing an access limitation on the disc medium by causing the BD-J application to assume that the disc medium has been virtually ejected. 
+

@@ -1,0 +1,50 @@
+ 
+The Patent Office Journal 31/08/2012 
+13532
+(12) PATENT APPLICATION PUBLICATION (21) Application No.209/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :25/01/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : 2-AMINO-4-ARYLTHIAZOLE COMPOUNDS AS TRPA1 ANTAGONISTS  
+  
+(51) International classification  :A61K 31/519,A61K 31/675  
+(31) Priority Document No  :3451/MUM/2010  
+(32) Priority Date  :20/12/2010 
+(33) Name of priority country  :India 
+(86) International Application No 
+        Filing Date 
+:PCT/US11/65160 
+:15/12/2011 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)GLENMARK PHARMACEUTICALS S.A. 
+      Address of Applicant :CHEMIN DE LA COMBETA 5, 2300 
+LA CHAUX-DE-FONDS, SWITZERLAND.   
+(72)Name of Inventor : 
+   1)KUMAR SUKEERTHI 
+   2)THOMAS ABRAHAM 
+   3)CHAUDHARI SACHIN SUNDARLAL 
+   4)KANSAGRA BIPIN PARSOTTAM 
+   5)YEMIREDDY VENKATA RAMANA 
+   6)KHAIRATKAR-JOSHI NEELIMA 
+   7)MUKHOPADHYAY INDRANIL 
+   8)GUDI GIRISH  
+(57) Abstract : 
+The present invention is related to 2-amino-4-arylthiazole derivatives as TRPA (Transient Receptor Potential subfamily A) 
+modulators. In particular, compounds described herein are useful for treating or preventing diseases, conditions and/or disorders 
+modulated by TRPA1 (Transient Receptor Potential subfamily A, member 1). Also provided herein are processes for preparing 
+compounds described herein, intermediates used in their synthesis, pharmaceutical compositions thereof, and methods for treating or 
+preventing diseases, conditions and/or disorders modulated by TRPA1. 
+  
+  
+No. of Pages : 96 No. of Claims : 42 

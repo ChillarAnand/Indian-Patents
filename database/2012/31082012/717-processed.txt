@@ -1,0 +1,22 @@
+Application number  =>  851/MUMNP/2012 A 
+
+Date of filing of application number  =>  04/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  SUBSTITUTED N-PHENYL-1-(4-PYRIDINYL)-1H--PYRAZOL-3-AMINES 
+
+Name of applicant  =>  1)JANSSEN PHARMACEUTICA NV 
+
+Name of inventor  =>  1)MACDONALD, GREGOR, JAMES 2)THURING, JOHANNES, WILHELMUS, JOHN, F. 3)VAN DEN KEYBUS, FRANS, ALFONS, MARIA 4)VAN ROOSBROECK, YVES, EMIEL, MARIA 
+
+International Classification  =>  C07D 401/04 
+
+Priority Doc No  =>  09170525.1 
+
+International Application Number  =>  PCT/EP2010/063609 
+
+International Publication Number  =>  WO/2011/033018 
+
+Abstract  =>  The present invention relates to N-phenyl-1-(4-pyridinyl)-1H-pyrazol-3-amine derivatives and pharmaceutically acceptable salts thereof, processes for preparing them, pharmaceutical compositions containing them and their use in therapy, according to formula (I): wherein R1, R2, R3, R4, R5, R6 have the meaning defined in the claims. The invention particularly relates to positive allosteric modulators of nicotinic acetylcholine receptors, such positive allosteric modulator having the capability to increase the efficacy of nicotinic receptor agonists. 
+

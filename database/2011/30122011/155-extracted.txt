@@ -1,0 +1,48 @@
+The Patent Office Journal 30/12/2011 
+ 
+25492
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1061/MUMNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :25/05/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : HIGH DYNAMIC RANGE IMAGE COMBINING  
+  
+(51) International classification  :G06T 5/40,G06T 5/50  
+(31) Priority Document No  :12/340,474  
+(32) Priority Date  :19/12/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/068834
+:18/12/2009 
+(87) International Publication No  :WO/2010/071839  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)QUALCOMM INCORPORATED 
+      Address of Applicant :Attn: International IP Administration  
+5775 Morehouse Drive  San Diego  California 92121-1714  
+United States of America  
+(72)Name of Inventor : 
+   1)ATANASSOV  Kalin M. 
+   2)VELARDE  Ruben M. 
+   3)LI  Hsiang-Tsun 
+   4)HWANG  Hau  
+(57) Abstract : 
+Systems and methods of high dynamic range image combining are disclosed. In a particular embodiment, a device includes a global 
+mapping module configured to generate first globally mapped luminance values within a region of an image, a local mapping module 
+configured to generate second locally mapped luminance values within the region of the image, and a combination module configured 
+to determine luminance values within a corresponding region of an output image using a weighted sum of the first globally mapped 
+luminance values and the second locally mapped luminance values. A weight of the weighted sum is at least partially based on a 
+luminance variation within the region of the image. 
+  
+ 
+No. of Pages : 56 No. of Claims : 25 

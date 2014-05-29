@@ -1,0 +1,22 @@
+Application number  =>  9864/CHENP/2011 A 
+
+Date of filing of application number  =>  27/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  HIGH SPEED DIVIDE-BY-TWO CIRCUIT 
+
+Name of applicant  =>  1)QUALCOMM Incorporated 
+
+Name of inventor  =>  1)CHAN Ngar Loong Alan 2)WANG Shen 
+
+International Classification  =>  H03K 3/356 
+
+Priority Doc No  =>  12/496,875 
+
+International Application Number  =>  PCT/US2010/040979 
+
+International Publication Number  =>   
+
+Abstract  =>  A high frequency divider involves a plurality of differential latches. Each latch includes a pair of cross-coupled P-channel transistors and a variable resistance element. The latch is controlled to have a lower output resistance at high operating frequencies by setting a multi-bit digital control value supplied to the variable resistance element. Controlling the latch to have a reduced output resistance at high frequencies allows the 3 dB bandwidth of the latch to be maintained over a wide operating frequency range. The variable resistance element is disposed between the two differential output nodes of the latch such that appreciable DC bias current does not flow across the variable resistance element. As a consequence, good output signal voltage swing is maintained at high frequencies, and divider current consumption does not increase appreciably at high frequencies as compared to output signal swing degradation and current consumption increases in a conventional differential latch divider. 
+

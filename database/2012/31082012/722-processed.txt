@@ -1,0 +1,22 @@
+Application number  =>  877/MUMNP/2012 A 
+
+Date of filing of application number  =>  09/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  RESOURCE CONFIGURATION METHOD, EQUIPMENT AND SYSTEM FOR UPLINK CONTROL CHANNEL 
+
+Name of applicant  =>  1)CHINA ACADEMY OF TELECOMMUNICATIONS TECHNOLOGY 
+
+Name of inventor  =>  1)LIN, YANAN 2)SHEN, ZUKANG 3)PAN, XUEMING 
+
+International Classification  =>  H04W 72/04 
+
+Priority Doc No  =>  CN 200910236329.7 
+
+International Application Number  =>  PCT/CN2010/077429 
+
+International Publication Number  =>  WO/2011/044820 
+
+Abstract  =>  The present invention disclosed a resource configuration method for uplink control channel, The method comprises: network side equipment determines downlink carrier that exists cell specific linkage in uplink carrier set and downlink carrier set of User Equipment UE; said network side equipment configures uplink control channel resource for downlink carrier which doesnt exist cell specific linkage according to said determinate result. The method of the present invention is simple and easy to implement, it could use the method in FDD and TDD system to advance system capability of Long Term Evolution multi-carrier update system, and advancing compatibility with the present LTE system primely. 
+

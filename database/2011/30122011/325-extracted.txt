@@ -1,0 +1,48 @@
+The Patent Office Journal 30/12/2011 
+ 
+25662
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1773/CHE/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :23/06/2010 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : TESTING COMPATIBILITY OF A COMPUTER APPLICATION  
+  
+(51) International classification  
+:G06F 
+11/25 
+; 
+G06F 
+11/34 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA
+:NA 
+(87) International Publication No  : NA 
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA
+:NA  
+  
+(71)Name of Applicant :  
+   1)HEWLETT-PACKARD DEVELOPMENT COMPANY  
+L.P. 
+      Address of Applicant :11445 Compaq Center Drive West 
+Houston  TX 77070 USA.   
+(72)Name of Inventor : 
+   1)Nitin Harvadan NAGORIA 
+   2)Shiva Sm PRAKASH  
+(57) Abstract : 
+Presented is a method, system, computer readable instructions executable code and computer storage medium for testing compatibility 
+between a computer application and a target computer platform. Configuration parameters of a computer application are provided to a 
+computer system for comparison against a database to determine whether the configuration parameters of the computer application 
+and the configuration parameters of a target computer platform are compatible or incompatible. FIG. 1 
+  
+  
+No. of Pages : 16 No. of Claims : 15 

@@ -1,0 +1,47 @@
+The Patent Office Journal 30/12/2011 
+ 
+25449
+(12) PATENT APPLICATION PUBLICATION (21) Application No.219/DEL/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :01/02/2010 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : A PROCESS FOR FABRICATION OF AN ELECTROLYTE INSULATOR SEMICONDUCTOR 
+DEVICE HAVING MULTISTEP RESERVOIR  
+  
+(51) International classification  :G01B 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  :NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)INDIAN INSTITUTE OF TECHNOLOGY KANPUR 
+      Address of Applicant :KANPUR 208016 UTTAR PRADESH 
+INDIA,  
+(72)Name of Inventor : 
+   1)MR. SIDDHARTHA PANDA 
+   2)MR. ABHISHEK AGARWAL  
+(57) Abstract : 
+The invention relates to a process for fabricating an electrolyte insulator semiconductor device having more than one step reservoir by 
+adapting a multiple exposure lithographic technique, the process comprising the steps of-providing a substrate and depositing and 
+photolithographically patering a dielectric material which acts as a mask, the depositing of the photoresist material initially made to 
+both the surfaces of the substrate, the first surface after oxidization retained as an oxidized surface weile the second surface being 
+made free of oxidized material through removal of the deposits; applying a photoresist on the oxidized surface of the substrate; 
+creating an inner opening to generate a single step reservoir by fully exposing the photoresist surface according to a first pattern; 
+creating an outer opening to generate a two step reservoir by partially exposing the photoresist corresponding a second pattern; and 
+configuring the contacts adapting a first metal on the back side, and a second metal on the shoulder of an upper step by metal 
+evaporation through the mask. {FIGURE 1} 
+  
+No. of Pages : 18 No. of Claims : 9 

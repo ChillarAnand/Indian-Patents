@@ -1,0 +1,22 @@
+Application number  =>  9944/CHENP/2011 A 
+
+Date of filing of application number  =>  29/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  POLYPEPTIDE HAVING D-LACTATE DEHYDROGENASE ACTIVITY, POLYNUCLEOTIDE ENCODING THE POLYPEPTIDE, AND PROCESS FOR PRODUCTION OF D-LACTIC ACID 
+
+Name of applicant  =>  1)TORAY INDUSTRIES, INC. 
+
+Name of inventor  =>  1)SAWAI, KENJI 2)SUDA, KAZUMI 3)SAWAI, HIDEKI 4)YAMADA, KATSUSHIGE 5)YAMAGISHI, JUNYA 
+
+International Classification  =>  C12N 15/09 
+
+Priority Doc No  =>  2009-134213 
+
+International Application Number  =>  PCT/JP2010/059306 
+
+International Publication Number  =>  WO 2010/140602A1 
+
+Abstract  =>  Highly productive D-lactic acid fermentation is achieved by using a transformant obtained by introducing into a host cell a polynucleotide encoding a polypeptide according to any one of the following (A) to (C) in such a manner that the polypeptide is expressed, which polypeptide has a D-lactate dehydrogenase activity higher than those of conventional polypeptides: (A) a polypeptide having the amino acid sequence shown in SEQ ID NO: 1 or 2; (B) a polypeptide having the same amino acid sequence as shown in SEQ ID NO: 1 or 2 except that one or several amino acids are substituted, deleted, inserted and/or added, which polypeptide has a D-lactate dehydrogenase activity; and (C) a polypeptide having an amino acid sequence which has a sequence identity of not less than 80% to the amino acid sequence shown in SEQ ID NO: 1 or 2, which polypeptide has a D- lactate dehydrogenase activity. 
+

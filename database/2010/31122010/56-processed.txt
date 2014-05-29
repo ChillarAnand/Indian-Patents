@@ -1,0 +1,22 @@
+Application number  =>  1490/MUM/2009 A 
+
+Date of filing of application number  =>  23/06/2009 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  SYSTEM FOR APPLICATION UPGRADE 
+
+Name of applicant  =>  1)TATA CONSULTANCY SERVICES LIMITED 
+
+Name of inventor  =>  1)MANSHARAMANI RAJESH 2)RAVAL MEHUL 3)NAMBIAR MANOJ 
+
+International Classification  =>  G06F15/00; G06F17/30 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A system and method for handling failures, occurring at any stage in the process of operating a plurality of stages in the process of automatically upgrading at least one pre-installed application is disclosed. The system includes log generating means, error recognizing means, error stage detection means, deletion means and re-initiation means. The log generating means generates a log of operation of stages and error is recognized using error recognizing means. After the kind of error is identified, the stage where error occurred is determined using error stage detection means and partial upgrades are deleted using deletion means and the stage is initiated again using re-initiation means after removal of error. 
+

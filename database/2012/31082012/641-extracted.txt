@@ -1,0 +1,48 @@
+ 
+The Patent Office Journal 31/08/2012 
+13700
+(12) PATENT APPLICATION PUBLICATION (21) Application No.690/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :19/03/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : METHOD AND PLANT FOR REPROCESSING WASTE SULPHURIC ACIDS FROM NITRIDING 
+PROCESSES  
+  
+(51) International classification  :C01B17/94,C01B21/46
+(31) Priority Document No  :09011773.0  
+(32) Priority Date  :15/09/2009 
+(33) Name of priority country  :EPO 
+(86) International Application No 
+        Filing Date 
+:PCT/EP2010/005512 
+:08/09/2010 
+(87) International Publication No  :WO/2011/032659  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)DE DIETRICH PROCESS SYSTEMS GMBH 
+      Address of Applicant :HATTENBERGSTRASSE 36, 55122 
+MAINZ, GERMANY. 
+(72)Name of Inventor : 
+   1)DICHTL, GOTTFRIED 
+   2)STEEG, HARALD  
+(57) Abstract : 
+The invention relates to a method for reprocessing waste acid from methods for producing nitroaromatics, in particular for producing 
+dinitrotoluene (DNT) or trinitrotoluene (TNT), to recover concentrated and purified sulfuric acid and nitric acid, wherein in a first 
+stage, the waste acid is separated in a stripping column countercurrently with water vapor from the bottom of the stripping column into 
+at least one vapor phase, which contains nitric acid and possibly nitro-organics, and a pre-concentrated sulfuric acid, and the vapor 
+phase and the pre-concentrated sulfuric acid are condensed and/or reprocessed in downstream method stages, wherein in the first stage 
+of the method, in addition to the stripping, according to the invention the nitric acid contained in the stripping vapor is concentrated in 
+the presence of additional concentrated sulfuric acid so that nitric acid in a highly concentrated form suitable for feeding back into the 
+nitriding process is obtained directly in the first stage. 
+  
+  
+No. of Pages : 27 No. of Claims : 18 

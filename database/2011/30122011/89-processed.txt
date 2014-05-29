@@ -1,0 +1,22 @@
+Application number  =>  2168/DELNP/2011 A 
+
+Date of filing of application number  =>  23/03/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  MULTI-FACTOR AUTHORIZATION SYSTEM AND METHOD 
+
+Name of applicant  =>  1)OBOPAY, INC. 
+
+Name of inventor  =>  1)AJIT THOMAS 2)RODNEY ROBINSON 3)JOHN MICHAEL TUMMINARO 4)JOHN TUMMINARO 
+
+International Classification  =>  G06Q 20/00 
+
+Priority Doc No  =>  61/095,290 
+
+International Application Number  =>  PCT/US2009/056276 
+
+International Publication Number  =>  WO 2010/082960 
+
+Abstract  =>  A method for authenticating the identity of a party to a transaction being executed over wired or wireless networks, using a personal device, comprising the steps of receiving, over a network, a message to initiate one of a plurality of transactions, identifying at least one indicia of the device transmitting the message, identifying the type of transaction, where at least one of the plurality of transactions requires further authentication and at least another one of the plurality of transactions does not, applying a set of rules appropriate to the transaction, for transactions requiring further authentication, comparing the party's response to predetermined acceptable responses, and accepting or rejecting the transaction request depending upon the outcome of the comparison. 
+

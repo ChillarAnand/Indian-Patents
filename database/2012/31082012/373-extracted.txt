@@ -1,0 +1,44 @@
+ 
+The Patent Office Journal 31/08/2012 
+13432
+(12) PATENT APPLICATION PUBLICATION (21) Application No.5295/DELNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :08/07/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : ANTI-Siglec-15 ANTIBODY   
+  
+(51) International classification  :C07K  
+(31) Priority Document No  :2009-094613  
+(32) Priority Date  :09/04/2009 
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date 
+:PCT/JP2010/056294
+:07/04/2010 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)DAIICHI SANKYO COMPANY LIMITED 
+      Address of Applicant :3-5-1 Nihonbashi Honcho Chuo-ku  
+Tokyo 103-8426  Japan Japan 
+(72)Name of Inventor : 
+   1)HIRUMA  Yoshiharu 
+   2)TSUDA  Eisuke 
+   3)TAKIZAWA  Takeshi 
+   4)NAKAYAMA  Makiko  
+(57) Abstract : 
+Disclosed is a pharmaceutical composition for treating and/or preventing abnormalities of bone metabolism, which targets a protein 
+encoded by a gene that can be strongly expressed in osteoclasts. Specifically disclosed are: a pharmaceutical composition containing 
+an antibody that can recognize human Siglec-15 specifically and has an activity of inhibiting the formation of osteoclasts; and others. 
+  
+  
+No. of Pages : 324 No. of Claims : 70 

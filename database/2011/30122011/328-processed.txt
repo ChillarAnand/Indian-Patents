@@ -1,0 +1,22 @@
+Application number  =>  908/CHENP/2011 A 
+
+Date of filing of application number  =>  08/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  Distributed Downlink Coordinated Multi-Point (CoMP) Framework 
+
+Name of applicant  =>  1)QUALCOMM Incorporated 
+
+Name of inventor  =>  1)GOROKHOV Alexei Y. 2)MALLIK Siddhartha 3)BHUSHAN Naga 4)BARBIERI Alan 
+
+International Classification  =>  H04W16/10 
+
+Priority Doc No  =>  61/092,490 
+
+International Application Number  =>  PCT/US2009/055238 
+
+International Publication Number  =>   
+
+Abstract  =>  Systems and methodologies are described that facilitate dynamically forming clusters in a wireless communication environment. A set of non-overlapping clusters can be formed dynamically over time and in a distributed manner. Each of the clusters can include a set of base stations and a set of mobile devices. The clusters can be yielded based upon a set of local strategies selected by base stations across the network converged upon through message passing. For example, each base station can select a particular local strategy as a function of time based upon network-wide utility estimates respectively conditioned upon implementation of the particular local strategy and disparate possible local strategies that can cover the corresponding base station. Moreover, operation within each of the clusters can be coordinated. 
+

@@ -1,0 +1,22 @@
+Application number  =>  9737/CHENP/2011 A 
+
+Date of filing of application number  =>  23/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  PRIMARY REFORMER FOR REDUCED NITRIC OXIDE FORMATION 
+
+Name of applicant  =>  1)THYSSENKRUPP UHDE GMBH 
+
+Name of inventor  =>  1)MEISSNER, OLIVER 2)VON TROTHA, THILO 
+
+International Classification  =>  C01B 3/38 
+
+Priority Doc No  =>  102009030480.0 
+
+International Application Number  =>  PCT/EP2010/003793 
+
+International Publication Number  =>  WO 2010/149361A2 
+
+Abstract  =>  Method for catalytic primary reformation of hydrocarbons with steam at elevated pressure by means of a reactor according to claim 1, comprised of a split tube system and a firing chamber, wherein in the split tube system which can be filled with a catalyst material, hydrocarbons to be reformed are converted by means of water steam to synthesis gas, and wherein the split tube system is heated by a plurality of firing facilities each arranged between the split tubes and which are comprised of a plurality of burners anranged in series, with the burners being able to generate mainly downwardly directed flames, and wherein the relevant firing facilities are supplied with fuel gas and air, with the air being withdrawn from the relevant feeders, and wherein the flue gas thus evolving passes through the firing chamber from top to bottom and enters in the lower area of the firing chamber into mainly horizontally arranged flue gas tunnels extending in parallel to each other and perpendicular to the vertical split tubes and being allocated to one firing facility each, said flue gas tunnels being made of ceramic material, and said flue gas entering through apertures in the lateral walls of the flue gas tunnels, and wherein the flue gas at the exit of the firing chamber is passed into devices that are utilized for heat recovery, and wherein in every single flue gas tunnel an additional gas is feeded through means for feeding into the tunnel's front side, in flue gas flow direction, wherein the gas containing oxygen and a non-combustible gas, so that the additional gas passes the flue gas tunnels over the entire length of the the firing chamber, with the volume of the additional gas passed into the flue gas tunnels being regulated. 
+

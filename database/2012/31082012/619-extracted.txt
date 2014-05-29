@@ -1,0 +1,49 @@
+ 
+The Patent Office Journal 31/08/2012 
+13678
+(12) PATENT APPLICATION PUBLICATION (21) Application No.635/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :14/03/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : TERMINAL DEVICE AND RETRANSMISSION CONTROL METHOD  
+  
+(51) International classification  :H04W 28/04,H04L 1/00  
+(31) Priority Document No  :2009-230727  
+(32) Priority Date  :02/10/2009 
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date 
+:PCT/JP2010/004881
+:03/08/2010 
+(87) International Publication No  :WO/2011/039923  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)PANASONIC CORPORATION 
+      Address of Applicant :1006, OAZA KADOMA, KADOMA-
+SHI, OSAKA 571-8501, JAPAN. 
+(72)Name of Inventor : 
+   1)NAKAO, SEIGO 
+   2)NISHIO, AKIHIKO 
+   3)HORIUCHI, AYAKO 
+   4)IMAMURA, DAICHI  
+(57) Abstract : 
+Provided are a terminal device and a retransmission control method that make it possible to minimize increases in overhead in an 
+uplink control channel (PUCCH), even if channel selection is used as the method to transmit response signals during carrier-
+aggregation communication using a plurality of downlink unit bands. On the basis of the generation status of uplink data and error-
+detection results obtained by a CRC unit (211), a control unit (208) in the provided terminal (200) uses response signal transmission 
+rules to control the transmission of response signals or uplink control signals that indicate the generation of uplink data. If an uplink 
+control signal and a response signal are generated simultaneously within the same transmission time unit, the control unit (208) 
+changes the resources allocated to the response signal and/or the phase point of the response signal in accordance with the number and 
+position of ACKs within the error-detection result pattern. 
+  
+  
+No. of Pages : 94 No. of Claims : 2 

@@ -1,0 +1,22 @@
+Application number  =>  87/KOL/2011 A 
+
+Date of filing of application number  =>  21/01/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHODS AND DEVICES FOR IMPLANTS WITH IMPROVED CEMENT ADHESION 
+
+Name of applicant  =>  1)DEPUY PRODUCTS, INC. 
+
+Name of inventor  =>  1)WEIDONG TONG 2)STEVE LEISINGER 3)LAWRENCE SALVATI 4)JOHN BONITATI 
+
+International Classification  =>  A61L27/04 
+
+Priority Doc No  =>  12/696,880 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  Biomedical implants (e.g., orthopedic implants) with modified surfaces that can enhance a cement bond"s strength (e.g., tensile, shear, and/or fatigue) are disclosed, along with methods of manufacturing and using such implants. The implants can exhibit a variety of physical, chemical, or process-derived features which can enhance cement bonding. For instance, the implant surface can exhibit particular roughness values, and/or be substantially free of non native material. Processes for producing such implants can include providing a first roughened implant surface, which can be produced, for example, by particle blasting. A treatment formulation can be applied to the first roughened surface to create a second roughened surface that exhibits enhanced cement bonding properties relative to the first roughened surface. In some instances, the first roughened surface and the second roughened surface can exhibit substantially similar Ra values. The second roughened surface can exhibit a negative RSk value. 
+

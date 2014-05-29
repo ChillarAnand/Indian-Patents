@@ -1,0 +1,45 @@
+The Patent Office Journal 30/12/2011 
+ 
+25574
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1085/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :17/02/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : DETECTION ALGORITHM FOR PCR ASSAY  
+  
+(51) International classification  :C12Q1/68  
+(31) Priority Document No  :61/136,040  
+(32) Priority Date  :08/08/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/053253
+:10/08/2009 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)SMITHS DETECTION INC. 
+      Address of Applicant :2202 Lakeside Boulevard  Edgewood  
+MD 21040  USA.   
+(72)Name of Inventor : 
+   1)LINK  John  Robert 
+   2)BOYES  Barry  Edward  
+(57) Abstract : 
+The application provides methods for improving the detection accuracy of the binding of labeled nucleic acid probes, such as those 
+used in PCR reactions. One such method comprises measuring the label intensity, e.g. fluorescence, at two different temperatures, a 
+higher temperature and a lower temperature, and then calculating the ratio of the label intensity at the lower temperature over the label 
+intensity at the higher temperature. Another method comprises measuring the label intensity at least two points in time post-PCR and 
+calculating the slope of the label intensity as a function of time. Measuring the hybridization kinetics of the probe binding to the target 
+nucleic acid allows an on-rate slope to be calculated which gives this method good specificity of detection. 
+  
+  
+No. of Pages : 33 No. of Claims : 31 

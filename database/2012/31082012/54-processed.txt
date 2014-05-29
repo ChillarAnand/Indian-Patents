@@ -1,0 +1,22 @@
+Application number  =>  2886/CHENP/2011 A 
+
+Date of filing of application number  =>  28/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  ENHANCED UPLINK POWER CONTROL BASED ON INTERFERENCE MANAGEMENT AND TRANSMISSION QUALILTY CONTROL 
+
+Name of applicant  =>  1)ALCATEL LUCENT 
+
+Name of inventor  =>  1)LIU, HAO 
+
+International Classification  =>  H04W52/24 
+
+Priority Doc No  =>  200810202020.1 
+
+International Application Number  =>  PCT/CN2009/072807 
+
+International Publication Number  =>  WO 2010/048820 A1 
+
+Abstract  =>  The present invention provides an enhanced uplink power control mechanism based on interference management and transmission quality control: the uplink power is controlled on the basis of simultaneously considering both the interference of neighboring cells and the system performance of the cell, that is , the transmit power of the mobile station is controlled. The mobile station controls its transmit power according to interference over thermal of the neighboring cells or sectors of the cell or sector which the mobile station is located in, transmission loss compensation and quality of signal received from the mobile station by the base station which serves the mobile station. The uplink power is controlled on the basis of simultaneously considering both the interference of neighboring cells and the system performance of the cell via using the method and device of the present invention, and thus the system performance is improved effectively. 
+

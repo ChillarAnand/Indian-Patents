@@ -1,0 +1,22 @@
+Application number  =>  1163/CHENP/2011 A 
+
+Date of filing of application number  =>  18/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  KEY MANAGEMENT IN A COMMUNICATION NETWORK 
+
+Name of applicant  =>  1)TELEFONAKTIEBOLAGET LM ERICSSON (PUBL) 
+
+Name of inventor  =>  1)BLOM Rolf 2)LINDHOLM Fredrik 3)N„SLUND Mats 4)NORRMAN Karl 
+
+International Classification  =>  H04L29/06, H04L9/08 
+
+Priority Doc No  =>  61/097,382 
+
+International Application Number  =>  PCT/EP2009/052967 
+
+International Publication Number  =>   
+
+Abstract  =>  A method and apparatus for key management in a communication network. A Key Management Server (KMS) receives from a first device a request for a token associated with a user identity, the user identity being associated with a second device. The KMS then sends the requested token and a user key associated with the user to the first device. The KMS subsequently receives the token from the second device. A second device key is generated using the user key and a modifying parameter associated with the second device. The modifying parameter is available to the first device for generating the second device key. The second device key is then sent from the KMS to the second device. The second device key can be used by the second device to authenticate itself to the first device, or for the first device to secure communications to the second device. 
+

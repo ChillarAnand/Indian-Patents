@@ -1,0 +1,46 @@
+ 
+The Patent Office Journal 31/08/2012 
+13595
+(12) PATENT APPLICATION PUBLICATION (21) Application No.510/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :01/03/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : GLAUCOMA DRAINAGE DEVICE WITH PUMP  
+  
+(51) International classification  :A61F 9/007  
+(31) Priority Document No  :12/563,244  
+(32) Priority Date  :21/09/2009 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US10/047612
+:02/09/2010 
+(87) International Publication No  :WO/2011/034742 
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)ALCON RESEARCH, LTD. 
+      Address of Applicant :6201 SOUTH FREEWAY, FORT 
+WORTH, TEXAS 76134 UNITED STATES OF AMERICA. 
+(72)Name of Inventor : 
+   1)RICKARD, MATTHEW J.A.  
+(57) Abstract : 
+A glaucoma drainage device has a main drainage tube (2030) with a first end in an anterior chamber (3-40) of an eye and a second end 
+in a drainage location (410). A bypass drainage tube (2040) is fluidly coupled to and in parallel with the main drainage tube. A pump 
+(280) is in communication, with the bypass drainage tube. The pump comprises a first driver 82020) and a first flexible membrane 
+(2025) enclosing a first chamber (2027). A first check valve (255) is located upstream from the pump, and a second check valve (260) 
+is located downstream from the pump. An active valve (270) is located upstream from the first check valve. The active valve 
+comprises a second driver (2010) and a second flexible membrane 2015 enclosing a secrnd chamber 2017). A third check valve (250) 
+is located between the active valve and the second end of the main drainage tube. A volume of the first chamber is changed to pump 
+fluid from the anterior chamber. 
+  
+  
+No. of Pages : 45 No. of Claims : 31 

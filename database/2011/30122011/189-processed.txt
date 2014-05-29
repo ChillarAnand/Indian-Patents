@@ -1,0 +1,22 @@
+Application number  =>  1110/MUMNP/2011 A 
+
+Date of filing of application number  =>  31/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  SELF-TUNING OF SIGNAL PATH DELAY IN CIRCUIT EMPLOYING MULTIPLE VOLTAGE DOMAINS 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)CHAI Chiaming 2)LILES Stephen Edward 
+
+International Classification  =>  G11C 7/08 
+
+Priority Doc No  =>  12/336,741 
+
+International Application Number  =>  PCT/US2009/067657 
+
+International Publication Number  =>  WO/2010/077776 
+
+Abstract  =>  Circuits and methods provided in multiple voltage domains that include self-tuning or timing of a signal path are disclosed. A plurality of paths is provided in the circuit. Each path traverses a portion of the multiple voltage domains, which may include any number or combination of the multiple voltage domains. Each of the paths has a delay responsive to at least one of the plurality of voltage domains. A delay circuit is provided and configured to generate a delay output related to the delay in the plurality of paths. In this manner, the delay output of the delay circuit is self-tuned or adjusted according to the delay in the plurality of paths. This self-tuning may be particularly suited to control the delay of a first signal path relative to a second signal path wherein the delay in the paths can vary with respect to each other during operation. 
+

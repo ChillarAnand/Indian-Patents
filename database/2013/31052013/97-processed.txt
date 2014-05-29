@@ -1,0 +1,22 @@
+Application number  =>  9773/CHENP/2011 A 
+
+Date of filing of application number  =>  26/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  DUAL POWER INPUT FLUID PUMP 
+
+Name of applicant  =>  1)MAGNA POWERTRAIN INC. 
+
+Name of inventor  =>  1)JAROSLAW LUTOSLAWSKI 2)RICHARD D. MUIZELAAR 3)ANDREW KOWALSKI 
+
+International Classification  =>  F02B 39/02 
+
+Priority Doc No  =>  61/185,254 
+
+International Application Number  =>  PCT/CA2010/000907 
+
+International Publication Number  =>   
+
+Abstract  =>  A fluid pumping system for a vehicle having an internal combustion engine includes a housing an electric motor a controller to control the speed of the electric motor a planetary gearset including a first member adapted to be driven by the internal combustion engine a second member driven by the electric motor and a third member. A pump is driven by the third member of the planetary gearset. The housing contains the electric motor the pump and the controller. 
+

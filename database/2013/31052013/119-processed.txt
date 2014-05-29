@@ -1,0 +1,22 @@
+Application number  =>  984/CHENP/2010 A 
+
+Date of filing of application number  =>  22/02/2010 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  FLUORINE-CONTAINING ORGANOSULFUR COMPOUND AND PESTICIDAL COMPOSITION THEREOF 
+
+Name of applicant  =>  1)SUMITOMO CHEMICAL COMPANY, LIMITED 
+
+Name of inventor  =>  1)KUMAMOTO, KOJI 2)MIYAZAKI, HIROYUKI 
+
+International Classification  =>  C07D213/32, A01N43/40, A01N43/54 
+
+Priority Doc No  =>  2007-217209 
+
+International Application Number  =>  PCT/JP2008/065471 
+
+International Publication Number  =>  WO 2009/025397A1 
+
+Abstract  =>  There is provided a fluorine-containing organosulfur compound having an excellent control effect on harmful arthropods, which is represented by the formula (I): wherein m represents 0 or 1; n represents 0, 1 or 2; A represents an optionally substituted 6- membered aromatic heterocyclic group; R1 to R4 are the same or different and represent a hydrogen atom, a C1-C4 chain hydrocarbon group optionally substituted with a halogen atom, etc.; and Q represents a C1-C5 haloalkyl group containing at least one fluorine atom, or a fluorine atom. 
+

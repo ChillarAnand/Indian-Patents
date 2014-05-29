@@ -1,0 +1,45 @@
+ 
+The Patent Office Journal 31/08/2012 
+13600
+(12) PATENT APPLICATION PUBLICATION (21) Application No.515/MUM/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :24/02/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : AUTOMATIC CHANNEL SWITCHING  
+  
+(51) International classification  :H04W4/06 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  :N/A  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)TATA CONSULTANCY SERVICES LIMITED 
+      Address of Applicant :NIRMAL BUILDING, 9TH FLOOR, 
+NARIMAN POINT, MUMBAI-400021, MAHARASHTRA, 
+INDIA. 
+(72)Name of Inventor : 
+   1)SINGH DHEERAJ 
+   2)NARAYANAN GANAPATHY  
+(57) Abstract : 
+The present subject matter relates to method and systems for automatic switching of channels in a user device (110). The present 
+subject matter includes determining occurrence of a primary switching event during reception of a current broadcast signal. Based on 
+the determining, at least one broadcast signal from among a plurality of preferred broadcast signals is identified. The preferred 
+broadcast signals are selected based in part on channel access pattern associated with a user. Further, a signal fingerprint of the at least 
+one identified broadcast signal is compared with a plurality of reference signal fingerprints. Based on the comparison, a switching 
+action is performed. 
+  
+  
+No. of Pages : 27 No. of Claims : 19 

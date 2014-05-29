@@ -1,0 +1,22 @@
+Application number  =>  1063/MUMNP/2011 A 
+
+Date of filing of application number  =>  25/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  SYSTEM AND METHOD TO ESTIMATE AUTOEXPOSURE CONTROL AND AUTO WHITE BALANCE 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)VELARDE Ruben M. 2)ATANASSOV Kalin M. 3)HUNG Szepo R. 
+
+International Classification  =>  H04N 5/235 
+
+Priority Doc No  =>  12/340,046 
+
+International Application Number  =>  PCT/US2009/066484 
+
+International Publication Number  =>  WO/2010/080250 
+
+Abstract  =>  In a particular embodiment, a method is disclosed that includes determining at least one ambient exposure parameter using an ambient illumination, the at least one ambient exposure parameter including a first sensitivity parameter of an autoexposure controller using the ambient illumination. The method includes determining at least one low illumination parameter using a first lamp level, the at least one low illumination parameter including a second sensitivity parameter of the autoexposure controller using the first lamp level, where the autoexposure controller is configured to operate according to at least one high illumination parameter based on the at least one ambient exposure parameter and the at least one low illumination parameter. The method further includes performing an image capture operation using a second lamp level that is brighter than the first lamp level, where the at least one high illumination parameter includes a third sensitivity parameter. 
+

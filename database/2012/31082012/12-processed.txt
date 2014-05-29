@@ -1,0 +1,22 @@
+Application number  =>  2049/CHE/2011 A 
+
+Date of filing of application number  =>  16/06/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  INFORMATION PROCESSING APPARATUS, INFORMATION PROCESSING METHOD, AND PROGRAM 
+
+Name of applicant  =>  1)SONY CORPORATION 
+
+Name of inventor  =>  1)MITSURU NISHIBE 2)KOICHI KAWASAKI 3)TSUYOSHI ISHIKAWA 4)KENJI HISANAGA 
+
+International Classification  =>  G09G5/00 
+
+Priority Doc No  =>  P2010-142461 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  An apparatus and method provide logic for formatting electronic content. In one implementation, an apparatus includes a generation unit configured to generate a signal for displaying content to a user on a display screen, and a receiving unit configured to receive information associated with a selection by the user of the displayed content. An identification unit is configured to identify a content element corresponding to the displayed content selection, based on at least the received information, and a formatting unit configured to format the identified content element by applying a formatting structure to the identified content element. The generation unit generates a signal for displaying the formatted content element on the display screen. 
+

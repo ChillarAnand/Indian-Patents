@@ -1,0 +1,22 @@
+Application number  =>  724/MUMNP/2012 A 
+
+Date of filing of application number  =>  21/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  PROCESS FOR APPLYING A METAL COATING TO A NON-CONDUCTIVE SUBSTRATE 
+
+Name of applicant  =>  1)ATOTECH DEUTSCHLAND GMBH 
+
+Name of inventor  =>  1)WU, WEI, JIE 2)PAN, KE, LIANG 
+
+International Classification  =>  C23C 18/31 
+
+Priority Doc No  =>  09171442.8 
+
+International Application Number  =>  PCT/EP2010/005851 
+
+International Publication Number  =>  WO/2011/035921 
+
+Abstract  =>  Described is a new process for applying a metal coating to a non-conductive substrate comprising the steps of (a) contacting the substrate with an activator comprising a noble metal/group IVA metal sol to obtain a treated substrate, (b) contacting said treated substrate with a composition comprising a solution of: (i) a Cu(II), Ag, Au or Ni soluble metal salt or mixtures thereof, (ii) 0.05 to 5 mol/l of a group IA metal hydroxide and (iii) a complexing agent for an ion of the metal of said metal salt comprising an organic material having a cumulative formation constant log K of from about 0.73 to about 21.95 for an ion of the metal of said metal salt, characterised in that the composition according to step (b) is treated with an electrical current for a period of time prior to and / or during contacting said solution with the substrate. 
+

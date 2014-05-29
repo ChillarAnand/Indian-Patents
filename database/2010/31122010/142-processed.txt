@@ -1,0 +1,22 @@
+Application number  =>  4108/KOLNP/2010 A 
+
+Date of filing of application number  =>  01/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  METHOD AND APPARATUS FOR THE FORMATION OF TISSUE FOLDS 
+
+Name of applicant  =>  1)ETHICON ENDO-SURGERY, INC 
+
+Name of inventor  =>  1)ZEINER, MARK, S. 2)STOKES, MICHAEL, J. 3)HARRIS, JASON, L. 4)YOUNG, WAYNE 5)SPIVEY, JAMES, T. 
+
+International Classification  =>  A61B 17/04 
+
+Priority Doc No  =>  12/113,633 
+
+International Application Number  =>  PCT/US2009/042326 
+
+International Publication Number  =>  WO 2009/135012 
+
+Abstract  =>  A suture anchoring device includes a fastener body composed of a tube and a spool is mounted within the tube for rotation relative to the tube. Suture material is wrapped about the spool such that pulling of the suture material causes rotation of the spool within the tube. A one-way locking mechanism allows the spool to rotate freely in a first direction and prevents rotation in an opposite direction. A method for creating a tissue fold includes deploying a first suture anchoring device within the tissue with suture material extending proximally from the first suture anchoring device, deploying a second suture anchoring device within the tissue with a distal portion of the suture material extending between the first suture anchoring device and a proximal portion of the suture material extending proximally from the second suture anchoring device, and applying tension to the suture material to draw portions of the tissue together to form a tissue fold. 
+

@@ -1,0 +1,22 @@
+Application number  =>  1761/MUMNP/2010 A 
+
+Date of filing of application number  =>  18/08/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  METHOD FOR SECURING MESSAGES TRANSMITTED BY A TRANSMITTING TERMINAL TO A REMOTE RECEIVING TERMINAL 
+
+Name of applicant  =>  1)VIACCESS 
+
+Name of inventor  =>  1)CHEVALLIER, ANTHONY 2)PHIRMIS, MATHIEU 
+
+International Classification  =>  H04N7/16 
+
+Priority Doc No  =>  08 51652 
+
+International Application Number  =>  PCT/EP2009/053008 
+
+International Publication Number  =>  WO2009/112580A2 
+
+Abstract  =>  The invention relates to a method for securing a number n greater than or equal to 1 of messages MUi (i= 1 to n) transmitted by a transmitting terminal to a receiving terminal in which, Before transmitting, the transmitting terminal, a- generating an ordered sequence comprising N data blocks Bj, (j= 1 to N), where N is an integer number greater than or equal to n; b- for each message MUi (i= 1 to n), calculating a position pi in said ordered sequence of N blocks using a function F; c- encapsulating each message MUi (i= 1 to n) in block Bj located in position pi, and; d- transmitting the ordered sequence comprising messages MUi to said receiving terminal; and on reception, the receiving terminal; e- recalculating the positions pi (i = 1 to n) of blocks Bj encapsulating messages MUi using said function F; f- extracting blocks Bj located at positions pi (i= 1 to n) in the received ordered sequence; g- extracting the messages MUi encapsulated in said blocks Bj. 
+

@@ -1,0 +1,22 @@
+Application number  =>  2002/CHE/2011 A 
+
+Date of filing of application number  =>  13/06/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  INKJET RECORDING APPARATUS AND INKJET RECORDING METHOD 
+
+Name of applicant  =>  1)CANON KABUSHIKI KAISHA 
+
+Name of inventor  =>  1)SHIGEYASU NAGOSHI 2)SATOSHI AZUMA 3)YOSHIAKI MURAYAMA 4)MINORU TESHIGAWARA 5)SUSUMU HIROSAWA 6)YUTAKA KANO 7)TAKESH MURASE 8)KENTAROU MURO 9)MASAO KATO 10)MINAKO KATO 
+
+International Classification  =>  B41J2/21 
+
+Priority Doc No  =>  2010-139954 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention provides a recording apparatus including recording heads each including a plurality of nozzle arrays that are arranged so as to overlap, wherein overlapping portions of the recording heads for two different colors are separated from each other with a distance therebetween in an array direction of nozzles. 
+

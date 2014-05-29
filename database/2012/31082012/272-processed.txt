@@ -1,0 +1,22 @@
+Application number  =>  3168/CHENP/2011 A 
+
+Date of filing of application number  =>  09/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  LOW-POWER GASEOUS PLASMA SOURCE 
+
+Name of applicant  =>  1)CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE 
+
+Name of inventor  =>  1)SORTAIS, PASCAL 2)LAMY, THIERRY 
+
+International Classification  =>  H03H1/46, H01J27/16, H01J37/08 
+
+Priority Doc No  =>  0857068 
+
+International Application Number  =>  PCT/FR09/051986 
+
+International Publication Number  =>  WO 2010/043831 A1 
+
+Abstract  =>  The invention relates to A plasma source excited by a high-frequency signal comprising a first rod (3) forming a quarter-wave antenna surrounded with at least one parallel rod forming a coupler (6, 7, 8), substantially of same length as the first rod, set to a reference voltage, the coupler- forming rods being regularly distributed, radially, around the first rod, at a distance varying from approximately half to one twentieth of the quarter of the wavelength, the antenna and the couplers being oriented in a same, direction. 
+

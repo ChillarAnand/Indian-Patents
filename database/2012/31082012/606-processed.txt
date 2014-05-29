@@ -1,0 +1,22 @@
+Application number  =>  620/MUMNP/2012 A 
+
+Date of filing of application number  =>  13/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  PARTICLE TRAP AND FILTER DEVICE COMPRISING A PARTICLE TRAP 
+
+Name of applicant  =>  1)VOLVO LASTVAGNAR AB 
+
+Name of inventor  =>  1)ETEMAD SASSAN 2)RYRHOLM REIMER 
+
+International Classification  =>  F02M35/022,B01D45/04 
+
+Priority Doc No  =>  PCT/SE2009/000408 
+
+International Application Number  =>  PCTSE2010/000224 
+
+International Publication Number  =>  WO2011/031205 
+
+Abstract  =>  The invention relates to a particle trap (100) for removing particles from a fluid (90), comprising a conduit (10), the conduit (10) comprising (i) a wall (16); (ii) a bended region (20) with at least one bend (200), the bended region (20) having an upstream side (20a) and a downstream side (20b) with respect to a longitudinal flow direction (70) of the fluid (90) along the conduit (10); (iii) an inlet (12) at the upstream side (20a) of the bended region (20); (iv) at least one first outlet (40) at the downstream side (20b) of the bended region (20); (v) at least one second outlet (50) at the downstream side (20b) or downstream of the bended region (20); (vi) wherein the least one first outlet (40) is arranged in a first region (26), at a distance from the wall (16), where during operation of the conduit (10) the concentration of particles in the fluid (90) is lower than in the vicinity of the wall (16) during operation; (vii) wherein the least one second outlet (50) is arranged in the vicinity of the wall (16) where during operation of the conduit (10) the concentration of particles is higher than where the at least one first outlet (40) is arranged; (viii) wherein the at least one first outlet (40) is arranged in a region (300) of the conduit (10) where during operation of the conduit (10) a separation between the fluid (90) with high particle concentration and the fluid (90) with low particle concentration is dominated by a swirl movement of the fluid (90) about the longitudinal flow direction (70) in the conduit (10); and (ix) wherein the at least one first outlet (40) is arranged in a substantially central region (82, 82a, 82b) of a swirl (80, 80a, 80b) generated in the fluid (90) during operation of the conduit (10). 
+

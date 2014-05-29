@@ -1,0 +1,22 @@
+Application number  =>  635/MUMNP/2012 A 
+
+Date of filing of application number  =>  14/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  TERMINAL DEVICE AND RETRANSMISSION CONTROL METHOD 
+
+Name of applicant  =>  1)PANASONIC CORPORATION 
+
+Name of inventor  =>  1)NAKAO, SEIGO 2)NISHIO, AKIHIKO 3)HORIUCHI, AYAKO 4)IMAMURA, DAICHI 
+
+International Classification  =>  H04W 28/04,H04L 1/00 
+
+Priority Doc No  =>  2009-230727 
+
+International Application Number  =>  PCT/JP2010/004881 
+
+International Publication Number  =>  WO/2011/039923 
+
+Abstract  =>  Provided are a terminal device and a retransmission control method that make it possible to minimize increases in overhead in an uplink control channel (PUCCH), even if channel selection is used as the method to transmit response signals during carrier- aggregation communication using a plurality of downlink unit bands. On the basis of the generation status of uplink data and error- detection results obtained by a CRC unit (211), a control unit (208) in the provided terminal (200) uses response signal transmission rules to control the transmission of response signals or uplink control signals that indicate the generation of uplink data. If an uplink control signal and a response signal are generated simultaneously within the same transmission time unit, the control unit (208) changes the resources allocated to the response signal and/or the phase point of the response signal in accordance with the number and position of ACKs within the error-detection result pattern. 
+

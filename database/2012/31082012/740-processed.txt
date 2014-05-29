@@ -1,0 +1,22 @@
+Application number  =>  914/MUMNP/2012 A 
+
+Date of filing of application number  =>  12/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  CONTROL OF PESTS IN PLANTS 
+
+Name of applicant  =>  1)TEMASEK LIFE SCIENCES LABORATORY LIMITED 
+
+Name of inventor  =>  1)YE, JIAN 2)CHUA, NAM-HAI 3)QU, JING 4)GAO, SHI-QIANG 
+
+International Classification  =>  C12N 15/83 
+
+Priority Doc No  =>  61/246,597 
+
+International Application Number  =>  PCT/SG2010/000339 
+
+International Publication Number  =>  WO/2011/040880 
+
+Abstract  =>  The present invention relates to the field of controlling pests, such as insects, using a virus to express pest genes in hosts. More specifically, the present invention relates to a method for rapidly screening for pest genes which can lead to mortality of the pest when the pest has ingested host tissues expressing virus-linked pest gene sequences. The present invention also relates to a method for controlling pests by viral expression of target pest sequences to modify endogenous expression of pest genes in cells or tissues of the pest. 
+

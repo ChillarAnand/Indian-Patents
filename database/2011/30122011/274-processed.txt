@@ -1,0 +1,22 @@
+Application number  =>  1255/CHENP/2011 A 
+
+Date of filing of application number  =>  23/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  A METHOD FOR DISCOVERING HIGH THROUGHPUT ROUTES IN WIRELESS MESH NETWORKS 
+
+Name of applicant  =>  1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+
+Name of inventor  =>  1)ZHAI Hongqiang 
+
+International Classification  =>  H04W40/02, H04L12/56 
+
+Priority Doc No  =>  61/084709 
+
+International Application Number  =>  PCT/IB2009/052977 
+
+International Publication Number  =>   
+
+Abstract  =>  A method (300) for discovering a route between a source node and a destination node in mesh wireless media (WiMedia) based networks. The method comprises upon receiving a route request (RREQ) by an intermediate node between the source node and the destination node, saving, in the RREQ, at least the identification (ID) number of the intermediate node and a transmission channel rate of a link on which the RREQ is received on(S320); computing a new route price (S330); determining if the new route price is larger than a price included in the received RREQ (S340); updating the received RREQ to include the new route price when the new route price is larger than the route price in the received RREQ (S350); and forwarding the updated RREQ to one or more neighbors of the intermediate node (S370). Fig. 3 
+

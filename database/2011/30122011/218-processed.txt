@@ -1,0 +1,22 @@
+Application number  =>  1001/CHENP/2011 A 
+
+Date of filing of application number  =>  12/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD AND APPARATUS FOR TRACK AND TRACK SUBSET GROUPING 
+
+Name of applicant  =>  1)NOKIA CORPORATION 
+
+Name of inventor  =>  1)Miska Hannuksela 2)Ye-Kui Wang 
+
+International Classification  =>  H04N7/24, G06F17/30 
+
+Priority Doc No  =>  61/081,328 
+
+International Application Number  =>  PCT/IB2009/006263 
+
+International Publication Number  =>   
+
+Abstract  =>  A method comprises storing real-time multimedia data in a plurality of tracks and/or track subsets; and identifying one or more multi- track groups, each multi-track group being associated with a relationship among one or more of the plurality of tracks and/or track subsets. Figure. 
+

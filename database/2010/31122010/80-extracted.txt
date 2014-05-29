@@ -1,0 +1,49 @@
+The Patent Office Journal 31/12/2010 
+ 
+5346
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1989/MUMNP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :21/09/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : A SLIDING CLOSURE HINGE COMBINATORIAL DRIVING SPRING FOR MOBILE 
+COMMUNICATION TERMINAL  
+  
+(51) International classification  :H04M1/02  
+(31) Priority Document No  :200820085195.4  
+(32) Priority Date  :03/04/2008 
+(33) Name of priority country  :China 
+(86) International Application No 
+        Filing Date 
+:PCT/CN2008/071367
+:19/06/2008 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)HANGZHOU AMPHENOL PHOENIX TELECOM 
+PARTS CO.  LTD. 
+      Address of Applicant :No.98-5(South)  Road 19 Hangzhou 
+Economic and Technological Development Zone  Hangzhou  
+Zhejiang 310018  China   
+(72)Name of Inventor : 
+   1)CHENG  Guanlun 
+   2)YAO  Xin  
+(57) Abstract : 
+This invention provides the combined driving spring in the slide cover hinge of mobile communication terminal. It comprises multiple 
+springs in the same shape, the multiple springs are arranged and combined in turn on the same plane, with their both ends fixed; the 
+driving spring is provided with connections on its both ends to match with the slide in the slide hinge. The shape of spring is similar to 
+shape W. The driving spring provided by this invention can be directly used as a driving mechanism in slide hinge for mobile 
+communication terminals, simplifying the structure of driving mechanism. In particular, when the spring in the shape of W is 
+employed, the spring can not only facilitate the combination connection, but also provide a greater force. Besides, when the slide 
+cover slides,less area is occupied when spring deforms,making it easier to arrange other parts of mobiles device. 
+  
+ 
+No. of Pages : 11 No. of Claims : 8 

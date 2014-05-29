@@ -1,0 +1,22 @@
+Application number  =>  1806/MUM/2011 A 
+
+Date of filing of application number  =>  22/06/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  PLANETARY WHEEL GRINDING MACHINE FOR ONLINE GRINDING 
+
+Name of applicant  =>  1)MILIND DINKAR KELKAR 
+
+Name of inventor  =>  1)MILIND DINKAR KELKAR 
+
+International Classification  =>  B02C 7/00 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention provides a planetary wheel grinding machine for grinding bars. The machine grinds round bars online. Further, the machine and the process achieve heavy stock removal and at feed rates of 15M/min to lOOM/mm. The machine includes a rotating drum, a grinding wheel and a wheel wear compensation assembly for moving the grinding wheel on a pivoted bracket after wearing thereby maintaining pressure on the bar. 
+

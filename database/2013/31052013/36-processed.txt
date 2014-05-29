@@ -1,0 +1,22 @@
+Application number  =>  3434/DEL/2011 A 
+
+Date of filing of application number  =>  29/11/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  'POWER MANAGEMENT USING RELATIVE ENERGY BREAK-EVEN TIME 
+
+Name of applicant  =>  1)INTEL CORPORATION 
+
+Name of inventor  =>  1)WANG, REN 2)MACIOCCO, CHRISTIAN 3)TSAI, JR-SHIAN 4)MURALIDHAR, RAJEEV, D. 5)SESHADRI, HARINARAYANAN 6)TAI, TSUNG-YUAN, C. 7)ERGIN, MESUT, A. 8)MIN, ALEXANDER, W. 
+
+International Classification  =>  G05G 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  Systems and methods may provide for determining an absolute energy break-even time for a first low power state with respect to a current state of a system. A relative energy break-even time may also be determined for the first low power state with respect to a second low power state based on at least in part the absolute energy break-even time. In additibn, an operating state may be selected for the system based on at least in part the relative energy break-even time. 
+

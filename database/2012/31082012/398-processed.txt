@@ -1,0 +1,22 @@
+Application number  =>  5357/DELNP/2011 A 
+
+Date of filing of application number  =>  12/07/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  SPLICING SYSTEM 
+
+Name of applicant  =>  1)NDS LIMITED 
+
+Name of inventor  =>  1)SUNDY LEN 2)MIRSKY YAIR 3)ZENTNER ARIEL 4)WEINBACH YAEL 
+
+International Classification  =>  H04N 7/24 
+
+Priority Doc No  =>  61/216,071 
+
+International Application Number  =>  PCT/IB2010/051528 
+
+International Publication Number  =>  WO 2010/131128 
+
+Abstract  =>  A system for switching from a first (14) to a second (16) audio/video sequence, the second sequence (16) including a splice point time stamp (12), the system including a disk (18) to store the first sequence (14), a receiver to receive the second sequence as live audio/video, a demultiplexer arrangement (24) to demultiplex at least some of the first sequence (14) from the disk (18) and the second sequence (16) from the receiver, demultiplex the first sequence fast enough so that the demultiplexing of the second sequence (16) can commence a number of frames prior to the splice point time stamp (12), a buffer (28,30)to receive for storage from the demultiplexer arrangement (24), the demultiplexed audio/video of the first sequence (14) and at least part of the second sequence (16), and a decoder (34,36) to decode the demultiplexed audio/video stored in the buffer (28,30) including decoding the first sequence (14) and then the second sequence (16) from the splice point time stamp (12). Related apparatus and methods are also described. 
+

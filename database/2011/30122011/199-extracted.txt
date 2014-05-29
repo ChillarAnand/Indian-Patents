@@ -1,0 +1,49 @@
+The Patent Office Journal 30/12/2011 
+ 
+25536
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1123/MUMNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :01/06/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : THIN FILM DEPOSITION VIA A SPATIALLY-COORDINATED AND TIME-SYNCHRONIZED 
+PROCESS  
+  
+(51) International classification  :H01L 21/205  
+(31) Priority Document No  :12/316,417  
+(32) Priority Date  :12/12/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/067810
+:14/12/2009 
+(87) International Publication No  :WO/2010/068941  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)OVSHINSKY INNOVATION  LLC 
+      Address of Applicant :1050 E. Square Lake Road Bloomfield 
+Hills  Michigan 48304  U.S.A  
+(72)Name of Inventor : 
+   1)OVSHINSKY  Stanford  
+(57) Abstract : 
+A deposition system and process for the formation of thin film materials. In one embodiment, the process includes forming an initial 
+plasma from a first material stream and allowing the plasma to evolve in space and/or time to extinguish species that are detrimental to 
+the quality of the thin film material. After the initial plasma evolves to an optimum state, a second material stream is injected into the 
+deposition chamber to form a composite plasma that contains a distribution of species more conducive to formation of a high quality 
+thin film material. The deposition system includes a deposition chamber having a plurality of delivery points for injecting two or more 
+streams (source materials or carrier gases) into a plasma region. The delivery points are staggered in space to permit an upstream 
+plasma formed from a first material stream deposition source material to evolve before combining a downstream material stream with 
+the plasma. Injection of different material streams is also synchronized in time. The net effect of spatial coordination and time 
+synchronization of material streams is a plasma whose distribution of species is optimized for the deposition of a thin film 
+photovoltaic material at high deposition rates. Delivery devices include nozzles and remote plasma sources. 
+  
+ 
+No. of Pages : 35 No. of Claims : 23 

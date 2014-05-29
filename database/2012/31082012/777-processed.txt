@@ -1,0 +1,22 @@
+Application number  =>  974/MUMNP/2012 A 
+
+Date of filing of application number  =>  18/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  SERVO CONTROL APPARATUS 
+
+Name of applicant  =>  1)MITSUBISHI HEAVY INDUSTRIES, LTD. 
+
+Name of inventor  =>  1)KURAMOTO HIROHISA 
+
+International Classification  =>  H02P 29/00,G05D 3/12 
+
+Priority Doc No  =>  2009-291904 
+
+International Application Number  =>  PCT/JP2010/065464 
+
+International Publication Number  =>  WO/2011/077789 
+
+Abstract  =>  A control unit (100) conducts a servo control of a table (02), which is the load, by conducting a feedback control of a servomotor (40). An inverse characteristic model (300) conducts a feedforward compensation control, by obtaining a speed compensation signal (V300) that compensates the dynamic errors of the mechanical system. When the rigidity of a screw section (31) of a ball screw (30) along the axial direction changes, a rigidity-change compensation unit (400) changes the rigidity value of the screw section along the axial direction that is included in the compensation control transfer function of the inverse characteristic model (300), in accordance with the change in rigidity. Thus, the servo control apparatus compensates such changes in rigidity and conducts an accurate servo control of the position of the table (02), even when the ball screw (30) of the feeding mechanism expands or contracts due to secular change or change in temperature, and rigidity along the axial direction changes. 
+

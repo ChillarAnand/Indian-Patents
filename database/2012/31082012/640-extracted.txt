@@ -1,0 +1,51 @@
+ 
+The Patent Office Journal 31/08/2012 
+13699
+(12) PATENT APPLICATION PUBLICATION (21) Application No.687/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :19/03/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : TRANSMISSION METHOD, DETECTION METHOD AND EQUIPMENT FOR CONTROL 
+CHANNELS OF A RELAY SYSTEM  
+  
+(51) International classification  :H04B 7/14  
+(31) Priority Document No  :200910235533.7  
+(32) Priority Date  :29/09/2009 
+(33) Name of priority country  :China 
+(86) International Application No 
+        Filing Date 
+:PCT/CN2010/077490
+:01/01/1900 
+(87) International Publication No  :WO/2011/038687  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)CHINA ACADEMY OF TELECOMMUNICATIONS 
+TECHNOLOGY 
+      Address of Applicant :NO.40 XUEYUAN ROAD,HAIDIAN 
+DISTRICT,BEIJING 100191,P.R.CHINA . 
+(72)Name of Inventor : 
+   1)SHEN ZUKANG 
+   2)PAN XUEMING 
+   3)XIAO GUOJUN 
+   4)WANG LIBO 
+   5)ZHANG WENJIAN  
+(57) Abstract : 
+A configuration method, detection method and equipment for control channels of a relay system are provided in the present invention. 
+The configuration method comprises: the network side transmits a Relay-Physical Downlink Control Channel (R-PDCCH) of a 
+control channel to its service relay equipment, the related control information of said relay equipment is included in said R-PDCCH, 
+said R-PDCCH is a dedicated R-PDCCH of said relay equipment (402). In the present invention, the dedicated control channel of the 
+relay system is configured according to the number of Orthogonal Frequency Division Multiplexing (OFDM) symbols occupied by a 
+R-PDCCH, and the mapping from a R-PDDCH/Relay-Physical Downlink Shared Channel (R-PDSCH) to a Resource Element (RE), 
+and the demand that one relay node dedicates a R-PDCCH is satisfied. 
+  
+  
+No. of Pages : 38 No. of Claims : 20 

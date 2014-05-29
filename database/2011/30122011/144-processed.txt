@@ -1,0 +1,22 @@
+Application number  =>  1051/MUMNP/2011 A 
+
+Date of filing of application number  =>  24/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  VALVE FOR UNIVERSAL UTILIZATION AND SEVERAL PURPOSES 
+
+Name of applicant  =>  1)HORVTH Gabor 2)KOVCS Attila 
+
+Name of inventor  =>  1)HORVTH Gabor 2)KOVCS Attila 3)STORI Gyula 
+
+International Classification  =>  F16K 15/14 
+
+Priority Doc No  =>  P 08 00613 
+
+International Application Number  =>  PCT/HU2009/000089 
+
+International Publication Number  =>  WO/2010/052511 
+
+Abstract  =>  The subject of the invention is a valve for universal utilization and several purposes allowing by its formation the relatively high flow in the basic state and slightly open state of the valve even in case of small pressure differences in case of low pressure; furthermore the formation of the valve allows to ensure providing functions depending on the direction of flow that in given case can be regulated regarding back-pressure, partial back-pressure, pressure relief, partial relief limiting functions. The valve according to the invention is made in one piece from a soft, flexible material, and it has a full cross-sectional open basic part (2) at one end, and an intermediate part (3) of decreasing cross-section joining the said basic part (2), as well as a flattened part (4) joining the intermediate part (3) in the other end of the valve (1). It is characterized by that, the flattened part (4) is a structure sintered or pressed or glued in the material of the valve (1), and on the flattened part (4) of the valve (1) a pressed rim (7) made by airtight fixing of the edges of the flattened part (4), preferably by sintering, or pressing or glueing is formed, furthermore the length (L) of the intermediate part (3) is L = 0,5...6 (K/ π), compared to perimeter (K) in the basic part of the valve (1), in connection with the medium in motion, and the length (N) of the pressed rim (7) in the basic part of the valve (1) compared to perimeter (K) in connection with the medium in motion is N = 0,1...2 (K/ π). 
+

@@ -1,0 +1,22 @@
+Application number  =>  3001/CHENP/2011 A 
+
+Date of filing of application number  =>  03/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  PARTITIONED TRAFFIC SEGMENT COMMUNICATIONS METHODS AND APPARATUS 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)GAVIN BERNARD HORN 2)ASHWIN SAMPATH 3)JUNYI LI 4)RAJIV LAROIA 
+
+International Classification  =>  H04W 72/04 
+
+Priority Doc No  =>  12/267,962 
+
+International Application Number  =>  PCT/US09/063297 
+
+International Publication Number  =>  WO 2010/054005 A1 
+
+Abstract  =>  Methods and apparatus related to partitioning traffic segments are described. An access router, having concurrent connections with two access terminals, each desiring to transmit traffic signals to the access router in the same traffic segment, partitions a traffic segment. The partition is such that a first portion of the traffic segment is allocated to a first access terminal and a second portion of the traffic segment is allocated to the second access terminal. Control information, e.g., conveying partition information, is communicated to access terminals prior to the traffic segment. In some embodiments, the partition information is communicated as part of a transmission request response signal, e.g., via phase of the request response signal. An access terminal which has been allocated a traffic segment partition portion identifies is allocation from the transmitted control information, and subsequently transmits traffic signals to the access router in its allocated portion of the traffic segment. 
+

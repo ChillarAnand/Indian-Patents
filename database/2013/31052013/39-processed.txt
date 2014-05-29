@@ -1,0 +1,22 @@
+Application number  =>  3446/DEL/2011 A 
+
+Date of filing of application number  =>  30/11/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  POWER BACKUP SYSTEM WITH EFFECTIVE ENERGY MANAGEMENT AND UTILIZATION 
+
+Name of applicant  =>  1)SU-KAM POWER SYETEMS LTD 
+
+Name of inventor  =>  1)KUNWER SACHDEV 2)SANJEEV KUMAR SAINI 
+
+International Classification  =>  A63D 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention relates to a power backup system with multiple input power sources and the management of these input power sources for efficient electricity generation and utilization of energy generated in most economical way. The backup system comprises at least a sensing, instrumentation & data mining/ processing/ retrieval unit which senses/analyses the input source such as but not limited to the renewable energy sources, solar availability, environmental data, historic data base, mains electricity and energy storage device status/ conditions or any other such kind. The system manages the input sources. The input priority protocol allows the backup system to prioritize the different applications for power management and its utilization in economic way. The system monitors the battery charge level, power generation, power consumption level or any other parameter. 
+

@@ -1,0 +1,22 @@
+Application number  =>  3104/CHENP/2011 A 
+
+Date of filing of application number  =>  05/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD FOR PRODUCING A SEMIFINISHED PRODUCT AND SEMIFINISHED PRODUCT FOR ELECTRICAL CONTACTS AND CONTACT PIECE 
+
+Name of applicant  =>  1)DODUCO GMBH 
+
+Name of inventor  =>  1)HEINZEL, HELMUT 2)MOOG, DIRK 3)WITULSKI, NORBERT 4)DASLER, STEFAN 5)KRAUS, ANDREAS 6)MAHLE-MOSSNER, EVELYN 7)BEHRENS, VOLKER 8)WENZ, JOHANN 
+
+International Classification  =>  A61L27/20, A61L27/56, A61L27/58 
+
+Priority Doc No  =>  10 2008 056 263.7 
+
+International Application Number  =>  PCT/EP2009/007661 
+
+International Publication Number  =>  WO 2010/051922 A2 
+
+Abstract  =>  The invention relates to a method for producing a strand-like, particularly band-like semi-finished part for electrical contacts, wherein the semi-finished part has a top side intended for making the electrical contact, said top side made from a silver-based composite material in which one or multiple metal oxides or carbon are embedded, and has a carrier layer supporting the composite material made of easily solderable or weldable ignoble metal, said method having the following steps: - Powder-metaliurgic production of a block made from the silver-based composite material, - Encasing of the block made of the composite material with a powder made from the easily solderable or weldable ignoble metal, - Compressing the block, encased by the metal powder, to condense the metal powder, - Sintering the compressed block in a reducing atmosphere or in an inert atmosphere or in a vacuum, avoiding the formation of fluid eutectics from the silver of the composite material and from the non-precious metal with which the block made from the silver-based composite material is encased, - Reshaping of the sintered block by extrusion pressing, - Creating a partial strand with a top side made from composite material and a bottom side made from non-precious metal 
+

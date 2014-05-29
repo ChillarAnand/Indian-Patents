@@ -1,0 +1,22 @@
+Application number  =>  2194/DELNP/2011 A 
+
+Date of filing of application number  =>  24/03/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  DEVICE FOR X-RAY MATERIAL TESTING OF TEST OBJECTS 
+
+Name of applicant  =>  1)GE SENSING & INSPECTION TECHNOLOGIES GMBH 
+
+Name of inventor  =>  1)JAN KRAEMER 2)INGO STUKE 3)NICOLAS BRETZKE 4)HOLGER LUX 5)MICHAEL WUESTENBECKER 6)TIL FLORIAN GUENZLER 
+
+International Classification  =>  G01N 23/04 
+
+Priority Doc No  =>  PCT/EP08/008072 
+
+International Application Number  =>  PCT/EP2009/000152 
+
+International Publication Number  =>  WO 2010/034361 
+
+Abstract  =>  Device for x-ray material testing of test objects (15), including an x-ray device (20) which comprises an x-ray source (12) for irradiating a test object held (15) in the testing position and an x-ray detector (13) which is a line detector, and an electronic control device (38) which is adapted to control the x-ray device (20), wherein during x-ray testing the test object (15) and the x-ray device (20) can be rotated relative to each other around an essentially vertical rotational axis R, only, characterized in that the x-ray detector (13) comprises at least two detecting portions (13A, 13B, ...) , each of which is adapted to detect the test object throughout a full radial cross-section (52A, 52B, ...) . 
+

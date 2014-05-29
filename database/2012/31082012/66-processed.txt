@@ -1,0 +1,22 @@
+Application number  =>  2903/CHENP/2011 A 
+
+Date of filing of application number  =>  28/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD FOR OPERATING AN ENDING WIDGET WITH DATA RETRIEVED FROM A STARTING WIDGET 
+
+Name of applicant  =>  1)ALCATEL LUCENT 
+
+Name of inventor  =>  1)GUILLAUME DORBES 2)CLAIRE BAZIN 
+
+International Classification  =>  G06F9/44, G06F3/048 
+
+Priority Doc No  =>  08167996.1 
+
+International Application Number  =>  PCT/EP2009/064403 
+
+International Publication Number  =>  WO 2010/049533 A1 
+
+Abstract  =>  The invention relates to a method for operating an ending widget (14) with data retrieved from a starting widget (12), both the starting widget (12) and the ending widget (14) being portable software programs installed and executed through a Markup Language Web based page in order to display, respectively, at least one visual object (26, 28, 30) and at least one visual area (32, 34, 36), characterized in that it comprises the following steps: - The step for the starting widget (12) to detect a drag of the visual object (28) and to inform a distant server (38) from such detected drag, - The step for the ending widget (14) to detect a drop in the visual area (34) and to inform the distant server (38) from such detected drop, and The step for the distant server (38) to correlate the drag in the starting widget (12) with the drop in the ending widget (14) so as to trigger an action whereby data associated to the visual object (28) performs a function associated with the visual area (34). 
+

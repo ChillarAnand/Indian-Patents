@@ -1,0 +1,22 @@
+Application number  =>  2160/DELNP/2011 A 
+
+Date of filing of application number  =>  22/03/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  USER INTERFACE HAVING ZOOM FUNCTIONALITY 
+
+Name of applicant  =>  1)MICROSOFT CORPORATION 
+
+Name of inventor  =>  1)NEUFELD, NADAV, M 2)METTIFOGO, GIONATA 3)MIGOS, CHARLES, J 4)KLEINHANZL, AFSHAN, A 
+
+International Classification  =>  G06F 3/048 
+
+Priority Doc No  =>  12/237,715 
+
+International Application Number  =>  PCT/US2009/057889 
+
+International Publication Number  =>  WO 2010/036660 
+
+Abstract  =>  A user interface having zoom functionality is described. In an implementation, a user interface is displayed having representations of a plurality of content. Each of the representations is formed using a respective piture-in-picture stream of respective content. When an input is received to select a particular one of the representations, the respective content is displayed by zooming in from the picture-in- picture stream of the respective content to a respective video stream of the respective content. 
+

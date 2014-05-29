@@ -1,0 +1,22 @@
+Application number  =>  1027/MUMNP/2011 A 
+
+Date of filing of application number  =>  20/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  DISCARDABLE FILES 
+
+Name of applicant  =>  1)SANDISK IL LTD. 
+
+Name of inventor  =>  1)RAINES Moshe 2)CARMELI Ran 3)KOREN David 4)HAHN Judah Gamliel 5)BRYANT-RICH Donald Ray 
+
+International Classification  =>  G06F 17/30 
+
+Priority Doc No  =>  12/336,089 
+
+International Application Number  =>  PCT/US2009/065456 
+
+International Publication Number  =>  WO/2010/074866 
+
+Abstract  =>  Files stored, or to be stored, in a storage device are marked either as non-discardable or as discardable in a file system structure associated with a storage device. Each discardable file has associated with it a discarding priority level. A publisher file is permitted to be stored in the storage device only if storing the publisher file does not narrow a storage usage safety margin that is reserved for user files. User files are allowed to be stored in the storage device even if storing them narrows the storage usage safety margin but, in such cases, the storage usage safety margin is restored by removing one or more discardable files from the storage device. A discardable file is removed from the storage device if its discarding priority level equals or is higher than a predetermined discarding threshold value. 
+

@@ -1,0 +1,22 @@
+Application number  =>  3111/CHENP/2011 A 
+
+Date of filing of application number  =>  06/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  A PREPARATION METHOD OF HIGH-PURITY L-CARNITINE 
+
+Name of applicant  =>  1)CHANGZHOU MULTIPLE DIMENSION INSTITUTE OF INDUSTRY TECHNOLOGY CO., LTD. 
+
+Name of inventor  =>  1)GU, SHUHUA 2)WANG, XUECHENG 3)LI, QINGYI 
+
+International Classification  =>  C07C229/22, C07C49/215 
+
+Priority Doc No  =>  200810195331.X 
+
+International Application Number  =>  PCT/CN2009/001122 
+
+International Publication Number  =>  WO 2010/043110 A1 
+
+Abstract  =>  The present invention relate to a preparation method of high-purity L-carnitine which belongs to an important technique of qulity control in different steps of chiral medicine production. The method comprises the following steps of monitoring the content of the L- isomer impurity in chiral material S-epichlorohydrin by gas chromatography and chiral cilumn and controlling the content of the L- isomer impurity in chiral raw material in the definite range; monitoring and controlling the specific optical rotation of the chiral intermediate L-3-chloro-2-hydroxy-N,N,N-trimethyl-propanaminium in the definite ranges using a polarimeter; monitoring the content of the R-isomer in the intermediate L-3-cyano-2-hydroxy-N,N,N-trimethyl-propanaminium using derivation agent (+)a- methyl-6-methoxy-2-naphthaleneaceyl chloride by HPLC and controlling the content of the isomer in the intermediate in the definite range; and measuring the final product L-carnitine using derviation agent (+)a-methyl-6-methoxy-2-naphthaleneaceyl chloride by HPLC. This method gives the high-purity L-carnitine in which the content of L-isomer may be more than 97% and that of R- isomerless than 2%. 
+

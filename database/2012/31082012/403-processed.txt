@@ -1,0 +1,22 @@
+Application number  =>  5360/DELNP/2011 A 
+
+Date of filing of application number  =>  12/07/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD AND SYSTEM FOR REALIZING ENERGY SAVING CONTROL OF BS 
+
+Name of applicant  =>  1)ZTE CORPORATION 
+
+Name of inventor  =>  1)ZHAO, JIE 
+
+International Classification  =>  H04W 52/00 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCTCN2008/002118 
+
+International Publication Number  =>  WO 2010/078674 
+
+Abstract  =>  The present invention discloses a method for implementing energy saving control at a NodeB, comprising: when a cell of a NodeB is required to sleep, a Radio Network Controller (RNC) sending an indication of sleeping a cell to the NodeB, and the NodeB sleeping the cell to enter into an energy saving state; and when the cell of the NodeB is required to wake up, the RNC sending an indication of waking up a cell to the NodeB, and the NodeB waking up the cell to exit the energy saving state. The present invention also discloses a system for implementing energy saving control at a NodeB. 
+

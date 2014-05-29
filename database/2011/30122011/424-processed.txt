@@ -1,0 +1,22 @@
+Application number  =>  804/KOL/2010 A 
+
+Date of filing of application number  =>  22/07/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  BROWSER PREVIEW APPARATUS AND SYSTEM 
+
+Name of applicant  =>  1)BANK OF AMERICA CORPORATION 
+
+Name of inventor  =>  1)ANDERSEN, DAVID M. 2)BUNTO, BRANDEE LYNN 3)RICHARDS, PHILLIP L. 
+
+International Classification  =>  G06Q50/00 
+
+Priority Doc No  =>  12/509,023 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  In general, embodiments of the invention relate to systems, methods, and computer program products for previewing, in a safe environment, a given web page that is or may be conducting dangerous or fraudulent activity, including malware distribution and phishing activity. More particularly, embodiments of the invention relate to previewing a given web page in a safe environment by obtaining and breaking down the source code behind the given web page and constructing a preview of the web page without any potentially harmful images, scripts, executables, and/or the like. 
+

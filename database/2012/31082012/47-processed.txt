@@ -1,0 +1,22 @@
+Application number  =>  2877/CHENP/2011 A 
+
+Date of filing of application number  =>  28/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  IGNITOR FOR AIR/FUEL MIXTURE AND ENGINE THEREWITH AND METHOD OF ASSEMBLY THEREOF INTO A CYLINDER HEAD 
+
+Name of applicant  =>  1)FEDERAL-MOGUL IGNITION COMPANY 
+
+Name of inventor  =>  1)LYKOWSKI, JAMES, D. 2)HAMPTON, KEITH 3)BURROWS, JOHN 
+
+International Classification  =>  H01T13/20, F02B19/12 
+
+Priority Doc No  =>  61/102,394 
+
+International Application Number  =>  PCT/US09/059520 
+
+International Publication Number  =>  WO 2010/040123 A3 
+
+Abstract  =>  An internal combustion engine and ignitor therefore is provided. The ignitor has an insulator extending between a nose end and a terminal end with an electrode extending outwardly from the nose end to ignite an air/fuel mixture with a cylinder chamber. A terminal extends from the terminal end and is configured in electrical communication with the electrode. A metal shell surrounds at least a portion of the insulator. The metal shell is free of external threads for attachment to a cylinder block. A connecting wire extends from the terminal for electrical communication with a power source. A tube has a lower end that receives the terminal end of the insulator therein. The tube extends about the connecting wire to an upper and opposite the lower end. The lower end of the tube compresses the shell into fixed relation within the opening of the cylinder head. 
+

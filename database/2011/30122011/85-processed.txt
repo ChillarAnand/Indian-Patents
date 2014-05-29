@@ -1,0 +1,22 @@
+Application number  =>  2157/DELNP/2011 A 
+
+Date of filing of application number  =>  22/03/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  PROCESS FOR PRODUCTION OF OPTICALLY ACTIVE AMINE DERIVATIVE 
+
+Name of applicant  =>  1)DAICEL CHEMICAL INDUSTRIES, LTD. 
+
+Name of inventor  =>  1)NAGASAWA, TORU 2)YOSHIDA, TOYOKAZU 3)ISHIDA, KOICHI 4)YAMAMOTO, HIROAKI 5)KIMOTO, NORIHIRO 
+
+International Classification  =>  C12N 9/06 
+
+Priority Doc No  =>  2008-223625 
+
+International Application Number  =>  PCT/JP2009/065240 
+
+International Publication Number  =>  WO 2010/024444 
+
+Abstract  =>  Novel enzymes that stereoselectively reduce imine derivatives were isolated and purified, and polynucleotides encoding the enzymes were cloned. Optically active amine derivatives were produced by acting on imine derivatives with a culture of microorganisms having the ability to stereoselectively reduce the compounds, microbial cells or processed products thereof, and/or imine reductases thereof, followed by collecting the generated optically active amine derivatives. The present invention enables, for example, production of an optically active compound represented by formula (IV): formula (IV): (wherein R group represents an alkyl group having one to three carbon atoms; and n represents an integer of 1 to 4). 
+

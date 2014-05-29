@@ -1,0 +1,22 @@
+Application number  =>  756/MUMNP/2012 A 
+
+Date of filing of application number  =>  26/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD FOR PREPARING PYRIMIDINE DERIVATIVES USEFUL AS PROTEIN KINASE INHIBITORS 
+
+Name of applicant  =>  1)VERTEX PHARMACEUTICALS INCORPORATED 
+
+Name of inventor  =>  1)CHARRIER, JEAN-DAMIEN 2)DURRANT, STEVEN 3)O'DONNELL, MICHAEL 
+
+International Classification  =>  C07D 475/00 
+
+Priority Doc No  =>  61/245,773 
+
+International Application Number  =>  PCT/IB10/002655 
+
+International Publication Number  =>  WO/2011/036566 
+
+Abstract  =>  A method of preparing a compound represented by Structural Formula (I), or a pharmaceuticalry acceptable salt thereof wherein the variables of Structural Formula (T) are as described in The specification and claims, comprises the steps of: a) reacting a compound represented by Structural Formula (A) with FTNRJR7 under suitable conditions to form a compound represented by Structural Formula (B); and b) i) when R12 is -NOz, and RH is -OR14: 1) cyclizing the compound represented by Structural Formula (B) under suitable cyclisation conditions to form a compound represented by Structural Formula (II); and 2) optionally reacting the compound represented by Structural Formula (H) with R9-LG:, wherein LG2 is a suitable leaving group, to form the compound represented by Structural Formula (I), wherein R8 is R9; or ii) when R12 is halogen, and R11 is -NHR13: 1) cyclizing the compound represented by Structural Formula (B) under suitable cyclisation conditions to form the compound represented by Structural Formula (I); and 2) optionally, when R13 is - H, reacting the compound produced from step b), ii), 1) with R9-LG2, wherein LG2 is a suitable leaving group, to form the compound represented by Structural Formula (I) wherein Rg is R9. 
+

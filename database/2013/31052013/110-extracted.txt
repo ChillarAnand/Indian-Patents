@@ -1,0 +1,40 @@
+The Patent Office Journal 31/05/2013 12081
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9811/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :26/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : DRUG DELIVERY SYSTEM COMPRISING POLYOXAZOLINE AND A BIOACTIVE AGENT•
+(51) International classification :A61N 1/04
+(31) Priority Document No :61/220,946
+(32) Priority Date :26/06/2009
+(33) Name of priority country :U.S.A.
+(86) International Application No
+Filing Date
+:PCT/US2010/040198
+:28/06/2010
+(87) International Publication No : NA
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)ZOLL MEDICAL CORPORATION
+Address of Applicant :269 Mill Road Chelmsford
+Massachusetts 01824 USA.
+(72)Name of Inventor :
+1)KHUON Pisit
+2)DUPELLE Michael R.
+(57) Abstract :
+A reusable component of a hands-free defibrillation electrode the reusable component having a flexible nonconductive element
+and a flexible metallic element supported by the flexible nonconductive element wherein the flexible metallic element comprises
+a plurality of substantially inflexible metallic elements interconnected by flexible metallic linking elements and wherein the
+majority of the flexibility of the metallic element is provided by the flexible metallic linking elements wherein the flexible
+metallic element has an exposed surface on one side of the reusable component and the exposed surface is configured to be
+adhered to a disposable coupling portion and wherein the reusable component is configured to accept an electrical defibrillation
+pulse and spread the electrical pulse across the exposed surface area from which it is delivered to the patients chest through the
+disposable coupling portion.
+No. of Pages : 37 No. of Claims : 28

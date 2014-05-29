@@ -1,0 +1,44 @@
+The Patent Office Journal 31/05/2013 12133
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9944/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :29/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : POLYPEPTIDE HAVING D-LACTATE DEHYDROGENASE ACTIVITY, POLYNUCLEOTIDE
+ENCODING THE POLYPEPTIDE, AND PROCESS FOR PRODUCTION OF D-LACTIC ACID
+(51) International classification :C12N 15/09
+(31) Priority Document No :2009-134213
+(32) Priority Date :03/06/2009
+(33) Name of priority country :Japan
+(86) International Application No
+Filing Date
+:PCT/JP2010/059306
+:02/06/2010
+(87) International Publication No :WO 2010/140602A1
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)TORAY INDUSTRIES, INC.
+Address of Applicant :1-1, NIHONBASHI-MUROMACHI
+2-CHOME, CHUO-KU, TOKYO 103-8666 Japan
+(72)Name of Inventor :
+1)SAWAI, KENJI
+2)SUDA, KAZUMI
+3)SAWAI, HIDEKI
+4)YAMADA, KATSUSHIGE
+5)YAMAGISHI, JUNYA
+(57) Abstract :
+Highly productive D-lactic acid fermentation is achieved by using a transformant obtained by introducing into a host cell a
+polynucleotide encoding a polypeptide according to any one of the following (A) to (C) in such a manner that the polypeptide is
+expressed, which polypeptide has a D-lactate dehydrogenase activity higher than those of conventional polypeptides: (A) a
+polypeptide having the amino acid sequence shown in SEQ ID NO: 1 or 2; (B) a polypeptide having the same amino acid
+sequence as shown in SEQ ID NO: 1 or 2 except that one or several amino acids are substituted, deleted, inserted and/or added,
+which polypeptide has a D-lactate dehydrogenase activity; and (C) a polypeptide having an amino acid sequence which has a
+sequence identity of not less than 80% to the amino acid sequence shown in SEQ ID NO: 1 or 2, which polypeptide has a D-
+lactate dehydrogenase activity.
+No. of Pages : 75 No. of Claims : 14

@@ -1,0 +1,22 @@
+Application number  =>  5322/DELNP/2011 A 
+
+Date of filing of application number  =>  11/07/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  FORMATION OF THIN UNIFORM COATINGS ON BLADE EDGES USING ISOSTATIC PRESS 
+
+Name of applicant  =>  1)THE GILLETTE COMPANY 
+
+Name of inventor  =>  1)WANG, XIANDONG 2)SONNENBERG, NEVILLE 
+
+International Classification  =>  B26B 21/60 
+
+Priority Doc No  =>  12/352,371 
+
+International Application Number  =>  PCT/US2010/020686 
+
+International Publication Number  =>  WORLD SHAVING HEADQUARTERS, IP/LEGAL PATENT DEPARTMENT - 3E, 
+
+Abstract  =>  The invention discloses isostatic-pressing (IP) applied to polymer (e.g., PTFE) coated razor blade edges to produce thin, dense, and uniform blade edges which in turn exhibit low initial cutting forces correlating with a more comfortable shaves. The isostatic press utilized may be a hot isostatic press (HIP) or cold isostatic press (CIP) or any other isostatic press process. The HIP conditions may include an environment of elevated temperatures and pressures in an inert atmosphere. The HIP conditions may be applied to non- sintered coatings or sintered coatings or before or after a Flutec® process is applied to coatings. CIP conditions may include room temperature and elevated pressure. The polymeric material may be a a non-fluofluoropolymer or ropolymer material or any composite thereof. It may be deposited initially by any method, including but not limited to, dipping, spin coating, sputtering, or thermal Chemical Vapor Deposition (CVD). 
+

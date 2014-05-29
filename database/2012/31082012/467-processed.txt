@@ -1,0 +1,22 @@
+Application number  =>  193/MUM/2010 A 
+
+Date of filing of application number  =>  25/01/2010 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  DOCUMENT ANALYSIS COMMENTING, AND REPORTING SYSTEM 
+
+Name of applicant  =>  1)ACCENTURE GLOBAL SERVICES LIMITED 
+
+Name of inventor  =>  1)Kunal Verma 2)Alex Kass 3)Reymonrod G. Vasquez 
+
+International Classification  =>  G06F17/27 
+
+Priority Doc No  =>  12/558,483 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A document analysis, commenting, and reporting system provides tec-is that automate quality assurance analysis tailored to specific document types, As one example, She specific document type may be a requirements specification and the system may tag different parts of requirements, including actors, entities, modes, and a remainder. The system atso includes teois- for visualizing the relationships between entities in a requirements specification and for Identifying whether the requirements specification provides for attributes specified by a fieri-functional attribute glossary, . The system facilitates the visuafealion of interactions of indi vidua I entries, of a system of entities, or entities Identified for a specific use. The different types of visualizations distinguish between interacting and non-interacting entities, and highlight where H set of requirements may be deficient wiih resped to the non-interacting entities. However, the flexibility Of the system permits analysis of any other document typo, such as instruction manuals and best practices guides. 
+

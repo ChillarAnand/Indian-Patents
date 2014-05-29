@@ -1,0 +1,42 @@
+The Patent Office Journal 31/12/2010 
+ 
+5300
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1344/DEL/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :10/06/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : ELECTRICAL JUNCTION BOX  
+  
+(51) International classification  :H02G3/08 
+(31) Priority Document No  :JP2009-152723  
+(32) Priority Date  :26/06/2009
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  :NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)SUMITOMO WIRING SYSTEMS, LTD.,  
+      Address of Applicant :1-14, NISHISUEHIRO-CHO, 
+YOKKAICHI-CITY, MIE 510-8503, JAPAN,   
+(72)Name of Inventor : 
+   1)TAKUMI EJIMA  
+(57) Abstract : 
+To provide an electrical junction box having a new structure that can decrease the size of the electrical junction box and can provide a 
+drain hole in a bottom wall to prevent water from entering the drain hole from the outside. A bottom wall 24 of a lower cover 20 is 
+provided on an outer surface with a bracket fitting section 28. A separated bracket 14 is attached to the bracket fitting section 28. A 
+relay box 10 is attached through the bracket 14 to a motor vehicle. Drainage holes 42a and 42b formed in the bottom wall 24 of the 
+lower cover 20 are covered by at least one of the bracket fitting section 28 and the bracket 14. 
+  
+  
+No. of Pages : 15 No. of Claims : 7 

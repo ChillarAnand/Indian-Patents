@@ -1,0 +1,49 @@
+The Patent Office Journal 30/12/2011 
+ 
+25687
+(12) PATENT APPLICATION PUBLICATION (21) Application No.999/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :11/02/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : AN OPTICAL ELEMENT FOR A LIGHT EMITTING DEVICE AND A METHOD OF 
+MANUFACTURING THEREOF  
+  
+(51) International classification  :H01L33/00  
+(31) Priority Document No  :08160876.2  
+(32) Priority Date  :22/07/2008 
+(33) Name of priority country  :EPO 
+(86) International Application No 
+        Filing Date 
+:PCT/IB2009/053064
+:15/07/2009 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+      Address of Applicant :GROENEWOUDSEWEG 1 
+EINDHOVEN  5621 BA  NETHERLANDS   
+(72)Name of Inventor : 
+   1)CILLESSEN  Johannes  F.  M. 
+   2)VAN HAL  Henricus  A.  M. 
+   3)JAGT  Hendrik  J.  B. 
+   4)STEIGELMANN  Oliver  J.  
+(57) Abstract : 
+The present invention relates to an optical element for a light emitting device, wherein the optical element comprises a sintered 
+ceramic body comprising a wavelength converting layer and a scattering layer, and to a method of manufacturing thereof. More 
+specifically, the invention relates to an optical element, comprising a sintered ceramic body of a first layer and a second layer arranged 
+on the first layer, wherein the first layer comprises a wavelength converting material, the porosity of the second layer is higher than 
+the porosity of the first layer, and pores in the second layer are arranged to provide scattering of a light beam. The method for 
+manufacturing of the optical element comprises providing a green body comprising a first layer of a first material and a second layer 
+of a second material; and co-sintering said layers into a sintered ceramic body; Fig. 1 
+  
+ 
+No. of Pages : 16 No. of Claims : 15 

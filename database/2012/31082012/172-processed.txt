@@ -1,0 +1,22 @@
+Application number  =>  3049/CHENP/2011 A 
+
+Date of filing of application number  =>  04/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  TRANSMIT POWER CONTROL BASED ON RECEIVER GAIN SETTING IN A WIRELESS COMMUNICATION NETWORK 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)JUNYI LI 2)YING WANG 3)ALEKSANDAR JOVICIC 
+
+International Classification  =>  H04W52/04, H04W 52/52 
+
+Priority Doc No  =>  12/264,679 
+
+International Application Number  =>  PCT/US2009/061283 
+
+International Publication Number  =>  WO 2010/053688 A1 
+
+Abstract  =>  Techniques for performing transmit power control based on receiver gain setting in a wireless communication network are described. In an aspect, a terminal A may estimate pathloss to another terminal B, e.g., based on a peer discovery signal received from terminal B. Terminal A may then determine a transmit power level for a peer-to-peer (PTP) signal (e.g., a paging signal) based on the estimated pathloss, a receiver gain setting at terminal B, and a target received power level for the PTP signal. Terminal A may send the PTP signal at. the determined transmit power level to terminal B. In another aspect, terminal B may use different receiver gain settings in different time intervals to receive PTP signals from other terminals. Terminal A may then select a suitable time interval to send the PTP signal based on the pathloss and the different receiver gain settings used by terminal B. 
+

@@ -1,0 +1,22 @@
+Application number  =>  4084/CHENP/2010 A 
+
+Date of filing of application number  =>  01/07/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  AN APPARATUS AND METHOD FOR MONITORING A PLURALITY OF WORK POSITION 
+
+Name of applicant  =>  1)USTER TECHNOLOGIES AG 
+
+Name of inventor  =>  1)JOSS, ROLF 
+
+International Classification  =>  D01H13/14 
+
+Priority Doc No  =>  1934/07 
+
+International Application Number  =>  PCT/CH08/000483 
+
+International Publication Number  =>  WO 2009/073993 A1 
+
+Abstract  =>  The apparatus for monitoring a plurality of work positions (3 to 5) of a ring spinning machine (1) comprises at least one yarn tester (25) which is arranged on a further processing machine (2) for the yarn (22), and a monitoring unit (17) which is connected with the yarn tester (25). In order to ensure a secure, error-free and cost-effective identification of the work positions (3 to 5) of the ring spinning machine (1), a probe (8) is provided which can be guided past the work positions (3 to 5) for receiving signals in a contactless manner, is connected to the monitoring unit (17) and comprises a first sensor (30) for monitoring the work positions and a second sensor (31) for data acquisition on the bobbin tubes (28) at the work positions. (Fig. 1) 
+

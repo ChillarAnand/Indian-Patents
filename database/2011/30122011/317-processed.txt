@@ -1,0 +1,22 @@
+Application number  =>  575/CHENP/2006 A 
+
+Date of filing of application number  =>  16/02/2006 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD FOR PRODUCING CIS-4-FLUORO-L-PROLINE DERIVATIVES 
+
+Name of applicant  =>  1)TAISHO PHARMACEUTICAL CO., LTD. 
+
+Name of inventor  =>  1)TOMISAWA, Kazuyuki 2)TATSUTA, Dai 3)YOSHIDA, Tomomichi 4)YOKOO, Chihiro 
+
+International Classification  =>  C07D 207/16 
+
+Priority Doc No  =>  2003-207718 
+
+International Application Number  =>  PCT/JP04/11827 
+
+International Publication Number  =>  WO 2005/016880 A1 
+
+Abstract  =>  A process for producing high-purity cis-4-fluoro -L-proline derivatives highly safely under milder conditions in high yield, characterized by reacting a trans-4-hydroxy -L-proline derivative represented by the general formula [I]: (wherein R1 is an α-amino- protecting group; and R2 a carboxyl-protecting group) with N,N-diethyl-N-(1,1,2,3,3,3-hexafluoropropyl)amine in the presence of a hydrogen fluoride scavenger. 
+

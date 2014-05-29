@@ -1,0 +1,22 @@
+Application number  =>  3593/MUM/2010 A 
+
+Date of filing of application number  =>  02/11/2010 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  COMBINED REMOTE CONTROL FOR AC AND CEILING FAN. 
+
+Name of applicant  =>  1)PATEL PANKAJ HIRALAL 
+
+Name of inventor  =>  1)PATEL PANKAJ HIRALAL 
+
+International Classification  =>  G05F1/02 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention provides combined controlling system for air conditioner and ceiling fan which allows automatic alternative working of air conditioner (2) and ceiling fan (5) on the desired mode such as normal mode (Ml), cool mode (M2), comfort mode (M3) and economy mode (M4) for the desired time duration, wherein the said combined controlling system (1) mainly comprising of Main unit (3) and Secondary unit (4). The main unit (3) mainly consists of ON/OFF switch (OS), bypass switch (BS), timer key (TK), and the mode key (MK). The main unit (3) is provided with the encoder IC which sends RF/IR encoded signals to secondary unit whereby the said signals are converted to DC voltages and decodes the said signals and further transfers them to the microcontroller to turn ON/OFF the ceiling fan (5). 
+

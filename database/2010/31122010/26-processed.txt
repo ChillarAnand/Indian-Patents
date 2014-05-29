@@ -1,0 +1,22 @@
+Application number  =>  3777/CHE/2010 A 
+
+Date of filing of application number  =>  10/12/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  AERODYNAMIC DRAG REDUCTION OF A HATCH BACK CAR USING BASE BLEED 
+
+Name of applicant  =>  1)REGISTRAR, ANNA UNIVERSITY CHENNAI. 
+
+Name of inventor  =>  1)K.M. PARAMMASIVAM 2)G. SIVARAJ 3)S. SENTHILKUMAR 
+
+International Classification  =>  G01M9/00 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The reduction of aerodynamic drag using base bleed improves the performance and fuel efficiency of the car. The low velocity air from base bleed is injected into the rear side of the car. The analysis was performed on open circuit suction type wind tunnel and the computational analysis was carried out using standard computational software. The wind tunnel testing was carried with a scale ratio of 1:10 with and without the base bleed passage. The pressure measurement was done using the DSA 3217 Multichannel scani-valve pressure transducer. The drag coefficient reduction by the base bleed method can be applied to the automobile industry. 
+

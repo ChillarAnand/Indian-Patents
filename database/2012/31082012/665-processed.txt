@@ -1,0 +1,22 @@
+Application number  =>  732/MUMNP/2012 A 
+
+Date of filing of application number  =>  22/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  DEVICE FOR PROCESSING A SIGNAL DELIVERED BY A RADIATION DETECTOR 
+
+Name of applicant  =>  1)COMMISSARIAT A L'ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES 
+
+Name of inventor  =>  1)OUVRIER-BUFFET, PATRICE 2)BRAMBILLA, ANDREA 
+
+International Classification  =>  H03K 5/08,G01T 1/17 
+
+Priority Doc No  =>  0956844 
+
+International Application Number  =>  PCT/EP2010/064569 
+
+International Publication Number  =>  WO/2011/039312 
+
+Abstract  =>  The invention relates to a device for processing a signal delivered by a radiation detector (1), the device comprising a circuit (2, 3) able to deliver a voltage pulse whose amplitude is proportional to a charge detected by the detector (1) and an analog/digital converter (ADC) which digitizes the voltage pulse and delivers digital signals, characterized in that it comprises, downstream of the analog/digital converter (ADC), a processing circuit (5) which comprises: - a unit for reading the digital signals (S(t)) delivered by the analog/digital converter (ADC), - a calculation unit which calculates a temporal variation of the digital signals read, and - a circuit able to capture the digital signals read whose temporal variation reaches a predetermined threshold. 
+

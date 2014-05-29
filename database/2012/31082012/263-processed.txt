@@ -1,0 +1,22 @@
+Application number  =>  3167/CHENP/2011 A 
+
+Date of filing of application number  =>  09/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  HIGH-PRESSURE FUEL PUMP FOR INTERNAL COMBUSTION ENGINE 
+
+Name of applicant  =>  1)ROBERT BOSCH GMBH 
+
+Name of inventor  =>  1)SCHROEDER, BERND 2)PFUHL, BERTHOLD 
+
+International Classification  =>  F02M59/34 
+
+Priority Doc No  =>  10 2008 043 237.7 
+
+International Application Number  =>  PCT/EP2009/061724 
+
+International Publication Number  =>  WO 2010/049203 A1 
+
+Abstract  =>  The present subject matter relates to a high-pressure fuel pump (10) for an internal combustion engine (9) with direct injection. The high-pressure fuel pump (10) includes a low-pressure region (12) and a quantity control device. According to the present subject matter, the quantity control device includes a control valve (28) that is disposed upstream from an inlet valve (22) of the high-pressure fuel pump (10). The control valve (28) has a first control position and at least one second control position, where the first control position differ from the second control position in their flow restriction effect. 
+

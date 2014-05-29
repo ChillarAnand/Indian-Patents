@@ -1,0 +1,22 @@
+Application number  =>  4158/KOLNP/2010 A 
+
+Date of filing of application number  =>  04/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  LOW DENSITY PAPERBOARD 
+
+Name of applicant  =>  1)MEADWESTVACO CORPORATION 
+
+Name of inventor  =>  1)FUGITT, GARY, P. 2)GREEN, TERRELL, J. 3)BUSHHOUSE, STEVE, G. 4)PARKER, STEVEN 5)HOGAN, JASON RICHARD 6)HER, WEI-HWA 7)GINTHER, SCOTT 
+
+International Classification  =>  D21H 11/04 
+
+Priority Doc No  =>  61/056,712 
+
+International Application Number  =>  PCT/US2009/038865 
+
+International Publication Number  =>  WO 2009/146023 
+
+Abstract  =>  A paperboard including a solid bleached sulfate paperboard substrate and a coating applied to the paperboard substrate to form a coated structure, the coated structure having a basis weight, a caliper thickness and a Parker Print Surf smoothness, the Parker Print Surf smoothness being at most about 3 microns, the basis weight being at most about Y1 pounds per 3000 ft2, wherein Y1 is a function of the caliper thickness (X) in points and is calculated as follows: Y1 = 3.79 + 13.43X - 0.1638X2. 
+

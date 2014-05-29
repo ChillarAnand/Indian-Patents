@@ -1,0 +1,22 @@
+Application number  =>  4162/KOLNP/2010 A 
+
+Date of filing of application number  =>  04/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  METHOD AND DEVICE FOR RESELECTING A CELL 
+
+Name of applicant  =>  1)HUAWEI TECHNOLOGIES CO., LTD. 
+
+Name of inventor  =>  1)QIN, JUN 2)ZHAO, YANG 3)WANG, JIYONG 4)YU, YONGJUN 
+
+International Classification  =>  H04W 36/00 
+
+Priority Doc No  =>  200810106368.0 
+
+International Application Number  =>  PCT/CN2009/071647 
+
+International Publication Number  =>  WO 2009/138014 
+
+Abstract  =>  A method and a device for reselecting a cell are provided in an embodiment of the present invention. The method includes: reselecting a cell by using a user priority parameter delivered by a source cell and received by a terminal, after the terminal resides in a target cell and before the terminal obtains a user priority parameter delivered by the target cell. The technical solution provided in an embodiment of the present invention involves reselecting a cell by using user priority parameters delivered by a source cell before user priority parameters delivered by the target cell are obtained. In this way, more proper priority parameters are correctly selected during a process for reselecting a priority cell, and the user is enabled to select an expected resident cell through the process for reselecting a priority cell. 
+

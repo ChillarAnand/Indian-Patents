@@ -1,0 +1,22 @@
+Application number  =>  521/MUMNP/2012 A 
+
+Date of filing of application number  =>  02/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  COMPOSITION FOR INHIBITING GENE EXPRESSION AND USES THEREOF 
+
+Name of applicant  =>  1)IDERA PHARMACEUTICALS, INC. 
+
+Name of inventor  =>  1)AGRAWAL, SUDHIR 2)KANDIMALLA, EKAMBAR 3)PUTTA, MILLIKARJUNA 4)LAN, TAO 5)BHAGAT, LAKSHMI 6)WANG, DAQING 7)YU, DONG 
+
+International Classification  =>  C12N 15/113 
+
+Priority Doc No  =>  61/275,252 
+
+International Application Number  =>  PCT/US2010/046781 
+
+International Publication Number  =>  WO/2011/031520 
+
+Abstract  =>  The inventors have examined the means for providing more efficacious gene expression blocking compounds. The inventors have discovered new structural features that surprisingly improve the efficacy of gene expression blocking molecules. These features include the presence of multiple 3 ends and a linker at the 5 ends. Surprisingly, these features improve the efficacy of the gene expression blocking compounds in a manner that decreases the compounds biologic instability. Even more surprisingly, this effect has been found to be applicable to both DNA and RNA oligonucleotide -based compounds and to have application in traditional antisense and RNAi technologies. 
+

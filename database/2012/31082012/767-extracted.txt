@@ -1,0 +1,50 @@
+ 
+The Patent Office Journal 31/08/2012 
+13826
+(12) PATENT APPLICATION PUBLICATION (21) Application No.957/MUMNP/2012 A 
+(19) INDIA  
+(22) Date of filing of Application :17/04/2012 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : ANTI-COUNTERFEIT METHOD FOR RANDOM TEXTURE AND RECOGNIZER THEREOF  
+  
+(51) International classification  :G06K 9/00,D21H 15/06  
+(31) Priority Document No  :200910196692.0  
+(32) Priority Date  :28/09/2009 
+(33) Name of priority country  :China 
+(86) International Application No 
+        Filing Date 
+:PCT/CN2010/077406
+:28/09/2010 
+(87) International Publication No  :WO/2011/035738  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)SHANGHAI KOS SECURITY PAPER TECHNOLOGY 
+CO., LTD. 
+      Address of Applicant :NO. 139, PUTUO RD., LIUTUAN, 
+CHUANSHA TOWN, PUDONG NEW AREA, SHANGHAI 
+201202, CHINA . 
+(72)Name of Inventor : 
+   1)SUN, XIANLIN  
+(57) Abstract : 
+An anti-counterfeit method for random texture and a recognizer thereof are provided by the invention. The method includes the 
+following steps: A. texture material 2 with texture element 1 distributed randomly is selected; B. a recognition system stores inherent 
+recognition feature J of texture element 1; C. random feature S distributed in texture 1 is extracted and stored in the recognition 
+system, and texture 2 is enabled to be anti-counterfeit identification 3; D. in recognizing, the recognition system extracts feature J and 
+random feature S of texture element 1 to be recognized on anti-counterfeit identification 3 to be recognized, and compares respectively
+feature J with recognition feature J as well as random feature S with random feature S, if one or two of the compared results does not 
+match, anti-counterfeit identification 3 to be recognized is judged not to be anti-counterfeit identification 3, otherwise, anti-counterfeit 
+identification 3 to be recognized is judged to be anti-counterfeit identification 3. The method can be applied to implement that the 
+inherent feature of a texture element is not imitated and deceived by a printed texture element, and it can support a cheap and simple 
+recognizer. 
+  
+  
+No. of Pages : 40 No. of Claims : 44 

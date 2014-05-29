@@ -1,0 +1,22 @@
+Application number  =>  1089/MUMNP/2011 A 
+
+Date of filing of application number  =>  27/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD AND APPARATUS FOR MITIGATING INTERFERENCE IN A WIRELESS COMMUNICATION SYSTEM 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)DAMNJANOVIC Jelena 2)MALLADI Durga Prasad 
+
+International Classification  =>  H04W 16/02 
+
+Priority Doc No  =>  60/652,518 
+
+International Application Number  =>  PCT/US2006/005189 
+
+International Publication Number  =>  WO/2006/086788 
+
+Abstract  =>  Techniques to mitigate inter-cell interference using joint time and frequency division are described. A frequency band is divided into multiple non-overlapping frequency subbands. The transmission timeline is divided into Tin and Tout time intervals. Data is exchanged with users in at least one inner region of a cell on the entire frequency band in the Tin time intervals. Data is exchanged with users in multiple outer regions of the cell on the multiple frequency subbands in the Tout time intervals. The frequency band may be partitioned into three frequency subbands. Data may then be exchanged with users in first, second and third outer regions on first, second and third frequency subbands, respectively. The regions in which the users are located may be determined based on pilot and/or other measurements. 
+

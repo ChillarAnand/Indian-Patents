@@ -1,0 +1,45 @@
+The Patent Office Journal 30/12/2011 
+ 
+25770
+(12) PATENT APPLICATION PUBLICATION (21) Application No.830/KOL/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :27/07/2010 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : PULPER WITH A TORQUE MOTOR  
+  
+(51) International classification  :B07B1/20 
+(31) Priority Document No  :10 2009 035 247.3  
+(32) Priority Date  :29/07/2009
+(33) Name of priority country  :Germany 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)BTA INTERNATIONAL GMBH 
+      Address of Applicant :FARBERSTRASSE 7, D-85276 
+PFAFFENHOFEN GERMANY 
+   2)BIOTEC SISTEMI S.R.L. 
+(72)Name of Inventor : 
+   1)WILJAN, HARRY 
+   2)CARRA, ROLAND 
+   3)BOZANO, STEFANO  
+(57) Abstract : 
+The invention relates to a pulper and to its method for recycling wastes and/or product residuals. The pulper comprises a tank is which 
+a rotor is provided for defibrating the stock mixture to be recycled, as well as a screen for drawing off the defibrated outfeed from the 
+tank, the rotor being powered by an electric motor comprising a drive shaft in active transmission with the rotor. In accordance with 
+the invention the electric motor is configured as a three-phase synchronous motor for operation in a speed range from 0 to 1000 rpm. It 
+is connected to the output of a frequency inverter controlled by a controller, the output of the drive shaft being directly connected to 
+the rotor.  
+ 
+No. of Pages : 13 No. of Claims : 7 

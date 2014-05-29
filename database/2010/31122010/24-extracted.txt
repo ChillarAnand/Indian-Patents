@@ -1,0 +1,48 @@
+The Patent Office Journal 31/12/2010 
+ 
+5290
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2741/CHE/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :20/09/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : ECOLOGICAL POWER GENERATION FROM ELEVATOR  
+  
+(51) International classification  :H02K7/00 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)PRINCIPAL 
+      Address of Applicant :M.S.RAMAIAH INSTITUTE OF 
+TECHNOLOGY, MSR NAGAR, BANGALORE - 560 054 
+Karnataka India 
+(72)Name of Inventor : 
+   1)DR.DINESH P.A. 
+   2)MR.HARSHAVARDHAN S 
+   3)MR.DEEPAK V.R. 
+   4)MR.NAGENDRA B.R.  
+(57) Abstract : 
+This invention relates to a scheme for generating electricity by three different methods using rotational movement of the main shaft 
+and the guide rollers and upward or downward movement of the car-body of the elevator. The first and the second method uses few 
+sets of gears and pinions interlinked with the main shaft and guide rollers of the elevator respectively. In both the methods, the 
+rotational motion of the gears is transmitted to a secondary shaft, which in turn is made to rotate at a greater speed. This movement is 
+subjected/ transmitted to a dynamo thus generating electricity. The third method utilizes a bellow which sucks air from the reservoir 
+when the elevator is lifted; and while descending, the compressed air is subjected to turbine blades thus generating useful electricity. 
+The above three methods are an attempt to convert the kinetic energy available due to the rotational or linear movement of the elevator 
+parts into useful electrical energy in an economical and ecological manner. 
+  
+No. of Pages : 9 No. of Claims : 9 

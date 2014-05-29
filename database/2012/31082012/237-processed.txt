@@ -1,0 +1,22 @@
+Application number  =>  3121/CHENP/2011 A 
+
+Date of filing of application number  =>  06/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  DELTA COMPRESSION AFTER IDENTITY DEDUPLICATION 
+
+Name of applicant  =>  1)DATA DOMAIN LLC 
+
+Name of inventor  =>  1)MARK HUANG, EDWARD K. LEE 2)KAI LI 3)PHILIP SHILANE 4)GRANT WALLACE 5)MING BENJAMIN ZHU 
+
+International Classification  =>  G06F7/00 
+
+Priority Doc No  =>  12/291,998 
+
+International Application Number  =>  PCT/US09/005429 
+
+International Publication Number  =>  WO 2010/056265 A1 
+
+Abstract  =>  Delta compression after identity deduplication is disclosed. A first data segment is determined to be identical to a first previous data segment. A second data segment, not determined to be identical to a second previous data segment, is then determined to be similar to a third previous data segment. 
+

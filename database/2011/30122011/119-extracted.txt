@@ -1,0 +1,45 @@
+The Patent Office Journal 30/12/2011 
+ 
+25456
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1002/MUMNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :18/05/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : SYSTEM AND METHOD TO AUTOFOCUS ASSISTED BY AUTOEXPOSURE CONTROL   
+  
+(51) International classification  :H04N 5/232  
+(31) Priority Document No  :12/338,147  
+(32) Priority Date  :18/12/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/065687
+:24/11/2009 
+(87) International Publication No  :WO/2010/071731  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)QUALCOMM INCORPORATED 
+      Address of Applicant :Attn: International IP Administration  
+5775 Morehouse Drive  San Diego  California 92121-1714  
+United States of America  
+(72)Name of Inventor : 
+   1)LI  Jingqiang 
+   2)VELARDE  Ruben  M. 
+   3)HUNG  Szepo  R.  
+(57) Abstract : 
+In a particular embodiment, a method is disclosed that includes comparing a frame rate of image capture by an image sensor to a 
+frame rate threshold at an image capture device. The method also includes when the frame rate is less than the frame rate threshold, 
+increasing the frame rate to a modified frame rate that is greater than or at least equal to the frame rate threshold. The method further 
+includes performing an autofocus operation on an image to be captured at the modified frame rate. 
+  
+ 
+No. of Pages : 34 No. of Claims : 27 

@@ -1,0 +1,42 @@
+The Patent Office Journal 31/05/2013 12131
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9919/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :28/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : TRANSMISSION OF CONTROL INFORMATION ACROSS MULTIPLE PACKETS
+(51) International classification :H04L 12/56
+(31) Priority Document No :61/222,590
+(32) Priority Date :02/07/2009
+(33) Name of priority country :U.S.A.
+(86) International Application No
+Filing Date
+:PCT/US2010/040953
+:02/07/2010
+(87) International Publication No : NA
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)QUALCOMM Incorporated
+Address of Applicant :Attn: International IP Administration
+5775 Morehouse Drive San Diego California 92121-1714
+USA.
+(72)Name of Inventor :
+1)LEUNG Nikolai Konrad Nepomucceno
+2)ULUPINAR Fatih
+3)GIARETTA Gerardo
+(57) Abstract :
+Techniques for sending control information in the header of multiple packets are described. The techniques may allow more
+control information to be sent using a small number of overhead bits per packet. In one design a first node (e.g. a network entity)
+may determine control information to send to a second node (e.g. a UE or another network entity). The first node may send the
+control information in the header of multiple packets toward the second node. In one design the control information may include
+congestion information indicative of traffic congestion at the first node. The congestion information may be sent using Explicit
+Congestion Notification (ECN) bits in the header of IP packets. The first node may send the control information with or without
+coding and for all packets or a specific data flow. The first node may also send a synchronization sequence prior to the control
+information.
+No. of Pages : 38 No. of Claims : 37

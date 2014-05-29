@@ -1,0 +1,38 @@
+The Patent Office Journal 31/05/2013 12096
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9853/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :27/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : ESTER MIXTURES AND COMPOSITIONS COMPRISING SUCH ESTER MIXTURES
+(51) International classification :A61K 8/37
+(31) Priority Document No :09008530.9
+(32) Priority Date :30/06/2009
+(33) Name of priority country :EPO
+(86) International Application No
+Filing Date
+:PCT/EP2010/003711
+:19/06/2010
+(87) International Publication No :WO/2011/000487
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)COGNIS IP MANAGEMENT GMBH
+Address of Applicant :HENKELSTRASSE 67, 40589
+DUSSELDORF Germany
+(72)Name of Inventor :
+1)BEUCHE, MARC
+2)CANONVILLE, FRANCOIS
+3)PIAN, VALERIE
+(57) Abstract :
+The present invention is directed to a mixture of esters according to the general formula (I), R1-C(=O)-O-R2, wherein R1 is an
+alkyl moiety with 5 to 11 carbon atoms and wherein R2 is a an alkyl moiety with 8 to 18 carbon atoms and wherein the mixture
+comprises 10 or less than 10 weight-% of ester of the general formula (I), wherein R1 is an alkyl moiety with 9 or more carbon
+atoms, based on the total amount of esters according to formula (I). The invention is further directed to cosmetic and/or
+pharmaceutical compositions comprising such esters as well as to processes for the production of such esters.
+No. of Pages : 52 No. of Claims : 10

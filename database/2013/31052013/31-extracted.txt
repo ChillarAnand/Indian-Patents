@@ -1,0 +1,46 @@
+The Patent Office Journal 31/05/2013 12002
+(12) PATENT APPLICATION PUBLICATION (21) Application No.3011/DEL/2011 A
+(19) INDIA
+(22) Date of filing of Application :30/11/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : FATTY IMIDAZOLINES AS POTENTIAL ANTI-MICROBIAL AND CHEMOTHERAPEUTIC
+AGENTS
+(51) International classification :F16D
+(31) Priority Document No :NA
+(32) Priority Date :NA
+(33) Name of priority country :NA
+(86) International Application No
+Filing Date
+:NA
+:NA
+(87) International Publication No :NA
+(61) Patent of Addition to Application Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)COUNCIL OF SCIENTIFIC & INDUSTRIAL
+RESEARCH
+Address of Applicant :ANUSANDHAN BHAWAN, RAFI
+MARG, NEW DELHI - 110 001, INDIA
+(72)Name of Inventor :
+1)MALLAMPALLI SRI LAKSHMI KARUNA
+2)TENNETI SATYAVANI
+3)CHITYAL GANESH KUMAR
+4)POMBALA SUJITHA
+5)RACHAPUDI BADARI NARAYANA PRASAD
+(57) Abstract :
+The present invention describes the preparation of fatty imidazolines using a facile, rapid and environmentally green microwave
+assisted reaction. The imidazolines were prepared using fatty acids like octyl, dodecyl, tetradecyl and octadecyl acids; mixed fatty
+acids prepared from Sterculia foetida oil (containing cyclopropene-rich fatty acids), coconut oil (containing medium chain-rich
+fatty acids), sunflower oil (containing unsaturated-rich fatty acids) and palm oil (containing saturated-rich fatty acids) by reacting
+with diethylene triamine (DETA) in the presence of calcium oxide. Fatty imidazolines were evaluated for anti-microbial activity
+and exhibited good to excellent anti-Candida activity against different Candida strains as compared to Fluconazole as standard.
+The fatty imidazolines also exhibited excellent to moderate anti-bacterial activity. Imidazolines were also evaluated for anti-
+cancer activity against different cancer cell lines like HeLa, A549, MDA-MB-231, MCF7 and Neuro2a which showed excellent
+cytotoxicity for dodecyl, tetradecyl and coco-based imidazolines followed by Sterculia foetida fatty imidazolines. Palm oil
+exhibited activity towards A549, HeLa and MCF-7, while sunflower oil towards A549 and Neuro2a.
+No. of Pages : 28 No. of Claims : 10

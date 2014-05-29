@@ -1,0 +1,22 @@
+Application number  =>  5324/DELNP/2011 A 
+
+Date of filing of application number  =>  11/07/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  DIRECT CONTACT CONDENSING IN AN ACID GAS REMOVAL PROCESS 
+
+Name of applicant  =>  1)UOP LLC 
+
+Name of inventor  =>  1)PAN, JUNFENG 2)HUANG, RICHARD 3)DAVIS, LAMAR A. 
+
+International Classification  =>  B01D 53/40 
+
+Priority Doc No  =>  12/354,916 
+
+International Application Number  =>  PCT/US2009/067861 
+
+International Publication Number  =>  WO 2010/082994 
+
+Abstract  =>  Systems and processes disclosed herein relate to the utilization of direct contact condensing to provide heat to a solvent regeneration loop in an acid gas removal process. A first direct contact condenser can be included in the upper section of a concentrator that removes acid gas from a rich solvent stream. A first slip stream can be heated in the first direct contact condenser and can be combined with the rich solvent stream in the lower section of the stripper. A second direct contact condenser can be included in the lower section of an absorber that removes acid gas from a feed gas. A second slip stream can be heated in the second direct contact condenser, and can be combined with the rich solvent stream before the rich solvent stream is provided to the concentrator. 
+

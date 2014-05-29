@@ -1,0 +1,22 @@
+Application number  =>  722/MUMNP/2012 A 
+
+Date of filing of application number  =>  21/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  DEVICE FOR PHASING THREADED GRINDING STONE 
+
+Name of applicant  =>  1)MITSUBISHI HEAVY INDUSTRIES, LTD. 
+
+Name of inventor  =>  1)YANASE YOSHIKOTO 2)ISHIZU KAZUYUKI 3)TANI TOMOHITO 
+
+International Classification  =>  B24B 49//10 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/JP2009/066769 
+
+International Publication Number  =>  WO/2011/036791 
+
+Abstract  =>  Provided is a device for phasing a threaded grinding stone, the aforementioned device being configured in a simple manner and capable of accurately phasing the threaded grinding stone with respect to a gear to be machined or to a dresser. For the purpose of achieving the above, a threaded grinding stone (14) is phased with respect to a workpiece (W) or a disk dresser (32) prior to the engagement of the threaded grinding stone (14) with the workpiece (W) or with the disk dresser (32) during grinding or dressing. In performing this phasing, it is detected, by means of an AE fluid sensor (42) provided to a grinding stone head (11) which rotatably supports the threaded grinding stone (14), whether the threaded grinding stone (14) has had contact with the workpiece (W) or the disk dresser (32). Subsequently, on the basis of the phase of the threaded grinding stone (14) at the time when contact was detected, the threaded grinding stone (14) is positioned in a phase where the aforementioned engagement is feasible. 
+

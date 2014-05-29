@@ -1,0 +1,22 @@
+Application number  =>  1300/KOL/2010 A 
+
+Date of filing of application number  =>  16/11/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  MOTOR AND ELECTRIC PARKING BRAKE SYSTEM 
+
+Name of applicant  =>  1)JOHNSON ELECTRIC S.A. 
+
+Name of inventor  =>  1)MA, HANG CHEONG 2)CHUNG, HING SHING 3)LIAO, HAI NING 
+
+International Classification  =>  B60T7/00 
+
+Priority Doc No  =>  200910109741.2 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A motor for actuating brake members of an electric parking (EPB) system, comprises a stator and a rotor rotatably mounted to the stator. The rotor comprises a shaft, a commutator, a rotor core fixed to the shaft, and rotor windings wound about teeth of the rotor core and electrically connected to segments of the commutator. The rotor windings comprise a plurality of winding units, each of the wining units comprising at least two coils. The coils of each winding unit are wound about the same teeth and connected to a same pair of segments. 
+

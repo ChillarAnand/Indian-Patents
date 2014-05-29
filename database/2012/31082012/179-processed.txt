@@ -1,0 +1,22 @@
+Application number  =>  3065/CHENP/2011 A 
+
+Date of filing of application number  =>  04/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  OPTICAL INFORMATION RECORDING MEDIUM, METHOD OF RECORDING INFORMATION AND PHOTOSENSITIZER 
+
+Name of applicant  =>  1)FUJIFILM CORPORATION 
+
+Name of inventor  =>  1)FUJIMOTO, TAISUKE 2)WATANABE, KOUSUKE 3)HASHIZUME, TARO 
+
+International Classification  =>  B41M5/26, G11B 7/24, G11B 7/244 
+
+Priority Doc No  =>  2008-264480 
+
+International Application Number  =>  PCT/JP09/005295 
+
+International Publication Number  =>  WO 2010/041470 A1 
+
+Abstract  =>  An aspect of the present invention relates to an optical information recording medium comprising a recording layer, wherein the recording layer comprises a cationic dye and a polynuclear azo metal complex dye comprising an azo dye and a metal ion, and a method of recording information comprising recording information on the recording layer comprised in the optical recording medium, and conducting the recording by irradiation of a laser beam having a wavelength of equal to or shorter than 440 am onto the optical information recording medium. Another aspect of the present invention relates to a photosensitizer. 
+

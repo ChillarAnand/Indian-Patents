@@ -1,0 +1,22 @@
+Application number  =>  1460/DEL/2010 A 
+
+Date of filing of application number  =>  23/06/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  SYSTEM AND METHOD FOR OFFERING A REPLICA OF A RADIO STATION BROADCAST ON TELECOM NETWORKS 
+
+Name of applicant  =>  1)MOHAN, TARON 
+
+Name of inventor  =>  1)MOHAN, TARON 
+
+International Classification  =>  G06F13/00; 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A system for offering a replica of radio station broadcast on fixed line/mobile telephony services even if the radio station is not local to the telephone. The system comprises a plurality of servers, the playlist integration servers being connected through the internet to a plurality of radio station playback servers which are dedicated to different radio stations located anywhere in the world and also to music hosting servers, output of integration servers being fed to programme management servers which also receive inputs from playlist management interface, output of programme management servers being fed to fixed line/mobile network playback servers which also receive inputs from advertising management systems, a plurality of mobile users being connected to the fixed line/mobile network playback servers through their telephone networks. 
+

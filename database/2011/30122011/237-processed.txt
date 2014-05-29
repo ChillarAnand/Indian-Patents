@@ -1,0 +1,22 @@
+Application number  =>  1085/CHENP/2011 A 
+
+Date of filing of application number  =>  17/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  DETECTION ALGORITHM FOR PCR ASSAY 
+
+Name of applicant  =>  1)SMITHS DETECTION INC. 
+
+Name of inventor  =>  1)LINK John Robert 2)BOYES Barry Edward 
+
+International Classification  =>  C12Q1/68 
+
+Priority Doc No  =>  61/136,040 
+
+International Application Number  =>  PCT/US2009/053253 
+
+International Publication Number  =>   
+
+Abstract  =>  The application provides methods for improving the detection accuracy of the binding of labeled nucleic acid probes, such as those used in PCR reactions. One such method comprises measuring the label intensity, e.g. fluorescence, at two different temperatures, a higher temperature and a lower temperature, and then calculating the ratio of the label intensity at the lower temperature over the label intensity at the higher temperature. Another method comprises measuring the label intensity at least two points in time post-PCR and calculating the slope of the label intensity as a function of time. Measuring the hybridization kinetics of the probe binding to the target nucleic acid allows an on-rate slope to be calculated which gives this method good specificity of detection. 
+

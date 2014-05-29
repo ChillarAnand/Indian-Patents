@@ -1,0 +1,63 @@
+ 
+The Patent Office Journal 31/08/2012 
+13384
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1925/MUM/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :04/07/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : A DEVICE FOR MEASURING, PROCESSING AND EVALUATING MEDICINAL PARAMETERS 
+RELATING TO HUMAN BODY  
+  
+(51) International classification  :A61B 5/00  
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  :N/A 
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)DR. KETAN SUBHASHCHANDRA AMIN 
+      Address of Applicant :403,SUKHSAGAR, KAMAL 
+COLONY, NAVRANGPURA, AHMEDABAD - 380 009, 
+GUJARAT STATE, INDIA.   
+(72)Name of Inventor : 
+   1)DR. KETAN SUBHASHCHANDRA AMIN  
+(57) Abstract : 
+The present invention provides a device for measuring, processing and evaluating medicinal parameters relating to human body, the 
+device comprising: means for measuring transcutaneous carbon dioxide tension (tcPCo2) transcutaneous oxygen tension (PO2), pulse 
+oximetric saturation (Sp02) and blood pH of the subject human body; means for processing the data relating to the transcutaneous 
+carbon dioxide tension (tcPCo2), transcutaneous oxygen tension (PO2), pulse oximetric saturation (Sp,02) and blood pH obtained 
+from the means for measuring; means for obtaining first ayurvedic clinical parameter (VgtC-O) based on the processed data, the first 
+ayurvedic clinical parameter (VgtC-O) indicates ayurvedic vata gati carbon oxygen relationship and evaluates ayurvedic VATA 
+Dosha in the subject human body; means for obtaining second ayurvedic clinical parameter (AgkH) based on the first ayurvedic 
+clinical parameter (VgtC-O) where the second ayurvedic clinical parameter (AgkH) indicates level of hydrogen ion in the body and 
+accordingly heat energy level in the body, the second ayurvedic clinical parameter (AgkH) evaluates ayurvedic PITTA Dosha in the 
+subject human body; means for obtaining third ayurvedic clinical parameter (SHplHC-O) based on the processed data where the third 
+ayurvedic clinical parameter (SHplHC-O) indicates level of bicarbonic acid bicarbonates in the body and accordingly viscosity 
+producing level of blood and body fluids, where the third ayurvedic clinical parameter (SHplHC-O) evaluates ayurvedic KAPHA 
+Dosha in the subject human body; means for obtaining fourth ayurvedic clinical parameter (Agkm) based on the processed data, the 
+fourth ayurvedic clinical parameter (Agkm) indicates hydrogen ion concentration in ayrvedic terminology; means for obtaining fifth 
+ayurvedic clinical parameter (SmO-O) based on the proceesed data, the fifth ayurvedic clinical parameter (SmO-O) indicates water 
+oxygen relationship in ayurvedic terminology; a database including a table illustrating relationship among abnormality and/or disease 
+in the subject human body and at least one of the ayurvedic clinical parameters; means for obtaining sixth ayurvedic clinical parameter 
+(Tdh) based on the processed data, the sixth ayurvedic clinical parameter (Tdh) indicates hydrogen ion concentration in ayurvedic 
+terminology and quantitative range of total dhatus in the subject human body; means for evaluating the affected body part or disease 
+based on the at least one of the ayurvedic clinical parameter and the data given in the table; and display unit for displaying the 
+measured values of transcutaneous carbon dioxide tension (tcPCo2), transcutaneous oxygen tension (PO2), pulse oximetric saturation 
+(Spo2) and blood pH, values of the first ayurvedic clinical parameter (VgtC-O), the second ayurvedic clinical parameter (AgkH), the 
+third ayurvedic clinical parameter (SHplHC-O), the fourth ayurvedic clinical parameter (Agkm), the fifth ayurvedic clinical parameter 
+(SmO-O), the sixth ayurvedic clinical parameter (Tdh), the data given in the table and information showing the affected body part or 
+disease in the subject human body.   
+ 
+No. of Pages : 41 No. of Claims : 13 

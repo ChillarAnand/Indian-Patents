@@ -1,0 +1,22 @@
+Application number  =>  2852/CHENP/2011 A 
+
+Date of filing of application number  =>  27/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  NOVEL IMMUNOTHERAPY AGAINST SEVERAL TUMORS INCLUDING NEURONAL AND BRAIN TUMORS 
+
+Name of applicant  =>  1)IMMATICS BIOTECHNOLOGIES GMBH 
+
+Name of inventor  =>  1)SCHOOR, OLIVER 2)HILF, NORBERT 3)WEINSCHENK, TONI 4)TRAUTWEIN, CLAUDIA 5)WALTER, STEFFEN 6)SINGH, HARPREET 
+
+International Classification  =>  A61K39/00, A61K38/08, A61K38/16 
+
+Priority Doc No  =>  08017305.7 
+
+International Application Number  =>  PCT/EP2009/006980 
+
+International Publication Number  =>  WO 2010/037514 A3 
+
+Abstract  =>  The present invention relates to peptides, nucleic acids and cells for use in immunotherapeutic methods. In particular, the present invention relates to the immunotherapy of cancer. The present invention furthermore relates to tumor-associated cytotoxic T cell (CTL) peptide epitopes, alone or in combination with other tumor-associated peptides that serve as active pharmaceutical ingredients of vaccine compositions that stimulate anti-tumor immune responses. The present invention relates to 30 peptide sequences and their variants derived from HLA class I and class II molecules of human tumor cells that can be used in vaccine compositions for eliciting anti-tumor immune responses. 
+

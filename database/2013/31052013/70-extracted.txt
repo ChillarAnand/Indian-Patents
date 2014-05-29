@@ -1,0 +1,45 @@
+The Patent Office Journal 31/05/2013 12041
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2941/CHENP/2012 A
+(19) INDIA
+(22) Date of filing of Application :30/03/2012 (43) Publication Date : 31/05/2013
+(54) Title of the invention : FREQUENCY BAND EXTENDING DEVICE AND METHOD, ENCODING DEVICE AND
+METHOD, DECODING DEVICE AND METHOD AND PROGRAM
+(51) International classification :G10L 21/04
+(31) Priority Document No :2009-233814
+(32) Priority Date :07/10/2009
+(33) Name of priority country :Japan
+(86) International Application No
+Filing Date
+:PCT/JP2010/066882
+:29/09/2010
+(87) International Publication No :WO 2011/043227A1
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)SONY CORPORATION
+Address of Applicant :1-7-1 KONAN, MINATO-KU,
+TOKYO Japan
+(72)Name of Inventor :
+1)YUKI YAMAMOTO
+2)TORU CHINEN
+3)HIROYUKI HONMA
+4)YUHKI MITSUFUJI
+(57) Abstract :
+The present invention relates to a frequency band extending device and method, an encoding device and method, a decoding
+device and method, and a program, whereby music signals can be played with higher sound quality due to the extension of
+frequency bands. A bandpass filter 13 divides an input signal into multiple sub-band signals, a feature amount calculating circuit
+14 calculates feature amount using at least one of the multiple divided sub-band signals and the input signal, a high frequency sub-
+band power estimating circuit 15 calculates an estimated value of a high frequency sub-band power based on the calculated
+feature amount, a high frequency signal generating circuit 16 generates a high frequency signal component based on the multiple
+sub-band signals divided by the bandpass filter 13, and the estimated value of the high frequency sub-band power calculated by
+the high frequency sub-band power estimating circuit 15. A frequency band extending device 10 extends the frequency band of
+the input signal using a high frequency signal component. The present invention may be applied to a frequency band extending
+device, for example.
+No. of Pages : 244 No. of Claims : 56

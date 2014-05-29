@@ -1,0 +1,22 @@
+Application number  =>  2964/CHENP/2011 A 
+
+Date of filing of application number  =>  02/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  ACTIVE INTERFERENCE SUPPRESSION IN A SATELLITE COMMUNICATION SYSTEM 
+
+Name of applicant  =>  1)ASTRIUM LIMITED 
+
+Name of inventor  =>  1)PAUL STEPHEN NORRIDGE 2)DAVID MICHAEL HOWE 3)ANTONY DUNCAN CRAIG 
+
+International Classification  =>  H04B 7/204, H04B7/185 
+
+Priority Doc No  =>  0820902.5 
+
+International Application Number  =>  PCT/EP2009/065046 
+
+International Publication Number  =>  WO 2010/055090 A2 
+
+Abstract  =>  The invention relates to active interference suppression in a satellite communication system, particularly but not exclusively to an apparatus and method for using active interference suppression in order to suppress co-channel interference between user signals in the communication system. The communication system includes a receive or transmit antenna having a plurality of antenna elements, each antenna element associated with a respective antenna element signal. The method includes the steps of calculating complex weighting values for one or more of a plurality of beam signals, adjusting the beam signals in accordance with the calculated complex weighting values and cancelling co-channel interference in at least one of the beam signals using the one or more adjusted derived beam signals to provide an interference suppressed output signal. The complex weighting values can be calculated based on a constant modulus algorithm. 
+

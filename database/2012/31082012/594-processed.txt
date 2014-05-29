@@ -1,0 +1,22 @@
+Application number  =>  570/MUMNP/2012 A 
+
+Date of filing of application number  =>  07/03/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  SEARCH AND RESCUE USING ULTRAVIOLET RADIATION 
+
+Name of applicant  =>  1)RAYTHEON COMPANY 
+
+Name of inventor  =>  1)WITZEL, JOHN GEORGE 2)DOLGIN, BENJAMIN, P. 3)COTTEN, STEVEN 4)BRENNAN, MICHAEL, ANDREW 5)GUTIERREZ, JORGE 6)SULIGA, WILLIAM 
+
+International Classification  =>  B63C 9/20,G01S 1/70 
+
+Priority Doc No  =>  12/554,527 
+
+International Application Number  =>  PCT/US2010/046285 
+
+International Publication Number  =>  WO/2011/028463 
+
+Abstract  =>  A system for search and rescue includes a rescue beacon including a radiation source to emit radiation, at least a portion of which includes ultraviolet c-band radiation, and an ultraviolet c-band detector to detect the ultraviolet c-band radiation to enable locating of the rescue beacon. 
+

@@ -1,0 +1,22 @@
+Application number  =>  2871/CHENP/2011 A 
+
+Date of filing of application number  =>  28/04/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  METHOD FOR MANUFACTURING PATTERNED CHAIR AND PATTERNED CHAIR MANUFACTURED BY THAT MANUFACTURING METHOD 
+
+Name of applicant  =>  1)TOSHIYUKI YOSHINO 
+
+Name of inventor  =>  1)TOSHIYUKI YOSHINO 
+
+International Classification  =>  A47C7/16, A47C5/00, A47C5/12 
+
+Priority Doc No  =>  2008-286144 
+
+International Application Number  =>  PCT/JP2009/063944 
+
+International Publication Number  =>  WO 2010/052959 A1 
+
+Abstract  =>  The present invention has an object to provide a graphic chair having a fine graphic, wherein the chair is made of a transparent material, the graphic can be clearly seen from any side of the material, and the graphic is not damaged by mechanical contact from both sides; and to provide a graphic chair with a personalized design producible cheaply even if the system of producing various kinds of products in small lots is employed. The foregoing objects could be achieved by a method for manufacturing a graphic chair, whose at least any one of a seat part and a backrest part or both consist(s) of a substrate having a configuration of both sides of the graphic sandwiched by transparent resin A and transparent resin B, wherein the substrate is obtained by carrying out Step (1) in which a film having the printed graphic is inserted into a mold at the time of injection molding of transparent resin A and then the graphic printed on the film is transcribed to surface of transparent resin A in the mold, simultaneously with injection molding of transparent resin A, and thereafter carrying out Step (2) in which a mold half to which side the film having the printed graphic is inserted is moved backward to form a space between the mold and the graphic on transparent resin A and then transparent resin B is injection molded in the space. 
+

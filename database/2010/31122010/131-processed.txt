@@ -1,0 +1,22 @@
+Application number  =>  4105/CHENP/2010 A 
+
+Date of filing of application number  =>  02/07/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  METHOD FOR THE ONBOARD DETERMINATION OF TRAIN DETECTION, TRAIN INTEGRITY AND POSITIVE TRAIN SEPARATION 
+
+Name of applicant  =>  1)LOCKHEED MARTIN CORPORATION 
+
+Name of inventor  =>  1)DEMETRI, JAMES 2)KLINCK, WARREN, H. 
+
+International Classification  =>  B61L15/00 
+
+Priority Doc No  =>  61/020,015 
+
+International Application Number  =>  PCT/US09/030660 
+
+International Publication Number  =>  WO 2009/089492 A8 
+
+Abstract  =>  A system and method for onboard train detection is disclosed. In some embodiments, the train detection function is segregated into a safety-critical head-of-train determination, a safety-critical end-of-train (or length-of-train) determination, and a safety-critical train integrity function. By supplementing the train detection and integrity functions with information on system latencies, guard zones, processing delays and a determination of safe braking distance, the method and system provides safety-critical onboard positive train separation information. This information is transmitted to a control center and used to determine safe separation distance between trains. 
+

@@ -1,0 +1,22 @@
+Application number  =>  2986/CHENP/2011 A 
+
+Date of filing of application number  =>  02/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  APPARATUS TO DETERMINE A POSITION OF A VALVE 
+
+Name of applicant  =>  1)EMERSON PROCESS MANAGEMENT REGULATOR TECHNOLOGIES, INC. 
+
+Name of inventor  =>  1)LIN, CHUN 2)PELFREY, ROY, RONALD 
+
+International Classification  =>  F16K37/00 
+
+Priority Doc No  =>  12/247,838 
+
+International Application Number  =>  PCT/US09/054620 
+
+International Publication Number  =>  WO 2010/042276 A1 
+
+Abstract  =>  An apparatus to indicate a position of a valve is described. An example position indicator apparatus includes a follower (302) operatively coupled to a flow control member (202) of a valve to sense a displacement of the flow control member. The example apparatus further includes a status indicator (304) to provide an indication that corresponds to the displacement of the flow control member to determine one of a plurality of predetermined operational positions of the valve and a visual display (328) to cooperate with the status indicator to indicate a position of the valve corresponding to one of the plurality of predetermined operational positions of the valve. 
+

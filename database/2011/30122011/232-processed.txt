@@ -1,0 +1,22 @@
+Application number  =>  1002/CHENP/2011 A 
+
+Date of filing of application number  =>  14/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD AND APPARATUS FOR FAST NEARESTNEIGHBOR SEARCH FOR VECTOR QUANTIZERS 
+
+Name of applicant  =>  1)NOKIA CORPORATION 
+
+Name of inventor  =>  1)Adriana Vasilache 2)Lasse Laaksonen 3)Mikko Tammi 4)Anssi Rm 
+
+International Classification  =>  G10L19/02, G06T9/00 
+
+Priority Doc No  =>  61/081,671 
+
+International Application Number  =>  PCT/FI2009/050603 
+
+International Publication Number  =>   
+
+Abstract  =>  A method comprises identifying a component k of a codevector from a codebook C having one or more codevectors, the component k introducing highest variance for an input vector; allowing ordering of codevectors in the codebook C; and searching for a best match vector for the input vector using ordered codevectors. Figure.1 
+

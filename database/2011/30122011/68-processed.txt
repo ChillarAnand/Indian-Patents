@@ -1,0 +1,22 @@
+Application number  =>  2137/DELNP/2011 A 
+
+Date of filing of application number  =>  22/03/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  FOLDING BLADE TURBINE 
+
+Name of applicant  =>  1)NATURAL POWER CONCEPTS, INC. 
+
+Name of inventor  =>  1)JOHN PITRE 
+
+International Classification  =>  F03D 1/06 
+
+Priority Doc No  =>  61/189,950 
+
+International Application Number  =>  PCT/US2009/004768 
+
+International Publication Number  =>  WO 2010/021732 
+
+Abstract  =>  A turbine for capturing energy from a fluid moving from an from an upstream direction to a downstream direction, said turbine comprising: (A) a drive shaft having an axis of rotation, a first end, and a second end remote from the first end along the axis of rotation; (B) a drive hub coupled to the drive shaft proximately to the first end of the drive shaft; and (C) a plurality of airfoils, each airfoil having an airfoil axis along a span, each airfoil being coupled to the hub such that (i) the airfoil is configured to exert a rotational torque about the drive shaft axis of rotation in response to the fluid flow, and (ii) the airfoil is pivotal between a first position with its airfoil axis generally parallel to the flow direction and a second position with its airfoil axis substantially normal to the flow direction; and (D) an actuator coupled to the airfoils so as to move the airfoils between the second position toward the first position. 
+

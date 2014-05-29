@@ -1,0 +1,50 @@
+The Patent Office Journal 30/12/2011 
+ 
+25673
+(12) PATENT APPLICATION PUBLICATION (21) Application No.956/CHENP/2006 A 
+(19) INDIA  
+(22) Date of filing of Application :20/03/2006 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : NON-LEACHING ADHESIVE SYSTEM AND ITS USE IN A LIQUID IMMERSION OBJECTIVE  
+  
+(51) International classification  :C09J4/06  
+(31) Priority Document No  :03102607.3  
+(32) Priority Date  :20/08/2003 
+(33) Name of priority country  :EUROPEAN UNION 
+(86) International Application No 
+        Filing Date 
+:PCT/IB2004/051397
+:05/08/2004 
+(87) International Publication No  :WO 2005/019365  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+      Address of Applicant :Groenewoudseweg 1, NL-5621 BA 
+Eindhoven Netherlands 
+(72)Name of Inventor : 
+   1)VERSTEGEN, Emile, J., K.  
+   2)KLOOSTERBOER, Johan, G.  
+   3)STAPERT, Hendrik, R.  
+   4)NEIJZEN, Jacobus, H., M.  
+   5)VAN SANTEN, Helmar   
+(57) Abstract : 
+A non-leaching adhesive system and its use in a liquid immersion objective for immersion-writing of masters for optical discs are 
+disclosed. The adhesive system comprises at least one monomer, selected from among the group of acrylate and methacrylate 
+monomers, allylic monomers, norbornene monomers, hybrid monomers thereof, containing chemically different polymerizable 
+groups, and multifunctional thiol monomers, provided that said thiol is used in combination with at least one of said non-thiol 
+monomers; and a polymerization initiator. At least one of said monomers, not being a thiol, is provided with at least two functional 
+polymerizable groups to obtain a crosslinked polymer network. The polymerization initiator is preferably an initiator that can be 
+activated both thermally and with UV radiation. The adhesive system may further contain a reactive diluent. Further the use of the 
+present adhesive system in mounting a liquid immersion objective is disclosed. 
+  
+  
+No. of Pages : 17 No. of Claims : 17 

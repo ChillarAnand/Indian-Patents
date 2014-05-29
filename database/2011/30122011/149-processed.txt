@@ -1,0 +1,22 @@
+Application number  =>  1059/MUMNP/2011 A 
+
+Date of filing of application number  =>  25/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  LIQUID CRYSTAL DISPLAY AND METHOD FOR PRODUCING THE SAME 
+
+Name of applicant  =>  1)SHARP KABUSHIKI KAISHA 
+
+Name of inventor  =>  1)Masanobu MIZUSAKI 2)Yohei NAKANISHI 
+
+International Classification  =>  G02F 1/1337 
+
+Priority Doc No  =>  2008-303176 
+
+International Application Number  =>  PCT/JP2009/002931 
+
+International Publication Number  =>  WO/2010/061490 
+
+Abstract  =>  The liquid crystal display (100) comprises an active matrix substrate (220) having a pixel electrode (224); a counter substrate (240) having a counter electrode (244); a vertical orientation-type liquid crystal layer (260); and orientation-preserving layers (210, 230) disposed between the active matrix substrate (220) and the liquid crystal layer (260), and the counter substrate (240) and the liquid crystal layer (260). The orientation-preserving layers (210, 230) comprise a polymer (poa) obtained by polymerization of a polyfunctional monomer. The active matrix substrate and/or the counter substrate further have orientation films (110, 120) disposed on the liquid crystal layer side, and the orientation films (110, 120) comprise a polyimide (pi) and a polymer (pob) obtained by polymerization of a polyfunctional monomer. 
+

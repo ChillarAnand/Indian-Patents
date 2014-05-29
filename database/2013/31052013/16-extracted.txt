@@ -1,0 +1,47 @@
+The Patent Office Journal 31/05/2013 11987
+(12) PATENT APPLICATION PUBLICATION (21) Application No.911/DEL/2013 A
+(19) INDIA
+(22) Date of filing of Application :26/03/2013 (43) Publication Date : 31/05/2013
+(54) Title of the invention : SWASH PLATE TYPE REFRIGERATON COMPRESSOR WITH CYLINDER BORES HAVING
+MULTIPLE AXIAL TAPER OIL SEPARATION GROOVES FOR ALL AUTOMOTIVE AND NON-AUTOMOTIVE AIR-
+CONDITIONING AND REFRIGERATION APPLICATIONS
+(51) International classification :F04B
+(31) Priority Document No :NA
+(32) Priority Date :NA
+(33) Name of priority country :NA
+(86) International Application No
+Filing Date
+:NA
+:NA
+(87) International Publication No : NA
+(61) Patent of Addition to Application Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)SUBROS LIMITED
+Address of Applicant :LOWER GROUND FLOOR,
+WORLD TRADE CENTRE, BARAKHAMBA LANE, NEW
+DELHI - 110 001. India
+(72)Name of Inventor :
+1)D.M. REDDY
+(57) Abstract :
+This invention discloses a unique concept of swash plate type compressor (both single acting and double acting designs) which
+has the innovative feature Cylinder Bores having multiple axial taper Oil Separation Grooves near the bottom dead center (BDC)
+of piston operation in the cylinder blocks, which are equi-spaced annularly. The oil is get collected due to Surface tension,
+Viscous Force & Capillary action into the grooves and groove parameters are optimized (Groove depth, Groove taper angle and
+groove length) with Optimum Differential pressure to push the collected oil in the grooves to swash chamber with minimum most
+refrigerant gas blow-by. In a preferred embodiment the cylinder blocks are made up of metallic materials (Aluminium, Cast-iron,
+Steel) etc...(by forging, machining, casting, molding) or Non-metallic materials like PTFE, PEEK , PPS through injection molding
+process. In overall the Coefficient of Performance (COP) of the Compressor and the entire Air-Conditioning systems consist of
+Compressor, Condenser, Valve expansion , evaporator with or without Internal heat Exchanger (IHX) connected back to
+compressor in the sequence written is improved by this new invention. The salient features of our invention are using Cylinder
+bores having multiple axial taper Oil Separation Grooves near the bottom dead center (BDC) of piston operation in the cylinder
+blocks, which are equi-spaced annularly in swash plate and wobble plate type compressors for the cooling capacity range from 0.5
+kW to 50 kW for Automotive and Non-Automotive Air-Conditioning and Refrigeration applications with fixed and variable
+displacement Designs with multiple single acting and double acting Pistons.
+No. of Pages : 16 No. of Claims : 7

@@ -1,0 +1,22 @@
+Application number  =>  4247/KOLNP/2010 A 
+
+Date of filing of application number  =>  11/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  PHARMACEUTICAL COMPOSITION OF SOMATOSTATIN-DOPAMINE CONJUGATES 
+
+Name of applicant  =>  1)IPSEN PHARMA S.A.S. 
+
+Name of inventor  =>  1)DONG, ZHENG, XIN 2)ZHANG, JUNDONG 
+
+International Classification  =>  A61K 38/31 
+
+Priority Doc No  =>  61/127,584 
+
+International Application Number  =>  PCT/US2009/002943 
+
+International Publication Number  =>  WO 2009/139855 
+
+Abstract  =>  The present invention is directed to improvements in compositions containing a somatostatin- dopamine conjugate which retains both somatostatin and dopamine activity in vivo, methods for preparing such compositions, and method of using such compositions to treat mammals. In particular, the present invention relates to a pharmaceutical composition comprising Dop2-DLys(Dop2)- cyclo[Cys-Tyr- DTrp-Lys-Abu-Cys]-Thr-NH2 (SEQ ID NO: 1), in which the somatostatin-dopamine conjugate precipitates in vivo at physiological pH to form an in situ deposit that is slowly dissolved and released into the body fluid and bloodstream. The present invention may further comprise an organic component such as dimethylacetamide (DMA) or polyethylene glycol with an average molecular weight of 400 (PEG400). 
+

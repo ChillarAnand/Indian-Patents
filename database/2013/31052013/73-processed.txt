@@ -1,0 +1,22 @@
+Application number  =>  2807/CHENP/2012 A 
+
+Date of filing of application number  =>  27/03/2012 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  WIRELESS TRANSMISSION APPARATUS, WIRELESS TRANSMISSION METHOD AND COMPUTER PROGRAM 
+
+Name of applicant  =>  1)NEC CORPORATION 
+
+Name of inventor  =>  1)SAITO, KAICHIRO 
+
+International Classification  =>  H04B 1/04 
+
+Priority Doc No  =>  2009-222271 
+
+International Application Number  =>  PCT/JP2010/066662 
+
+International Publication Number  =>  WO 2011/037218A1 
+
+Abstract  =>  A traffic amount calculation portion calculates a traffic amount caused by transmission signals received by a transmission signal reception portion. An average traffic amount calculation portion calculates an average traffic amount that is an average of the traffic amount in a nearest predetermined interval. Further, a modulation method setting portion changes a modulation method used by a modulation portion based on the calculated average traffic amount In addition, a transmission portion transmits transmission signals by using a transmission power amount corresponding to the modulation method used by the modulation portion. 
+

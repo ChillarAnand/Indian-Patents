@@ -1,0 +1,44 @@
+The Patent Office Journal 30/12/2011 
+ 
+25685
+(12) PATENT APPLICATION PUBLICATION (21) Application No.970/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :10/02/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : INTER-SECTOR CONTROL CHANNEL TRANSMISSION  
+  
+(51) International classification  :H04W16/02  
+(31) Priority Document No  :12/199,413  
+(32) Priority Date  :27/08/2008 
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date 
+:PCT/US2009/055179
+:27/08/2009 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)QUALCOMM Incorporated 
+      Address of Applicant :Attn: International IP Administration  
+5775 Morehouse Drive  San Diego  California 92121-1714 USA.  
+(72)Name of Inventor : 
+   1)JULIAN David 
+   2)GORE Dhananjay  
+(57) Abstract : 
+Provided is a more efficient manner of transmitting a control message to reach into a neighboring sector (e.g., inter-sector) of a 
+wireless network environment. The control message can be utilized for purposes such as handoff, indicating an amount of 
+interference, inter-sector power control for managing inter-sector interference, sector loading, or other control messages. The control 
+message can be placed on a set of resources utilizing planned reuse and/or statistical reuse. Statistical reuse includes selecting a 
+subcarrier set for carrying the control message. According to some aspects, the control message can be sent over a backhaul channel. 
+  
+  
+No. of Pages : 61 No. of Claims : 76 

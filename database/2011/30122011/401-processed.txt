@@ -1,0 +1,22 @@
+Application number  =>  754/KOL/2010 A 
+
+Date of filing of application number  =>  09/07/2010 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  BATTERY CHARGER WITH BALANCE CIRCUIT 
+
+Name of applicant  =>  1)SANYANG INDUSTRY CO. LTD. 2)MY WAY ELECTRONICS., LTD. 
+
+Name of inventor  =>  1)WANG, TUNG-SHENG 2)CHEN, CHENG 3)TSENG, WEI TING 4)TO, YU TING 
+
+International Classification  =>  H02J7/02 
+
+Priority Doc No  =>  098123587 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A battery charger with a balance circuit includes a rechargeable- battery pack, a charge module, and a charge balance module. The charge balance module includes a control unit, at least one voltage-drop unit, at least one power switch, and at least one power- consuming unit. The control unit operates and compares the voltage input from the output of each voltage-drop unit, such that, through the controlled terminal of the power switch, ON and OFF of the power switch can be controlled, and that through the ON and OFF of the power switch, a shunt can be formed. Then through consumption of the current from the shunt by the power- consuming unit, the speed of charge can be balanced, making the voltages in the rechargeable-battery pack during and after the charge become consistent and as such, the life of use of the rechargeable batteries can be prolonged. 
+

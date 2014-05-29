@@ -1,0 +1,48 @@
+The Patent Office Journal 30/12/2011 
+ 
+25627
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1279/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :24/02/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : METHOD AND SYSTEM FOR SIGNAL TRANSMISSION AND RECEPTION  
+  
+(51) International classification  :H04B7/00  
+(31) Priority Document No  :1931/CHE/2008  
+(32) Priority Date  :11/08/2008 
+(33) Name of priority country  :India 
+(86) International Application No 
+        Filing Date 
+:PCT/IN2009/000391 
+:09/07/2009 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)Centre of Excellence in Wireless Technology 
+      Address of Applicant :#152  CSD Building  ESB  IIT Madras 
+Campus  Chennai 600 036 Tamil Nadu India 
+(72)Name of Inventor : 
+   1)Kiran Kumar KUCHI 
+   2)Deviraj Klutto Milleth  JENISTON 
+   3)Vinod RAMASWAMY 
+   4)Baskaran DHIVAGAR 
+   5)Krishnamurthi GIRIDHAR 
+   6)Bhaskar RAMAMURTHI 
+   7)Padmanabhan Madampu SURYASARMAN  
+(57) Abstract : 
+Embodiments herein disclose a digitally precoded SC-FDMA scheme with low PAPR, where the scheme applies a constellation 
+rotation to the M-ary input data sequence, before circularly convolving the rotated data sequence with a polynomial decoder. The data 
+is then transformed to the frequency domain and then mapped. An N-point IIFT is then applied to the data to produce time domain 
+samples. 
+  
+  
+No. of Pages : 60 No. of Claims : 10 

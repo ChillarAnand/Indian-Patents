@@ -1,0 +1,22 @@
+Application number  =>  366/DEL/2010 A 
+
+Date of filing of application number  =>  18/02/2010 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  PCR BASED MARKERS FROM RDNA ITS REGION FOR SPECIES DISCRIMINATION OF ZOONOTIC TREMATODE PARASITES 
+
+Name of applicant  =>  1)DEPARTMENT OF BIOTECHNOLOGY 
+
+Name of inventor  =>  1)VEENA TANDON 2)ANUPAM CHATTERJEE 3)PRAMOD KUMAR PRASAD 4)LALIT MOHAN GOSWAMI 
+
+International Classification  =>  C12N 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  This invention relates to A PCR-based molecular method dealing with markers from rDNA ITS region wherein the primers are 3S (forward): 5GGTACCGGTGGATCACTCGGCTCGTG-3 A28 (reverse): 5-GGGATCCTGGTTAGTTTCTTTTCCTCCGC-3 for species discrimination of zoonotic trematode parasites, comprising, recovering egg from mature adult flukes by squeezing between two glass slides, extracting DNA using Whatmans FTA card technique, DNA amplification using rDNA region spanning ITS2. 
+

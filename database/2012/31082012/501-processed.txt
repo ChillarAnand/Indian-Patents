@@ -1,0 +1,22 @@
+Application number  =>  428/MUMNP/2012 A 
+
+Date of filing of application number  =>  21/02/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  PROCESS FOR PREPARING 1-PHENYLPYRAZOLES 
+
+Name of applicant  =>  1)BASF SE 
+
+Name of inventor  =>  1)DOCHNAHL, MAXIMILIAN 2)LIPOWSKY, GUNTER 
+
+International Classification  =>  C07D 231/14 
+
+Priority Doc No  =>  09169528.8 
+
+International Application Number  =>  PCT/EP2010/062950 
+
+International Publication Number  =>  WO/2011/026937 
+
+Abstract  =>  The present invention to a process for preparing 1-phenylpyrazoles of the formula I in which each R1 is independently selected from chlorine, fluorine, alkyl, haloalkyl, alkoxy and haloalkoxy;n is 1, 2 or 3;each R2 is independently selected from cyano, nitro, halogen, alkyl, haloalkyl,alkoxy, haloalkoxy,alkylthio and alkoxycarbonyl; mis 0, 1 or 2;A is alkyl, aryl or aryl-C1-C4-alkyl, where A optionally bears 1, 2, 3 or 4 substituents comprising reacting a phenyl halide of the formula (II) with apyrazole derivative of the formula (III) in which X is chlorine, iodine or bromine; and R1, n, R2, m and A are each as defined above, in the presence of a base and a catalytic system comprising a ligand and a metal compound selected from palladium compounds, iron compounds and copper compounds. 
+

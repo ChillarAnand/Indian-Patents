@@ -1,0 +1,22 @@
+Application number  =>  1774/MUM/2012 A 
+
+Date of filing of application number  =>  21/06/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  A SYSTEM AND METHOD FOR SPEND ANALYSIS OF THE SERVICE CATEGORY. 
+
+Name of applicant  =>  1)ZYCUS INFOTECH PVT. LTD. 
+
+Name of inventor  =>  1)MR. AG SEBASTIAN 2)MR. PRASAD NAIR 
+
+International Classification  =>  C06F 17/60 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The invention relates to a system for spend analysis of service category comprising a processor unit; a computer readable medium storing instructions executable by the processor unit wherein the said computer readable medium comprises of a Service Receiving Means for receiving a service spend category from iAnalyze. 
+

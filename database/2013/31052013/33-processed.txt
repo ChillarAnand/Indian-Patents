@@ -1,0 +1,22 @@
+Application number  =>  3386/DEL/2011 A 
+
+Date of filing of application number  =>  25/11/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  A SYSTEM AND METHOD FOR TRUST LEVEL MANAGEMENT PROTOCOL IN VOICE BASED SERVICE TRANSACTION 
+
+Name of applicant  =>  1)MUKHERJEE SAMBHU NATH 
+
+Name of inventor  =>  1)MUKHERJEE SAMBHU NATH 
+
+International Classification  =>  G11C 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  The present invention relates to a method and system for authentication, authorization, accounting and auditing in public and private communication network. In particular, the present invention relates to the Trust Level Management in Voice Based Services Transactions in Public Communication Network to analyze a consumer's information to verify user identity. 
+

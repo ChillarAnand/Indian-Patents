@@ -1,0 +1,22 @@
+Application number  =>  1763/MUMNP/2010 A 
+
+Date of filing of application number  =>  18/08/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  DISTRIBUTED PHASE SHIFTER 
+
+Name of applicant  =>  1)NIHON DENGYO KOSAKU CO., LTD. 
+
+Name of inventor  =>  1)KARIKOMI, MASAHIRO 2)NGUYEN, THANG CHIEN 3)NISHIMURA, TAKASHI 4)KOBAYASHI, HISAE 
+
+International Classification  =>  H01P1/18 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/JP2008/052969 
+
+International Publication Number  =>  WO2009/104265A1 
+
+Abstract  =>  A distributed phase shifter capable of changing the phase of a high-frequency signal in a wider band than ever before. The distributed phase shifter comprises an output-side strip conductor which has a shape of a circular arc which is a part of a circular ring and has its both ends serving for output ends, an input-side strip conductor with its one end positioned at the center of the circular ring, a sliding portion which has a shape of a circular arc which is a part of the circular ring and is shorter than the output-side strip conductor, and an arm portion which has a sliding portion at the end and can be turned around the center of the circular ring. An insulating material is interposed between the output-side strip conductor and the circular-arc sliding portion and between the input-side strip conductor and the arm portion. A ring-shaped conductor of the input-side strip conductor and a ring-shaped conductor of the arm portion face each other via the insulating material. The arm portion consists of a first and a second line each of which has its one end connected to the sliding portion and the other end electrically connected to the ring-shaped conductor of the arm portion. 
+

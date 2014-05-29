@@ -1,0 +1,22 @@
+Application number  =>  9857/CHENP/2011 A 
+
+Date of filing of application number  =>  27/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  SYSTEMS, METHODS, AND COMPUTER PROGRAM PRODUCTS FOR ADAPTING THE SECURITY MEASURES OF A COMMUNICATIO NETWORKK BASED ON FEEDBACK 
+
+Name of applicant  =>  1)AMERICAN EXPRESS TRAVEL RELATED SERVICE COMPANY, INC. 
+
+Name of inventor  =>  1)BAILEY, JR., SAMUEL A. 
+
+International Classification  =>  G06F11/00 
+
+Priority Doc No  =>  12/504,828 
+
+International Application Number  =>  PCT/US2010/042043 
+
+International Publication Number  =>  WO 2011/008902 A1 
+
+Abstract  =>  An adaptable network security system includes trust mediator agents that are coupled to each network component. Trust mediator agents continuously detect changes in the security characteristics of the network and communicate the detected security characteristics to a trust mediator. Based on the security characteristics received from the trust mediator agents, the trust mediator adjusts security safeguards to maintain an acceptable level of security. Trust mediator also uses predetermined rules in determining whether to adjust security safeguards. Despite inevitable changes in security characteristics, an acceptable level of security and efficient network operation are achieved without subjecting users of the network to over burdensome security safeguards. 
+

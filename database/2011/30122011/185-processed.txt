@@ -1,0 +1,22 @@
+Application number  =>  1115/MUMNP/2011 A 
+
+Date of filing of application number  =>  31/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  WIRE ELECTRODE FOR ELECTRICAL DISCHARGE CUTTING 
+
+Name of applicant  =>  1)BERKENHOFF GMBH 
+
+Name of inventor  =>  1)BAUMANN Ingo 2)N–THE Tobias 
+
+International Classification  =>  B23H 7/08 
+
+Priority Doc No  =>  08170563.4 
+
+International Application Number  =>  PCT/EP2009/008435 
+
+International Publication Number  =>  WO/2010/063410 
+
+Abstract  =>  The invention relates to a wire electrode (1, 1) for electric discharge cutting processes and a method for the production thereof. The wire electrode (1, 1) has a core (2) containing a metal or a metal alloy, and a coating (3, 4; 3, 4, 5) that surrounds the core (2) and includes one or more coating layers (3, 4, 5), at least one (3) of which contains a phase mixture of -brass and/or -brass and γ-brass. In said at least one coating layer (3) containing -brass and/or -brass and γ-brass, the -phase and/or -phase and the γ-phase are arranged next to each other in a fine-grained structure in which the mean size of the -brass and/or -brass grains and the γ-brass grains amounts to a maximum of 5 µm relative to the cross-section extending perpendicular to the longitudinal axis of the wire electrode (1, 1). In order to produce the wire electrode (1, 1), a wire is used that has a coating layer predominantly containing γ-brass, and a homogenizing step is carried out in which the γ-brass is substantially transformed into a -brass having a minimum zinc concentration of 51 percent by weight at temperatures exceeding 600°C, and the wire (1, 1) is finally cooled, a process during which zones of γ-brass are separated from the supersaturated solid solution of -brass. 
+

@@ -1,0 +1,44 @@
+The Patent Office Journal 31/05/2013 12120
+(12) PATENT APPLICATION PUBLICATION (21) Application No.9912/CHENP/2011 A
+(19) INDIA
+(22) Date of filing of Application :28/12/2011 (43) Publication Date : 31/05/2013
+(54) Title of the invention : METHOD EQUIPMENT AND SYSTEM FOR IMPLEMENTING COORDINATED MULTI-POINT
+TRANSMISSION
+(51) International classification :H04B 7/06
+(31) Priority Document No :200910260758.8
+(32) Priority Date :31/12/2009
+(33) Name of priority country :China
+(86) International Application No
+Filing Date
+:PCT/CN2010/078713
+:15/11/2010
+(87) International Publication No : NA
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)Huawei Technologies Co. Ltd.
+Address of Applicant :Huawei Administration Building
+Bantian Longgang District Shenzhen Guangdong 518129 P.R.
+China.
+(72)Name of Inventor :
+1)SUN Guolin
+2)YE Feng
+3)GAO Xiujuan
+(57) Abstract :
+A method terminal and system for implementing coordinated multi-point transmission are provided by the embodiments of the
+present invention resolving the problem that there exists phase noise in the signals received by a User Equipment (UE) end in
+coordinated multi-point transmission. The method for implementing coordinated multi-point transmission includes the following
+steps: obtaining phase difference between other coordinated cells and a current service cell by calculating a channel cross-
+covariance matrix between the current service cell and other coordinated cells in a coordinated multi-point transmission system
+(101); feeding back the phase difference corresponding to the base stations of said other coordinated cells respectively to the base
+stations of said other coordinated cells in order to implement phase compensation (102); receiving the signals transmitted after
+the phase compensation by the base stations of all the coordinated cells (103). The method, terminal and system provided by the
+embodiments of the present invention are applicable to the coordinated communication in various wireless networks.
+No. of Pages : 27 No. of Claims : 20

@@ -1,0 +1,22 @@
+Application number  =>  1363/CHENP/2011 A 
+
+Date of filing of application number  =>  28/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  FIBRE MONITORING IN OPTICAL NETWORKS 
+
+Name of applicant  =>  1)TELEFONAKTIEBOLAGET LM ERICSSON (PUBL) 
+
+Name of inventor  =>  1)CAMPANELLI Carlo 2)MAGRI Roberto 
+
+International Classification  =>  H04B10/08 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>  PCT/EP2008/061399 
+
+International Publication Number  =>   
+
+Abstract  =>  A method of monitoring (200) an optical fibre comprises modulating (210) an optical signal with a traffic signal; modulating (220) the optical signal with an incoherent optical frequency domain reflectometry, IOFDR, test signal; transmitting (230) the doubly modulated optical signal onto an optical fibre at a first end of the fibre; detecting (240) scattered radiation output from the first end of the fibre; and analysing (250) the detected scattered radiation using incoherent optical frequency domain reflectometry to determine a distance to a break in the optical fibre. Apparatus suitable for carrying out the method is also described, as well as an optical communications network employing the method. 
+

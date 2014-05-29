@@ -1,0 +1,50 @@
+The Patent Office Journal 31/12/2010 
+ 
+5339
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1763/MUMNP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :18/08/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : DISTRIBUTED PHASE SHIFTER  
+  
+(51) International classification  :H01P1/18  
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date 
+:PCT/JP2008/052969
+:21/02/2008 
+(87) International Publication No  :WO2009/104265A1 
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)NIHON DENGYO KOSAKU CO., LTD. 
+      Address of Applicant :7-15, KUDAN-MINAMI 4-CHOME, 
+CHIYODA-KU, TOKYO 102-0074, JAPAN   
+(72)Name of Inventor : 
+   1)KARIKOMI, MASAHIRO 
+   2)NGUYEN, THANG CHIEN 
+   3)NISHIMURA, TAKASHI 
+   4)KOBAYASHI, HISAE  
+(57) Abstract : 
+A distributed phase shifter capable of changing the phase of a high-frequency signal in a wider band than ever before. The distributed 
+phase shifter comprises an output-side strip conductor which has a shape of a circular arc which is a part of a circular ring and has its 
+both ends serving for output ends, an input-side strip conductor with its one end positioned at the center of the circular ring, a sliding 
+portion which has a shape of a circular arc which is a part of the circular ring and is shorter than the output-side strip conductor, and 
+an arm portion which has a sliding portion at the end and can be turned around the center of the circular ring. An insulating material is 
+interposed between the output-side strip conductor and the circular-arc sliding portion and between the input-side strip conductor and 
+the arm portion. A ring-shaped conductor of the input-side strip conductor and a ring-shaped conductor of the arm portion face each 
+other via the insulating material. The arm portion consists of a first and a second line each of which has its one end connected to the 
+sliding portion and the other end electrically connected to the ring-shaped conductor of the arm portion. 
+  
+ 
+No. of Pages : 18 No. of Claims : 2 

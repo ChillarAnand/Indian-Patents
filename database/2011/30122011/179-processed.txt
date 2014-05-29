@@ -1,0 +1,22 @@
+Application number  =>  1111/MUMNP/2011 A 
+
+Date of filing of application number  =>  31/05/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD AND APPARATUS FOR PROVIDING NETWORK COMMUNICATION ASSOCIATION INFORMATION TO APPLICATIONS AND SERVICES 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)NARAYANAN Vidya 2)DONDETI Lakshminath Reddy 
+
+International Classification  =>  H04L 29/06 
+
+Priority Doc No  =>  12/343,988 
+
+International Application Number  =>  PCT/US2009/069119 
+
+International Publication Number  =>  WO/2010/075339 
+
+Abstract  =>  A system and method are provided that allow an application on a first terminal to inquire about available network communication associations that it can use to send data to another terminal, thereby avoiding the establishment of a new network communication association with the other terminal. A security information module may serve to collect and/or store information about available network communication associations between the first terminal and another terminal across different layers. The security information module may also assess a trust level for the network communication associations based on security mechanisms used to establish each association and/or past experience information reported for these network communication associations. Upon receiving a request for available network communication associations, the security information module provides this to the requesting application which can use it to establish communications with a corresponding application on the other terminal. 
+

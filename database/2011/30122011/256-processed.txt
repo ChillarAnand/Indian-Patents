@@ -1,0 +1,22 @@
+Application number  =>  1209/CHENP/2011 A 
+
+Date of filing of application number  =>  21/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  System and Method for Acknowledgement Packet Transmitting and Receiving 
+
+Name of applicant  =>  1)QUALCOMM Incorporated 
+
+Name of inventor  =>  1)JIA Zhanfeng 2)TIAN Qingjiang 3)JULIAN David Jonathan 
+
+International Classification  =>  H04L1/16, H04L1/18 
+
+Priority Doc No  =>  61/098,606 
+
+International Application Number  =>  PCT/US2009/032262 
+
+International Publication Number  =>   
+
+Abstract  =>  A communications method comprising the steps of receiving a data packet; processing the data packet; and transmitting an ack packet approximately at an end of a first defined time interval if the processing of the data packet is completed within the first defined interval, or transmitting the ack packet approximately at an end of a second defined time interval if the processing of the data packet is not completed within the first defined interval and is completed within the second defined interval. Another communication method comprising the steps of transmitting a data packet; scanning a channel for an ack packet approximately at an end of a first defined time interval from the transmission of the data packet; and scanning the channel for the ack packet approximately at an end of a second defined time interval from the transmission of the data packet if the ack packet was not received within the first defined interval. 
+

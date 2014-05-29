@@ -1,0 +1,48 @@
+The Patent Office Journal 30/12/2011 
+ 
+25488
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1058/MUMNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :25/05/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : WEIGHT COEFFICIENT GENERATION DEVICE, VOICE RECOGNITION DEVICE, NAVIGATION 
+DEVICE, VEHICLE, WEIGHT COEFFICIENT GENERATION METHOD, AND WEIGHT COEFFICIENT GENERATION 
+PROGRAM  
+  
+(51) International classification  :G10L 15/10  
+(31) Priority Document No  :2008-299220  
+(32) Priority Date  :25/11/2008 
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date 
+:PCT/JP2009/069476
+:17/11/2009 
+(87) International Publication No  :WO/2010/061751  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)ASAHI KASEI KABUSHIKI KAISHA 
+      Address of Applicant :3-23  Nakanoshima 3-chome  Kita-ku  
+Osaka-shi  Osaka 530-8205  Japan   
+(72)Name of Inventor : 
+   1)MIYAZAKI Toshiyuki  
+(57) Abstract : 
+Disclosed are a weight coefficient generation device, a voice recognition device, a navigation device, a vehicle, a weight coefficient 
+generation method, and a weight coefficient generation program for the purpose of improving voice recognition ability with respect to 
+place names. An address database (12) has address information data items consisting of country names, city names, street names, and 
+house numbers, and manages the address information, which has a tree structure that indicates hierarchical relationships between place 
+names ranging from the widest region to narrowest region. Each place name stored in the address database (12) is considered a voice 
+recognition candidate, and the weight coefficient calculation unit (11) of a weight coefficient generation device (10) calculates a 
+weight coefficient of the likelihood of the aforementioned recognition candidate based on the number of street names belonging to the 
+lower hierarchical strata of the city name of the aforementioned recognition candidate. 
+  
+ 
+No. of Pages : 49 No. of Claims : 19 

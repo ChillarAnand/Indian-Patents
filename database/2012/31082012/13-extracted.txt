@@ -1,0 +1,47 @@
+ 
+The Patent Office Journal 31/08/2012 
+13855
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2099/CHE/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :21/06/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : SPATIAL ASSOCIATION BETWEEN VIRTUAL AND AUGMENTED REALITY  
+  
+(51) International classification  :G06T15/00, G09G5/00  
+(31) Priority Document No  :12/823,939 
+(32) Priority Date  :25/06/2010
+(33) Name of priority country  :U.S.A. 
+(86) International Application No 
+        Filing Date  
+:NA 
+:NA 
+(87) International Publication No  : NA  
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)PALO ALTO RESEARCH CENTER INCORPORATED
+      Address of Applicant :3333 COYOTE HILL ROAD, PALO 
+ALTO, CA 94304 U.S.A. 
+(72)Name of Inventor : 
+   1)MICHAEL ROBERTS 
+   2)JAMES BEGOLE 
+   3)MAURICE CHU 
+   4)DORON KLETTER  
+(57) Abstract : 
+One embodiment of the present invention provides a system that facilitates interaction between two entities located away from each 
+other. The system includes a virtual reality system, an augmented reality system, and an object-state-maintaining mechanism. During 
+operation, the virtual reality system displays an object associated with a real-world object. The augmented reality system displays the 
+object based on a change to the state of the object. The object-state-maintaining mechanism determines the state of the object and 
+communicates a state change to the virtual reality system, the augmented reality system, or both. A respective state change of the 
+object can be based on one or more of: a state change of the real-world object; a user input to the virtual reality system or the 
+augmented reality system; and an analysis of an image of the real-world object. 
+  
+  
+No. of Pages : 24 No. of Claims : 4 

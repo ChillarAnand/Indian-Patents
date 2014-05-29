@@ -1,0 +1,47 @@
+The Patent Office Journal 30/12/2011 
+ 
+25477
+(12) PATENT APPLICATION PUBLICATION (21) Application No.1034/MUMNP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :23/05/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : MOUSE HAVING DOT PATTERN READING FUNCTION  
+  
+(51) International classification  :G06F 3/033  
+(31) Priority Document No  :2008-292837  
+(32) Priority Date  :14/11/2008 
+(33) Name of priority country  :Japan 
+(86) International Application No 
+        Filing Date 
+:PCT/JP2009/006108 
+:16/11/2009 
+(87) International Publication No  :WO/2010/055686  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)YOSHIDA  Kenji 
+      Address of Applicant :9-14-2302  Koishikawa 1-chome  
+Bunkyo-ku  Tokyo 1120002  Japan   
+(72)Name of Inventor : 
+   1)YOSHIDA  Kenji  
+(57) Abstract : 
+Provided is a mouse which is equipped with a mouse function allowing the input of relative position information and a function 
+allowing the input of absolute position information, and enables a user to visually specify the read position of a code with accuracy. A 
+mouse for reading a dot pattern of XY coordinate values, or XY coordinate values and code values which is formed on a surface of a 
+medium, based on a specified algorithm is provided with a case with a read hole for reading the dot pattern provided in the bottom 
+part; a position specification means for specifying a designated position on the medium surface on the outside of the case; a dot pattern 
+reader for reading the dot pattern on the medium surface directly below the read hole; a dot pattern irradiation means for irradiating 
+light for reading the dot pattern on the medium surface; and a controller for calculating the designated position indicated by the 
+position specification means by calculating the XY coordinate value and the orientation of the dot pattern read by the dot pattern 
+reader, and correcting with a predetermined distance and direction. 
+  
+ 
+No. of Pages : 84 No. of Claims : 8 

@@ -1,0 +1,44 @@
+ 
+The Patent Office Journal 31/08/2012 
+13874
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2854/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :27/04/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : PROCESS FOR PRODUCING AMMONIA SYNTHESIS GAS  
+  
+(51) International classification  :C01B3/38  
+(31) Priority Document No  :08017372.7  
+(32) Priority Date  :02/10/2008 
+(33) Name of priority country  :EPO 
+(86) International Application No 
+        Filing Date 
+:PCT/EP2009/060970
+:26/08/2009 
+(87) International Publication No  :WO 2010/037598 A1  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)AMMONIA CASALE S.A. 
+      Address of Applicant :VIA GIULIO POCOBELLI 6, CH-6900 
+LUGANO-BESSO., Switzerland 
+(72)Name of Inventor : 
+   1)FILIPPI, ERMANNO 
+   2)BADANO, MARCO  
+   3)SKINNER, GEOFFREY FREDERICK  
+(57) Abstract : 
+A process for producing ammonia synthesis gas, where a natural gas feedstock (10) is reformed in a primary steam reformer (12) and 
+in a secondary reformer (14) at a pressure of at least 35 bar; the product syngas (16) at the output of the secondary reformer is cooled 
+and subject to catalytic medium-temperature shift, converting the CO into CO2 and H2; downstream said medium-temperature shift, 
+the carbon dioxide is removed from the syngas by physical absorption. 
+  
+  
+No. of Pages : 13 No. of Claims : 7 

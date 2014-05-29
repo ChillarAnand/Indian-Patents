@@ -1,0 +1,49 @@
+ 
+The Patent Office Journal 31/08/2012 
+13949
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2873/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :28/04/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : OPTICAL SYSTEM AND DISPLAY  
+  
+(51) International classification  
+:G02B27/02, 
+G02B17/00, 
+G09F9/00  
+(31) Priority Document No  :0821776.2  
+(32) Priority Date  :28/11/2008 
+(33) Name of priority country  :U.K. 
+(86) International Application No 
+        Filing Date 
+:PCT/JP2009/069513
+:11/11/2009 
+(87) International Publication No  :WO 2010/061755 A1  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)SHARP KABUSHIKIK KAISHA 
+      Address of Applicant :22-22 NAGAIKE-CHO ABENO-KU, 
+OSAKA-SHI, OSAKA 545-8522 Japan 
+(72)Name of Inventor : 
+   1)GREGORY GAY 
+   2)LESLEY ANNE PARRY-JONES  
+(57) Abstract : 
+An optical system is provided, for example for use with a display device (1), for varying the shape of a surface in which an image 
+displayed by the display device (1) is perceived. The optical system comprises first and second spaced-apart partial reflectors (3, 5), at 
+least one of which is switchable between a first non-flat shape and a second different shape, which may be flat or non- flat. The 
+reflectors (3,5), together with polarisation optics (2,4), provide a light path (6) such that light from the display (1) is at least partially 
+transmitted by the first reflector (3), partially reflected by the second reflector (5), partially reflected by the first reflector (3) and 
+partially transmitted by the second reflector (5). Light which does not follow the light path (6) is prevented from leaving the optical 
+system. 
+  
+  
+No. of Pages : 94 No. of Claims : 47 

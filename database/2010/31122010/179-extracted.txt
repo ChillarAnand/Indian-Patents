@@ -1,0 +1,43 @@
+The Patent Office Journal 31/12/2010 
+ 
+5445
+(12) PATENT APPLICATION PUBLICATION (21) Application No.4178/KOLNP/2010 A 
+(19) INDIA  
+(22) Date of filing of Application :04/11/2010 (43) Publication Date : 31/12/2010 
+  
+(54) Title of the invention : METHOD AND EQUIPMENT FOR TREATMENT OF BLACK LIQUOR AT PULP MILL  
+  
+(51) International classification  :D21C 11/04  
+(31) Priority Document No  :20085416  
+(32) Priority Date  :06/05/2008 
+(33) Name of priority country  :Finland 
+(86) International Application No 
+        Filing Date 
+:PCT/FI2009/050362 
+:05/05/2009 
+(87) International Publication No  :WO 2009/135999  
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)METSO POWER OY 
+      Address of Applicant :LENTOKENTÄNKATU 11 FI-33900 
+TAMPERE FINLAND 
+(72)Name of Inventor : 
+   1)LEHTO, JANI 
+   2)KUUKKANEN,KARI 
+   3)HONKOLA, TIMO  
+(57) Abstract : 
+The invention relates to a method and equipment for treatment of black liquor at a pulp mill in order to recover chemicals and energy 
+contained therein. In the invention, the black liquor is pyrolyzed in a pyrolysis reactor (4), the formed gaseous components are 
+forwarded for utilization and the solids are mixed with water, whereby the formed solids are returned to a lime burning kiln (1) and the 
+sodium-hydroxide-containing liquid is returned to the pulp cooking process.  
+ 
+No. of Pages : 14 No. of Claims : 30 

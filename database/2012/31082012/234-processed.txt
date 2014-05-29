@@ -1,0 +1,22 @@
+Application number  =>  3132/CHENP/2011 A 
+
+Date of filing of application number  =>  06/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  ERBB-3 (HER3)-SELECTIVE COMBINATION THERAPY 
+
+Name of applicant  =>  1)ENZON PHARMACEUTICALS, INC. 2)SANTARIS PHARMA A/S 
+
+Name of inventor  =>  1)LIAO, BAISONG 2)ZHANG, YIXIAN 
+
+International Classification  =>  A61K31/70, C07H21/04, C12N5/02 
+
+Priority Doc No  =>  61/112,549 
+
+International Application Number  =>  PCT/US09/063357 
+
+International Publication Number  =>  WO 2010/054051 A1 
+
+Abstract  =>  The invention relates to pharmaceutical compositions for and methods of treatment with HER3-targeted combination therapy. The invention relates to pharmaceutical compositions comprising an oligomer which targets HER3 (and optionally one or more of HER2 and EGFR) mRNA in a cell, leading to reduced expression of HER3 and optionally HER2 and/or EGFR, and a small molecule protein tyrosine kinase inhibitor of one or more receptor tyrosine kinases, leading to inhibition of signaling and/or internalization of receptor dimers into the cell. The combination therapy is beneficial for a range of medical disorders, such hyperproliferative disorders (e.g., cancer). The invention provides methods of treating hyperproliferative disorders with a combination of an oligomer and a protein tyrosine kinase inhibitor. 
+

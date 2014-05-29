@@ -1,0 +1,22 @@
+Application number  =>  3151/CHENP/2011 A 
+
+Date of filing of application number  =>  09/05/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  HETEROCYCLIC GAMMA SECRETASE MODULATORS 
+
+Name of applicant  =>  1)F. HOFFMANN-LA ROCHE AG 
+
+Name of inventor  =>  1)BAUMANN, KARLHEINZ 2)GOETSCHI, ERWIN 3)JOLIDON, SYNESE 4)LIMBERG, ANJA 5)LUEBBERS, THOMAS 
+
+International Classification  =>  A61K31/4178, C07D401/12, C07D413/12 
+
+Priority Doc No  =>  08168719.6 
+
+International Application Number  =>  PCT/EP09/064497 
+
+International Publication Number  =>  WO 2010/052199 A1 
+
+Abstract  =>  The invention relates to the use of compounds of formula wherein R1 is a five or six membered heteroaryl group, optionally substituted by one or two R; R is lower alkyl; R2 is hydrogen, lower alkyl, lower alkoxy, hydroxy, halogen or cyano; Z is N, C, O or S; V is N, C(R), O or S; W is N, C(R), O, or S; Y isNorC; with the proviso that only one of Z, V or W may be O or S; R is hydrogen, lower alkyl, lower alkyl substituted by halogen or hydroxy, or is C(O)O-R4; L is a bond, -(CR42)ž-, -C(O)NR4-, -C(O)NR4CH2-, or - C(O)-; R4 may be the same or different and is hydrogen or lower alkyl; R3 is lower alkyl, phenyl, optionally substituted by one or more R or is cycloalkyl; R is halogen, cyano, lower alkyl, lower alkyl substituted by halogen or hydroxy, or is lower lkoxy or is C(O)O-R4; n is 1,2 or 3; or to pharmaceutically active acid addition salts for the manufacture of medicaments for the treatment of Alzheimers disease, cerebral amyloid angiopathy, hereditary cerebral hemorrhage with amyloidosis, Dutch-type (HCHWA-D), multi- infarct dementia, dementia pugilistica or Down syndrome. 
+

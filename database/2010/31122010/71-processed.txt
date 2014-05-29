@@ -1,0 +1,22 @@
+Application number  =>  1489/MUM/2009 A 
+
+Date of filing of application number  =>  23/06/2009 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  INFORMATION SYSTEMS 
+
+Name of applicant  =>  1)TATA CONSULTANCY SERVICES LIMITED 
+
+Name of inventor  =>  1)CHAKRABARTY TANMOY 
+
+International Classification  =>  G06T17/00 
+
+Priority Doc No  =>  NA 
+
+International Application Number  =>   
+
+International Publication Number  =>   
+
+Abstract  =>  A system and method for managing digitization of information in plurality of working environments is provided, the system including an information storage means, input means, file management means, business application means, dashboard means, administrative application supporting means collation means, data management means, workflow means and organization model means. The information is inputted using input means, information is given to knowledge management means for further capture, storage and dissemination. The system also supports file management in plurality of working environments using file management means, business application support by governing functions of a business using business application means. The dashboard means works as central console for various subsystems. All the information is stored in plurality of databases using information storage means. 
+

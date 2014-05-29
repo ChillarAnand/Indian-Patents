@@ -1,0 +1,22 @@
+Application number  =>  946/MUMNP/2012 A 
+
+Date of filing of application number  =>  17/04/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  TOOTH-PROFILE MANAGEMENT SYSTEM FOR SHAVING- CUTTER GRINDING MACHINE 
+
+Name of applicant  =>  1)MITSUBISHI HEAVY INDUSTRIES, LTD. 
+
+Name of inventor  =>  1)YANASE, YOSHIKOTO 2)HAYASHI, RYUZO 
+
+International Classification  =>  B24B 3/12,B23F 19/06 
+
+Priority Doc No  =>  2010-009667 
+
+International Application Number  =>  PCT/JP2010/067505 
+
+International Publication Number  =>  WO/2011/089761 
+
+Abstract  =>  The disclosed system includes a personal computer (10) having correction coefficients (α) for the correction of errors in the tooth profile and correction coefficients (β) for the correction of meshing positions, the correction coefficients being provided for each number of times the shaving cutter has been sharpened and for each shaving-cutter feature. The target tooth-profile data (Do), the tooth-profile error data (∆D) which is the difference between the target tooth-profile data (Do) and the measured tooth-profile data (Dm), and the correction coefficients (α and β) acquired in correspondence with the number of times sharpened and the cutter features are applied to the equation Dcc=Do+α·∆D+β, to find the aimed tooth-profile data (Dcc). Then, the shaving-cutter tooth-profile data (ds) is found from the aimed tooth-profile data (Dcc). Thus, the shaving cutter can be sharpened appropriately, even when the outer diameter and the tooth thickness of the shaving cutter are reduced as a result of sharpening the shaving cutter. 
+

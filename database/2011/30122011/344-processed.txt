@@ -1,0 +1,22 @@
+Application number  =>  996/CHENP/2011 A 
+
+Date of filing of application number  =>  11/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  METHOD AND APPARATUS FOR SELECTING A MULTIMEDIA ITEM 
+
+Name of applicant  =>  1)KONINKLIJKE PHILIPS ELECTRONICS N.V. 
+
+Name of inventor  =>  1)SKOWRONEK Janto 
+
+International Classification  =>  G06F17/30 
+
+Priority Doc No  =>  08160377.1 
+
+International Application Number  =>  PCT/IB2009/053010 
+
+International Publication Number  =>   
+
+Abstract  =>  Multimedia items are selected from a plurality of candidate multimedia items by: determining (201) a plurality of features characterizing a user collection of multimedia items; determining (203) a probability function from said determined features, said probability function having a plurality of maxima, said plurality of maxima indicating the probability that a user prefers an item having the combination of features represented by said maxima; and selecting (209) at least one multimedia item from a plurality of candidate multimedia items on the basis of at least one of said determined maxima. Fig. 2 
+

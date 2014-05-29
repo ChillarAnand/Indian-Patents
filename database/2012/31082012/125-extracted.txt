@@ -1,0 +1,47 @@
+ 
+The Patent Office Journal 31/08/2012 
+13967
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2977/CHENP/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :02/05/2011 (43) Publication Date : 31/08/2012 
+  
+(54) Title of the invention : HEPATITIS C ANTIBODIES AND USES THEREOF  
+  
+(51) International classification  :C07K16/10, A61K39/395  
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date 
+:PCT/US2008/078884
+:05/10/2008 
+(87) International Publication No  :WO 2010/039154 A1 
+(61) Patent of Addition to Application 
+Number  
+        Filing Date 
+:NA 
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA 
+:NA  
+  
+(71)Name of Applicant :  
+   1)THE BOARD OF TRUSTEES OF THE LELAND 
+STANFORD JUNIOR UNIVERSITY  
+      Address of Applicant :1705 E1 CAMINO REAL, PALO 
+ALTO, CALIFORNIA 94306 U.S.A. 
+(72)Name of Inventor : 
+   1)FOUNG, STEVEN 
+   2)KECK, ZHEN-YONG  
+(57) Abstract : 
+The present invention provides identification and characterization of conformational epitopes of the envelope protein E2 of the 
+Hepatitis C virus (HCV). The present invention provides a panel of human monoclonal antibodies that recognize conformational 
+epitopes of E2. The antibodies are derived from patients infected with HCV. The present invention provides methods for utilizing 
+HCV antibodies as therapeutic, diagnostic, and/or prophylactic agents. The present invention provides mimotopes with conformational 
+epitopes intact and methods of using mimotopes. The present invention provides methods of stratifying patients based on their 
+response to HCV. The present invention provides pharmaceutical compositions for prevention and treatment of HCV comprising one 
+or more HCV antibodies. 
+  
+  
+No. of Pages : 188 No. of Claims : 55 

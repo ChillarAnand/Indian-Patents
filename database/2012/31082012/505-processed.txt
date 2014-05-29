@@ -1,0 +1,22 @@
+Application number  =>  431/MUMNP/2012 A 
+
+Date of filing of application number  =>  21/02/2012 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  INTERNAL GEAR MACHINING METHOD AND INTERNAL GEAR MACHINING DEVICE 
+
+Name of applicant  =>  1)MITSUBISHI HEAVY INDUSTRIES, LTD. 
+
+Name of inventor  =>  1)YANASE YOSHIKOTO 2)OCHI, MASASHI 
+
+International Classification  =>  B23F 5/04 
+
+Priority Doc No  =>  2009-192770 
+
+International Application Number  =>  PCT/JP2010/063351 
+
+International Publication Number  =>  WO/2011/024626 
+
+Abstract  =>  Provided are an internal gear machining method and an interna] gear machining device, by which a precise tooth profile grinding can be realized by correcting a tooth profile error when grinding of a tooth profile of an internal gear is performed using a barrel-shaped threaded grinding wheel. An NC device (31) which functions as a tooth profile error correction means in an internal gear grinding machine (internal gear machining device) reduces a measured pressure angle error (∆faL ∆faR) of a workpiece (W) (internal gear) at a tooth face by correcting the radial position/ the lateral position of the grinding wheel, the turning angle of the grinding wheel, and the helical motion; reduces a measured error (∆L) in the direction of a tooth trace of the workpiece (W) at a tooth face by correcting the helical motion; and reduces a measured tooth thickness error (Ath) of the workpiece (W) at a tooth face by correcting the radial position, the lateral position of the grinding wheel, and the helical motion. 
+

@@ -1,0 +1,22 @@
+Application number  =>  2009/MUMNP/2010 A 
+
+Date of filing of application number  =>  23/09/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  METHOD FOR SECURELY STORING A PROGRAMMABLE IDENTIFIER IN A COMMUNICATION STATION 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)FIGUEROA David 2)HUTCHISON James A. 
+
+International Classification  =>  H04L29/06,H04W12/12 
+
+Priority Doc No  =>  12/054,318 
+
+International Application Number  =>  PCT/US2009/038132 
+
+International Publication Number  =>   
+
+Abstract  =>  Disclosed is a method for storing an identifier in a first station having a secure non-volatile data store protected by cryptographic data, an identifier flag for indicating that the identifier has been written to the secure data store, and an authenticated trust agent that prohibits writing of an identifier to the secure data store if the identifier flag is set. In the method, the identifier is written to the secure non-volatile data store, wherein the identifier written to the secure data store is encrypted using the cryptographic data. The identifier flag is irreversibly set after writing the identifier to the secure data store so that the trust agent prohibits another write of an identifier to the secure data store. 
+

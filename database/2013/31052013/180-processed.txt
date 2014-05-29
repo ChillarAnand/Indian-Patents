@@ -1,0 +1,22 @@
+Application number  =>  9969/CHENP/2011 A 
+
+Date of filing of application number  =>  29/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  METHOD&NBSP; COMMUNICATION APPARATUS AND COMMUNICATION SYSTEM FOR HANDOVER PROCESSING 
+
+Name of applicant  =>  1)Huawei Technologies Co. Ltd. 
+
+Name of inventor  =>  1)QIN Yali 
+
+International Classification  =>  H04W 36/00 
+
+Priority Doc No  =>  200910146740.5 
+
+International Application Number  =>  PCT/CN2010/074223 
+
+International Publication Number  =>   
+
+Abstract  =>  A handover processing method communication apparatus and communication system for handover processing are disclosed by the embodiments of the present invention. The handover processing method includes: when a terminal supporting the optimized handover and the non-optimized handover capability needs a handover from a first network to a second network determining whether the terminal is not able to perform the optimized handover in which the authentication and authorization are accomplished before the handover to the second network; if the terminal is determined not able to perform the optimized handover performing the non-optimized handover in which the authentication and authorization are performed after the handover to the second network. A communication apparatus and communication system are also provided correspondingly in the embodiments of the present invention. With the technical schemes in the embodiments of the present invention handover between different networks in more scenarios is enabled. 
+

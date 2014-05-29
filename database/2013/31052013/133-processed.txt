@@ -1,0 +1,22 @@
+Application number  =>  9874/CHENP/2011 A 
+
+Date of filing of application number  =>  28/12/2011 
+
+Publication date  =>  31/05/2013 
+
+Title  =>  COMPRESSION SENSOR GASKET ASSEMBLY AND METHOD OF CONSTRUCTION 
+
+Name of applicant  =>  1)FEDERAL-MOGUL CORPORATION 
+
+Name of inventor  =>  1)TOTH, DAVID 2)TRIPATHY, BHAWANI 3)FRACZ, MARCIN 4)DEFRANCESCHI, DANIELE 
+
+International Classification  =>  F16J15/08 
+
+Priority Doc No  =>  61/182,821 
+
+International Application Number  =>  PCT/US2010/036814 
+
+International Publication Number  =>  WO 2010/141412 A2 
+
+Abstract  =>  A compression sensor gasket assembly and method of construction thereof is provided. The compression sensor gasket assembly includes a gasket body having opposite surfaces extending between an outer periphery and an inner periphery with the inner periphery bounding a through opening. The gasket body has a extending from the outer periphery through the inner periphery and a pressure sensor assembly releasably attached to the gasket body in the passage and being configured to sense pressure within the through opening. The pressure sensor assembly can be removed from the gasket body in service without having to disassemble clamped members from clamped abutment with the gasket assembly. Further, the pressure sensor assembly can be routed over a curved path extending between the outer and inner peripheries to navigate about features that may be present in the gasket body. 
+

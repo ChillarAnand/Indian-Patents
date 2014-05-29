@@ -1,0 +1,22 @@
+Application number  =>  5362/DELNP/2011 A 
+
+Date of filing of application number  =>  12/07/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  DIGITAL STEREO IMAGING PHOTOSENSITIVE DEVICE FOR A GRATING AND A PHOTOSENSITIVE MATERIAL AND ITS METHOD 
+
+Name of applicant  =>  1)SHANGHAI YIYING DIGITAL TECHNOLOGY CO., LTD. 
+
+Name of inventor  =>  1)GU, JINCHANG 
+
+International Classification  =>  G03B 27/52 
+
+Priority Doc No  =>  200810204798.6 
+
+International Application Number  =>  PCT/CN2009/075656 
+
+International Publication Number  =>  WO 2010/069256 
+
+Abstract  =>  A digital stereo imaging photosensitive device for a grating and a photosensitive material, includes: a photosensitive platform (8), connected with a base via a platform moving mechanism; a compressing mechanism (7) mounted on the photosensitive platform, wherein -a grating (5) is positioned on the compressing mechanism; a LCD displayer (2) suspending above the photosensitive platform; and a lens suspending above the photosensitive platform via a lens moving mechanism, wherein the lens is under the LCD displayer. And a method for digital stereo projection. The present invention does not need photosensitive paper after combining the grating and the photosensitive material, is capable of separating the photosensitive material and the grating after projection and sensitization, so that an ordinarily developing device can be used to develop. Furthermore, a double-faced film layer in the photosensitive material and the grating during projection and sensitization is not needed, and the color contract of the stereopictures is better than that of the prior art combining the grating with the photosensitive material before projection. 
+

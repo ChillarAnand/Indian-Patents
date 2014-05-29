@@ -1,0 +1,41 @@
+The Patent Office Journal 31/05/2013 12090
+(12) PATENT APPLICATION PUBLICATION (21) Application No.984/CHENP/2010 A
+(19) INDIA
+(22) Date of filing of Application :22/02/2010 (43) Publication Date : 31/05/2013
+(54) Title of the invention : FLUORINE-CONTAINING ORGANOSULFUR COMPOUND AND PESTICIDAL
+COMPOSITION THEREOF
+(51) International classification
+:C07D213/32,
+A01N43/40,
+A01N43/54
+(31) Priority Document No :2007-217209
+(32) Priority Date :23/08/2007
+(33) Name of priority country :Japan
+(86) International Application No
+Filing Date
+:PCT/JP2008/065471
+:22/08/2008
+(87) International Publication No :WO 2009/025397A1
+(61) Patent of Addition to Application
+Number
+Filing Date
+:NA
+:NA
+(62) Divisional to Application Number
+Filing Date
+:NA
+:NA
+(71)Name of Applicant :
+1)SUMITOMO CHEMICAL COMPANY, LIMITED
+Address of Applicant :27-1, SHINKAWA 2-CHOME,
+CHUO-KU, TOKYO 104-8260 Japan
+(72)Name of Inventor :
+1)KUMAMOTO, KOJI
+2)MIYAZAKI, HIROYUKI
+(57) Abstract :
+There is provided a fluorine-containing organosulfur compound having an excellent control effect on harmful arthropods, which is
+represented by the formula (I): wherein m represents 0 or 1; n represents 0, 1 or 2; A represents an optionally substituted 6-
+membered aromatic heterocyclic group; R1 to R4 are the same or different and represent a hydrogen atom, a C1-C4 chain
+hydrocarbon group optionally substituted with a halogen atom, etc.; and Q represents a C1-C5 haloalkyl group containing at least
+one fluorine atom, or a fluorine atom.
+No. of Pages : 188 No. of Claims : 9

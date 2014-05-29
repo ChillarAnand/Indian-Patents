@@ -1,0 +1,40 @@
+The Patent Office Journal 30/12/2011 
+ 
+25350
+(12) PATENT APPLICATION PUBLICATION (21) Application No.2025/CHE/2011 A 
+(19) INDIA  
+(22) Date of filing of Application :15/06/2011 (43) Publication Date : 30/12/2011 
+  
+(54) Title of the invention : INTERNAL PRESSURE ENGINE  
+  
+(51) International classification  :F01B 
+(31) Priority Document No  :NA 
+(32) Priority Date  :NA 
+(33) Name of priority country  :NA 
+(86) International Application No 
+        Filing Date  
+:NA
+:NA 
+(87) International Publication No  : NA 
+(61) Patent of Addition to Application Number  
+        Filing Date 
+:NA
+:NA 
+(62) Divisional to Application Number 
+        Filing Date 
+:NA
+:NA  
+  
+(71)Name of Applicant :  
+   1)N. RAMESH 
+      Address of Applicant :NO.9, BOSE NAGAR C4TH STREET, 
+PUDUKKOTTAI - 622 001 Tamil Nadu India 
+(72)Name of Inventor : 
+   1)N. RAMESH  
+(57) Abstract : 
+The invention is a hydraulic system. This system input power from electric motor. When it received power, the crank shafts rotate. 
+Top and bottom pressure cylinder created pressure on the crank shaft since the crank shaft are modeled on angle method. So top and 
+bottom cylinder are started to work automatically through the internal pressure now the crank shaft rotate continuously. The created 
+pressure is received as the output power crank shaft. 
+  
+No. of Pages : 17 No. of Claims : 8 

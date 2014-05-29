@@ -1,0 +1,22 @@
+Application number  =>  5359/DELNP/2011 A 
+
+Date of filing of application number  =>  12/07/2011 
+
+Publication date  =>  31/08/2012 
+
+Title  =>  SYSTEM FOR PRODUCING ENERGY THROUGH THE ACTION OF WAVES 
+
+Name of applicant  =>  1)GWAVE LLC 
+
+Name of inventor  =>  1)BEANE GLENN L. 
+
+International Classification  =>  F03B 13/10 
+
+Priority Doc No  =>  12/316,772 
+
+International Application Number  =>  PCT/US2009/059531 
+
+International Publication Number  =>  WO 2010/071706 
+
+Abstract  =>  A system and method for generating energy from the tuning masses relative to a ground plane and an external force In some embodiments the external force is the action of the waves The system has a first mass movable relative to the ground plane, wherein the external force induces an oscillation in the first mass relative to the ground plane A second movable mass is carried by and movable relative to the first movable mass The second movable mass creates kinetic energy as the result of varying the position of the second movable mass relative to the first mass The system adjusts or tunes the frequency of various components in relation to the natural frequency of the waves The second mass can move relative to the first mass by various methods The energy created by the relative motion can be converted to various forms of energy including electrical energy 
+

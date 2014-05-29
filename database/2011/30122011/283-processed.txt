@@ -1,0 +1,22 @@
+Application number  =>  1273/CHENP/2011 A 
+
+Date of filing of application number  =>  23/02/2011 
+
+Publication date  =>  30/12/2011 
+
+Title  =>  SYSTEMS, DEVICES, AND METHODS FOR TRAINING SEQUENCE TRANSMISSION AND RECEPTION 
+
+Name of applicant  =>  1)Research In Motion Limited 
+
+Name of inventor  =>  1)XIN Yan 2)WU Huan 3)QU Shouxing 
+
+International Classification  =>  H04B7/212, H04B7/005 
+
+Priority Doc No  =>  61/089,712 
+
+International Application Number  =>  PCT/CA2009/001149 
+
+International Publication Number  =>   
+
+Abstract  =>  A training sequence helps optimize SNR degradation in a wireless communication. Various sets of training sequences may be stored in a repository, and transmitters and receivers encoded with such sequences transmit at least one of the sequences between them as part of the wireless transmission of data. 
+

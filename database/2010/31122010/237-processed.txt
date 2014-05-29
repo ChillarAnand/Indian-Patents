@@ -1,0 +1,22 @@
+Application number  =>  4201/KOLNP/2010 A 
+
+Date of filing of application number  =>  09/11/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  INKJET RECORDING INK AND IMAGE FORMING METHOD 
+
+Name of applicant  =>  1)RICOH COMPANY, LTD. 
+
+Name of inventor  =>  1)HASEGAWA, SHIN 2)HAKIRI, MINORU 3)NARUSE, MITSURU 4)FUSHIMI, HIROYUKI 
+
+International Classification  =>  C09D 11/00,B41M 5/00 
+
+Priority Doc No  =>  2008-136283 
+
+International Application Number  =>  PCT/JP2009/059831 
+
+International Publication Number  =>  WO 2009/145284 
+
+Abstract  =>  An inkjet recording ink which contains: a carbon black; a dispersant; resin emulsion; and water, in which the resin emulsion contains a resin which is at least one of a urethane resin and a styrene-acryl resin, and the ink satisfies the following relationship: 20 ≤ B-A ≤ 50, where A(nm) represents a particle diameter D90 of particles contained in dispersion containing the carbon black, the dispersant, and water, which is before added with the resin emulsion, and B(nm) represents a particle diameter D90 of particles contained in the ink. 
+

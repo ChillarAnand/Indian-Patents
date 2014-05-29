@@ -1,0 +1,22 @@
+Application number  =>  2005/MUMNP/2010 A 
+
+Date of filing of application number  =>  23/09/2010 
+
+Publication date  =>  31/12/2010 
+
+Title  =>  APPARATUS AND METHODS FOR WIDGET INTERCOMMUNICATION IN A WIRELESS COMMUNICATION ENVIRONMENT 
+
+Name of applicant  =>  1)QUALCOMM INCORPORATED 
+
+Name of inventor  =>  1)CAUNTER Mark Leslie 2)JACKSON Bruce Kelly 3)GEACH Steven Richard 
+
+International Classification  =>  G06F9/44,G06F9/46,H04L29/08 
+
+Priority Doc No  =>  61/039,423 
+
+International Application Number  =>  PCT/US2009/037787 
+
+International Publication Number  =>   
+
+Abstract  =>  The described aspects relate to methods and apparatus for widget intercommunication in a wireless communication environment. In particular the described aspects relate to dynamically exchanging content between application graphical user interface widgets executed on a widget runtime model. 
+
