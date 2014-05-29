@@ -3,9 +3,8 @@ import os
 import string
 import subprocess
 
+
 pdf_files = glob.glob( '/home/anand/git/indian-patents/database/2012/*.pdf' )
-
-
 
 for fileName in pdf_files:
 
